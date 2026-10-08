@@ -1,7 +1,42 @@
-﻿{
-    "version":  1,
-    "published_count":  250,
-    "last_published_id":  "flower_0250",
-    "published_range":  "flower_0001-flower_0250",
-    "generated_at":  "2026-10-08T09:52:33+09:00"
+{
+    "version":  2,
+    "published_count":  1650,
+    "categories":  {
+                       "flower":  {
+                                      "category":  "花",
+                                      "count":  500,
+                                      "last_published_id":  "flower_0500",
+                                      "image_dir":  "images/flower",
+                                      "data_file":  "data/records/flower/flower.json"
+                                  },
+                       "grass":  {
+                                     "category":  "草",
+                                     "count":  500,
+                                     "last_published_id":  "grass_0500",
+                                     "image_dir":  "images/grass",
+                                     "data_file":  "data/records/grass/grass.json"
+                                 },
+                       "tree":  {
+                                    "category":  "木",
+                                    "count":  300,
+                                    "last_published_id":  "tree_0300",
+                                    "image_dir":  "images/tree",
+                                    "data_file":  "data/records/tree/tree.json"
+                                },
+                       "flower_tree":  {
+                                           "category":  "花の木",
+                                           "count":  199,
+                                           "last_published_id":  "flower_tree_0200",
+                                           "image_dir":  "images/flower_tree",
+                                           "data_file":  "data/records/flower_tree/flower_tree.json"
+                                       },
+                       "mushroom":  {
+                                        "category":  "きのこ",
+                                        "count":  151,
+                                        "last_published_id":  "mushroom_0151",
+                                        "image_dir":  "images/mushroom",
+                                        "data_file":  "data/records/mushroom/mushroom.json"
+                                    }
+                   },
+    "generated_at":  "2026-10-09T08:09:22+09:00"
 }
