@@ -1,0 +1,2431 @@
+[
+  {
+    "id": "flower_0201",
+    "category": "花",
+    "display_name": "アカツメクサ",
+    "kana": "アカツメクサ",
+    "search_aliases": [
+      "ムラサキツメクサ",
+      "赤詰草",
+      "紫詰草",
+      "レッドクローバー"
+    ],
+    "family": "マメ科",
+    "genus": "シャジクソウ属",
+    "scientific_name": "Trifolium pratense",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "アカツメクサ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "5〜10月",
+    "fruiting_season": "",
+    "distribution": "ヨーロッパ、西アジア、北西アフリカ原産。日本を含む各地に移入",
+    "habitat": "草地、牧草地、道端",
+    "common_place": "草地、道端、河川敷",
+    "feature_summary": "紅紫色の小さな蝶形花が丸く集まります。茎は立ち上がり、3枚の小葉には白い模様が見られます。",
+    "trivia": "牧草や緑肥として利用されてきました。シロツメクサより花が大きく、花のすぐ下に葉がつきます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "マメ目",
+      "family": "マメ科",
+      "genus": "シャジクソウ属",
+      "species": "Trifolium pratense"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD%E3%83%84%E3%83%A1%E3%82%AF%E3%82%B5",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD%E3%83%84%E3%83%A1%E3%82%AF%E3%82%B5"
+    ],
+    "image": {
+      "author": "Tom Norton",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/55619862",
+      "image_path": "images/0201_0250/flower_0201.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0202",
+    "category": "花",
+    "display_name": "カタバミ",
+    "kana": "カタバミ",
+    "search_aliases": [
+      "片喰",
+      "酢漿草"
+    ],
+    "family": "カタバミ科",
+    "genus": "カタバミ属",
+    "scientific_name": "Oxalis corniculata",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "カタバミ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "4〜10月",
+    "fruiting_season": "",
+    "distribution": "日本全土を含む世界各地",
+    "habitat": "畑、庭、道端、空き地",
+    "common_place": "道端、庭、空き地",
+    "feature_summary": "ハート形の小葉3枚と黄色い5弁花が特徴です。茎を地面に広げ、熟した細長い果実から種子を飛ばします。",
+    "trivia": "葉は夜に閉じます。ヤマトシジミの幼虫が食草として利用します。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "カタバミ目",
+      "family": "カタバミ科",
+      "genus": "カタバミ属",
+      "species": "Oxalis corniculata"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%90%E3%83%9F",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%90%E3%83%9F"
+    ],
+    "image": {
+      "author": "jacinta lluch valero",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://www.inaturalist.org/photos/279196",
+      "image_path": "images/0201_0250/flower_0202.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0203",
+    "category": "花",
+    "display_name": "ムラサキカタバミ",
+    "kana": "ムラサキカタバミ",
+    "search_aliases": [
+      "紫片喰",
+      "紫酢漿草",
+      "Oxalis debilis subsp. corymbosa"
+    ],
+    "family": "カタバミ科",
+    "genus": "カタバミ属",
+    "scientific_name": "Oxalis debilis",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ムラサキカタバミ",
+    "entity_type": "種",
+    "life_form": "球根性多年草",
+    "flowering_season": "4〜10月",
+    "fruiting_season": "",
+    "distribution": "南アメリカ原産。日本各地に帰化",
+    "habitat": "庭、畑、道端、芝地",
+    "common_place": "道端、庭、畑",
+    "feature_summary": "根元から三出複葉と花柄を伸ばし、桃色の花を数輪つけます。花の中心は白っぽく、葉裏に黄色い腺点があります。",
+    "trivia": "日本では地下の小さな子球による栄養繁殖で広がることが多い植物です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "カタバミ目",
+      "family": "カタバミ科",
+      "genus": "カタバミ属",
+      "species": "Oxalis debilis"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD%E3%82%AB%E3%82%BF%E3%83%90%E3%83%9F",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD%E3%82%AB%E3%82%BF%E3%83%90%E3%83%9F"
+    ],
+    "image": {
+      "author": "no rights reserved, uploaded by 葉子",
+      "license": "CC0",
+      "source_url": "https://www.inaturalist.org/photos/62296833",
+      "image_path": "images/0201_0250/flower_0203.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0204",
+    "category": "花",
+    "display_name": "イモカタバミ",
+    "kana": "イモカタバミ",
+    "search_aliases": [
+      "芋片喰",
+      "フシネハナカタバミ",
+      "Oxalis articulata subsp. rubra"
+    ],
+    "family": "カタバミ科",
+    "genus": "カタバミ属",
+    "scientific_name": "Oxalis articulata",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "イモカタバミ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "4〜11月",
+    "fruiting_season": "",
+    "distribution": "南アメリカ原産。日本で栽培され、一部帰化",
+    "habitat": "庭、花壇、道端",
+    "common_place": "道端、庭、花壇",
+    "feature_summary": "三出複葉の上に桃色の5弁花を咲かせます。地下には節のある塊茎ができ、春と秋を中心に花が見られます。",
+    "trivia": "フシネハナカタバミとも呼ばれ、地下の塊茎が連なる姿がその名の由来です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "カタバミ目",
+      "family": "カタバミ科",
+      "genus": "カタバミ属",
+      "species": "Oxalis articulata"
+    },
+    "classification_note": "Oxalis articulata subsp. rubra とする資料もある。広義の O. articulata として整理",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A2%E3%82%AB%E3%82%BF%E3%83%90%E3%83%9F",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A2%E3%82%AB%E3%82%BF%E3%83%90%E3%83%9F"
+    ],
+    "image": {
+      "author": "Didier Descouens",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:(MHNT)_Oxalis_articulata_-_Flowers.jpg",
+      "image_path": "images/0201_0250/flower_0204.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0205",
+    "category": "花",
+    "display_name": "オオキバナカタバミ",
+    "kana": "オオキバナカタバミ",
+    "search_aliases": [
+      "大黄花片喰",
+      "キイロハナカタバミ"
+    ],
+    "family": "カタバミ科",
+    "genus": "カタバミ属",
+    "scientific_name": "Oxalis pes-caprae",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "オオキバナカタバミ",
+    "entity_type": "種",
+    "life_form": "球根性多年草",
+    "flowering_season": "2〜5月",
+    "fruiting_season": "",
+    "distribution": "南アフリカ原産。日本の暖地などに帰化",
+    "habitat": "日当たりのよい草地、道端",
+    "common_place": "道端、草地、海岸近く",
+    "feature_summary": "春先に鮮やかな黄色い大きめの花をまとめて咲かせます。ハート形の小葉に紫褐色の斑点が見られます。",
+    "trivia": "地下にできる子球で増え、土の移動に伴って広がることがあります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "カタバミ目",
+      "family": "カタバミ科",
+      "genus": "カタバミ属",
+      "species": "Oxalis pes-caprae"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%AD%E3%83%90%E3%83%8A%E3%82%AB%E3%82%BF%E3%83%90%E3%83%9F",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%AD%E3%83%90%E3%83%8A%E3%82%AB%E3%82%BF%E3%83%90%E3%83%9F"
+    ],
+    "image": {
+      "author": "portioid",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/454705867",
+      "image_path": "images/0201_0250/flower_0205.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0206",
+    "category": "花",
+    "display_name": "オオイヌノフグリ",
+    "kana": "オオイヌノフグリ",
+    "search_aliases": [
+      "大犬の陰嚢"
+    ],
+    "family": "オオバコ科",
+    "genus": "クワガタソウ属",
+    "scientific_name": "Veronica persica",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "オオイヌノフグリ",
+    "entity_type": "種",
+    "life_form": "越年草",
+    "flowering_season": "2〜5月",
+    "fruiting_season": "",
+    "distribution": "西アジアからヨーロッパ付近原産とされ、日本各地に帰化",
+    "habitat": "日当たりのよい道端、畑、空き地",
+    "common_place": "道端、畑、空き地",
+    "feature_summary": "早春に青い小花を葉のわきへ1個ずつつけます。花冠は4つに深く裂け、茎は地面を這うように広がります。",
+    "trivia": "明治時代に日本で記録された帰化植物で、現在は身近な春の花です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "シソ目",
+      "family": "オオバコ科",
+      "genus": "クワガタソウ属",
+      "species": "Veronica persica"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%A4%E3%83%8C%E3%83%8E%E3%83%95%E3%82%B0%E3%83%AA",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%A4%E3%83%8C%E3%83%8E%E3%83%95%E3%82%B0%E3%83%AA"
+    ],
+    "image": {
+      "author": "Douglas Goldman",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://www.inaturalist.org/photos/114006721",
+      "image_path": "images/0201_0250/flower_0206.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0207",
+    "category": "花",
+    "display_name": "イヌノフグリ",
+    "kana": "イヌノフグリ",
+    "search_aliases": [
+      "犬の陰嚢",
+      "ヒョウタングサ"
+    ],
+    "family": "オオバコ科",
+    "genus": "クワガタソウ属",
+    "scientific_name": "Veronica polita var. lilacina",
+    "taxon_id": null,
+    "taxon_rank": "variety",
+    "matched_common_name": "イヌノフグリ",
+    "entity_type": "変種",
+    "life_form": "越年草",
+    "flowering_season": "2〜4月",
+    "fruiting_season": "",
+    "distribution": "東アジア。日本では本州中部以南",
+    "habitat": "畑のあぜ、道端、石垣",
+    "common_place": "道端、石垣、畑",
+    "feature_summary": "淡桃色のごく小さな花に紅紫色の筋が入ります。茎は低く這い、花後に丸い2つの部分からなる果実をつけます。",
+    "trivia": "オオイヌノフグリとは別の在来植物です。ヒョウタングサの別名も果実の形に由来します。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "シソ目",
+      "family": "オオバコ科",
+      "genus": "クワガタソウ属",
+      "species": "Veronica polita var. lilacina"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8C%E3%83%8E%E3%83%95%E3%82%B0%E3%83%AA",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8C%E3%83%8E%E3%83%95%E3%82%B0%E3%83%AA"
+    ],
+    "image": {
+      "author": "Zinogre",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://www.inaturalist.org/photos/121310802",
+      "image_path": "images/0201_0250/flower_0207.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0208",
+    "category": "花",
+    "display_name": "ヒメオドリコソウ",
+    "kana": "ヒメオドリコソウ",
+    "search_aliases": [
+      "姫踊子草",
+      "姫踊り子草"
+    ],
+    "family": "シソ科",
+    "genus": "オドリコソウ属",
+    "scientific_name": "Lamium purpureum",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ヒメオドリコソウ",
+    "entity_type": "種",
+    "life_form": "越年草",
+    "flowering_season": "2〜5月",
+    "fruiting_season": "",
+    "distribution": "ヨーロッパ周辺原産。日本の北海道から九州などに帰化",
+    "habitat": "畑、道端、空き地、河岸",
+    "common_place": "道端、畑、空き地",
+    "feature_summary": "三角形に近い葉が向かい合ってつき、上部の葉は赤紫色を帯びます。葉のわきに淡紅紫色の唇形花を咲かせます。",
+    "trivia": "オドリコソウに似て小さいことが名前の由来です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "シソ目",
+      "family": "シソ科",
+      "genus": "オドリコソウ属",
+      "species": "Lamium purpureum"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%82%AA%E3%83%89%E3%83%AA%E3%82%B3%E3%82%BD%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%82%AA%E3%83%89%E3%83%AA%E3%82%B3%E3%82%BD%E3%82%A6"
+    ],
+    "image": {
+      "author": "Douglas Goldman",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://www.inaturalist.org/photos/186382202",
+      "image_path": "images/0201_0250/flower_0208.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0209",
+    "category": "花",
+    "display_name": "ホトケノザ",
+    "kana": "ホトケノザ",
+    "search_aliases": [
+      "仏の座",
+      "サンガイグサ",
+      "三階草"
+    ],
+    "family": "シソ科",
+    "genus": "オドリコソウ属",
+    "scientific_name": "Lamium amplexicaule",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ホトケノザ",
+    "entity_type": "種",
+    "life_form": "一年草または越年草",
+    "flowering_season": "2〜6月",
+    "fruiting_season": "",
+    "distribution": "アジア、ヨーロッパ、北アフリカなど。日本では本州以南など",
+    "habitat": "畑、あぜ、道端、空き地",
+    "common_place": "畑、道端、空き地",
+    "feature_summary": "上部の丸い葉が茎を抱き、その上に紅紫色の細長い唇形花をつけます。葉が段状に並ぶ姿が特徴です。",
+    "trivia": "春の七草の「ほとけのざ」は、本種ではなくキク科のコオニタビラコを指します。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "シソ目",
+      "family": "シソ科",
+      "genus": "オドリコソウ属",
+      "species": "Lamium amplexicaule"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%88%E3%82%B1%E3%83%8E%E3%82%B6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%88%E3%82%B1%E3%83%8E%E3%82%B6"
+    ],
+    "image": {
+      "author": "Kostas Zontanos",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/11134243",
+      "image_path": "images/0201_0250/flower_0209.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0210",
+    "category": "花",
+    "display_name": "ナズナ",
+    "kana": "ナズナ",
+    "search_aliases": [
+      "薺",
+      "ペンペングサ",
+      "シャミセングサ"
+    ],
+    "family": "アブラナ科",
+    "genus": "ナズナ属",
+    "scientific_name": "Capsella bursa-pastoris",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ナズナ",
+    "entity_type": "種",
+    "life_form": "越年草",
+    "flowering_season": "2〜6月",
+    "fruiting_season": "",
+    "distribution": "北半球に広く分布。日本の北海道から九州など",
+    "habitat": "日当たりのよい畑、道端、荒れ地",
+    "common_place": "道端、畑、空き地",
+    "feature_summary": "白い小さな4弁花を咲かせ、花の下に三角形の果実が並びます。冬は葉を地面に広げたロゼットになります。",
+    "trivia": "果実の形を三味線のばちに見立て、ペンペングサとも呼ばれます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "アブラナ目",
+      "family": "アブラナ科",
+      "genus": "ナズナ属",
+      "species": "Capsella bursa-pastoris"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%BA%E3%83%8A",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%BA%E3%83%8A"
+    ],
+    "image": {
+      "author": "Javier Sánchez Álvarez",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/175497435",
+      "image_path": "images/0201_0250/flower_0210.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0211",
+    "category": "花",
+    "display_name": "ハコベ",
+    "kana": "ハコベ",
+    "search_aliases": [
+      "繁縷",
+      "ハコベラ",
+      "はこべら"
+    ],
+    "family": "ナデシコ科",
+    "genus": "ハコベ属",
+    "scientific_name": "Stellaria",
+    "taxon_id": null,
+    "taxon_rank": "genus",
+    "matched_common_name": "ハコベ",
+    "entity_type": "属内の種群",
+    "life_form": "一年草または越年草を中心とする種群",
+    "flowering_season": "2〜6月",
+    "fruiting_season": "",
+    "distribution": "コハコベやミドリハコベは日本各地などに分布",
+    "habitat": "庭、畑、道端、野原",
+    "common_place": "畑、庭、道端",
+    "feature_summary": "身近なハコベ類は卵形の葉を対生させ、白い小花を咲かせます。5枚の花弁が深く裂け、10枚あるように見えます。",
+    "trivia": "一般にコハコベとミドリハコベなどを含む呼び名で、春の七草の「はこべら」です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "ナデシコ目",
+      "family": "ナデシコ科",
+      "genus": "ハコベ属",
+      "species": ""
+    },
+    "classification_note": "一般的なハコベの呼称は複数種を含むため、単一種に固定しない。主にコハコベ・ミドリハコベを対象",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%B3%E3%83%99",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%B3%E3%83%99"
+    ],
+    "image": {
+      "author": "Douglas Goldman",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://www.inaturalist.org/photos/119633509",
+      "image_path": "images/0201_0250/flower_0211.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0212",
+    "category": "花",
+    "display_name": "ムラサキサギゴケ",
+    "kana": "ムラサキサギゴケ",
+    "search_aliases": [
+      "紫鷺苔",
+      "サギゴケ",
+      "鷺苔"
+    ],
+    "family": "サギゴケ科",
+    "genus": "サギゴケ属",
+    "scientific_name": "Mazus miquelii",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ムラサキサギゴケ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "4〜6月",
+    "fruiting_season": "",
+    "distribution": "日本の本州、四国、九州",
+    "habitat": "湿った草地、水田のあぜ",
+    "common_place": "田のあぜ、湿った草地",
+    "feature_summary": "匍匐茎を伸ばして広がり、春に紫色の唇形花を咲かせます。下唇には黄褐色の模様と細かな毛があります。",
+    "trivia": "花の形を飛ぶサギに、地面を覆う姿を苔に見立てた名前です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "シソ目",
+      "family": "サギゴケ科",
+      "genus": "サギゴケ属",
+      "species": "Mazus miquelii"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD%E3%82%B5%E3%82%AE%E3%82%B4%E3%82%B1",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD%E3%82%B5%E3%82%AE%E3%82%B4%E3%82%B1"
+    ],
+    "image": {
+      "author": "SB Johnny",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mazus_flowers_closeup_8501.JPG",
+      "image_path": "images/0201_0250/flower_0212.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0213",
+    "category": "花",
+    "display_name": "トキワハゼ",
+    "kana": "トキワハゼ",
+    "search_aliases": [
+      "常磐爆"
+    ],
+    "family": "サギゴケ科",
+    "genus": "サギゴケ属",
+    "scientific_name": "Mazus pumilus",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "トキワハゼ",
+    "entity_type": "種",
+    "life_form": "一年草",
+    "flowering_season": "4〜11月",
+    "fruiting_season": "",
+    "distribution": "日本各地",
+    "habitat": "畑、庭、道端",
+    "common_place": "道端、庭、畑",
+    "feature_summary": "淡紫色の小さな唇形花を長い期間つけます。ムラサキサギゴケに似ますが、匍匐茎を伸ばしません。",
+    "trivia": "葉が長く残ることと、熟した果実がはぜることが名前の由来です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "シソ目",
+      "family": "サギゴケ科",
+      "genus": "サギゴケ属",
+      "species": "Mazus pumilus"
+    },
+    "classification_note": "サギゴケ科を採用。出典記事のハエドクソウ科はサギゴケ類を含める旧来の扱い",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%AD%E3%83%AF%E3%83%8F%E3%82%BC",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%AD%E3%83%AF%E3%83%8F%E3%82%BC"
+    ],
+    "image": {
+      "author": "no rights reserved, uploaded by 葉子",
+      "license": "CC0",
+      "source_url": "https://www.inaturalist.org/photos/139678520",
+      "image_path": "images/0201_0250/flower_0213.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0214",
+    "category": "花",
+    "display_name": "カラスノエンドウ",
+    "kana": "カラスノエンドウ",
+    "search_aliases": [
+      "烏野豌豆",
+      "ヤハズエンドウ",
+      "矢筈豌豆",
+      "ピーピーグサ",
+      "Vicia angustifolia"
+    ],
+    "family": "マメ科",
+    "genus": "ソラマメ属",
+    "scientific_name": "Vicia sativa subsp. nigra",
+    "taxon_id": null,
+    "taxon_rank": "subspecies",
+    "matched_common_name": "カラスノエンドウ",
+    "entity_type": "亜種",
+    "life_form": "つる性一年草または越年草",
+    "flowering_season": "3〜6月",
+    "fruiting_season": "",
+    "distribution": "日本の本州、四国、九州、沖縄など",
+    "habitat": "草地、道端、畑、土手",
+    "common_place": "道端、草地、畑",
+    "feature_summary": "巻きひげのある複葉をつけ、春に紅紫色の蝶形花を咲かせます。細長いさやは熟すと黒っぽくなります。",
+    "trivia": "標準和名はヤハズエンドウ。豆を除いたさやを笛にする遊びから、ピーピーグサとも呼ばれます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "マメ目",
+      "family": "マメ科",
+      "genus": "ソラマメ属",
+      "species": "Vicia sativa subsp. nigra"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%B9%E3%83%8E%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%B9%E3%83%8E%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A6"
+    ],
+    "image": {
+      "author": "Meghan Cassidy",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://www.inaturalist.org/photos/11909041",
+      "image_path": "images/0201_0250/flower_0214.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0215",
+    "category": "花",
+    "display_name": "スズメノエンドウ",
+    "kana": "スズメノエンドウ",
+    "search_aliases": [
+      "雀野豌豆",
+      "イヌノエンドウ"
+    ],
+    "family": "マメ科",
+    "genus": "ソラマメ属",
+    "scientific_name": "Vicia hirsuta",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "スズメノエンドウ",
+    "entity_type": "種",
+    "life_form": "つる性越年草",
+    "flowering_season": "4〜6月",
+    "fruiting_season": "",
+    "distribution": "日本など",
+    "habitat": "田畑、道端、空き地",
+    "common_place": "道端、草地、畑",
+    "feature_summary": "カラスノエンドウに似たつる性の草で、ごく小さな花を房状につけます。巻きひげで周囲の植物に絡みます。",
+    "trivia": "カラスノエンドウより小型なことを鳥の大きさに見立て、スズメの名が付いています。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "マメ目",
+      "family": "マメ科",
+      "genus": "ソラマメ属",
+      "species": "Vicia hirsuta"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BA%E3%83%A1%E3%83%8E%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BA%E3%83%A1%E3%83%8E%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A6"
+    ],
+    "image": {
+      "author": "Алёна Осипова",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/428606051",
+      "image_path": "images/0201_0250/flower_0215.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0216",
+    "category": "花",
+    "display_name": "キュウリグサ",
+    "kana": "キュウリグサ",
+    "search_aliases": [
+      "胡瓜草",
+      "タビラコ"
+    ],
+    "family": "ムラサキ科",
+    "genus": "キュウリグサ属",
+    "scientific_name": "Trigonotis peduncularis",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "キュウリグサ",
+    "entity_type": "種",
+    "life_form": "越年草",
+    "flowering_season": "3〜5月",
+    "fruiting_season": "",
+    "distribution": "日本全土",
+    "habitat": "畑、道端、庭の隅",
+    "common_place": "道端、畑、庭",
+    "feature_summary": "春に淡青色のごく小さな花を咲かせます。巻いた花序が伸びながら順に開花し、茎葉には細かな毛があります。",
+    "trivia": "葉をもむとキュウリに似た香りがすることが名前の由来です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "ムラサキ目",
+      "family": "ムラサキ科",
+      "genus": "キュウリグサ属",
+      "species": "Trigonotis peduncularis"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%82%A6%E3%83%AA%E3%82%B0%E3%82%B5",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%82%A6%E3%83%AA%E3%82%B0%E3%82%B5"
+    ],
+    "image": {
+      "author": "no rights reserved",
+      "license": "CC0",
+      "source_url": "https://www.inaturalist.org/photos/35248971",
+      "image_path": "images/0201_0250/flower_0216.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0217",
+    "category": "花",
+    "display_name": "ハルジオン",
+    "kana": "ハルジオン",
+    "search_aliases": [
+      "春紫苑",
+      "ハルジョオン"
+    ],
+    "family": "キク科",
+    "genus": "ムカシヨモギ属",
+    "scientific_name": "Erigeron philadelphicus",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ハルジオン",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "4〜6月",
+    "fruiting_season": "",
+    "distribution": "北アメリカ原産。日本の北海道から九州などに帰化",
+    "habitat": "日当たりのよい道端、空き地、草地",
+    "common_place": "道端、空き地、草地",
+    "feature_summary": "春に白から淡桃色の細い舌状花が並ぶ頭花を咲かせます。茎につく葉の基部は茎を抱きます。",
+    "trivia": "名は春に咲くシオンにちなみますが、シオンとは別属です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キク目",
+      "family": "キク科",
+      "genus": "ムカシヨモギ属",
+      "species": "Erigeron philadelphicus"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3"
+    ],
+    "image": {
+      "author": "no rights reserved",
+      "license": "CC0",
+      "source_url": "https://www.inaturalist.org/photos/398631845",
+      "image_path": "images/0201_0250/flower_0217.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0218",
+    "category": "花",
+    "display_name": "ヒメジョオン",
+    "kana": "ヒメジョオン",
+    "search_aliases": [
+      "姫女苑",
+      "ヤナギバヒメギク",
+      "テツドウグサ"
+    ],
+    "family": "キク科",
+    "genus": "ムカシヨモギ属",
+    "scientific_name": "Erigeron annuus",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ヒメジョオン",
+    "entity_type": "種",
+    "life_form": "一年草または越年草",
+    "flowering_season": "5〜10月",
+    "fruiting_season": "",
+    "distribution": "北アメリカ原産。日本各地などに帰化",
+    "habitat": "道端、空き地、農地周辺",
+    "common_place": "道端、空き地、草地",
+    "feature_summary": "白い舌状花と黄色い中心部をもつ頭花を多数咲かせます。ハルジオンによく似た身近な野草です。",
+    "trivia": "鉄道沿いに広がったことから、鉄道草と呼ばれたこともあります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キク目",
+      "family": "キク科",
+      "genus": "ムカシヨモギ属",
+      "species": "Erigeron annuus"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%82%B8%E3%83%A7%E3%82%AA%E3%83%B3",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%82%B8%E3%83%A7%E3%82%AA%E3%83%B3"
+    ],
+    "image": {
+      "author": "Michael J. Papay",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/210406662",
+      "image_path": "images/0201_0250/flower_0218.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0219",
+    "category": "花",
+    "display_name": "オニタビラコ",
+    "kana": "オニタビラコ",
+    "search_aliases": [
+      "鬼田平子"
+    ],
+    "family": "キク科",
+    "genus": "オニタビラコ属",
+    "scientific_name": "Youngia japonica",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "オニタビラコ",
+    "entity_type": "種",
+    "life_form": "越年草",
+    "flowering_season": "4〜10月",
+    "fruiting_season": "",
+    "distribution": "日本全土、中国、インド、オーストラリアなど",
+    "habitat": "庭、道端、石垣周辺",
+    "common_place": "道端、庭、石垣",
+    "feature_summary": "根元に葉を広げ、細く立つ茎が上部で枝分かれして小さな黄色い頭花を多数つけます。果実には白い冠毛があります。",
+    "trivia": "コオニタビラコとは別属で、より背が高く、花後の冠毛でも見分けられます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キク目",
+      "family": "キク科",
+      "genus": "オニタビラコ属",
+      "species": "Youngia japonica"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%82%BF%E3%83%93%E3%83%A9%E3%82%B3",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%82%BF%E3%83%93%E3%83%A9%E3%82%B3"
+    ],
+    "image": {
+      "author": "no rights reserved",
+      "license": "CC0",
+      "source_url": "https://www.inaturalist.org/photos/481063114",
+      "image_path": "images/0201_0250/flower_0219.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0220",
+    "category": "花",
+    "display_name": "コオニタビラコ",
+    "kana": "コオニタビラコ",
+    "search_aliases": [
+      "小鬼田平子",
+      "タビラコ",
+      "ほとけのざ"
+    ],
+    "family": "キク科",
+    "genus": "ヤブタビラコ属",
+    "scientific_name": "Lapsanastrum apogonoides",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "コオニタビラコ",
+    "entity_type": "種",
+    "life_form": "越年草",
+    "flowering_season": "3〜5月",
+    "fruiting_season": "",
+    "distribution": "日本など",
+    "habitat": "水田、あぜ、湿った草地",
+    "common_place": "田んぼ、湿った畑、草地",
+    "feature_summary": "地面に葉を広げ、低い花茎の先に黄色い小さな頭花をつけます。花後の果実には冠毛がありません。",
+    "trivia": "春の七草の「ほとけのざ」はこの植物で、シソ科のホトケノザとは別です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キク目",
+      "family": "キク科",
+      "genus": "ヤブタビラコ属",
+      "species": "Lapsanastrum apogonoides"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AA%E3%83%8B%E3%82%BF%E3%83%93%E3%83%A9%E3%82%B3",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AA%E3%83%8B%E3%82%BF%E3%83%93%E3%83%A9%E3%82%B3"
+    ],
+    "image": {
+      "author": "Cheng-Te Hsu",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/466574602",
+      "image_path": "images/0201_0250/flower_0220.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0221",
+    "category": "花",
+    "display_name": "ノゲシ",
+    "kana": "ノゲシ",
+    "search_aliases": [
+      "野芥子",
+      "ハルノノゲシ",
+      "ケシアザミ"
+    ],
+    "family": "キク科",
+    "genus": "ノゲシ属",
+    "scientific_name": "Sonchus oleraceus",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ノゲシ",
+    "entity_type": "種",
+    "life_form": "越年草",
+    "flowering_season": "3〜10月",
+    "fruiting_season": "",
+    "distribution": "世界各地。日本各地にも分布",
+    "habitat": "道端、畑、荒れ地、土手",
+    "common_place": "道端、畑、空き地",
+    "feature_summary": "切れ込みのある葉をつけ、黄色い頭花を咲かせます。葉のとげ状の縁は比較的柔らかく、茎葉から白い乳液が出ます。",
+    "trivia": "ケシに葉が似ることが名前の由来ですが、分類はキク科です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キク目",
+      "family": "キク科",
+      "genus": "ノゲシ属",
+      "species": "Sonchus oleraceus"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B2%E3%82%B7",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B2%E3%82%B7"
+    ],
+    "image": {
+      "author": "Gavin Slater",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/202120314",
+      "image_path": "images/0201_0250/flower_0221.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0222",
+    "category": "花",
+    "display_name": "オニノゲシ",
+    "kana": "オニノゲシ",
+    "search_aliases": [
+      "鬼野芥子"
+    ],
+    "family": "キク科",
+    "genus": "ノゲシ属",
+    "scientific_name": "Sonchus asper",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "オニノゲシ",
+    "entity_type": "種",
+    "life_form": "一年草または越年草",
+    "flowering_season": "3〜10月",
+    "fruiting_season": "",
+    "distribution": "ヨーロッパ原産。日本を含む世界各地に帰化",
+    "habitat": "道端、畑、空き地",
+    "common_place": "道端、空き地、畑",
+    "feature_summary": "黄色い頭花を咲かせ、葉には硬いとげ状の鋸歯があります。葉は濃緑色で光沢があり、基部の丸い裂片が茎を抱きます。",
+    "trivia": "ノゲシとの識別には、葉の硬さ・光沢と、茎を抱く葉の基部の形が役立ちます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キク目",
+      "family": "キク科",
+      "genus": "ノゲシ属",
+      "species": "Sonchus asper"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%83%8E%E3%82%B2%E3%82%B7",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%83%8E%E3%82%B2%E3%82%B7"
+    ],
+    "image": {
+      "author": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/261760280",
+      "image_path": "images/0201_0250/flower_0222.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0223",
+    "category": "花",
+    "display_name": "ブタナ",
+    "kana": "ブタナ",
+    "search_aliases": [
+      "豚菜",
+      "タンポポモドキ"
+    ],
+    "family": "キク科",
+    "genus": "エゾコウゾリナ属",
+    "scientific_name": "Hypochaeris radicata",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ブタナ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "5〜10月",
+    "fruiting_season": "",
+    "distribution": "ヨーロッパ原産。日本各地などに帰化",
+    "habitat": "芝地、道端、空き地、牧草地",
+    "common_place": "芝生、道端、空き地",
+    "feature_summary": "毛の多い葉を地面に広げ、葉の少ない花茎が途中で枝分かれして黄色い頭花をつけます。タンポポに似ます。",
+    "trivia": "ブタナの名は、フランスでの「豚のサラダ」という俗名を訳したものです。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キク目",
+      "family": "キク科",
+      "genus": "エゾコウゾリナ属",
+      "species": "Hypochaeris radicata"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%BF%E3%83%8A",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%BF%E3%83%8A"
+    ],
+    "image": {
+      "author": "AnemoneProjectors (talk)",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cat%27s-ear_(Hypochaeris_radicata).jpg",
+      "image_path": "images/0201_0250/flower_0223.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0224",
+    "category": "花",
+    "display_name": "コウゾリナ",
+    "kana": "コウゾリナ",
+    "search_aliases": [
+      "顔剃菜",
+      "剃刀菜",
+      "カオソリナ",
+      "Picris hieracioides var. japonica"
+    ],
+    "family": "キク科",
+    "genus": "コウゾリナ属",
+    "scientific_name": "Picris hieracioides subsp. japonica",
+    "taxon_id": null,
+    "taxon_rank": "subspecies",
+    "matched_common_name": "コウゾリナ",
+    "entity_type": "亜種",
+    "life_form": "越年草または多年草",
+    "flowering_season": "5〜10月",
+    "fruiting_season": "",
+    "distribution": "日本の北海道から九州など",
+    "habitat": "日当たりのよい山野、草地、道端",
+    "common_place": "道端、草地、山野",
+    "feature_summary": "茎葉に硬い毛が多く、触るとざらつきます。枝分かれした茎の先に黄色い頭花を咲かせます。",
+    "trivia": "顔のひげや、ひげを剃る感触にちなむ名前とされます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キク目",
+      "family": "キク科",
+      "genus": "コウゾリナ属",
+      "species": "Picris hieracioides subsp. japonica"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A6%E3%82%BE%E3%83%AA%E3%83%8A",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A6%E3%82%BE%E3%83%AA%E3%83%8A"
+    ],
+    "image": {
+      "author": "Gilles San Martin",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://www.inaturalist.org/photos/92718154",
+      "image_path": "images/0201_0250/flower_0224.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0225",
+    "category": "花",
+    "display_name": "ジシバリ",
+    "kana": "ジシバリ",
+    "search_aliases": [
+      "地縛り",
+      "イワニガナ",
+      "岩苦菜"
+    ],
+    "family": "キク科",
+    "genus": "ノニガナ属",
+    "scientific_name": "Ixeris stolonifera",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ジシバリ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "4〜7月",
+    "fruiting_season": "",
+    "distribution": "日本全国、朝鮮半島、中国",
+    "habitat": "日当たりのよい山野、田畑、草地",
+    "common_place": "道端、田のあぜ、草地",
+    "feature_summary": "卵形の葉に長い柄があり、春から初夏に黄色い頭花を咲かせます。地面を這う茎を伸ばして広がります。",
+    "trivia": "地面を縛るように広がる姿からジシバリとも呼ばれます。標準和名はイワニガナです。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キク目",
+      "family": "キク科",
+      "genus": "ノニガナ属",
+      "species": "Ixeris stolonifera"
+    },
+    "classification_note": "Ixeris の属和名は資料によりニガナ属・ノニガナ属などの違いがある",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AF%E3%83%8B%E3%82%AC%E3%83%8A",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AF%E3%83%8B%E3%82%AC%E3%83%8A"
+    ],
+    "image": {
+      "author": "WATANABE Hitoshi 渡辺仁",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/363656769",
+      "image_path": "images/0201_0250/flower_0225.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0226",
+    "category": "花",
+    "display_name": "オオジシバリ",
+    "kana": "オオジシバリ",
+    "search_aliases": [
+      "大地縛り",
+      "Ixeris debilis"
+    ],
+    "family": "キク科",
+    "genus": "ノニガナ属",
+    "scientific_name": "Ixeris japonica",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "オオジシバリ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "4〜7月",
+    "fruiting_season": "",
+    "distribution": "日本の北海道西南部から琉球、朝鮮半島、台湾、中国",
+    "habitat": "草地、海浜、あぜ、道端",
+    "common_place": "田のあぜ、湿った草地、道端",
+    "feature_summary": "細長い匙形の葉をつけ、地中を這う茎で広がります。黄色い頭花はジシバリより大きめです。",
+    "trivia": "琉球列島ではハマニガナとの交雑が知られ、分類が複雑な集団もあります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キク目",
+      "family": "キク科",
+      "genus": "ノニガナ属",
+      "species": "Ixeris japonica"
+    },
+    "classification_note": "Ixeris debilis の学名が使われる資料もある。出典記事に合わせ I. japonica を採用",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%B8%E3%82%B7%E3%83%90%E3%83%AA",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%B8%E3%82%B7%E3%83%90%E3%83%AA"
+    ],
+    "image": {
+      "author": "no rights reserved, uploaded by 葉子",
+      "license": "CC0",
+      "source_url": "https://www.inaturalist.org/photos/33349411",
+      "image_path": "images/0201_0250/flower_0226.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0227",
+    "category": "花",
+    "display_name": "ヘビイチゴ",
+    "kana": "ヘビイチゴ",
+    "search_aliases": [
+      "蛇苺",
+      "Duchesnea chrysantha"
+    ],
+    "family": "バラ科",
+    "genus": "キジムシロ属",
+    "scientific_name": "Potentilla hebiichigo",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ヘビイチゴ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "4〜6月",
+    "fruiting_season": "",
+    "distribution": "日本全土、アジア南東部",
+    "habitat": "湿った草地、田のあぜ、道端",
+    "common_place": "道端、田のあぜ、湿った草地",
+    "feature_summary": "3枚の小葉と黄色い5弁花をつけ、匍匐茎で広がります。花後に赤いイチゴ状の実ができます。",
+    "trivia": "赤く膨らむ部分は花托で、その表面に多数の小さな果実が並びます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "バラ目",
+      "family": "バラ科",
+      "genus": "キジムシロ属",
+      "species": "Potentilla hebiichigo"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%93%E3%82%A4%E3%83%81%E3%82%B4",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%93%E3%82%A4%E3%83%81%E3%82%B4"
+    ],
+    "image": {
+      "author": "Alpsdake",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Potentilla_hebiichigo_(flower_s2).jpg",
+      "image_path": "images/0201_0250/flower_0227.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0228",
+    "category": "花",
+    "display_name": "キジムシロ",
+    "kana": "キジムシロ",
+    "search_aliases": [
+      "雉莚",
+      "雉蓆",
+      "Potentilla sprengeliana"
+    ],
+    "family": "バラ科",
+    "genus": "キジムシロ属",
+    "scientific_name": "Potentilla fragarioides var. major",
+    "taxon_id": null,
+    "taxon_rank": "variety",
+    "matched_common_name": "キジムシロ",
+    "entity_type": "変種",
+    "life_form": "多年草",
+    "flowering_season": "3〜5月",
+    "fruiting_season": "",
+    "distribution": "日本の北海道から九州、朝鮮半島",
+    "habitat": "日当たりのよい草原、丘陵、林縁",
+    "common_place": "日当たりのよい草地、山野",
+    "feature_summary": "5〜7枚ほどの小葉をもつ複葉をつけ、春に黄色い5弁花を咲かせます。先端側の小葉3枚が大きめです。",
+    "trivia": "花後に葉が広がった姿を、キジが休むむしろに見立てた名前です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "バラ目",
+      "family": "バラ科",
+      "genus": "キジムシロ属",
+      "species": "Potentilla fragarioides var. major"
+    },
+    "classification_note": "Potentilla sprengeliana とする資料もある",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B8%E3%83%A0%E3%82%B7%E3%83%AD",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B8%E3%83%A0%E3%82%B7%E3%83%AD"
+    ],
+    "image": {
+      "author": "Оксана Серикова",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/140366213",
+      "image_path": "images/0201_0250/flower_0228.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0229",
+    "category": "花",
+    "display_name": "ミツバツチグリ",
+    "kana": "ミツバツチグリ",
+    "search_aliases": [
+      "三葉土栗"
+    ],
+    "family": "バラ科",
+    "genus": "キジムシロ属",
+    "scientific_name": "Potentilla freyniana",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ミツバツチグリ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "4〜6月",
+    "fruiting_season": "",
+    "distribution": "日本の北海道から九州、朝鮮半島、中国北部など",
+    "habitat": "日当たりのよい丘陵、草原、林縁",
+    "common_place": "山野、草地、林縁",
+    "feature_summary": "葉は3枚の小葉からなり、春に黄色い5弁花を咲かせます。花後には走出枝を伸ばします。",
+    "trivia": "小葉の数が、5〜7枚ほどあるキジムシロとの識別点になります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "バラ目",
+      "family": "バラ科",
+      "genus": "キジムシロ属",
+      "species": "Potentilla freyniana"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%84%E3%83%90%E3%83%84%E3%83%81%E3%82%B0%E3%83%AA",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%84%E3%83%90%E3%83%84%E3%83%81%E3%82%B0%E3%83%AA"
+    ],
+    "image": {
+      "author": "WATANABE Hitoshi 渡辺仁",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/365078026",
+      "image_path": "images/0201_0250/flower_0229.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0230",
+    "category": "花",
+    "display_name": "ツユクサ",
+    "kana": "ツユクサ",
+    "search_aliases": [
+      "露草",
+      "鴨跖草",
+      "アオバナ",
+      "ホタルグサ"
+    ],
+    "family": "ツユクサ科",
+    "genus": "ツユクサ属",
+    "scientific_name": "Commelina communis",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ツユクサ",
+    "entity_type": "種",
+    "life_form": "一年草",
+    "flowering_season": "6〜10月",
+    "fruiting_season": "",
+    "distribution": "日本を含む東アジア原産",
+    "habitat": "道端、畑、庭、草地",
+    "common_place": "道端、畑、庭",
+    "feature_summary": "鮮やかな青い花を朝に開き、昼ごろにはしぼみます。2枚の大きな青い花弁と小さな白い花弁があります。",
+    "trivia": "古くから「つきくさ」とも呼ばれ、万葉集にも登場します。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "単子葉類",
+      "order": "ツユクサ目",
+      "family": "ツユクサ科",
+      "genus": "ツユクサ属",
+      "species": "Commelina communis"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%A6%E3%82%AF%E3%82%B5",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%A6%E3%82%AF%E3%82%B5"
+    ],
+    "image": {
+      "author": "NotAnonymous",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://www.inaturalist.org/photos/30222082",
+      "image_path": "images/0201_0250/flower_0230.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0231",
+    "category": "花",
+    "display_name": "ムラサキツユクサ",
+    "kana": "ムラサキツユクサ",
+    "search_aliases": [
+      "紫露草",
+      "トラデスカンティア",
+      "Tradescantia ohiensis",
+      "Tradescantia × andersoniana"
+    ],
+    "family": "ツユクサ科",
+    "genus": "ムラサキツユクサ属",
+    "scientific_name": "Tradescantia",
+    "taxon_id": null,
+    "taxon_rank": "genus",
+    "matched_common_name": "ムラサキツユクサ",
+    "entity_type": "種・園芸交雑群",
+    "life_form": "多年草",
+    "flowering_season": "5〜9月",
+    "fruiting_season": "",
+    "distribution": "北アメリカ原産の種や園芸交雑系統が栽培される",
+    "habitat": "庭、花壇、栽培地周辺",
+    "common_place": "庭、道端、花壇",
+    "feature_summary": "細長い葉をつけ、青紫色などの3弁花を咲かせます。花は朝に開いてしぼむことが多く、次々につぼみが開きます。",
+    "trivia": "ムラサキツユクサの雄しべの毛は、理科で原形質流動を観察する材料に使われます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "単子葉類",
+      "order": "ツユクサ目",
+      "family": "ツユクサ科",
+      "genus": "ムラサキツユクサ属",
+      "species": ""
+    },
+    "classification_note": "ムラサキツユクサ T. ohiensis と園芸交雑群 T. × andersoniana 等を含む流通名として扱い、属レベルで整理。属全体の説明ではない",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD%E3%83%84%E3%83%A6%E3%82%AF%E3%82%B5",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD%E3%83%84%E3%83%A6%E3%82%AF%E3%82%B5"
+    ],
+    "image": {
+      "author": "Michael J. Papay",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/287637918",
+      "image_path": "images/0201_0250/flower_0231.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0232",
+    "category": "花",
+    "display_name": "トキワツユクサ",
+    "kana": "トキワツユクサ",
+    "search_aliases": [
+      "常磐露草",
+      "ノハカタカラクサ",
+      "野博多唐草"
+    ],
+    "family": "ツユクサ科",
+    "genus": "ムラサキツユクサ属",
+    "scientific_name": "Tradescantia fluminensis",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "トキワツユクサ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "5〜8月",
+    "fruiting_season": "",
+    "distribution": "南アメリカ原産。日本などに帰化",
+    "habitat": "湿った日陰、水辺、林縁",
+    "common_place": "林縁、道端、湿った日陰",
+    "feature_summary": "地面を這って群落をつくり、初夏に白い3弁花を咲かせます。葉は緑色で、斑入りの園芸系統もあります。",
+    "trivia": "観賞用に導入されたものが野生化しており、ノハカタカラクサとも呼ばれます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "単子葉類",
+      "order": "ツユクサ目",
+      "family": "ツユクサ科",
+      "genus": "ムラサキツユクサ属",
+      "species": "Tradescantia fluminensis"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%AD%E3%83%AF%E3%83%84%E3%83%A6%E3%82%AF%E3%82%B5",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%AD%E3%83%AF%E3%83%84%E3%83%A6%E3%82%AF%E3%82%B5"
+    ],
+    "image": {
+      "author": "JMK",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tradescantia_fluminensis,_blomme,_Manie_van_der_Schijff_BT,_a.jpg",
+      "image_path": "images/0201_0250/flower_0232.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0233",
+    "category": "花",
+    "display_name": "ドクダミ",
+    "kana": "ドクダミ",
+    "search_aliases": [
+      "蕺草",
+      "十薬",
+      "ジュウヤク",
+      "魚腥草"
+    ],
+    "family": "ドクダミ科",
+    "genus": "ドクダミ属",
+    "scientific_name": "Houttuynia cordata",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ドクダミ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "5〜7月",
+    "fruiting_season": "",
+    "distribution": "東アジアから東南アジア。日本にも分布",
+    "habitat": "湿った日陰、庭、道端",
+    "common_place": "日陰、庭、道端",
+    "feature_summary": "ハート形の葉をつけ、初夏に白い花のような花序を出します。茎葉を傷つけると特有のにおいがあります。",
+    "trivia": "白い4枚の花びらに見える部分は苞で、中央の小さな花には花弁も萼片もありません。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "モクレン類",
+      "order": "コショウ目",
+      "family": "ドクダミ科",
+      "genus": "ドクダミ属",
+      "species": "Houttuynia cordata"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%AF%E3%83%80%E3%83%9F",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%AF%E3%83%80%E3%83%9F"
+    ],
+    "image": {
+      "author": "no rights reserved, uploaded by 葉子",
+      "license": "CC0",
+      "source_url": "https://www.inaturalist.org/photos/48161522",
+      "image_path": "images/0201_0250/flower_0233.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0234",
+    "category": "花",
+    "display_name": "ヒメツルソバ",
+    "kana": "ヒメツルソバ",
+    "search_aliases": [
+      "姫蔓蕎麦",
+      "ポリゴナム",
+      "カンイタドリ"
+    ],
+    "family": "タデ科",
+    "genus": "イヌタデ属",
+    "scientific_name": "Persicaria capitata",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ヒメツルソバ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "4〜11月",
+    "fruiting_season": "",
+    "distribution": "ヒマラヤ原産。日本で栽培・野生化",
+    "habitat": "庭、石垣、道端",
+    "common_place": "石垣、道端、庭",
+    "feature_summary": "低く広がる茎に、桃色の小花が球状に集まった花序をつけます。葉にはV字形の模様が見られます。",
+    "trivia": "地面を覆うグラウンドカバーとして使われ、花序は金平糖にたとえられます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "ナデシコ目",
+      "family": "タデ科",
+      "genus": "イヌタデ属",
+      "species": "Persicaria capitata"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%83%84%E3%83%AB%E3%82%BD%E3%83%90",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%83%84%E3%83%AB%E3%82%BD%E3%83%90"
+    ],
+    "image": {
+      "author": "zebedeugalinha",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/610405600",
+      "image_path": "images/0201_0250/flower_0234.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0235",
+    "category": "花",
+    "display_name": "ハナカタバミ",
+    "kana": "ハナカタバミ",
+    "search_aliases": [
+      "花酢漿草",
+      "花紫片喰",
+      "オキザリス・ボーウィ",
+      "Oxalis bowieana"
+    ],
+    "family": "カタバミ科",
+    "genus": "カタバミ属",
+    "scientific_name": "Oxalis bowiei",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ハナカタバミ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "9〜11月",
+    "fruiting_season": "",
+    "distribution": "南アフリカ原産。日本では栽培され一部野生化",
+    "habitat": "庭、花壇、道端、草地",
+    "common_place": "庭、花壇、道端",
+    "feature_summary": "桃色の大きめの5弁花を咲かせ、中心部は黄色くなります。花弁が重なり、花柄や葉柄には細かな毛があります。",
+    "trivia": "江戸時代末に観賞用として導入されました。ムラサキカタバミなどとは花弁の重なりや毛の有無が異なります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "カタバミ目",
+      "family": "カタバミ科",
+      "genus": "カタバミ属",
+      "species": "Oxalis bowiei"
+    },
+    "classification_note": "Oxalis bowieana は異名。個別記事がないため三河の植物観察を併用",
+    "plant_source_url": "https://mikawanoyasou.org/data/hanakatabami.htm",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%90%E3%83%9F%E5%B1%9E",
+      "https://mikawanoyasou.org/data/hanakatabami.htm"
+    ],
+    "image": {
+      "author": "岸本年郎",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/740629452",
+      "image_path": "images/0201_0250/flower_0235.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0236",
+    "category": "花",
+    "display_name": "オシロイバナ",
+    "kana": "オシロイバナ",
+    "search_aliases": [
+      "白粉花",
+      "ユウゲショウ"
+    ],
+    "family": "オシロイバナ科",
+    "genus": "オシロイバナ属",
+    "scientific_name": "Mirabilis jalapa",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "オシロイバナ",
+    "entity_type": "種",
+    "life_form": "多年草（寒冷地では一年草扱い）",
+    "flowering_season": "6〜10月",
+    "fruiting_season": "",
+    "distribution": "南アメリカ原産。日本で栽培・野生化",
+    "habitat": "庭、道端、空き地",
+    "common_place": "庭、道端、空き地",
+    "feature_summary": "夕方から筒状の花を開きます。赤、桃、黄、白など多彩で、同じ株に違う色や絞り模様の花が咲くこともあります。",
+    "trivia": "黒い実の内部にある種子の白い粉状の胚乳を、おしろいに見立てた名前です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "ナデシコ目",
+      "family": "オシロイバナ科",
+      "genus": "オシロイバナ属",
+      "species": "Mirabilis jalapa"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B7%E3%83%AD%E3%82%A4%E3%83%90%E3%83%8A",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B7%E3%83%AD%E3%82%A4%E3%83%90%E3%83%8A"
+    ],
+    "image": {
+      "author": "Ricard Busquets Reverte",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/249554242",
+      "image_path": "images/0201_0250/flower_0236.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0237",
+    "category": "花",
+    "display_name": "ヤブカラシ",
+    "kana": "ヤブカラシ",
+    "search_aliases": [
+      "藪枯らし",
+      "ヤブガラシ",
+      "ビンボウカズラ",
+      "Cayratia japonica"
+    ],
+    "family": "ブドウ科",
+    "genus": "ヤブカラシ属",
+    "scientific_name": "Causonis japonica",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ヤブカラシ",
+    "entity_type": "種",
+    "life_form": "つる性多年草",
+    "flowering_season": "6〜9月",
+    "fruiting_season": "",
+    "distribution": "東アジアから東南アジア。日本にも広く分布",
+    "habitat": "林縁、藪、空き地、フェンス",
+    "common_place": "道端、空き地、藪",
+    "feature_summary": "巻きひげで絡み、5枚の小葉をつけます。小さな花の花弁が落ちると、蜜を出す橙色の花盤が目立ちます。",
+    "trivia": "旺盛に伸びて他の植物を覆う姿が名前の由来です。花には蜂や蝶が集まります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "ブドウ目",
+      "family": "ブドウ科",
+      "genus": "ヤブカラシ属",
+      "species": "Causonis japonica"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%96%E3%82%AB%E3%83%A9%E3%82%B7",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%96%E3%82%AB%E3%83%A9%E3%82%B7"
+    ],
+    "image": {
+      "author": "Stephen Thorpe",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/258170610",
+      "image_path": "images/0201_0250/flower_0237.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0238",
+    "category": "花",
+    "display_name": "ヘクソカズラ",
+    "kana": "ヘクソカズラ",
+    "search_aliases": [
+      "屁糞葛",
+      "サオトメバナ",
+      "サオトメカズラ",
+      "ヤイトバナ"
+    ],
+    "family": "アカネ科",
+    "genus": "ヘクソカズラ属",
+    "scientific_name": "Paederia scandens",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ヘクソカズラ",
+    "entity_type": "種",
+    "life_form": "つる性多年草",
+    "flowering_season": "7〜9月",
+    "fruiting_season": "",
+    "distribution": "日本など",
+    "habitat": "藪、道端、林縁、フェンス",
+    "common_place": "道端、藪、フェンス",
+    "feature_summary": "つるを伸ばし、中心が赤紫色の白い筒状花を咲かせます。葉や茎を傷つけると強いにおいがします。",
+    "trivia": "花の姿にちなんだサオトメバナやヤイトバナという別名があります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "リンドウ目",
+      "family": "アカネ科",
+      "genus": "ヘクソカズラ属",
+      "species": "Paederia scandens"
+    },
+    "classification_note": "出典記事に合わせ Paederia scandens を採用。学名の扱いは体系により異なる",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%82%AF%E3%82%BD%E3%82%AB%E3%82%BA%E3%83%A9",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%98%E3%82%AF%E3%82%BD%E3%82%AB%E3%82%BA%E3%83%A9"
+    ],
+    "image": {
+      "author": "no rights reserved, uploaded by 葉子",
+      "license": "CC0",
+      "source_url": "https://www.inaturalist.org/photos/604390260",
+      "image_path": "images/0201_0250/flower_0238.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0239",
+    "category": "花",
+    "display_name": "センニンソウ",
+    "kana": "センニンソウ",
+    "search_aliases": [
+      "仙人草"
+    ],
+    "family": "キンポウゲ科",
+    "genus": "センニンソウ属",
+    "scientific_name": "Clematis terniflora",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "センニンソウ",
+    "entity_type": "種",
+    "life_form": "つる性半低木",
+    "flowering_season": "8〜9月",
+    "fruiting_season": "",
+    "distribution": "日本、朝鮮半島南部、中国中部、台湾など",
+    "habitat": "日当たりのよい林縁、藪、山野",
+    "common_place": "林縁、藪、道端",
+    "feature_summary": "夏の終わりに白い花を多数咲かせます。白い4枚の部分は萼片で、小葉の縁にはふつう鋸歯がありません。",
+    "trivia": "果実に残る長い羽毛状の花柱を、仙人のひげに見立てた名前です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キンポウゲ目",
+      "family": "キンポウゲ科",
+      "genus": "センニンソウ属",
+      "species": "Clematis terniflora"
+    },
+    "classification_note": "つる性半低木だが、現在の元一覧のカテゴリー「花」を維持",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%BD%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%BD%E3%82%A6"
+    ],
+    "image": {
+      "author": "Michael J. Papay",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/147839568",
+      "image_path": "images/0201_0250/flower_0239.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0240",
+    "category": "花",
+    "display_name": "ボタンヅル",
+    "kana": "ボタンヅル",
+    "search_aliases": [
+      "牡丹蔓"
+    ],
+    "family": "キンポウゲ科",
+    "genus": "センニンソウ属",
+    "scientific_name": "Clematis apiifolia",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ボタンヅル",
+    "entity_type": "種",
+    "life_form": "落葉つる性半低木",
+    "flowering_season": "8〜9月",
+    "fruiting_season": "",
+    "distribution": "日本の本州、四国、九州、朝鮮半島、中国",
+    "habitat": "日当たりのよい林縁、草原",
+    "common_place": "山野、林縁、道端",
+    "feature_summary": "3枚の小葉に不ぞろいな鋸歯があり、晩夏に白い花を多数つけます。茎の基部は木質化し、花後は羽毛状の花柱が残ります。",
+    "trivia": "葉がボタンに似ることと、つる性であることが名前の由来です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キンポウゲ目",
+      "family": "キンポウゲ科",
+      "genus": "センニンソウ属",
+      "species": "Clematis apiifolia"
+    },
+    "classification_note": "つる性半低木だが、現在の元一覧のカテゴリー「花」を維持",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%BF%E3%83%B3%E3%83%85%E3%83%AB",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%BF%E3%83%B3%E3%83%85%E3%83%AB"
+    ],
+    "image": {
+      "author": "りなべる",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/441916465",
+      "image_path": "images/0201_0250/flower_0240.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0241",
+    "category": "花",
+    "display_name": "カラスウリ",
+    "kana": "カラスウリ",
+    "search_aliases": [
+      "烏瓜"
+    ],
+    "family": "ウリ科",
+    "genus": "カラスウリ属",
+    "scientific_name": "Trichosanthes cucumeroides",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "カラスウリ",
+    "entity_type": "種",
+    "life_form": "つる性多年草",
+    "flowering_season": "7〜9月",
+    "fruiting_season": "",
+    "distribution": "日本など",
+    "habitat": "林縁、藪、フェンス",
+    "common_place": "林縁、藪、フェンス",
+    "feature_summary": "日没後に、花冠の縁がレース状に裂けた白い花を開きます。秋には朱色の実が目立ち、葉には短い毛があります。",
+    "trivia": "雄花と雌花を別々の株につける雌雄異株です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "ウリ目",
+      "family": "ウリ科",
+      "genus": "カラスウリ属",
+      "species": "Trichosanthes cucumeroides"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%B9%E3%82%A6%E3%83%AA",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%B9%E3%82%A6%E3%83%AA"
+    ],
+    "image": {
+      "author": "WATANABE Hitoshi 渡辺仁",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/731576432",
+      "image_path": "images/0201_0250/flower_0241.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0242",
+    "category": "花",
+    "display_name": "キカラスウリ",
+    "kana": "キカラスウリ",
+    "search_aliases": [
+      "黄烏瓜",
+      "Trichosanthes japonica"
+    ],
+    "family": "ウリ科",
+    "genus": "カラスウリ属",
+    "scientific_name": "Trichosanthes kirilowii var. japonica",
+    "taxon_id": null,
+    "taxon_rank": "variety",
+    "matched_common_name": "キカラスウリ",
+    "entity_type": "変種",
+    "life_form": "つる性多年草",
+    "flowering_season": "6〜9月",
+    "fruiting_season": "",
+    "distribution": "日本の北海道から沖縄本島など",
+    "habitat": "山野、林縁、藪",
+    "common_place": "山野、林縁、藪",
+    "feature_summary": "夜に白い花を開き、翌日も花が残ります。葉の表面には光沢があり、熟した果実は黄色です。",
+    "trivia": "カラスウリとの識別には、葉の毛や光沢、果実の色が役立ちます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "ウリ目",
+      "family": "ウリ科",
+      "genus": "カラスウリ属",
+      "species": "Trichosanthes kirilowii var. japonica"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%AB%E3%83%A9%E3%82%B9%E3%82%A6%E3%83%AA",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%AB%E3%83%A9%E3%82%B9%E3%82%A6%E3%83%AA"
+    ],
+    "image": {
+      "author": "no rights reserved",
+      "license": "CC0",
+      "source_url": "https://www.inaturalist.org/photos/126383849",
+      "image_path": "images/0201_0250/flower_0242.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0243",
+    "category": "花",
+    "display_name": "ヨウシュヤマゴボウ",
+    "kana": "ヨウシュヤマゴボウ",
+    "search_aliases": [
+      "洋種山牛蒡",
+      "アメリカヤマゴボウ"
+    ],
+    "family": "ヤマゴボウ科",
+    "genus": "ヤマゴボウ属",
+    "scientific_name": "Phytolacca americana",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ヨウシュヤマゴボウ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "6〜9月",
+    "fruiting_season": "",
+    "distribution": "北アメリカ原産。日本各地に帰化",
+    "habitat": "空き地、道端、造成地、庭",
+    "common_place": "空き地、道端、荒地",
+    "feature_summary": "大きな葉と赤みのある茎をもち、白から淡紅色の小花が穂状につきます。果実は黒紫色に熟して垂れ下がります。",
+    "trivia": "熟した実の赤紫色の汁は衣服などに色がつきやすい性質があります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "ナデシコ目",
+      "family": "ヤマゴボウ科",
+      "genus": "ヤマゴボウ属",
+      "species": "Phytolacca americana"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%A6%E3%82%B7%E3%83%A5%E3%83%A4%E3%83%9E%E3%82%B4%E3%83%9C%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%A6%E3%82%B7%E3%83%A5%E3%83%A4%E3%83%9E%E3%82%B4%E3%83%9C%E3%82%A6"
+    ],
+    "image": {
+      "author": "Dalgial",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Phytolacca_americana_2.JPG",
+      "image_path": "images/0201_0250/flower_0243.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0244",
+    "category": "花",
+    "display_name": "アレチハナガサ",
+    "kana": "アレチハナガサ",
+    "search_aliases": [
+      "荒地花笠"
+    ],
+    "family": "クマツヅラ科",
+    "genus": "クマツヅラ属",
+    "scientific_name": "Verbena brasiliensis",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "アレチハナガサ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "6〜10月",
+    "fruiting_season": "",
+    "distribution": "南アメリカ原産。日本の本州、四国、九州などに帰化",
+    "habitat": "河川敷、道端、空き地",
+    "common_place": "河川敷、道端、空き地",
+    "feature_summary": "背が高く、四角くざらつく茎に淡紫色の小花をつけます。花後の穂は細長い円柱状になります。",
+    "trivia": "ヤナギハナガサに似ますが、花筒が短く、萼からあまり突き出さない点が識別に役立ちます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "シソ目",
+      "family": "クマツヅラ科",
+      "genus": "クマツヅラ属",
+      "species": "Verbena brasiliensis"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%81%E3%83%8F%E3%83%8A%E3%82%AC%E3%82%B5",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%81%E3%83%8F%E3%83%8A%E3%82%AC%E3%82%B5"
+    ],
+    "image": {
+      "author": "Michael J. Papay",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/321411216",
+      "image_path": "images/0201_0250/flower_0244.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0245",
+    "category": "花",
+    "display_name": "ヒメムカシヨモギ",
+    "kana": "ヒメムカシヨモギ",
+    "search_aliases": [
+      "姫昔蓬",
+      "ゴイッシングサ",
+      "メイジソウ",
+      "テツドウグサ",
+      "Conyza canadensis"
+    ],
+    "family": "キク科",
+    "genus": "ムカシヨモギ属",
+    "scientific_name": "Erigeron canadensis",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ヒメムカシヨモギ",
+    "entity_type": "種",
+    "life_form": "越年草",
+    "flowering_season": "8〜10月",
+    "fruiting_season": "",
+    "distribution": "北アメリカ原産。日本など世界各地に帰化",
+    "habitat": "道端、荒れ地、空き地",
+    "common_place": "道端、空き地、荒地",
+    "feature_summary": "茎が高く立ち上がり、茎葉には毛があります。夏の終わりから秋に多数の小さな頭花をつけます。",
+    "trivia": "明治時代に鉄道沿いへ広がり、御一新草や明治草などと呼ばれました。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キク目",
+      "family": "キク科",
+      "genus": "ムカシヨモギ属",
+      "species": "Erigeron canadensis"
+    },
+    "classification_note": "Conyza canadensis としてイズハハコ属に置く扱いもある。出典記事のYList引用に合わせ Erigeron canadensis を採用",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%83%A0%E3%82%AB%E3%82%B7%E3%83%A8%E3%83%A2%E3%82%AE",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%83%A0%E3%82%AB%E3%82%B7%E3%83%A8%E3%83%A2%E3%82%AE"
+    ],
+    "image": {
+      "author": "Kristian Peters -- Fabelfroh 09:36, 12 March 2007 (UTC)",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Conyza_canadensis.jpeg",
+      "image_path": "images/0201_0250/flower_0245.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0246",
+    "category": "花",
+    "display_name": "カタクリ",
+    "kana": "カタクリ",
+    "search_aliases": [
+      "片栗",
+      "堅香子",
+      "カタカゴ"
+    ],
+    "family": "ユリ科",
+    "genus": "カタクリ属",
+    "scientific_name": "Erythronium japonicum",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "カタクリ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "3〜5月",
+    "fruiting_season": "",
+    "distribution": "日本など",
+    "habitat": "落葉広葉樹林の林床",
+    "common_place": "落葉樹林、山地の林床",
+    "feature_summary": "春に斑模様のある葉を広げ、紅紫色の花を下向きに咲かせます。6枚の花被片は晴れた日に反り返ります。",
+    "trivia": "かつて鱗茎のでんぷんから片栗粉が作られました。開花後は地上部が枯れて休眠します。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "単子葉類",
+      "order": "ユリ目",
+      "family": "ユリ科",
+      "genus": "カタクリ属",
+      "species": "Erythronium japonicum"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%82%AF%E3%83%AA",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%82%AF%E3%83%AA"
+    ],
+    "image": {
+      "author": "Timur Kalininsky",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/186116966",
+      "image_path": "images/0201_0250/flower_0246.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0247",
+    "category": "花",
+    "display_name": "ニリンソウ",
+    "kana": "ニリンソウ",
+    "search_aliases": [
+      "二輪草",
+      "フクベラ",
+      "Anemonastrum flaccidum"
+    ],
+    "family": "キンポウゲ科",
+    "genus": "イチリンソウ属",
+    "scientific_name": "Anemone flaccida",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ニリンソウ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "3〜5月",
+    "fruiting_season": "",
+    "distribution": "日本の北海道から九州、東アジア",
+    "habitat": "湿った林床、林縁、沢沿い",
+    "common_place": "山地の林床、沢沿い",
+    "feature_summary": "春に深く裂けた葉を広げ、白い花をふつう2輪つけます。白い花びらに見える部分は萼片です。",
+    "trivia": "名前は2輪の花に由来しますが、1輪や3輪咲く個体もあります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キンポウゲ目",
+      "family": "キンポウゲ科",
+      "genus": "イチリンソウ属",
+      "species": "Anemone flaccida"
+    },
+    "classification_note": "Anemonastrum flaccidum へ移す分類もある。従来の Anemone 表記を採用",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%AA%E3%83%B3%E3%82%BD%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%AA%E3%83%B3%E3%82%BD%E3%82%A6"
+    ],
+    "image": {
+      "author": "Marco Mussita",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/17571859",
+      "image_path": "images/0201_0250/flower_0247.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0248",
+    "category": "花",
+    "display_name": "イチリンソウ",
+    "kana": "イチリンソウ",
+    "search_aliases": [
+      "一輪草",
+      "Anemonoides nikoensis"
+    ],
+    "family": "キンポウゲ科",
+    "genus": "イチリンソウ属",
+    "scientific_name": "Anemone nikoensis",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "イチリンソウ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "4〜5月",
+    "fruiting_season": "",
+    "distribution": "日本の本州、四国、九州",
+    "habitat": "落葉広葉樹林の林床、林縁",
+    "common_place": "山地の林床、林縁",
+    "feature_summary": "春に白い大きめの花をふつう1輪咲かせます。茎葉には柄があり、小葉は羽状に深く裂けます。",
+    "trivia": "花びらに見える白い部分は萼片です。春だけ地上部が現れ、初夏に枯れます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キンポウゲ目",
+      "family": "キンポウゲ科",
+      "genus": "イチリンソウ属",
+      "species": "Anemone nikoensis"
+    },
+    "classification_note": "Anemonoides nikoensis とする分類もある",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%81%E3%83%AA%E3%83%B3%E3%82%BD%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%81%E3%83%AA%E3%83%B3%E3%82%BD%E3%82%A6"
+    ],
+    "image": {
+      "author": "Cecilia",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/194504229",
+      "image_path": "images/0201_0250/flower_0248.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0249",
+    "category": "花",
+    "display_name": "サンリンソウ",
+    "kana": "サンリンソウ",
+    "search_aliases": [
+      "三輪草",
+      "Anemonoides stolonifera"
+    ],
+    "family": "キンポウゲ科",
+    "genus": "イチリンソウ属",
+    "scientific_name": "Anemone stolonifera",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "サンリンソウ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "5〜7月",
+    "fruiting_season": "",
+    "distribution": "日本の北海道、本州中部以北、朝鮮半島、中国東北部、台湾の山地",
+    "habitat": "山地から亜高山の林床、林縁",
+    "common_place": "山地、亜高山の林縁や草地",
+    "feature_summary": "白い小さな花を咲かせ、輪生する茎葉には短い柄があります。匍匐枝を伸ばし群落をつくります。",
+    "trivia": "3輪咲くことが名前の由来ですが、実際の花数は1〜4輪ほどと一定ではありません。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キンポウゲ目",
+      "family": "キンポウゲ科",
+      "genus": "イチリンソウ属",
+      "species": "Anemone stolonifera"
+    },
+    "classification_note": "Anemonoides stolonifera とする分類もある",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%AA%E3%83%B3%E3%82%BD%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%AA%E3%83%B3%E3%82%BD%E3%82%A6"
+    ],
+    "image": {
+      "author": "岸本年郎",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/405511113",
+      "image_path": "images/0201_0250/flower_0249.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0250",
+    "category": "花",
+    "display_name": "アズマイチゲ",
+    "kana": "アズマイチゲ",
+    "search_aliases": [
+      "東一華",
+      "Anemonoides raddeana"
+    ],
+    "family": "キンポウゲ科",
+    "genus": "イチリンソウ属",
+    "scientific_name": "Anemone raddeana",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "アズマイチゲ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "3〜5月",
+    "fruiting_season": "",
+    "distribution": "日本の北海道から九州、樺太、朝鮮半島、ウスリー",
+    "habitat": "落葉広葉樹林の林床、山麓",
+    "common_place": "落葉樹林、山地の林床",
+    "feature_summary": "早春に白い花を1輪つけます。花びらに見える萼片は8〜13枚ほどあり、葉は比較的浅く裂けます。",
+    "trivia": "木々の葉が茂るころに地上部が枯れ、翌春まで地下茎で過ごす春植物です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "真正双子葉類",
+      "order": "キンポウゲ目",
+      "family": "キンポウゲ科",
+      "genus": "イチリンソウ属",
+      "species": "Anemone raddeana"
+    },
+    "classification_note": "Anemonoides raddeana とする分類もある",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%81%E3%82%B2",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%81%E3%82%B2"
+    ],
+    "image": {
+      "author": "Timur Kalininsky",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/635384337",
+      "image_path": "images/0201_0250/flower_0250.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  }
+]

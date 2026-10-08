@@ -1,0 +1,2343 @@
+[
+  {
+    "id": "flower_0101",
+    "category": "花",
+    "display_name": "オキザリス",
+    "kana": "オキザリス",
+    "search_aliases": [
+      "カタバミ属"
+    ],
+    "family": "カタバミ科",
+    "genus": "カタバミ属",
+    "scientific_name": "Oxalis",
+    "taxon_id": null,
+    "taxon_rank": "genus",
+    "matched_common_name": "オキザリス",
+    "entity_type": "属・園芸群",
+    "life_form": "多年草または一年草",
+    "flowering_season": "10〜5月（種類による）",
+    "fruiting_season": "",
+    "distribution": "世界の温帯から熱帯に広く分布する属。園芸種には南アフリカや南アメリカ原産のものが多い",
+    "habitat": "草地、岩場、林縁など。園芸では鉢植えや花壇",
+    "common_place": "鉢植え、花壇、庭",
+    "feature_summary": "三出複葉などクローバーに似た葉をもつものが多く、白、黄、桃、紫などの5弁状の花を咲かせます。球根や地下茎で増える園芸種も多くあります。",
+    "trivia": "日光に反応して花や葉を開閉する種類があり、オキザリスの名はカタバミ属全体を指す園芸名としても使われます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "カタバミ科",
+      "genus": "カタバミ属",
+      "species": ""
+    },
+    "classification_note": "特定の1種ではなく、園芸で利用されるカタバミ属の総称として扱う",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%90%E3%83%9F%E5%B1%9E",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%90%E3%83%9F%E5%B1%9E"
+    ],
+    "image": {
+      "author": "Bellosayshello",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Oxalis_triangularis_flowers.jpg",
+      "image_path": "images/0101_0150/flower_0101.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0102",
+    "category": "花",
+    "display_name": "ヒマワリ",
+    "kana": "ヒマワリ",
+    "search_aliases": [
+      "向日葵"
+    ],
+    "family": "キク科",
+    "genus": "ヒマワリ属",
+    "scientific_name": "Helianthus annuus",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ヒマワリ",
+    "entity_type": "種・園芸品種",
+    "life_form": "一年草",
+    "flowering_season": "7〜9月",
+    "fruiting_season": "",
+    "distribution": "北アメリカ原産。世界各地で観賞用・油料作物として栽培",
+    "habitat": "日当たりのよい草地や畑。園芸では花壇、公園、畑",
+    "common_place": "花壇、畑、公園",
+    "feature_summary": "太い茎の先に大型の頭状花序をつけ、黄色い舌状花が中央の多数の筒状花を取り囲みます。高性から矮性まで多くの園芸品種があります。",
+    "trivia": "若いつぼみや生長中の花序は太陽の方向へ向きを変える性質を示しますが、成熟した花序は東向きになることが多いとされます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "キク科",
+      "genus": "ヒマワリ属",
+      "species": "Helianthus annuus"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%9E%E3%83%AF%E3%83%AA",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%9E%E3%83%AF%E3%83%AA"
+    ],
+    "image": {
+      "author": "Jakub Hałun",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:20180729_1018_s%C5%82onecznik_4501_DxO.jpg",
+      "image_path": "images/0101_0150/flower_0102.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0103",
+    "category": "花",
+    "display_name": "アサガオ",
+    "kana": "アサガオ",
+    "search_aliases": [
+      "朝顔"
+    ],
+    "family": "ヒルガオ科",
+    "genus": "サツマイモ属",
+    "scientific_name": "Ipomoea nil",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "アサガオ",
+    "entity_type": "種・園芸品種",
+    "life_form": "つる性一年草",
+    "flowering_season": "7〜10月",
+    "fruiting_season": "",
+    "distribution": "熱帯地域起源と考えられ、東アジアで古くから栽培",
+    "habitat": "人家周辺や栽培地。園芸では鉢植え、庭、フェンス",
+    "common_place": "庭、学校、鉢植え",
+    "feature_summary": "つるを伸ばし、夏の朝に漏斗形の花を咲かせます。青、紫、桃、白など花色が豊富で、絞りや覆輪など多様な園芸品種があります。",
+    "trivia": "日本では江戸時代に品種改良が盛んになり、変化朝顔と呼ばれる非常に多様な花や葉の系統が作られました。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ヒルガオ科",
+      "genus": "サツマイモ属",
+      "species": "Ipomoea nil"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA"
+    ],
+    "image": {
+      "author": "KENPEI",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ipomoea_nil_Akatsukinoumi1.jpg",
+      "image_path": "images/0101_0150/flower_0103.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0104",
+    "category": "花",
+    "display_name": "ヒルガオ",
+    "kana": "ヒルガオ",
+    "search_aliases": [
+      "昼顔"
+    ],
+    "family": "ヒルガオ科",
+    "genus": "ヒルガオ属",
+    "scientific_name": "Calystegia pubescens",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ヒルガオ",
+    "entity_type": "種",
+    "life_form": "つる性多年草",
+    "flowering_season": "5〜8月",
+    "fruiting_season": "",
+    "distribution": "日本を含む東アジアに分布",
+    "habitat": "道端、草地、河川敷、空き地など",
+    "common_place": "道端、草地、河川敷",
+    "feature_summary": "地下茎からつるを伸ばし、初夏から夏に淡い桃色の漏斗形の花を咲かせます。朝に開いた花は昼になっても開いていることが名前の由来です。",
+    "trivia": "地下茎でよく広がるため、地上部が刈られても再び芽を出すことがあります。学名を Calystegia japonica とする資料もあります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ヒルガオ科",
+      "genus": "ヒルガオ属",
+      "species": "Calystegia pubescens"
+    },
+    "classification_note": "学名の扱いには資料差があるため、近年広く使われる Calystegia pubescens を採用",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%AB%E3%82%AC%E3%82%AA",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%AB%E3%82%AC%E3%82%AA"
+    ],
+    "image": {
+      "author": "KENPEI",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Calystegia_pubescens1.jpg",
+      "image_path": "images/0101_0150/flower_0104.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0105",
+    "category": "花",
+    "display_name": "ヨルガオ",
+    "kana": "ヨルガオ",
+    "search_aliases": [
+      "夜顔",
+      "ヨルガオ"
+    ],
+    "family": "ヒルガオ科",
+    "genus": "サツマイモ属",
+    "scientific_name": "Ipomoea alba",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ヨルガオ",
+    "entity_type": "種",
+    "life_form": "つる性多年草（日本では一年草扱い）",
+    "flowering_season": "7〜10月",
+    "fruiting_season": "",
+    "distribution": "熱帯アメリカ原産",
+    "habitat": "温暖な地域。園芸では庭、鉢植え、フェンス",
+    "common_place": "庭、フェンス、鉢植え",
+    "feature_summary": "夕方から大きな白い漏斗形の花を開き、翌朝にはしぼむ一日花です。つるを長く伸ばし、夜に香りを放つ花が目立ちます。",
+    "trivia": "名前が似るユウガオはウリ科の別植物です。ヨルガオはアサガオに近いヒルガオ科の植物です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ヒルガオ科",
+      "genus": "サツマイモ属",
+      "species": "Ipomoea alba"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%AB%E3%82%AC%E3%82%AA",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%AB%E3%82%AC%E3%82%AA"
+    ],
+    "image": {
+      "author": "KENPEI",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ipomoea_alba1.jpg",
+      "image_path": "images/0101_0150/flower_0105.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0106",
+    "category": "花",
+    "display_name": "ルコウソウ",
+    "kana": "ルコウソウ",
+    "search_aliases": [
+      "縷紅草"
+    ],
+    "family": "ヒルガオ科",
+    "genus": "サツマイモ属",
+    "scientific_name": "Ipomoea quamoclit",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ルコウソウ",
+    "entity_type": "種",
+    "life_form": "つる性一年草",
+    "flowering_season": "7〜10月",
+    "fruiting_season": "",
+    "distribution": "メキシコから中央アメリカ原産",
+    "habitat": "温暖な草地や人家周辺。園芸ではフェンス、庭、鉢植え",
+    "common_place": "庭、フェンス、鉢植え",
+    "feature_summary": "細かく羽状に裂けた葉をもち、夏から秋に赤色を中心とした小さな星形の花を咲かせます。細いつるを伸ばして他物に巻き付きます。",
+    "trivia": "糸のように細い葉と紅色の花から『縷紅草』の名が付いたとされます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ヒルガオ科",
+      "genus": "サツマイモ属",
+      "species": "Ipomoea quamoclit"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B3%E3%82%A6%E3%82%BD%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B3%E3%82%A6%E3%82%BD%E3%82%A6"
+    ],
+    "image": {
+      "author": "https://www.flickr.com/photos/opyadav/",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cyprus_vine_flower.jpg",
+      "image_path": "images/0101_0150/flower_0106.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0107",
+    "category": "花",
+    "display_name": "マツバボタン",
+    "kana": "マツバボタン",
+    "search_aliases": [
+      "松葉牡丹"
+    ],
+    "family": "スベリヒユ科",
+    "genus": "スベリヒユ属",
+    "scientific_name": "Portulaca grandiflora",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "マツバボタン",
+    "entity_type": "種・園芸品種",
+    "life_form": "多肉質の一年草",
+    "flowering_season": "6〜9月",
+    "fruiting_season": "",
+    "distribution": "南アメリカ原産",
+    "habitat": "乾燥した日当たりのよい場所。園芸では花壇、鉢植え",
+    "common_place": "花壇、鉢植え、庭",
+    "feature_summary": "多肉質の細い葉と地を這うような茎をもち、夏に赤、桃、黄、白など鮮やかな花を咲かせます。暑さと乾燥に強い夏花です。",
+    "trivia": "花は日光の弱い日や夕方には閉じやすく、晴天時に大きく開きます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "スベリヒユ科",
+      "genus": "スベリヒユ属",
+      "species": "Portulaca grandiflora"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%84%E3%83%90%E3%83%9C%E3%82%BF%E3%83%B3",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%84%E3%83%90%E3%83%9C%E3%82%BF%E3%83%B3"
+    ],
+    "image": {
+      "author": "Rodrigo123456",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Portulaca.jpg",
+      "image_path": "images/0101_0150/flower_0107.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0108",
+    "category": "花",
+    "display_name": "ポーチュラカ",
+    "kana": "ポーチュラカ",
+    "search_aliases": [
+      "ハナスベリヒユ"
+    ],
+    "family": "スベリヒユ科",
+    "genus": "スベリヒユ属",
+    "scientific_name": "Portulaca",
+    "taxon_id": null,
+    "taxon_rank": "genus",
+    "matched_common_name": "ポーチュラカ",
+    "entity_type": "園芸群",
+    "life_form": "多肉質の一年草または多年草",
+    "flowering_season": "5〜10月",
+    "fruiting_season": "",
+    "distribution": "スベリヒユ属の複数系統から作られた園芸群として流通",
+    "habitat": "乾燥した日当たりのよい場所。園芸では花壇、鉢植え、ハンギング",
+    "common_place": "花壇、鉢植え、ハンギング",
+    "feature_summary": "肉厚の葉と茎をもち、初夏から秋まで赤、桃、黄、橙、白などの花を次々に咲かせます。高温と乾燥に強く、地面を覆うように広がります。",
+    "trivia": "園芸で『ポーチュラカ』と呼ばれるものはハナスベリヒユなど複数の系統を含み、分類上の1種名とは限りません。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "スベリヒユ科",
+      "genus": "スベリヒユ属",
+      "species": ""
+    },
+    "classification_note": "園芸流通名の範囲が広いため、スベリヒユ属の園芸群として扱う",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8A%E3%82%B9%E3%83%99%E3%83%AA%E3%83%92%E3%83%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8A%E3%82%B9%E3%83%99%E3%83%AA%E3%83%92%E3%83%A6"
+    ],
+    "image": {
+      "author": "Dinesh Valke from Thane, India",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Portulaca_umbraticola_(984002773).jpg",
+      "image_path": "images/0101_0150/flower_0108.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0109",
+    "category": "花",
+    "display_name": "ニチニチソウ",
+    "kana": "ニチニチソウ",
+    "search_aliases": [
+      "日日草"
+    ],
+    "family": "キョウチクトウ科",
+    "genus": "ニチニチソウ属",
+    "scientific_name": "Catharanthus roseus",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ニチニチソウ",
+    "entity_type": "種・園芸品種",
+    "life_form": "常緑多年草（日本では一年草扱いが多い）",
+    "flowering_season": "5〜11月",
+    "fruiting_season": "",
+    "distribution": "マダガスカル原産。熱帯・亜熱帯各地で栽培・帰化",
+    "habitat": "乾燥気味の日当たりのよい場所。園芸では花壇、鉢植え、公園",
+    "common_place": "花壇、鉢植え、公園",
+    "feature_summary": "光沢のある葉を対生し、初夏から秋まで白、桃、赤紫などの5裂した花を次々に咲かせます。暑さに強い代表的な夏花です。",
+    "trivia": "本種に含まれるアルカロイドから医薬品に利用される成分が見いだされましたが、植物体を自己判断で食用・薬用にするのは危険です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "キョウチクトウ科",
+      "genus": "ニチニチソウ属",
+      "species": "Catharanthus roseus"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%81%E3%83%8B%E3%83%81%E3%82%BD%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%81%E3%83%8B%E3%83%81%E3%82%BD%E3%82%A6"
+    ],
+    "image": {
+      "author": "みっち",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Nitinitisou.jpg",
+      "image_path": "images/0101_0150/flower_0109.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0110",
+    "category": "花",
+    "display_name": "インパチェンス",
+    "kana": "インパチェンス",
+    "search_aliases": [
+      "アフリカホウセンカ"
+    ],
+    "family": "ツリフネソウ科",
+    "genus": "ツリフネソウ属",
+    "scientific_name": "Impatiens walleriana",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "インパチェンス",
+    "entity_type": "種・園芸品種",
+    "life_form": "多年草（日本では一年草扱いが多い）",
+    "flowering_season": "5〜11月",
+    "fruiting_season": "",
+    "distribution": "東アフリカ原産",
+    "habitat": "湿り気のある林縁など。園芸では半日陰の花壇、鉢植え",
+    "common_place": "花壇、鉢植え、日陰の庭",
+    "feature_summary": "柔らかい茎とみずみずしい葉をもち、白、桃、赤、紫などの花を長期間咲かせます。強い直射日光より明るい半日陰で育てやすい植物です。",
+    "trivia": "熟した果実は刺激を受けると弾けて種子を飛ばすため、属名 Impatiens は『我慢できない』という意味に由来します。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ツリフネソウ科",
+      "genus": "ツリフネソウ属",
+      "species": "Impatiens walleriana"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%91%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B9",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%91%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B9"
+    ],
+    "image": {
+      "author": "André Karwath aka Aka",
+      "license": "CC BY-SA 2.5",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Impatiens_walleriana_-_blossom_(aka).jpg",
+      "image_path": "images/0101_0150/flower_0110.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0111",
+    "category": "花",
+    "display_name": "ベゴニア",
+    "kana": "ベゴニア",
+    "search_aliases": [],
+    "family": "シュウカイドウ科",
+    "genus": "シュウカイドウ属",
+    "scientific_name": "Begonia",
+    "taxon_id": null,
+    "taxon_rank": "genus",
+    "matched_common_name": "ベゴニア",
+    "entity_type": "属・園芸群",
+    "life_form": "多年草または低木など",
+    "flowering_season": "4〜11月",
+    "fruiting_season": "",
+    "distribution": "熱帯・亜熱帯を中心に世界各地に分布する大きな属",
+    "habitat": "森林の林床や岩場など種により多様。園芸では鉢植え、花壇、室内",
+    "common_place": "花壇、鉢植え、室内",
+    "feature_summary": "左右非対称の葉をもつ種類が多く、花だけでなく葉の色や模様を観賞する系統も豊富です。木立性、根茎性、球根性など多様な園芸群があります。",
+    "trivia": "ベゴニア属には非常に多くの種があり、園芸では種間交雑による品種群も多数作られています。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "シュウカイドウ科",
+      "genus": "シュウカイドウ属",
+      "species": ""
+    },
+    "classification_note": "特定の1種ではなくベゴニア属と園芸群の総称として扱う",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%B4%E3%83%8B%E3%82%A2",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%B4%E3%83%8B%E3%82%A2"
+    ],
+    "image": {
+      "author": "KENPEI",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%E3%83%99%E3%82%B4%E3%83%8B%E3%82%A22.jpg",
+      "image_path": "images/0101_0150/flower_0111.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0112",
+    "category": "花",
+    "display_name": "センパフローレンス",
+    "kana": "センパフローレンス",
+    "search_aliases": [
+      "四季咲きベゴニア",
+      "センパーフローレンス"
+    ],
+    "family": "シュウカイドウ科",
+    "genus": "シュウカイドウ属",
+    "scientific_name": "Begonia × semperflorens-cultorum",
+    "taxon_id": null,
+    "taxon_rank": "hybrid",
+    "matched_common_name": "センパフローレンス",
+    "entity_type": "交雑種・園芸群",
+    "life_form": "多年草（日本では一年草扱いが多い）",
+    "flowering_season": "4〜11月",
+    "fruiting_season": "",
+    "distribution": "園芸交雑群",
+    "habitat": "園芸では花壇、鉢植え、公園。温暖期に長く開花",
+    "common_place": "花壇、鉢植え、公園",
+    "feature_summary": "丸みのある光沢葉を密につけ、白、桃、赤などの花を春から秋まで繰り返し咲かせます。銅葉や緑葉など葉色の違う品種があります。",
+    "trivia": "英語では wax begonia と呼ばれ、丈夫で花期が長いため公共花壇でも広く使われます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "シュウカイドウ科",
+      "genus": "シュウカイドウ属",
+      "species": "Begonia × semperflorens-cultorum"
+    },
+    "classification_note": "複数系統からなる園芸交雑群",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%B4%E3%83%8B%E3%82%A2",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%B4%E3%83%8B%E3%82%A2"
+    ],
+    "image": {
+      "author": "Juni from Kyoto, Japan",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Begonia_semperflorens.jpg",
+      "image_path": "images/0101_0150/flower_0112.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0113",
+    "category": "花",
+    "display_name": "トレニア",
+    "kana": "トレニア",
+    "search_aliases": [
+      "ハナウリクサ"
+    ],
+    "family": "アゼナ科",
+    "genus": "ツルウリクサ属",
+    "scientific_name": "Torenia fournieri",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "トレニア",
+    "entity_type": "種・園芸品種",
+    "life_form": "一年草",
+    "flowering_season": "5〜10月",
+    "fruiting_season": "",
+    "distribution": "東南アジア原産",
+    "habitat": "湿り気のある場所。園芸では花壇、鉢植え、半日陰",
+    "common_place": "花壇、鉢植え、日陰の庭",
+    "feature_summary": "唇形の花を初夏から秋まで咲かせ、青紫、桃、白などの花色があります。暑さに比較的強く、明るい半日陰でも花を楽しめます。",
+    "trivia": "英名 wishbone flower は、花の内部にある雄しべの形を叉骨に見立てた名です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "アゼナ科",
+      "genus": "ツルウリクサ属",
+      "species": "Torenia fournieri"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AB%E3%82%A6%E3%83%AA%E3%82%AF%E3%82%B5%E5%B1%9E",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AB%E3%82%A6%E3%83%AA%E3%82%AF%E3%82%B5%E5%B1%9E"
+    ],
+    "image": {
+      "author": "PapiPijuan",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Torenia_fournieri_Flower.jpg",
+      "image_path": "images/0101_0150/flower_0113.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0114",
+    "category": "花",
+    "display_name": "サルビア",
+    "kana": "サルビア",
+    "search_aliases": [
+      "ヒゴロモソウ"
+    ],
+    "family": "シソ科",
+    "genus": "アキギリ属",
+    "scientific_name": "Salvia splendens",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "サルビア",
+    "entity_type": "種・園芸品種",
+    "life_form": "多年草（日本では一年草扱いが多い）",
+    "flowering_season": "6〜11月",
+    "fruiting_season": "",
+    "distribution": "ブラジル原産",
+    "habitat": "温暖で日当たりのよい場所。園芸では花壇、公園、学校",
+    "common_place": "花壇、公園、学校",
+    "feature_summary": "直立する花穂に鮮やかな赤色の花と萼を多数つけます。紫、白、桃などの園芸品種もあり、夏から秋の花壇でよく使われます。",
+    "trivia": "日本で単に『サルビア』という場合、園芸では本種 Salvia splendens を指すことが多くあります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "シソ科",
+      "genus": "アキギリ属",
+      "species": "Salvia splendens"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AB%E3%83%93%E3%82%A2",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AB%E3%83%93%E3%82%A2"
+    ],
+    "image": {
+      "author": "Fanghong",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:SalviaSplendens.jpg",
+      "image_path": "images/0101_0150/flower_0114.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0115",
+    "category": "花",
+    "display_name": "ブルーサルビア",
+    "kana": "ブルーサルビア",
+    "search_aliases": [
+      "サルビア・ファリナセア"
+    ],
+    "family": "シソ科",
+    "genus": "アキギリ属",
+    "scientific_name": "Salvia farinacea",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ブルーサルビア",
+    "entity_type": "種・園芸品種",
+    "life_form": "多年草（日本では一年草扱いが多い）",
+    "flowering_season": "5〜11月",
+    "fruiting_season": "",
+    "distribution": "北アメリカ南部からメキシコ原産",
+    "habitat": "乾燥気味の日当たりのよい草地。園芸では花壇、公園",
+    "common_place": "花壇、公園、庭",
+    "feature_summary": "細長い花穂に青紫色や白色の小花を多数つけ、初夏から秋まで涼しげな花姿を保ちます。",
+    "trivia": "種小名 farinacea は『粉を帯びた』という意味で、萼や茎が白っぽく見える性質に由来します。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "シソ科",
+      "genus": "アキギリ属",
+      "species": "Salvia farinacea"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://en.wikipedia.org/wiki/Salvia_farinacea",
+    "content_source_urls": [
+      "https://en.wikipedia.org/wiki/Salvia_farinacea"
+    ],
+    "image": {
+      "author": "Kakidai",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Salvia_farinacea.JPG",
+      "image_path": "images/0101_0150/flower_0115.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0116",
+    "category": "花",
+    "display_name": "メランポジウム",
+    "kana": "メランポジウム",
+    "search_aliases": [
+      "メランポディウム"
+    ],
+    "family": "キク科",
+    "genus": "メランポジウム属",
+    "scientific_name": "Melampodium divaricatum",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "メランポジウム",
+    "entity_type": "種・園芸品種",
+    "life_form": "一年草",
+    "flowering_season": "5〜11月",
+    "fruiting_season": "",
+    "distribution": "メキシコから中央アメリカ原産",
+    "habitat": "日当たりのよい草地。園芸では花壇、鉢植え、グランドカバー",
+    "common_place": "花壇、鉢植え、公園",
+    "feature_summary": "よく分枝してこんもり茂り、春から秋まで黄色い小型の頭状花を多数咲かせます。暑さに強く、花がらが目立ちにくい夏花です。",
+    "trivia": "日本では『メランポジウム』『メランポディウム』の両表記が見られます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "キク科",
+      "genus": "メランポジウム属",
+      "species": "Melampodium divaricatum"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://en.wikipedia.org/wiki/Melampodium_divaricatum",
+    "content_source_urls": [
+      "https://en.wikipedia.org/wiki/Melampodium_divaricatum"
+    ],
+    "image": {
+      "author": "A2613",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Melampodium_divaricatum-bunga-A2613.jpg",
+      "image_path": "images/0101_0150/flower_0116.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0117",
+    "category": "花",
+    "display_name": "ジニア",
+    "kana": "ジニア",
+    "search_aliases": [
+      "ヒャクニチソウ",
+      "百日草"
+    ],
+    "family": "キク科",
+    "genus": "ヒャクニチソウ属",
+    "scientific_name": "Zinnia elegans",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ジニア",
+    "entity_type": "種・園芸品種",
+    "life_form": "一年草",
+    "flowering_season": "5〜11月",
+    "fruiting_season": "",
+    "distribution": "メキシコ原産",
+    "habitat": "日当たりのよい草地。園芸では花壇、庭、切り花",
+    "common_place": "花壇、庭、切り花",
+    "feature_summary": "初夏から秋まで花期が長く、一重、八重、ポンポン咲きなど多様な花形があります。赤、桃、黄、橙、白など花色も豊富です。",
+    "trivia": "長期間花を楽しめることから日本では『百日草』と呼ばれます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "キク科",
+      "genus": "ヒャクニチソウ属",
+      "species": "Zinnia elegans"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A3%E3%82%AF%E3%83%8B%E3%83%81%E3%82%BD%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A3%E3%82%AF%E3%83%8B%E3%83%81%E3%82%BD%E3%82%A6"
+    ],
+    "image": {
+      "author": "Sabina Bajracharya",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Zinnia_elegans_flower_(1).jpg",
+      "image_path": "images/0101_0150/flower_0117.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0118",
+    "category": "花",
+    "display_name": "マリーゴールド",
+    "kana": "マリーゴールド",
+    "search_aliases": [],
+    "family": "キク科",
+    "genus": "マンジュギク属",
+    "scientific_name": "Tagetes",
+    "taxon_id": null,
+    "taxon_rank": "genus",
+    "matched_common_name": "マリーゴールド",
+    "entity_type": "属・園芸群",
+    "life_form": "一年草または多年草",
+    "flowering_season": "4〜12月",
+    "fruiting_season": "",
+    "distribution": "メキシコを中心としたアメリカ大陸原産の属",
+    "habitat": "日当たりのよい草地。園芸では花壇、公園、家庭菜園",
+    "common_place": "花壇、公園、家庭菜園",
+    "feature_summary": "黄、橙、赤褐色などの花を長期間咲かせます。フレンチ系やアフリカン系など草丈や花径の異なる園芸系統があります。",
+    "trivia": "葉や花に独特の香りがあり、園芸ではコンパニオンプランツとして植えられることもあります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "キク科",
+      "genus": "マンジュギク属",
+      "species": ""
+    },
+    "classification_note": "マリーゴールドは複数種と園芸系統を含む呼び名として扱う",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89"
+    ],
+    "image": {
+      "author": "Dolon Prova",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tagetes_Erecta_Flower.jpg",
+      "image_path": "images/0101_0150/flower_0118.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0119",
+    "category": "花",
+    "display_name": "センニチコウ",
+    "kana": "センニチコウ",
+    "search_aliases": [
+      "千日紅"
+    ],
+    "family": "ヒユ科",
+    "genus": "センニチコウ属",
+    "scientific_name": "Gomphrena globosa",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "センニチコウ",
+    "entity_type": "種・園芸品種",
+    "life_form": "一年草",
+    "flowering_season": "5〜11月",
+    "fruiting_season": "",
+    "distribution": "熱帯アメリカ原産",
+    "habitat": "乾燥気味の日当たりのよい場所。園芸では花壇、庭、切り花",
+    "common_place": "花壇、庭、切り花",
+    "feature_summary": "丸い球状の花序を長い花茎の先につけ、赤紫、桃、白などの色を長く保ちます。目立つ部分の多くは乾いた苞です。",
+    "trivia": "乾燥させても色が残りやすいため、ドライフラワーとして古くから利用されています。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ヒユ科",
+      "genus": "センニチコウ属",
+      "species": "Gomphrena globosa"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%8B%E3%83%81%E3%82%B3%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%8B%E3%83%81%E3%82%B3%E3%82%A6"
+    ],
+    "image": {
+      "author": "Magnus Manske",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gomphrena_globosa_(Gomphrena)_flower.JPG",
+      "image_path": "images/0101_0150/flower_0119.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0120",
+    "category": "花",
+    "display_name": "ケイトウ",
+    "kana": "ケイトウ",
+    "search_aliases": [
+      "鶏頭"
+    ],
+    "family": "ヒユ科",
+    "genus": "ケイトウ属",
+    "scientific_name": "Celosia argentea",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ケイトウ",
+    "entity_type": "種・園芸品種",
+    "life_form": "一年草",
+    "flowering_season": "7〜11月",
+    "fruiting_season": "",
+    "distribution": "熱帯地域原産とされ、世界各地で栽培",
+    "habitat": "日当たりのよい場所。園芸では花壇、庭、切り花",
+    "common_place": "花壇、庭、切り花",
+    "feature_summary": "赤、桃、黄、橙などの花序をつけます。鶏冠状、羽毛状、槍状など形の異なる園芸系統があります。",
+    "trivia": "鶏のとさかに似た花序から『鶏頭』の名が付いたとされます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ヒユ科",
+      "genus": "ケイトウ属",
+      "species": "Celosia argentea"
+    },
+    "classification_note": "園芸上は Celosia argentea の多様な系統を含む",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%83%88%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%83%88%E3%82%A6"
+    ],
+    "image": {
+      "author": "Striving tranquil",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Celosia_cristata_flower,_JMI.jpg",
+      "image_path": "images/0101_0150/flower_0120.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0121",
+    "category": "花",
+    "display_name": "ハゲイトウ",
+    "kana": "ハゲイトウ",
+    "search_aliases": [
+      "葉鶏頭"
+    ],
+    "family": "ヒユ科",
+    "genus": "ヒユ属",
+    "scientific_name": "Amaranthus tricolor",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ハゲイトウ",
+    "entity_type": "種・園芸品種",
+    "life_form": "一年草",
+    "flowering_season": "7〜11月",
+    "fruiting_season": "",
+    "distribution": "熱帯アジア原産とされる",
+    "habitat": "日当たりのよい場所。園芸では花壇、公園",
+    "common_place": "花壇、庭、公園",
+    "feature_summary": "花よりも葉を観賞する植物で、夏から秋に上部の葉が赤、黄、橙など鮮やかに色づきます。草丈の高い品種もあります。",
+    "trivia": "ケイトウに似た名前ですが、観賞の中心は花序ではなく鮮やかに色づく葉です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ヒユ科",
+      "genus": "ヒユ属",
+      "species": "Amaranthus tricolor"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%B2%E3%82%A4%E3%83%88%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%B2%E3%82%A4%E3%83%88%E3%82%A6"
+    ],
+    "image": {
+      "author": "Kurt Stüber",
+      "license": "GFDL",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amaranthus_tricolor3.jpg",
+      "image_path": "images/0101_0150/flower_0121.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0122",
+    "category": "花",
+    "display_name": "アゲラタム",
+    "kana": "アゲラタム",
+    "search_aliases": [
+      "オオカッコウアザミ"
+    ],
+    "family": "キク科",
+    "genus": "カッコウアザミ属",
+    "scientific_name": "Ageratum houstonianum",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "アゲラタム",
+    "entity_type": "種・園芸品種",
+    "life_form": "一年草または短命な多年草",
+    "flowering_season": "5〜11月",
+    "fruiting_season": "",
+    "distribution": "メキシコから中央アメリカ原産",
+    "habitat": "草地や林縁。園芸では花壇、鉢植え、公園",
+    "common_place": "花壇、鉢植え、公園",
+    "feature_summary": "青紫、紫、桃、白などの細い筒状花が集まり、ふわふわした房状に見える花を長期間咲かせます。",
+    "trivia": "園芸で『アゲラタム』と呼ばれる代表種が Ageratum houstonianum です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "キク科",
+      "genus": "カッコウアザミ属",
+      "species": "Ageratum houstonianum"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://en.wikipedia.org/wiki/Ageratum_houstonianum",
+    "content_source_urls": [
+      "https://en.wikipedia.org/wiki/Ageratum_houstonianum"
+    ],
+    "image": {
+      "author": "Dalgial",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ageratum_houstonianum_01.JPG",
+      "image_path": "images/0101_0150/flower_0122.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0123",
+    "category": "花",
+    "display_name": "クフェア",
+    "kana": "クフェア",
+    "search_aliases": [
+      "メキシカンヒース"
+    ],
+    "family": "ミソハギ科",
+    "genus": "クフェア属",
+    "scientific_name": "Cuphea hyssopifolia",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "クフェア",
+    "entity_type": "種・園芸品種",
+    "life_form": "常緑小低木",
+    "flowering_season": "5〜10月",
+    "fruiting_season": "",
+    "distribution": "メキシコ、グアテマラ、ホンジュラス原産",
+    "habitat": "温暖な林縁や攪乱地。園芸では鉢植え、花壇",
+    "common_place": "鉢植え、花壇、庭",
+    "feature_summary": "細かな葉を密につけ、紫、桃、白などの小花を長期間咲かせる小型の低木です。刈り込みにも比較的強く、縁取りにも使われます。",
+    "trivia": "英名 Mexican heather と呼ばれますが、ツツジ科のヒース類とは別のミソハギ科植物です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ミソハギ科",
+      "genus": "クフェア属",
+      "species": "Cuphea hyssopifolia"
+    },
+    "classification_note": "園芸でクフェアと呼ばれる植物は複数種あるが、今回の画像・用途に合わせ代表的な C. hyssopifolia を採用",
+    "plant_source_url": "https://en.wikipedia.org/wiki/Cuphea_hyssopifolia",
+    "content_source_urls": [
+      "https://en.wikipedia.org/wiki/Cuphea_hyssopifolia"
+    ],
+    "image": {
+      "author": "M108t",
+      "license": "CC BY 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cuphea_hyssopifolia_flower_in_Ishigaki,_Okinawa_1.jpg",
+      "image_path": "images/0101_0150/flower_0123.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0124",
+    "category": "花",
+    "display_name": "ニコチアナ",
+    "kana": "ニコチアナ",
+    "search_aliases": [
+      "ハナタバコ",
+      "シュッコンタバコ"
+    ],
+    "family": "ナス科",
+    "genus": "タバコ属",
+    "scientific_name": "Nicotiana alata",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ニコチアナ",
+    "entity_type": "種・園芸品種",
+    "life_form": "多年草（寒冷地では一年草扱い）",
+    "flowering_season": "5〜10月",
+    "fruiting_season": "",
+    "distribution": "南アメリカ原産",
+    "habitat": "温暖な草地や林縁。園芸では花壇、庭、鉢植え",
+    "common_place": "花壇、庭、鉢植え",
+    "feature_summary": "細長い筒状花を咲かせ、白、桃、赤、緑などの園芸品種があります。夕方から香りが強くなる系統もあります。",
+    "trivia": "タバコと同じ Nicotiana 属ですが、主に観賞用として栽培されます。植物体にはニコチンなどの成分を含む場合があります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ナス科",
+      "genus": "タバコ属",
+      "species": "Nicotiana alata"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%83%E3%82%B3%E3%83%B3%E3%82%BF%E3%83%90%E3%82%B3",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%83%E3%82%B3%E3%83%B3%E3%82%BF%E3%83%90%E3%82%B3"
+    ],
+    "image": {
+      "author": "阿橋花譜 HQ Flower Guide",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://www.flickr.com/photos/52582306@N03/39989444430/",
+      "image_path": "images/0101_0150/flower_0124.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0125",
+    "category": "花",
+    "display_name": "クレオメ",
+    "kana": "クレオメ",
+    "search_aliases": [
+      "セイヨウフウチョウソウ",
+      "クレオメ・ハッスレリアナ"
+    ],
+    "family": "フウチョウソウ科",
+    "genus": "セイヨウフウチョウソウ属",
+    "scientific_name": "Tarenaya hassleriana",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "クレオメ",
+    "entity_type": "種・園芸品種",
+    "life_form": "一年草",
+    "flowering_season": "6〜10月",
+    "fruiting_season": "",
+    "distribution": "南アメリカ原産",
+    "habitat": "日当たりのよい草地。園芸では花壇、庭、公園",
+    "common_place": "花壇、庭、公園",
+    "feature_summary": "高く伸びた茎の先に桃、白、紫などの花を次々に咲かせ、長く突き出す雄しべが特徴的です。",
+    "trivia": "細長い雄しべが蝶や蜘蛛の脚を思わせるため、英語では spider flower と呼ばれます。旧学名 Cleome hassleriana でも広く知られます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "フウチョウソウ科",
+      "genus": "セイヨウフウチョウソウ属",
+      "species": "Tarenaya hassleriana"
+    },
+    "classification_note": "旧属名 Cleome が園芸名として定着",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%95%E3%82%A6%E3%83%81%E3%83%A7%E3%82%A6%E3%82%BD%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%95%E3%82%A6%E3%83%81%E3%83%A7%E3%82%A6%E3%82%BD%E3%82%A6"
+    ],
+    "image": {
+      "author": "Magnus Manske",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cleome_hassleriana_(Capparidaceae)_flower.JPG",
+      "image_path": "images/0101_0150/flower_0125.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0126",
+    "category": "花",
+    "display_name": "アンゲロニア",
+    "kana": "アンゲロニア",
+    "search_aliases": [],
+    "family": "オオバコ科",
+    "genus": "アンゲロニア属",
+    "scientific_name": "Angelonia angustifolia",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "アンゲロニア",
+    "entity_type": "種・園芸品種",
+    "life_form": "多年草（日本では一年草扱いが多い）",
+    "flowering_season": "5〜11月",
+    "fruiting_season": "",
+    "distribution": "メキシコから中央アメリカ、カリブ海地域原産",
+    "habitat": "日当たりのよい草地。園芸では花壇、鉢植え",
+    "common_place": "花壇、鉢植え、庭",
+    "feature_summary": "直立する花穂に紫、青、桃、白などの小花を多数咲かせます。暑さに強く、初夏から秋まで花期が長い植物です。",
+    "trivia": "英語では summer snapdragon と呼ばれますが、キンギョソウとは別属です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "オオバコ科",
+      "genus": "アンゲロニア属",
+      "species": "Angelonia angustifolia"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://en.wikipedia.org/wiki/Angelonia",
+    "content_source_urls": [
+      "https://en.wikipedia.org/wiki/Angelonia"
+    ],
+    "image": {
+      "author": "Dinesh Valke",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://www.flickr.com/photos/dinesh_valke/357238264/",
+      "image_path": "images/0101_0150/flower_0126.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0127",
+    "category": "花",
+    "display_name": "ペンタス",
+    "kana": "ペンタス",
+    "search_aliases": [],
+    "family": "アカネ科",
+    "genus": "ペンタス属",
+    "scientific_name": "Pentas lanceolata",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ペンタス",
+    "entity_type": "種・園芸品種",
+    "life_form": "常緑多年草または小低木",
+    "flowering_season": "5〜10月",
+    "fruiting_season": "",
+    "distribution": "熱帯アフリカからアラビア半島に分布",
+    "habitat": "日当たりのよい草地や低木地。園芸では花壇、鉢植え",
+    "common_place": "花壇、鉢植え、庭",
+    "feature_summary": "星形の小花を半球状に多数集め、赤、桃、紫、白などの花を長期間咲かせます。暑さに強い夏花です。",
+    "trivia": "属名 Pentas は5を意味する語に由来し、5裂する星形の花冠を表します。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "アカネ科",
+      "genus": "ペンタス属",
+      "species": "Pentas lanceolata"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%BF%E3%82%B9",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%BF%E3%82%B9"
+    ],
+    "image": {
+      "author": "Clintacc",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pink_Pentas_lanceolata_flowers_in_Kerala.jpg",
+      "image_path": "images/0101_0150/flower_0127.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0128",
+    "category": "花",
+    "display_name": "ブーゲンビリア",
+    "kana": "ブーゲンビリア",
+    "search_aliases": [],
+    "family": "オシロイバナ科",
+    "genus": "ブーゲンビリア属",
+    "scientific_name": "Bougainvillea",
+    "taxon_id": null,
+    "taxon_rank": "genus",
+    "matched_common_name": "ブーゲンビリア",
+    "entity_type": "属・園芸群",
+    "life_form": "つる性低木または低木",
+    "flowering_season": "4〜10月",
+    "fruiting_season": "",
+    "distribution": "南アメリカ原産の属",
+    "habitat": "乾燥した温暖地。園芸では鉢植え、庭、温室",
+    "common_place": "鉢植え、庭、温室",
+    "feature_summary": "赤、桃、紫、橙、白など鮮やかな部分は花弁ではなく苞で、その中心に小さな白色系の花があります。枝にはとげをもつ種類があります。",
+    "trivia": "鮮やかな苞が長く残るため、熱帯・亜熱帯の街路や庭園で広く栽培されています。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "オシロイバナ科",
+      "genus": "ブーゲンビリア属",
+      "species": ""
+    },
+    "classification_note": "園芸品種は複数種・交雑系統を含むため属レベルで扱う",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%82%B2%E3%83%B3%E3%83%93%E3%83%AA%E3%82%A2",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%82%B2%E3%83%B3%E3%83%93%E3%83%AA%E3%82%A2"
+    ],
+    "image": {
+      "author": "Waran R Samay",
+      "license": "CC BY 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bougainvillea_flower_image.jpg",
+      "image_path": "images/0101_0150/flower_0128.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0129",
+    "category": "花",
+    "display_name": "マンデビラ",
+    "kana": "マンデビラ",
+    "search_aliases": [],
+    "family": "キョウチクトウ科",
+    "genus": "マンデビラ属",
+    "scientific_name": "Mandevilla",
+    "taxon_id": null,
+    "taxon_rank": "genus",
+    "matched_common_name": "マンデビラ",
+    "entity_type": "属・園芸群",
+    "life_form": "つる性多年草または低木",
+    "flowering_season": "5〜10月",
+    "fruiting_season": "",
+    "distribution": "中南米を中心に分布する属",
+    "habitat": "温暖な林縁など。園芸では鉢植え、庭、フェンス",
+    "common_place": "鉢植え、庭、フェンス",
+    "feature_summary": "光沢のある葉とつるをもち、赤、桃、白、黄などの大きな漏斗形の花を初夏から秋まで咲かせます。",
+    "trivia": "園芸では旧属名に由来する『デプラデニア』の名で流通する系統もあります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "キョウチクトウ科",
+      "genus": "マンデビラ属",
+      "species": ""
+    },
+    "classification_note": "複数種・交雑品種を含む園芸名として属レベルで扱う",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%87%E3%83%93%E3%83%A9%E5%B1%9E",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%87%E3%83%93%E3%83%A9%E5%B1%9E"
+    ],
+    "image": {
+      "author": "Symphony999",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mandevilla_Flower.jpg",
+      "image_path": "images/0101_0150/flower_0129.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0130",
+    "category": "花",
+    "display_name": "アメリカンブルー",
+    "kana": "アメリカンブルー",
+    "search_aliases": [
+      "エボルブルス",
+      "ブルーデイズ",
+      "Evolvulus pilosus"
+    ],
+    "family": "ヒルガオ科",
+    "genus": "アサガオガラクサ属",
+    "scientific_name": "Evolvulus nuttallianus",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "アメリカンブルー",
+    "entity_type": "種・園芸品種",
+    "life_form": "多年草または亜低木",
+    "flowering_season": "5〜10月",
+    "fruiting_season": "",
+    "distribution": "北アメリカ原産。園芸系統が各地で栽培",
+    "habitat": "乾燥した日当たりのよい場所。園芸では鉢植え、花壇、ハンギング",
+    "common_place": "鉢植え、花壇、ハンギング",
+    "feature_summary": "灰緑色の細かな葉を茂らせ、初夏から秋まで鮮やかな青い小花を次々に咲かせます。茎は横へ広がりやすい性質があります。",
+    "trivia": "Evolvulus pilosus の名でも長く流通しており、アメリカンブルーには近縁種や園芸系統が含まれる場合があります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ヒルガオ科",
+      "genus": "アサガオガラクサ属",
+      "species": "Evolvulus nuttallianus"
+    },
+    "classification_note": "旧名 Evolvulus pilosus との扱いに資料差があるため、現在受容される E. nuttallianus を採用",
+    "plant_source_url": "https://mikawanoyasou.org/data/americanblue.htm",
+    "content_source_urls": [
+      "https://mikawanoyasou.org/data/americanblue.htm"
+    ],
+    "image": {
+      "author": "Juni",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Evolvulus_pilosus.jpg",
+      "image_path": "images/0101_0150/flower_0130.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0131",
+    "category": "花",
+    "display_name": "ブルーデージー",
+    "kana": "ブルーデージー",
+    "search_aliases": [
+      "フェリシア"
+    ],
+    "family": "キク科",
+    "genus": "フェリシア属",
+    "scientific_name": "Felicia amelloides",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ブルーデージー",
+    "entity_type": "種・園芸品種",
+    "life_form": "常緑多年草または小低木",
+    "flowering_season": "3〜6月、10〜12月",
+    "fruiting_season": "",
+    "distribution": "南アフリカ原産",
+    "habitat": "海岸近くや岩地など。園芸では鉢植え、花壇、庭",
+    "common_place": "鉢植え、花壇、庭",
+    "feature_summary": "青紫色の舌状花と黄色い中心部をもつ小型のキク状花を咲かせます。涼しい時期によく開花し、株はこんもり茂ります。",
+    "trivia": "『デージー』の名が付きますが、ヒナギク属 Bellis ではなくフェリシア属の植物です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "キク科",
+      "genus": "フェリシア属",
+      "species": "Felicia amelloides"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://en.wikipedia.org/wiki/Felicia_amelloides",
+    "content_source_urls": [
+      "https://en.wikipedia.org/wiki/Felicia_amelloides"
+    ],
+    "image": {
+      "author": "John Rusk",
+      "license": "CC BY 2.0",
+      "source_url": "https://www.flickr.com/photos/12303842@N00/26494123815/",
+      "image_path": "images/0101_0150/flower_0131.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0132",
+    "category": "花",
+    "display_name": "ユーフォルビア・ヒペリキフォリア",
+    "kana": "ユーフォルビア・ヒペリキフォリア",
+    "search_aliases": [],
+    "family": "トウダイグサ科",
+    "genus": "トウダイグサ属",
+    "scientific_name": "Euphorbia hypericifolia",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ユーフォルビア・ヒペリキフォリア",
+    "entity_type": "種・園芸品種",
+    "life_form": "一年草または多年草",
+    "flowering_season": "5〜11月",
+    "fruiting_season": "",
+    "distribution": "熱帯アメリカ原産",
+    "habitat": "乾燥気味の日当たりのよい場所。園芸では花壇、鉢植え、寄せ植え",
+    "common_place": "花壇、鉢植え、寄せ植え",
+    "feature_summary": "細い枝を多数伸ばし、白い小さな苞が株全体に散るように見えます。繊細な外観ですが暑さに強い園芸品種が多くあります。",
+    "trivia": "トウダイグサ属の植物なので、茎を切ると白い乳液が出ます。皮膚や目に触れないよう注意が必要です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "トウダイグサ科",
+      "genus": "トウダイグサ属",
+      "species": "Euphorbia hypericifolia"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://en.wikipedia.org/wiki/Euphorbia_hypericifolia",
+    "content_source_urls": [
+      "https://en.wikipedia.org/wiki/Euphorbia_hypericifolia"
+    ],
+    "image": {
+      "author": "M108t",
+      "license": "CC BY 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Inflorescece_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa_1.jpg",
+      "image_path": "images/0101_0150/flower_0132.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0133",
+    "category": "花",
+    "display_name": "ニーレンベルギア",
+    "kana": "ニーレンベルギア",
+    "search_aliases": [],
+    "family": "ナス科",
+    "genus": "アマモドキ属",
+    "scientific_name": "Nierembergia",
+    "taxon_id": null,
+    "taxon_rank": "genus",
+    "matched_common_name": "ニーレンベルギア",
+    "entity_type": "属・園芸群",
+    "life_form": "一年草または多年草",
+    "flowering_season": "5〜10月",
+    "fruiting_season": "",
+    "distribution": "南アメリカを中心に分布する属",
+    "habitat": "草地など。園芸では花壇、鉢植え、ロックガーデン",
+    "common_place": "花壇、鉢植え、庭",
+    "feature_summary": "細い茎と小さな葉をもち、白や淡紫色の杯状・星状の花を多数咲かせます。地面を覆うタイプと立ち上がるタイプがあります。",
+    "trivia": "園芸で『ニーレンベルギア』と呼ばれるものには複数種や園芸品種が含まれるため、属レベルで扱うのが安全です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ナス科",
+      "genus": "アマモドキ属",
+      "species": ""
+    },
+    "classification_note": "画像・流通名が複数種を含むため属レベルで扱う",
+    "plant_source_url": "https://en.wikipedia.org/wiki/Nierembergia",
+    "content_source_urls": [
+      "https://en.wikipedia.org/wiki/Nierembergia"
+    ],
+    "image": {
+      "author": "Denis Prevot",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Nierembergia_scoparia_-_Floraison.jpg",
+      "image_path": "images/0101_0150/flower_0133.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0134",
+    "category": "花",
+    "display_name": "カスミソウ",
+    "kana": "カスミソウ",
+    "search_aliases": [
+      "霞草"
+    ],
+    "family": "ナデシコ科",
+    "genus": "カスミソウ属",
+    "scientific_name": "Gypsophila paniculata",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "カスミソウ",
+    "entity_type": "種・園芸品種",
+    "life_form": "多年草",
+    "flowering_season": "5〜7月",
+    "fruiting_season": "",
+    "distribution": "ヨーロッパから西・中央アジア原産",
+    "habitat": "乾いた草地や砂質地。園芸では花壇、切り花",
+    "common_place": "花壇、切り花、庭",
+    "feature_summary": "細く分枝する茎に白色または淡桃色の小花を非常に多数つけ、株全体が霞のように見えます。切り花の添え花として代表的です。",
+    "trivia": "属名 Gypsophila は『石膏を好む』という意味に由来し、石灰質の土壌に生える種があることにちなみます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ナデシコ科",
+      "genus": "カスミソウ属",
+      "species": "Gypsophila paniculata"
+    },
+    "classification_note": "園芸でカスミソウと呼ばれる代表的な切り花種を採用",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%83%9F%E3%82%BD%E3%82%A6",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%83%9F%E3%82%BD%E3%82%A6"
+    ],
+    "image": {
+      "author": "Avenue",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Close-up_of_baby%27s_breath_(Gypsophila_paniculata)_flowers.jpg",
+      "image_path": "images/0101_0150/flower_0134.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0135",
+    "category": "花",
+    "display_name": "スターチス",
+    "kana": "スターチス",
+    "search_aliases": [
+      "リモニウム",
+      "ハナハマサジ"
+    ],
+    "family": "イソマツ科",
+    "genus": "イソマツ属",
+    "scientific_name": "Limonium sinuatum",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "スターチス",
+    "entity_type": "種・園芸品種",
+    "life_form": "一年草または多年草",
+    "flowering_season": "5〜7月",
+    "fruiting_season": "",
+    "distribution": "地中海沿岸原産",
+    "habitat": "海岸近くの乾燥地など。園芸では花壇、切り花",
+    "common_place": "切り花、花壇、庭",
+    "feature_summary": "枝分かれした花茎に小花を多数つけ、青紫、桃、黄、白などに見える萼が乾いても色を保ちます。切り花やドライフラワーでよく利用されます。",
+    "trivia": "『スターチス』は旧属名 Statice に由来する流通名で、現在は Limonium 属に分類されます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "イソマツ科",
+      "genus": "イソマツ属",
+      "species": "Limonium sinuatum"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A2%E3%83%8B%E3%82%A6%E3%83%A0",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A2%E3%83%8B%E3%82%A6%E3%83%A0"
+    ],
+    "image": {
+      "author": "Kevin Thiele",
+      "license": "CC BY 2.0",
+      "source_url": "https://www.flickr.com/photos/66951228@N07/6714502983/",
+      "image_path": "images/0101_0150/flower_0135.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0136",
+    "category": "花",
+    "display_name": "ヘリクリサム",
+    "kana": "ヘリクリサム",
+    "search_aliases": [
+      "ムギワラギク",
+      "帝王貝細工",
+      "カイザイク",
+      "Helichrysum bracteatum"
+    ],
+    "family": "キク科",
+    "genus": "ムギワラギク属",
+    "scientific_name": "Xerochrysum bracteatum",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ヘリクリサム",
+    "entity_type": "種・園芸品種",
+    "life_form": "多年草（園芸では一年草扱いが多い）",
+    "flowering_season": "5〜9月",
+    "fruiting_season": "",
+    "distribution": "オーストラリア原産",
+    "habitat": "乾燥した日当たりのよい場所。園芸では花壇、鉢植え、ドライフラワー",
+    "common_place": "花壇、鉢植え、ドライフラワー",
+    "feature_summary": "紙のように硬く光沢のある総苞片が幾重にも重なり、黄、橙、赤、桃、白などの花色を長く保ちます。",
+    "trivia": "旧学名 Helichrysum bracteatum で広く知られ、乾燥後も形と色が残りやすいためドライフラワーの代表種です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "キク科",
+      "genus": "ムギワラギク属",
+      "species": "Xerochrysum bracteatum"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%AE%E3%83%AF%E3%83%A9%E3%82%AE%E3%82%AF",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%AE%E3%83%AF%E3%83%A9%E3%82%AE%E3%82%AF"
+    ],
+    "image": {
+      "author": "Mullookkaaran",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Xerochrysum_Bracteatum_Flower.jpg",
+      "image_path": "images/0101_0150/flower_0136.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0137",
+    "category": "花",
+    "display_name": "ブルースター",
+    "kana": "ブルースター",
+    "search_aliases": [
+      "ルリトウワタ",
+      "オキシペタラム",
+      "Tweedia caerulea"
+    ],
+    "family": "キョウチクトウ科",
+    "genus": "ルリトウワタ属",
+    "scientific_name": "Oxypetalum coeruleum",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ブルースター",
+    "entity_type": "種・園芸品種",
+    "life_form": "つる性または半つる性の多年草",
+    "flowering_season": "5〜10月",
+    "fruiting_season": "",
+    "distribution": "ブラジル南部からウルグアイ原産",
+    "habitat": "日当たりと水はけのよい場所。園芸では庭、鉢植え、切り花",
+    "common_place": "庭、鉢植え、切り花",
+    "feature_summary": "灰緑色の柔らかな葉をもち、淡い青色の星形花を咲かせます。切り花では『ブルースター』の名で親しまれます。",
+    "trivia": "旧属名 Tweedia に由来する Tweedia caerulea の名でも流通します。傷を付けると白い乳液が出ます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "キョウチクトウ科",
+      "genus": "ルリトウワタ属",
+      "species": "Oxypetalum coeruleum"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%AA%E3%83%88%E3%82%A6%E3%83%AF%E3%82%BF",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%AA%E3%83%88%E3%82%A6%E3%83%AF%E3%82%BF"
+    ],
+    "image": {
+      "author": "Dick Culbert",
+      "license": "CC BY 2.0",
+      "source_url": "https://www.flickr.com/photos/92252798@N07/19279773802/",
+      "image_path": "images/0101_0150/flower_0137.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0138",
+    "category": "花",
+    "display_name": "ユウギリソウ",
+    "kana": "ユウギリソウ",
+    "search_aliases": [
+      "トラケリウム"
+    ],
+    "family": "キキョウ科",
+    "genus": "トラケリウム属",
+    "scientific_name": "Trachelium caeruleum",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ユウギリソウ",
+    "entity_type": "種・園芸品種",
+    "life_form": "多年草または亜低木",
+    "flowering_season": "6〜9月",
+    "fruiting_season": "",
+    "distribution": "地中海西部原産",
+    "habitat": "岩場や崖地など。園芸では花壇、切り花",
+    "common_place": "切り花、花壇、庭",
+    "feature_summary": "小さな青紫、紫、白などの花を大きな半球状の房に密集させて咲かせます。切り花では細かな花が霞のような質感を作ります。",
+    "trivia": "属名 Trachelium は喉を意味するギリシャ語に由来するとされ、古い利用法に関連して名付けられたと説明されます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "キキョウ科",
+      "genus": "トラケリウム属",
+      "species": "Trachelium caeruleum"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://en.wikipedia.org/wiki/Trachelium_caeruleum",
+    "content_source_urls": [
+      "https://en.wikipedia.org/wiki/Trachelium_caeruleum"
+    ],
+    "image": {
+      "author": "Derek Ramsey (Ram-Man)",
+      "license": "GFDL 1.2",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Trachelium_caeruleum_%27Devotion_Purple%27_Flower.JPG",
+      "image_path": "images/0101_0150/flower_0138.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0139",
+    "category": "花",
+    "display_name": "フロックス・ドラモンディ",
+    "kana": "フロックス・ドラモンディ",
+    "search_aliases": [
+      "フロックス・ドゥルモンディ"
+    ],
+    "family": "ハナシノブ科",
+    "genus": "フロックス属",
+    "scientific_name": "Phlox drummondii",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "フロックス・ドラモンディ",
+    "entity_type": "種・園芸品種",
+    "life_form": "一年草",
+    "flowering_season": "4〜7月",
+    "fruiting_season": "",
+    "distribution": "アメリカ合衆国南部原産",
+    "habitat": "草地や開けた場所。園芸では花壇、鉢植え、庭",
+    "common_place": "花壇、鉢植え、庭",
+    "feature_summary": "春から初夏に赤、桃、紫、白などの5裂した花を多数咲かせます。一年草タイプのフロックスとして利用されます。",
+    "trivia": "種小名 drummondii は植物採集家トーマス・ドラモンドにちなみます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ハナシノブ科",
+      "genus": "フロックス属",
+      "species": "Phlox drummondii"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://en.wikipedia.org/wiki/Phlox_drummondii",
+    "content_source_urls": [
+      "https://en.wikipedia.org/wiki/Phlox_drummondii"
+    ],
+    "image": {
+      "author": "Rahulrnath001",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flowers_of_phlox_drummondii.jpg",
+      "image_path": "images/0101_0150/flower_0139.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0140",
+    "category": "花",
+    "display_name": "アサリナ",
+    "kana": "アサリナ",
+    "search_aliases": [],
+    "family": "オオバコ科",
+    "genus": "アサリナ属",
+    "scientific_name": "Asarina",
+    "taxon_id": null,
+    "taxon_rank": "genus",
+    "matched_common_name": "アサリナ",
+    "entity_type": "属・園芸群",
+    "life_form": "つる性多年草または一年草扱い",
+    "flowering_season": "6〜10月",
+    "fruiting_season": "",
+    "distribution": "園芸でアサリナと呼ばれるつる植物は主にメキシコなどの近縁群に由来",
+    "habitat": "日当たりから半日陰。園芸では鉢植え、フェンス、庭",
+    "common_place": "鉢植え、フェンス、庭",
+    "feature_summary": "細いつるを伸ばし、紫、桃、白などの筒状から漏斗形の花を咲かせます。フェンスやトレリスに絡ませて楽しみます。",
+    "trivia": "園芸上の『アサリナ』は旧分類名を含む複数の近縁植物に使われることがあり、Maurandya や Lophospermum に移された種もあります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "オオバコ科",
+      "genus": "アサリナ属",
+      "species": ""
+    },
+    "classification_note": "流通名と現在の属分類が一致しない場合があるため園芸群として扱う",
+    "plant_source_url": "https://en.wikipedia.org/wiki/Asarina",
+    "content_source_urls": [
+      "https://en.wikipedia.org/wiki/Asarina"
+    ],
+    "image": {
+      "author": "José Javier Barrios Flores",
+      "license": "CC BY 4.0",
+      "source_url": "https://www.inaturalist.org/photos/454311885",
+      "image_path": "images/0101_0150/flower_0140.jpeg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0141",
+    "category": "花",
+    "display_name": "キバナコスモス",
+    "kana": "キバナコスモス",
+    "search_aliases": [
+      "黄花コスモス"
+    ],
+    "family": "キク科",
+    "genus": "コスモス属",
+    "scientific_name": "Cosmos sulphureus",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "キバナコスモス",
+    "entity_type": "種・園芸品種",
+    "life_form": "一年草",
+    "flowering_season": "6〜11月",
+    "fruiting_season": "",
+    "distribution": "メキシコ原産",
+    "habitat": "日当たりのよい草地。日本では道端や空き地に逸出することもある",
+    "common_place": "花壇、公園、道路沿い",
+    "feature_summary": "黄から橙色の頭状花を夏から秋まで次々に咲かせます。一般的なコスモスより暑さに強く、葉は細かく裂けます。",
+    "trivia": "同じコスモス属ですが、桃色や白色でよく知られるコスモス C. bipinnatus とは別種です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "キク科",
+      "genus": "コスモス属",
+      "species": "Cosmos sulphureus"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%90%E3%83%8A%E3%82%B3%E3%82%B9%E3%83%A2%E3%82%B9",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%90%E3%83%8A%E3%82%B3%E3%82%B9%E3%83%A2%E3%82%B9"
+    ],
+    "image": {
+      "author": "Gowrivemban",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cosmos_sulphureus_plant.jpg",
+      "image_path": "images/0101_0150/flower_0141.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0142",
+    "category": "花",
+    "display_name": "ハナトラノオ",
+    "kana": "ハナトラノオ",
+    "search_aliases": [
+      "カクトラノオ"
+    ],
+    "family": "シソ科",
+    "genus": "ハナトラノオ属",
+    "scientific_name": "Physostegia virginiana",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ハナトラノオ",
+    "entity_type": "種・園芸品種",
+    "life_form": "多年草",
+    "flowering_season": "7〜10月",
+    "fruiting_season": "",
+    "distribution": "北アメリカ原産",
+    "habitat": "湿り気のある草地。園芸では庭、花壇",
+    "common_place": "庭、花壇、道端",
+    "feature_summary": "直立する四角い茎に、桃、紫、白などの唇形花を穂状につけます。地下茎で広がって群生します。",
+    "trivia": "英名 obedient plant は、花を横向きに押すとその向きにしばらく留まりやすい性質に由来します。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "シソ科",
+      "genus": "ハナトラノオ属",
+      "species": "Physostegia virginiana"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8A%E3%83%88%E3%83%A9%E3%83%8E%E3%82%AA",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8A%E3%83%88%E3%83%A9%E3%83%8E%E3%82%AA"
+    ],
+    "image": {
+      "author": "LinBow",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Physostegia_virginiana1LinBow.jpg",
+      "image_path": "images/0101_0150/flower_0142.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0143",
+    "category": "花",
+    "display_name": "ミソハギ",
+    "kana": "ミソハギ",
+    "search_aliases": [],
+    "family": "ミソハギ科",
+    "genus": "ミソハギ属",
+    "scientific_name": "Lythrum anceps",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ミソハギ",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "7〜9月",
+    "fruiting_season": "",
+    "distribution": "日本、朝鮮半島、中国など東アジアに分布",
+    "habitat": "湿地、水辺、田のあぜなど湿った場所",
+    "common_place": "湿地、水辺、庭",
+    "feature_summary": "夏に直立した茎へ紅紫色の小花を穂状に多数咲かせます。湿地にまとまって生え、細長い花穂がよく目立ちます。",
+    "trivia": "日本では盆花として使われてきた地域があり、ミソハギで水を振りかける風習も知られます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ミソハギ科",
+      "genus": "ミソハギ属",
+      "species": "Lythrum anceps"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BD%E3%83%8F%E3%82%AE",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BD%E3%83%8F%E3%82%AE"
+    ],
+    "image": {
+      "author": "t-mizo",
+      "license": "CC BY 2.0",
+      "source_url": "https://www.flickr.com/photos/tmizo/6026263754/",
+      "image_path": "images/0101_0150/flower_0143.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0144",
+    "category": "花",
+    "display_name": "モナルダ",
+    "kana": "モナルダ",
+    "search_aliases": [
+      "タイマツバナ",
+      "ベルガモット"
+    ],
+    "family": "シソ科",
+    "genus": "モナルダ属",
+    "scientific_name": "Monarda didyma",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "モナルダ",
+    "entity_type": "種・園芸品種",
+    "life_form": "多年草",
+    "flowering_season": "6〜9月",
+    "fruiting_season": "",
+    "distribution": "北アメリカ東部原産",
+    "habitat": "湿り気のある林縁や川沿い。園芸では花壇、庭、ハーブ園",
+    "common_place": "花壇、庭、ハーブ園",
+    "feature_summary": "香りのある葉をもち、赤、桃、紫、白などの筒状花が輪状に集まった目立つ花序を夏に咲かせます。",
+    "trivia": "英名 bee balm、Oswego tea などで知られます。葉に香りがあり、ハーブとして扱われることもあります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "シソ科",
+      "genus": "モナルダ属",
+      "species": "Monarda didyma"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%84%E3%83%90%E3%83%8A",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%84%E3%83%90%E3%83%8A"
+    ],
+    "image": {
+      "author": "Sten Porse",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monarda-didyma-flowers.jpg",
+      "image_path": "images/0101_0150/flower_0144.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0145",
+    "category": "花",
+    "display_name": "ガウラ",
+    "kana": "ガウラ",
+    "search_aliases": [
+      "ハクチョウソウ",
+      "白蝶草",
+      "Gaura lindheimeri"
+    ],
+    "family": "アカバナ科",
+    "genus": "マツヨイグサ属",
+    "scientific_name": "Oenothera lindheimeri",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ガウラ",
+    "entity_type": "種・園芸品種",
+    "life_form": "多年草",
+    "flowering_season": "5〜11月",
+    "fruiting_season": "",
+    "distribution": "北アメリカ南部原産",
+    "habitat": "草原や開けた場所。園芸では花壇、庭、公園",
+    "common_place": "花壇、庭、公園",
+    "feature_summary": "細い茎を立ち上げ、白から桃色の4弁花を長期間次々に咲かせます。風に揺れる花姿が蝶のように見えます。",
+    "trivia": "長く Gaura lindheimeri の名で親しまれましたが、現在は Oenothera lindheimeri としてマツヨイグサ属に含める分類が広く採用されています。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "アカバナ科",
+      "genus": "マツヨイグサ属",
+      "species": "Oenothera lindheimeri"
+    },
+    "classification_note": "旧学名 Gaura lindheimeri を検索別名に含める",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%A6%E3%83%A9%E5%B1%9E",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%A6%E3%83%A9%E5%B1%9E"
+    ],
+    "image": {
+      "author": "Gerardgiraud",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gaura_lindheimeri.jpg",
+      "image_path": "images/0101_0150/flower_0145.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0146",
+    "category": "花",
+    "display_name": "アガスターシェ",
+    "kana": "アガスターシェ",
+    "search_aliases": [],
+    "family": "シソ科",
+    "genus": "カワミドリ属",
+    "scientific_name": "Agastache",
+    "taxon_id": null,
+    "taxon_rank": "genus",
+    "matched_common_name": "アガスターシェ",
+    "entity_type": "属・園芸群",
+    "life_form": "多年草",
+    "flowering_season": "6〜10月",
+    "fruiting_season": "",
+    "distribution": "北アメリカと東アジアを中心に分布する属",
+    "habitat": "草原や林縁など。園芸では花壇、庭、ハーブ園",
+    "common_place": "花壇、庭、ハーブ園",
+    "feature_summary": "直立する花穂に紫、青、桃、橙などの唇形花を多数つけます。葉や花に香りをもつ種類が多く、観賞用・ハーブ用として栽培されます。",
+    "trivia": "アニスのような香りをもつ A. foeniculum など複数種が園芸流通するため、アガスターシェは属名として扱うのが安全です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "シソ科",
+      "genus": "カワミドリ属",
+      "species": ""
+    },
+    "classification_note": "複数種・交雑品種を含む園芸名として属レベルで扱う",
+    "plant_source_url": "https://en.wikipedia.org/wiki/Agastache",
+    "content_source_urls": [
+      "https://en.wikipedia.org/wiki/Agastache"
+    ],
+    "image": {
+      "author": "Guettarda",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Agastache_foeniculum.jpg",
+      "image_path": "images/0101_0150/flower_0146.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0147",
+    "category": "花",
+    "display_name": "エキウム",
+    "kana": "エキウム",
+    "search_aliases": [],
+    "family": "ムラサキ科",
+    "genus": "エキウム属",
+    "scientific_name": "Echium",
+    "taxon_id": null,
+    "taxon_rank": "genus",
+    "matched_common_name": "エキウム",
+    "entity_type": "属・園芸群",
+    "life_form": "一年草、二年草または多年草",
+    "flowering_season": "4〜7月",
+    "fruiting_season": "",
+    "distribution": "ヨーロッパ、地中海沿岸、北アフリカなどに分布する属",
+    "habitat": "乾いた草地、岩場、海岸など。園芸では花壇、庭、植物園",
+    "common_place": "花壇、庭、植物園",
+    "feature_summary": "粗い毛のある葉や茎をもつ種類が多く、青、紫、桃、白などの花を穂状に多数咲かせます。大型になる種類もあります。",
+    "trivia": "カナリア諸島の高性種からヨーロッパの野草型まで姿の幅が大きく、園芸で『エキウム』と呼ばれるものは複数種を含みます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "ムラサキ科",
+      "genus": "エキウム属",
+      "species": ""
+    },
+    "classification_note": "複数種を含む属名として扱う",
+    "plant_source_url": "https://en.wikipedia.org/wiki/Echium",
+    "content_source_urls": [
+      "https://en.wikipedia.org/wiki/Echium"
+    ],
+    "image": {
+      "author": "Meneerke bloem",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Echium_vulgare_close-up_flowers.JPG",
+      "image_path": "images/0101_0150/flower_0147.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0148",
+    "category": "花",
+    "display_name": "ヒソップ",
+    "kana": "ヒソップ",
+    "search_aliases": [],
+    "family": "シソ科",
+    "genus": "ヒソップ属",
+    "scientific_name": "Hyssopus officinalis",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ヒソップ",
+    "entity_type": "種・園芸品種",
+    "life_form": "常緑または半常緑の多年草",
+    "flowering_season": "6〜9月",
+    "fruiting_season": "",
+    "distribution": "南ヨーロッパから西アジア原産",
+    "habitat": "乾燥した岩地や草地。園芸ではハーブ園、庭、花壇",
+    "common_place": "ハーブ園、庭、花壇",
+    "feature_summary": "細い茎に小さな葉を対生し、夏に青紫色を中心とした唇形花を穂状に咲かせます。全草に芳香があります。",
+    "trivia": "古くから香草として利用されてきましたが、精油など濃縮物の自己判断での使用には注意が必要です。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "シソ科",
+      "genus": "ヒソップ属",
+      "species": "Hyssopus officinalis"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%82%BD%E3%83%83%E3%83%97",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%92%E3%82%BD%E3%83%83%E3%83%97"
+    ],
+    "image": {
+      "author": "Armin Jagel",
+      "license": "GFDL",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hyssopus_officinalis.jpg",
+      "image_path": "images/0101_0150/flower_0148.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0149",
+    "category": "花",
+    "display_name": "ベロニカストラム",
+    "kana": "ベロニカストラム",
+    "search_aliases": [
+      "バージニア・スピードウェル"
+    ],
+    "family": "オオバコ科",
+    "genus": "クガイソウ属",
+    "scientific_name": "Veronicastrum virginicum",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "ベロニカストラム",
+    "entity_type": "種・園芸品種",
+    "life_form": "多年草",
+    "flowering_season": "7〜9月",
+    "fruiting_season": "",
+    "distribution": "北アメリカ東部原産",
+    "habitat": "湿り気のある草原や林縁。園芸では花壇、庭、植物園",
+    "common_place": "花壇、庭、植物園",
+    "feature_summary": "高く直立する茎に葉を輪生状につけ、夏に白から淡紫色の細長い花穂を枝分かれして咲かせます。",
+    "trivia": "花穂が燭台のように立ち上がり、大型宿根草としてボーダーガーデンに利用されます。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "オオバコ科",
+      "genus": "クガイソウ属",
+      "species": "Veronicastrum virginicum"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://en.wikipedia.org/wiki/Veronicastrum_virginicum",
+    "content_source_urls": [
+      "https://en.wikipedia.org/wiki/Veronicastrum_virginicum"
+    ],
+    "image": {
+      "author": "Joshua Mayer",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://www.flickr.com/photos/8584048@N05/14788079404/",
+      "image_path": "images/0101_0150/flower_0149.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  },
+  {
+    "id": "flower_0150",
+    "category": "花",
+    "display_name": "コスモス",
+    "kana": "コスモス",
+    "search_aliases": [
+      "秋桜",
+      "オオハルシャギク"
+    ],
+    "family": "キク科",
+    "genus": "コスモス属",
+    "scientific_name": "Cosmos bipinnatus",
+    "taxon_id": null,
+    "taxon_rank": "species",
+    "matched_common_name": "コスモス",
+    "entity_type": "種・園芸品種",
+    "life_form": "一年草",
+    "flowering_season": "6〜11月",
+    "fruiting_season": "",
+    "distribution": "メキシコ原産。世界各地で観賞用に栽培・逸出",
+    "habitat": "日当たりのよい草地や荒地。日本では花畑、公園、道路沿い",
+    "common_place": "花畑、公園、道路沿い",
+    "feature_summary": "細かく糸状に裂けた葉をもち、桃、白、赤などの頭状花を夏から秋に咲かせます。風に揺れる軽やかな草姿が特徴です。",
+    "trivia": "日本では『秋桜』の表記でも親しまれます。日長に反応して秋に咲く在来型に加え、早咲き品種も多数あります。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "",
+      "order": "",
+      "family": "キク科",
+      "genus": "コスモス属",
+      "species": "Cosmos bipinnatus"
+    },
+    "classification_note": "",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%8F%E3%83%AB%E3%82%B7%E3%83%A3%E3%82%AE%E3%82%AF",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%8F%E3%83%AB%E3%82%B7%E3%83%A3%E3%82%AE%E3%82%AF"
+    ],
+    "image": {
+      "author": "Darkmadore",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cosmos_bipinnatus_.JPG",
+      "image_path": "images/0101_0150/flower_0150.jpg"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成"
+  }
+]
