@@ -18236,57 +18236,57 @@
         "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
     },
     {
-        "id": "grass_0364",
-        "category": "草",
-        "display_name": "オオウシノケグサ",
-        "kana": "オオウシノケグサ",
-        "search_aliases": [
-            "オオウシノケグサ"
-        ],
-        "family": "イネ科",
-        "genus": "Festuca属",
-        "scientific_name": "Festuca rubra subsp. rubra",
-        "taxon_id": 181759,
-        "taxon_rank": "subspecies",
-        "matched_common_name": "オオウシノケグサ",
-        "entity_type": "亜種",
-        "life_form": "多年草",
-        "flowering_season": "5～9月",
-        "observation_season": "観察時期の詳細は要確認",
-        "fruiting_season": "",
-        "distribution": "北海道、本州（中部地方以北）帰化種北メリカ原産など世界中に広く分布",
-        "habitat": "草地、牧草地",
-        "common_place": "草地、牧草地",
-        "feature_summary": "細い葉をもち、円錐状の穂に小穂をつけるイネ科植物。",
-        "trivia": "標準亜種として採用された分類を記録し、種全体とは区別して扱う。",
-        "classification": {
-            "kingdom": "植物界",
-            "clade": "単子葉類",
-            "order": "イネ目",
-            "family": "イネ科",
-            "genus": "Festuca属",
-            "species": "Festuca rubra subsp. rubra"
-        },
-        "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用分類は Festuca rubra の標準亜種。和名の適用範囲には資料差があるため要確認。",
-        "plant_source_url": "https://mikawanoyasou.org/data/oousinokegusa.htm",
-        "content_source_urls": [
-            "https://mikawanoyasou.org/data/oousinokegusa.htm",
-            "https://www.inaturalist.org/taxa/181759"
-        ],
-        "image": {
-            "author": "Stefan.lefnaer",
-            "license": "CC BY-SA 4.0",
-            "source_url": "https://commons.wikimedia.org/wiki/File:Festuca_rubra_subsp._rubra_sl16.jpg",
-            "image_path": "images/0351_0400/grass_0364.jpeg",
-            "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
-        },
-        "needs_ai_summary": false,
-        "needs_manual_taxon_review": true,
-        "taxon_lookup_error": "",
-        "content_status": "完成",
-        "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。 / 2026-10-09 再確認。種子だけの写真から、穂が見える写真へ差替え。出典にFestuca rubra subsp. rubraと明記。和名の適用範囲に関する分類の要確認は保持。",
-        "image_review_note": "2026-10-09 再確認。種子だけの写真から、穂が見える写真へ差替え。出典にFestuca rubra subsp. rubraと明記。和名の適用範囲に関する分類の要確認は保持。",
-        "needs_manual_image_review": false
+        "id":  "grass_0364",
+        "category":  "草",
+        "display_name":  "オオウシノケグサ",
+        "kana":  "オオウシノケグサ",
+        "search_aliases":  [
+                               "オオウシノケグサ"
+                           ],
+        "family":  "イネ科",
+        "genus":  "Festuca属",
+        "scientific_name":  "Festuca rubra subsp. rubra",
+        "taxon_id":  181759,
+        "taxon_rank":  "subspecies",
+        "matched_common_name":  "オオウシノケグサ",
+        "entity_type":  "亜種",
+        "life_form":  "多年草",
+        "flowering_season":  "5～9月",
+        "observation_season":  "観察時期の詳細は要確認",
+        "fruiting_season":  "",
+        "distribution":  "北海道、本州（中部地方以北）帰化種北メリカ原産など世界中に広く分布",
+        "habitat":  "草地、牧草地",
+        "common_place":  "草地、牧草地",
+        "feature_summary":  "細い葉をもち、円錐状の穂に小穂をつけるイネ科植物。",
+        "trivia":  "標準亜種として採用された分類を記録し、種全体とは区別して扱う。",
+        "classification":  {
+                               "kingdom":  "植物界",
+                               "clade":  "単子葉類",
+                               "order":  "イネ目",
+                               "family":  "イネ科",
+                               "genus":  "Festuca属",
+                               "species":  "Festuca rubra subsp. rubra"
+                           },
+        "classification_note":  "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用分類は Festuca rubra の標準亜種。和名の適用範囲には資料差があるため要確認。",
+        "plant_source_url":  "https://mikawanoyasou.org/data/oousinokegusa.htm",
+        "content_source_urls":  [
+                                    "https://mikawanoyasou.org/data/oousinokegusa.htm",
+                                    "https://www.inaturalist.org/taxa/181759"
+                                ],
+        "image":  {
+                      "author":  "Stefan.lefnaer",
+                      "license":  "CC BY-SA 4.0",
+                      "source_url":  "https://commons.wikimedia.org/wiki/File:Festuca_rubra_subsp._rubra_sl16.jpg",
+                      "image_path":  "images/0351_0400/grass_0364.jpeg",
+                      "license_url":  "https://creativecommons.org/licenses/by-sa/4.0"
+                  },
+        "needs_ai_summary":  false,
+        "needs_manual_taxon_review":  true,
+        "taxon_lookup_error":  "",
+        "content_status":  "完成",
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。 / 2026-10-09 再確認。種子だけの写真から、穂が見える写真へ差替え。出典にFestuca rubra subsp. rubraと明記。和名の適用範囲に関する分類の要確認は保持。",
+        "image_review_note":  "2026-10-09 再確認。種子だけの写真から、穂が見える写真へ差替え。出典にFestuca rubra subsp. rubraと明記。和名の適用範囲に関する分類の要確認は保持。",
+        "needs_manual_image_review":  false
     },
     {
         "id":  "grass_0365",

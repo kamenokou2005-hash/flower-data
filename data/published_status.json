@@ -1,6 +1,6 @@
 {
     "version":  2,
-    "published_count":  1650,
+    "published_count":  1850,
     "categories":  {
                        "flower":  {
                                       "category":  "花",
@@ -32,11 +32,11 @@
                                        },
                        "mushroom":  {
                                         "category":  "きのこ",
-                                        "count":  151,
-                                        "last_published_id":  "mushroom_0151",
+                                        "count":  351,
+                                        "last_published_id":  "mushroom_0351",
                                         "image_dir":  "images/mushroom",
                                         "data_file":  "data/records/mushroom/mushroom.json"
                                     }
                    },
-    "generated_at":  "2026-10-09T08:09:22+09:00"
+    "generated_at":  "2026-10-09T15:08:10+09:00"
 }
