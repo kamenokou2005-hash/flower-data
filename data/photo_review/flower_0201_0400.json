@@ -1,0 +1,1814 @@
+{
+  "date": "2026-10-09",
+  "summary": {
+    "reviewed": 200,
+    "accepted": 200,
+    "pending": 0,
+    "replaced_images": 0,
+    "errors": 0
+  },
+  "criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+  "limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ナスとハクサイは元画像も個別に開いた。",
+  "items": [
+    {
+      "id": "flower_0201",
+      "name": "アカツメクサ",
+      "scientific_name": "Trifolium pratense",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の球状花序と三小葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/55619862",
+      "image_path": "images/0201_0250/flower_0201.jpeg"
+    },
+    {
+      "id": "flower_0202",
+      "name": "カタバミ",
+      "scientific_name": "Oxalis corniculata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色の5弁花と暗色の三小葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/279196",
+      "image_path": "images/0201_0250/flower_0202.jpg"
+    },
+    {
+      "id": "flower_0203",
+      "name": "ムラサキカタバミ",
+      "scientific_name": "Oxalis debilis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡桃色の5弁花と三小葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/62296833",
+      "image_path": "images/0201_0250/flower_0203.jpeg"
+    },
+    {
+      "id": "flower_0204",
+      "name": "イモカタバミ",
+      "scientific_name": "Oxalis articulata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の5弁花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:(MHNT)_Oxalis_articulata_-_Flowers.jpg",
+      "image_path": "images/0201_0250/flower_0204.jpg"
+    },
+    {
+      "id": "flower_0205",
+      "name": "オオキバナカタバミ",
+      "scientific_name": "Oxalis pes-caprae",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色の5弁花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/454705867",
+      "image_path": "images/0201_0250/flower_0205.jpg"
+    },
+    {
+      "id": "flower_0206",
+      "name": "オオイヌノフグリ",
+      "scientific_name": "Veronica persica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青い4裂の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/114006721",
+      "image_path": "images/0201_0250/flower_0206.jpg"
+    },
+    {
+      "id": "flower_0207",
+      "name": "イヌノフグリ",
+      "scientific_name": "Veronica polita var. lilacina",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。小さい淡色花と丸みのある葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/121310802",
+      "image_path": "images/0201_0250/flower_0207.jpg"
+    },
+    {
+      "id": "flower_0208",
+      "name": "ヒメオドリコソウ",
+      "scientific_name": "Lamium purpureum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の唇形花と上部の葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/186382202",
+      "image_path": "images/0201_0250/flower_0208.jpg"
+    },
+    {
+      "id": "flower_0209",
+      "name": "ホトケノザ",
+      "scientific_name": "Lamium amplexicaule",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の長い唇形花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/11134243",
+      "image_path": "images/0201_0250/flower_0209.jpg"
+    },
+    {
+      "id": "flower_0210",
+      "name": "ナズナ",
+      "scientific_name": "Capsella bursa-pastoris",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い小花と三角形の果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/175497435",
+      "image_path": "images/0201_0250/flower_0210.jpeg"
+    },
+    {
+      "id": "flower_0211",
+      "name": "ハコベ",
+      "scientific_name": "Stellaria",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い深裂花弁。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/119633509",
+      "image_path": "images/0201_0250/flower_0211.jpeg"
+    },
+    {
+      "id": "flower_0212",
+      "name": "ムラサキサギゴケ",
+      "scientific_name": "Mazus miquelii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の唇形花の群落。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mazus_flowers_closeup_8501.JPG",
+      "image_path": "images/0201_0250/flower_0212.jpg"
+    },
+    {
+      "id": "flower_0213",
+      "name": "トキワハゼ",
+      "scientific_name": "Mazus pumilus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫白色の唇形花と黄色い模様。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/139678520",
+      "image_path": "images/0201_0250/flower_0213.jpeg"
+    },
+    {
+      "id": "flower_0214",
+      "name": "カラスノエンドウ",
+      "scientific_name": "Vicia sativa subsp. nigra",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の蝶形花と羽状複葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/11909041",
+      "image_path": "images/0201_0250/flower_0214.jpg"
+    },
+    {
+      "id": "flower_0215",
+      "name": "スズメノエンドウ",
+      "scientific_name": "Vicia hirsuta",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。小さな白い蝶形花と羽状複葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/428606051",
+      "image_path": "images/0201_0250/flower_0215.jpeg"
+    },
+    {
+      "id": "flower_0216",
+      "name": "キュウリグサ",
+      "scientific_name": "Trigonotis peduncularis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。小さい淡青白色の花と丸い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/35248971",
+      "image_path": "images/0201_0250/flower_0216.jpg"
+    },
+    {
+      "id": "flower_0217",
+      "name": "ハルジオン",
+      "scientific_name": "Erigeron philadelphicus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡桃色の細い舌状花と黄色い中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/398631845",
+      "image_path": "images/0201_0250/flower_0217.jpeg"
+    },
+    {
+      "id": "flower_0218",
+      "name": "ヒメジョオン",
+      "scientific_name": "Erigeron annuus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い細い舌状花と黄色い中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/210406662",
+      "image_path": "images/0201_0250/flower_0218.jpeg"
+    },
+    {
+      "id": "flower_0219",
+      "name": "オニタビラコ",
+      "scientific_name": "Youngia japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い頭花と綿毛。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/481063114",
+      "image_path": "images/0201_0250/flower_0219.jpeg"
+    },
+    {
+      "id": "flower_0220",
+      "name": "コオニタビラコ",
+      "scientific_name": "Lapsanastrum apogonoides",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い頭花と低い株。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/466574602",
+      "image_path": "images/0201_0250/flower_0220.jpeg"
+    },
+    {
+      "id": "flower_0221",
+      "name": "ノゲシ",
+      "scientific_name": "Sonchus oleraceus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い頭花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/202120314",
+      "image_path": "images/0201_0250/flower_0221.jpeg"
+    },
+    {
+      "id": "flower_0222",
+      "name": "オニノゲシ",
+      "scientific_name": "Sonchus asper",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い頭花と刺状の葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/261760280",
+      "image_path": "images/0201_0250/flower_0222.jpeg"
+    },
+    {
+      "id": "flower_0223",
+      "name": "ブタナ",
+      "scientific_name": "Hypochaeris radicata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い頭花の接写。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cat%27s-ear_(Hypochaeris_radicata).jpg",
+      "image_path": "images/0201_0250/flower_0223.jpg"
+    },
+    {
+      "id": "flower_0224",
+      "name": "コウゾリナ",
+      "scientific_name": "Picris hieracioides subsp. japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い頭花とつぼみ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/92718154",
+      "image_path": "images/0201_0250/flower_0224.jpg"
+    },
+    {
+      "id": "flower_0225",
+      "name": "ジシバリ",
+      "scientific_name": "Ixeris stolonifera",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い頭花と低く広がる葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/363656769",
+      "image_path": "images/0201_0250/flower_0225.jpeg"
+    },
+    {
+      "id": "flower_0226",
+      "name": "オオジシバリ",
+      "scientific_name": "Ixeris japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い頭花の接写。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/33349411",
+      "image_path": "images/0201_0250/flower_0226.jpeg"
+    },
+    {
+      "id": "flower_0227",
+      "name": "ヘビイチゴ",
+      "scientific_name": "Potentilla hebiichigo",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い5弁花と萼。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Potentilla_hebiichigo_(flower_s2).jpg",
+      "image_path": "images/0201_0250/flower_0227.jpg"
+    },
+    {
+      "id": "flower_0228",
+      "name": "キジムシロ",
+      "scientific_name": "Potentilla fragarioides var. major",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い5弁花と低い株。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/140366213",
+      "image_path": "images/0201_0250/flower_0228.jpeg"
+    },
+    {
+      "id": "flower_0229",
+      "name": "ミツバツチグリ",
+      "scientific_name": "Potentilla freyniana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い5弁花と三小葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/365078026",
+      "image_path": "images/0201_0250/flower_0229.jpeg"
+    },
+    {
+      "id": "flower_0230",
+      "name": "ツユクサ",
+      "scientific_name": "Commelina communis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青い2枚の大きい花弁。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/30222082",
+      "image_path": "images/0201_0250/flower_0230.jpg"
+    },
+    {
+      "id": "flower_0231",
+      "name": "ムラサキツユクサ",
+      "scientific_name": "Tradescantia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青紫色の3弁花と細い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/287637918",
+      "image_path": "images/0201_0250/flower_0231.jpeg"
+    },
+    {
+      "id": "flower_0232",
+      "name": "トキワツユクサ",
+      "scientific_name": "Tradescantia fluminensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い3弁花と多数の雄しべ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tradescantia_fluminensis,_blomme,_Manie_van_der_Schijff_BT,_a.jpg",
+      "image_path": "images/0201_0250/flower_0232.jpg"
+    },
+    {
+      "id": "flower_0233",
+      "name": "ドクダミ",
+      "scientific_name": "Houttuynia cordata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い総苞片と中央の花穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/48161522",
+      "image_path": "images/0201_0250/flower_0233.jpeg"
+    },
+    {
+      "id": "flower_0234",
+      "name": "ヒメツルソバ",
+      "scientific_name": "Persicaria capitata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の球状花序と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/610405600",
+      "image_path": "images/0201_0250/flower_0234.jpg"
+    },
+    {
+      "id": "flower_0235",
+      "name": "ハナカタバミ",
+      "scientific_name": "Oxalis bowiei",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。濃桃色の5弁花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/740629452",
+      "image_path": "images/0201_0250/flower_0235.jpg"
+    },
+    {
+      "id": "flower_0236",
+      "name": "オシロイバナ",
+      "scientific_name": "Mirabilis jalapa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い漏斗状花と長い雄しべ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/249554242",
+      "image_path": "images/0201_0250/flower_0236.jpeg"
+    },
+    {
+      "id": "flower_0237",
+      "name": "ヤブカラシ",
+      "scientific_name": "Causonis japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。橙赤色の花盤とつぼみ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/258170610",
+      "image_path": "images/0201_0250/flower_0237.jpg"
+    },
+    {
+      "id": "flower_0238",
+      "name": "ヘクソカズラ",
+      "scientific_name": "Paederia scandens",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い花冠と暗紅色の花口。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/604390260",
+      "image_path": "images/0201_0250/flower_0238.jpg"
+    },
+    {
+      "id": "flower_0239",
+      "name": "センニンソウ",
+      "scientific_name": "Clematis terniflora",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い4枚の花被と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/147839568",
+      "image_path": "images/0201_0250/flower_0239.jpg"
+    },
+    {
+      "id": "flower_0240",
+      "name": "ボタンヅル",
+      "scientific_name": "Clematis apiifolia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。開花後の花序と葉。花の正面は写らない。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/441916465",
+      "image_path": "images/0201_0250/flower_0240.jpeg"
+    },
+    {
+      "id": "flower_0241",
+      "name": "カラスウリ",
+      "scientific_name": "Trichosanthes cucumeroides",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い裂けた花冠と細い糸状の裂片。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/731576432",
+      "image_path": "images/0201_0250/flower_0241.jpg"
+    },
+    {
+      "id": "flower_0242",
+      "name": "キカラスウリ",
+      "scientific_name": "Trichosanthes kirilowii var. japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い花冠と糸状の裂片が複数写る。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/126383849",
+      "image_path": "images/0201_0250/flower_0242.jpeg"
+    },
+    {
+      "id": "flower_0243",
+      "name": "ヨウシュヤマゴボウ",
+      "scientific_name": "Phytolacca americana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い小花が並ぶ花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Phytolacca_americana_2.JPG",
+      "image_path": "images/0201_0250/flower_0243.jpg"
+    },
+    {
+      "id": "flower_0244",
+      "name": "アレチハナガサ",
+      "scientific_name": "Verbena brasiliensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の小花を付ける細長い花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/321411216",
+      "image_path": "images/0201_0250/flower_0244.jpeg"
+    },
+    {
+      "id": "flower_0245",
+      "name": "ヒメムカシヨモギ",
+      "scientific_name": "Erigeron canadensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。小さい頭花が並ぶ花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Conyza_canadensis.jpeg",
+      "image_path": "images/0201_0250/flower_0245.jpeg"
+    },
+    {
+      "id": "flower_0246",
+      "name": "カタクリ",
+      "scientific_name": "Erythronium japonicum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。反り返る紫色の花被と模様のある葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/186116966",
+      "image_path": "images/0201_0250/flower_0246.jpeg"
+    },
+    {
+      "id": "flower_0247",
+      "name": "ニリンソウ",
+      "scientific_name": "Anemone flaccida",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い花が2輪写る。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/17571859",
+      "image_path": "images/0201_0250/flower_0247.jpg"
+    },
+    {
+      "id": "flower_0248",
+      "name": "イチリンソウ",
+      "scientific_name": "Anemone nikoensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い花と切れ込む葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/194504229",
+      "image_path": "images/0201_0250/flower_0248.jpg"
+    },
+    {
+      "id": "flower_0249",
+      "name": "サンリンソウ",
+      "scientific_name": "Anemone stolonifera",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い花と切れ込む葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/405511113",
+      "image_path": "images/0201_0250/flower_0249.jpg"
+    },
+    {
+      "id": "flower_0250",
+      "name": "アズマイチゲ",
+      "scientific_name": "Anemone raddeana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い花被と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/635384337",
+      "image_path": "images/0201_0250/flower_0250.jpg"
+    },
+    {
+      "id": "flower_0251",
+      "name": "キクザキイチゲ",
+      "scientific_name": "Anemone pseudoaltaica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青紫色の花と細長く裂けた葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/194248641",
+      "image_path": "images/0251_0300/flower_0251.jpg"
+    },
+    {
+      "id": "flower_0252",
+      "name": "セツブンソウ",
+      "scientific_name": "Eranthis pinnatifida",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い花被と黄色・青紫色の中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/53199820",
+      "image_path": "images/0251_0300/flower_0252.jpeg"
+    },
+    {
+      "id": "flower_0253",
+      "name": "フクジュソウ",
+      "scientific_name": "Adonis ramosa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い花と細かく裂けた葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/472260184",
+      "image_path": "images/0251_0300/flower_0253.jpeg"
+    },
+    {
+      "id": "flower_0254",
+      "name": "バイカオウレン",
+      "scientific_name": "Coptis quinquefolia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い5弁花と5小葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Coptis_quinquefolia.jpg",
+      "image_path": "images/0251_0300/flower_0254.jpg"
+    },
+    {
+      "id": "flower_0255",
+      "name": "オウレン",
+      "scientific_name": "Coptis japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い花被と多数の雄しべ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:(Coptis_japonica_flower_close-up_on_Mount_Nishi-Hotaka,_Japan)_-_DPLA_-_aa102d899e9bb33133818f8ac42ceeca.jpg",
+      "image_path": "images/0251_0300/flower_0255.jpg"
+    },
+    {
+      "id": "flower_0256",
+      "name": "ショウジョウバカマ",
+      "scientific_name": "Heloniopsis orientalis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の花がまとまった花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/169492337",
+      "image_path": "images/0251_0300/flower_0256.jpeg"
+    },
+    {
+      "id": "flower_0257",
+      "name": "エンレイソウ",
+      "scientific_name": "Trillium apetalon",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。暗紅色の花と大きい3枚の葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/267729592",
+      "image_path": "images/0251_0300/flower_0257.jpeg"
+    },
+    {
+      "id": "flower_0258",
+      "name": "ミヤマエンレイソウ",
+      "scientific_name": "Trillium tschonoskii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い3枚の花被と大きい3枚の葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/676450",
+      "image_path": "images/0251_0300/flower_0258.jpg"
+    },
+    {
+      "id": "flower_0259",
+      "name": "クマガイソウ",
+      "scientific_name": "Cypripedium japonicum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。袋状の唇弁とひだのある葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/104191923",
+      "image_path": "images/0251_0300/flower_0259.jpeg"
+    },
+    {
+      "id": "flower_0260",
+      "name": "アツモリソウ",
+      "scientific_name": "Cypripedium macranthos var. speciosum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紅紫色の袋状の唇弁とひだのある葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/74658996",
+      "image_path": "images/0251_0300/flower_0260.jpeg"
+    },
+    {
+      "id": "flower_0261",
+      "name": "エビネ",
+      "scientific_name": "Calanthe discolor",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。褐色と白色のラン形花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/505637751",
+      "image_path": "images/0251_0300/flower_0261.jpg"
+    },
+    {
+      "id": "flower_0262",
+      "name": "キエビネ",
+      "scientific_name": "Calanthe sieboldii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色いラン形花序と幅広い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/522297407",
+      "image_path": "images/0251_0300/flower_0262.jpg"
+    },
+    {
+      "id": "flower_0263",
+      "name": "ササユリ",
+      "scientific_name": "Lilium japonicum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡桃色のユリ形花と細長い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/111700008",
+      "image_path": "images/0251_0300/flower_0263.jpg"
+    },
+    {
+      "id": "flower_0264",
+      "name": "ウバユリ",
+      "scientific_name": "Cardiocrinum cordatum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡黄緑色の筒状花序と大きい葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/53110981",
+      "image_path": "images/0251_0300/flower_0264.jpeg"
+    },
+    {
+      "id": "flower_0265",
+      "name": "コオニユリ",
+      "scientific_name": "Lilium leichtlinii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。反り返る橙色の花被と黒い斑点。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/417722",
+      "image_path": "images/0251_0300/flower_0265.jpg"
+    },
+    {
+      "id": "flower_0266",
+      "name": "クルマユリ",
+      "scientific_name": "Lilium medeoloides",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。橙色のユリ形花と輪生葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/89229302",
+      "image_path": "images/0251_0300/flower_0266.jpeg"
+    },
+    {
+      "id": "flower_0267",
+      "name": "ヤマホトトギス",
+      "scientific_name": "Tricyrtis macropoda",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫斑のある花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/430311713",
+      "image_path": "images/0251_0300/flower_0267.jpeg"
+    },
+    {
+      "id": "flower_0268",
+      "name": "ヤマジノホトトギス",
+      "scientific_name": "Tricyrtis affinis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫斑のある6枚の花被。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/236002217",
+      "image_path": "images/0251_0300/flower_0268.jpg"
+    },
+    {
+      "id": "flower_0269",
+      "name": "ギンリョウソウ",
+      "scientific_name": "Monotropastrum humile",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い茎と下向きの花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monotropastrum_humile_(Mount_Ena).jpg",
+      "image_path": "images/0251_0300/flower_0269.jpg"
+    },
+    {
+      "id": "flower_0270",
+      "name": "ヤマブキソウ",
+      "scientific_name": "Hylomecon japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い5弁花と鋸歯葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/72035431",
+      "image_path": "images/0251_0300/flower_0270.jpeg"
+    },
+    {
+      "id": "flower_0271",
+      "name": "クサノオウ",
+      "scientific_name": "Chelidonium majus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い4弁花と細長い果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/268752119",
+      "image_path": "images/0251_0300/flower_0271.jpg"
+    },
+    {
+      "id": "flower_0272",
+      "name": "ヤマエンゴサク",
+      "scientific_name": "Corydalis lineariloba",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の距のある花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/483831886",
+      "image_path": "images/0251_0300/flower_0272.jpg"
+    },
+    {
+      "id": "flower_0273",
+      "name": "ムラサキケマン",
+      "scientific_name": "Corydalis incisa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の距のある花と切れ込む葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Corydalis_incisa_flowers_side_view_-_Fukufukurou.jpg",
+      "image_path": "images/0251_0300/flower_0273.jpg"
+    },
+    {
+      "id": "flower_0274",
+      "name": "ジロボウエンゴサク",
+      "scientific_name": "Corydalis decumbens",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡桃色の距のある花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/28382600",
+      "image_path": "images/0251_0300/flower_0274.jpeg"
+    },
+    {
+      "id": "flower_0275",
+      "name": "キケマン",
+      "scientific_name": "Corydalis heterocarpa var. japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い距のある花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/509063343",
+      "image_path": "images/0251_0300/flower_0275.jpg"
+    },
+    {
+      "id": "flower_0276",
+      "name": "イワカガミ",
+      "scientific_name": "Schizocodon soldanelloides",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の細裂花冠と丸い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/545211367",
+      "image_path": "images/0251_0300/flower_0276.jpg"
+    },
+    {
+      "id": "flower_0277",
+      "name": "イワウチワ",
+      "scientific_name": "Shortia uniflora",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡桃色の縁が裂けた花冠と丸い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Shortia_uniflora.jpg",
+      "image_path": "images/0251_0300/flower_0277.jpg"
+    },
+    {
+      "id": "flower_0278",
+      "name": "コイワカガミ",
+      "scientific_name": "Schizocodon soldanelloides f. alpinus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の花序と低い株。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/545211412",
+      "image_path": "images/0251_0300/flower_0278.jpg"
+    },
+    {
+      "id": "flower_0279",
+      "name": "チングルマ",
+      "scientific_name": "Sieversia pentapetala",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い花と黄色い中心、低い株。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/23054115",
+      "image_path": "images/0251_0300/flower_0279.jpg"
+    },
+    {
+      "id": "flower_0280",
+      "name": "ハクサンイチゲ",
+      "scientific_name": "Anemone narcissiflora",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い花被と黄色い中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/710758993",
+      "image_path": "images/0251_0300/flower_0280.jpg"
+    },
+    {
+      "id": "flower_0281",
+      "name": "ハクサンフウロ",
+      "scientific_name": "Geranium yesoense var. nipponicum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の5弁花と脈。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/719797610",
+      "image_path": "images/0251_0300/flower_0281.jpg"
+    },
+    {
+      "id": "flower_0282",
+      "name": "シナノキンバイ",
+      "scientific_name": "Trollius shinanensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い花と切れ込む葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/399461541",
+      "image_path": "images/0251_0300/flower_0282.jpg"
+    },
+    {
+      "id": "flower_0283",
+      "name": "ミヤマキンバイ",
+      "scientific_name": "Potentilla matsumurae",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い5弁花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/73315035",
+      "image_path": "images/0251_0300/flower_0283.jpeg"
+    },
+    {
+      "id": "flower_0284",
+      "name": "ミヤマキンポウゲ",
+      "scientific_name": "Ranunculus acris var. nipponicus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い5弁花の横向き。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/102791990",
+      "image_path": "images/0251_0300/flower_0284.jpeg"
+    },
+    {
+      "id": "flower_0285",
+      "name": "キンポウゲ",
+      "scientific_name": "Ranunculus grandis var. grandis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い5弁花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/9303637",
+      "image_path": "images/0251_0300/flower_0285.jpeg"
+    },
+    {
+      "id": "flower_0286",
+      "name": "ウマノアシガタ",
+      "scientific_name": "Ranunculus grandis var. grandis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い5弁花と花茎。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/80167163",
+      "image_path": "images/0251_0300/flower_0286.jpg"
+    },
+    {
+      "id": "flower_0287",
+      "name": "トリカブト",
+      "scientific_name": "Aconitum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青紫色の兜状の花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Aconitum_japonicum2.jpg",
+      "image_path": "images/0251_0300/flower_0287.jpg"
+    },
+    {
+      "id": "flower_0288",
+      "name": "ヤマトリカブト",
+      "scientific_name": "Aconitum japonicum subsp. japonicum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青紫色の兜状の花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/26819815",
+      "image_path": "images/0251_0300/flower_0288.jpeg"
+    },
+    {
+      "id": "flower_0289",
+      "name": "レンゲショウマ",
+      "scientific_name": "Anemonopsis macrophylla",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の下向きの花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Anemonopsis-macrophylla-flower.JPG",
+      "image_path": "images/0251_0300/flower_0289.jpg"
+    },
+    {
+      "id": "flower_0290",
+      "name": "カワラナデシコ",
+      "scientific_name": "Dianthus superbus var. longicalycinus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の深く裂けた花弁。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/346205296",
+      "image_path": "images/0251_0300/flower_0290.jpeg"
+    },
+    {
+      "id": "flower_0291",
+      "name": "マツムシソウ",
+      "scientific_name": "Scabiosa japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の頭花の接写。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/718990848",
+      "image_path": "images/0251_0300/flower_0291.jpg"
+    },
+    {
+      "id": "flower_0292",
+      "name": "ウツボグサ",
+      "scientific_name": "Prunella vulgaris subsp. asiatica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の唇形花が穂状に写る。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/497367631",
+      "image_path": "images/0251_0300/flower_0292.jpeg"
+    },
+    {
+      "id": "flower_0293",
+      "name": "イワギキョウ",
+      "scientific_name": "Campanula lasiocarpa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青紫色の鐘形花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/178876",
+      "image_path": "images/0251_0300/flower_0293.jpg"
+    },
+    {
+      "id": "flower_0294",
+      "name": "チシマギキョウ",
+      "scientific_name": "Campanula chamissonis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青紫色の鐘形花と低い株。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/51975022",
+      "image_path": "images/0251_0300/flower_0294.jpg"
+    },
+    {
+      "id": "flower_0295",
+      "name": "コマクサ",
+      "scientific_name": "Dicentra peregrina",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の袋状の花と深く裂けた葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/183344979",
+      "image_path": "images/0251_0300/flower_0295.jpg"
+    },
+    {
+      "id": "flower_0296",
+      "name": "ハス",
+      "scientific_name": "Nelumbo nucifera",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の大きな花と丸い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/293129369",
+      "image_path": "images/0251_0300/flower_0296.jpeg"
+    },
+    {
+      "id": "flower_0297",
+      "name": "スイレン",
+      "scientific_name": "Nymphaea",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い多弁の水上の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/711859374",
+      "image_path": "images/0251_0300/flower_0297.jpg"
+    },
+    {
+      "id": "flower_0298",
+      "name": "ヒツジグサ",
+      "scientific_name": "Nymphaea tetragona",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い水上の花と黄色い中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/45212075",
+      "image_path": "images/0251_0300/flower_0298.jpg"
+    },
+    {
+      "id": "flower_0299",
+      "name": "コウホネ",
+      "scientific_name": "Nuphar japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い杯状の水上の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/31258675",
+      "image_path": "images/0251_0300/flower_0299.jpeg"
+    },
+    {
+      "id": "flower_0300",
+      "name": "アサザ",
+      "scientific_name": "Nymphoides peltata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い5裂花冠と丸い浮葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/89265771",
+      "image_path": "images/0251_0300/flower_0300.jpeg"
+    },
+    {
+      "id": "flower_0301",
+      "name": "ガガブタ",
+      "scientific_name": "Nymphoides indica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い毛状の裂片を持つ花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/29282656",
+      "image_path": "images/0301_0350/flower_0301.jpeg"
+    },
+    {
+      "id": "flower_0302",
+      "name": "ミズオオバコ",
+      "scientific_name": "Ottelia alismoides",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い3枚の花弁と黄色い中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/87737263",
+      "image_path": "images/0301_0350/flower_0302.jpeg"
+    },
+    {
+      "id": "flower_0303",
+      "name": "ミズアオイ",
+      "scientific_name": "Monochoria korsakowii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青紫色の6花被が花序に写る。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/4924737",
+      "image_path": "images/0301_0350/flower_0303.jpg"
+    },
+    {
+      "id": "flower_0304",
+      "name": "ホテイアオイ",
+      "scientific_name": "Eichhornia crassipes",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の花序と黄色い模様。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/28107964",
+      "image_path": "images/0301_0350/flower_0304.jpeg"
+    },
+    {
+      "id": "flower_0305",
+      "name": "オモダカ",
+      "scientific_name": "Sagittaria trifolia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い3弁花と多数の雄しべ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/65363020",
+      "image_path": "images/0301_0350/flower_0305.jpeg"
+    },
+    {
+      "id": "flower_0306",
+      "name": "サジオモダカ",
+      "scientific_name": "Alisma plantago-aquatica var. orientale",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い小花が枝分かれした花序に写る。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/45218869",
+      "image_path": "images/0301_0350/flower_0306.jpeg"
+    },
+    {
+      "id": "flower_0307",
+      "name": "ミズバショウ",
+      "scientific_name": "Lysichiton camtschatcensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い仏炎苞と黄色い肉穂花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/656464086",
+      "image_path": "images/0301_0350/flower_0307.jpg"
+    },
+    {
+      "id": "flower_0308",
+      "name": "ザゼンソウ",
+      "scientific_name": "Symplocarpus renifolius",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。暗紅色の仏炎苞。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/121403722",
+      "image_path": "images/0301_0350/flower_0308.jpg"
+    },
+    {
+      "id": "flower_0309",
+      "name": "カキラン",
+      "scientific_name": "Epipactis thunbergii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄褐色のラン形花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/290373744",
+      "image_path": "images/0301_0350/flower_0309.jpg"
+    },
+    {
+      "id": "flower_0310",
+      "name": "サワギキョウ",
+      "scientific_name": "Lobelia sessilifolia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青紫色の唇形花の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/56447690",
+      "image_path": "images/0301_0350/flower_0310.jpg"
+    },
+    {
+      "id": "flower_0311",
+      "name": "ミゾカクシ",
+      "scientific_name": "Lobelia chinensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫白色の左右非対称の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/28356230",
+      "image_path": "images/0301_0350/flower_0311.jpeg"
+    },
+    {
+      "id": "flower_0312",
+      "name": "ヌマトラノオ",
+      "scientific_name": "Lysimachia fortunei",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い小花の接写。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/43779235",
+      "image_path": "images/0301_0350/flower_0312.jpeg"
+    },
+    {
+      "id": "flower_0313",
+      "name": "クサレダマ",
+      "scientific_name": "Lysimachia vulgaris var. davurica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い5弁花が穂状に写る。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/80592838",
+      "image_path": "images/0301_0350/flower_0313.jpg"
+    },
+    {
+      "id": "flower_0314",
+      "name": "キショウブ",
+      "scientific_name": "Iris pseudacorus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色いアヤメ形の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/284056692",
+      "image_path": "images/0301_0350/flower_0314.jpeg"
+    },
+    {
+      "id": "flower_0315",
+      "name": "ミズタマソウ",
+      "scientific_name": "Circaea mollis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い小花の細長い花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/47218762",
+      "image_path": "images/0301_0350/flower_0315.jpeg"
+    },
+    {
+      "id": "flower_0316",
+      "name": "サクラタデ",
+      "scientific_name": "Persicaria odorata subsp. conspicua",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡桃色の小花の接写。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/441965049",
+      "image_path": "images/0301_0350/flower_0316.jpeg"
+    },
+    {
+      "id": "flower_0317",
+      "name": "シロバナサクラタデ",
+      "scientific_name": "Persicaria japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い小花が細長い花序に並ぶ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/300404055",
+      "image_path": "images/0301_0350/flower_0317.jpg"
+    },
+    {
+      "id": "flower_0318",
+      "name": "ミゾソバ",
+      "scientific_name": "Persicaria thunbergii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の小花が球状にまとまる。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/604784611",
+      "image_path": "images/0301_0350/flower_0318.jpg"
+    },
+    {
+      "id": "flower_0319",
+      "name": "アキノウナギツカミ",
+      "scientific_name": "Persicaria sagittata var. sibirica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡桃色の小花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/419191165",
+      "image_path": "images/0301_0350/flower_0319.jpeg"
+    },
+    {
+      "id": "flower_0320",
+      "name": "ママコノシリヌグイ",
+      "scientific_name": "Persicaria senticosa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の小花のまとまり。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/35638256",
+      "image_path": "images/0301_0350/flower_0320.jpeg"
+    },
+    {
+      "id": "flower_0321",
+      "name": "ツリフネソウ",
+      "scientific_name": "Impatiens textorii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紅紫色の袋状の花と距。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/162633356",
+      "image_path": "images/0301_0350/flower_0321.jpeg"
+    },
+    {
+      "id": "flower_0322",
+      "name": "キツリフネ",
+      "scientific_name": "Impatiens noli-tangere",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い袋状の花と大きい葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/141229298",
+      "image_path": "images/0301_0350/flower_0322.jpeg"
+    },
+    {
+      "id": "flower_0323",
+      "name": "ミズオトギリ",
+      "scientific_name": "Triadenum japonicum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡桃色の小花と対生葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/101910705",
+      "image_path": "images/0301_0350/flower_0323.jpg"
+    },
+    {
+      "id": "flower_0324",
+      "name": "オトギリソウ",
+      "scientific_name": "Hypericum erectum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い5弁花とつぼみ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/4331137",
+      "image_path": "images/0301_0350/flower_0324.jpeg"
+    },
+    {
+      "id": "flower_0325",
+      "name": "トモエソウ",
+      "scientific_name": "Hypericum ascyron",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。大きな黄色い花と長い雄しべ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hypericum_ascyron_-_Institute_for_Nature_Study,_Tokyo.JPG",
+      "image_path": "images/0301_0350/flower_0325.jpg"
+    },
+    {
+      "id": "flower_0326",
+      "name": "ネジバナ",
+      "scientific_name": "Spiranthes sinensis var. amoena",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色のラン形花がらせん状に並ぶ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/33579130",
+      "image_path": "images/0301_0350/flower_0326.jpeg"
+    },
+    {
+      "id": "flower_0327",
+      "name": "サギソウ",
+      "scientific_name": "Pecteilis radiata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い鳥形のラン花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/100481825",
+      "image_path": "images/0301_0350/flower_0327.jpg"
+    },
+    {
+      "id": "flower_0328",
+      "name": "トキソウ",
+      "scientific_name": "Pogonia japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色のラン花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/705131444",
+      "image_path": "images/0301_0350/flower_0328.jpg"
+    },
+    {
+      "id": "flower_0329",
+      "name": "ミズチドリ",
+      "scientific_name": "Platanthera hologlottis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い小さなラン形花が花序に並ぶ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/108438729",
+      "image_path": "images/0301_0350/flower_0329.jpg"
+    },
+    {
+      "id": "flower_0330",
+      "name": "ミズトンボ",
+      "scientific_name": "Habenaria sagittifera",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白いラン形花と細い距。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/55283873",
+      "image_path": "images/0301_0350/flower_0330.jpg"
+    },
+    {
+      "id": "flower_0331",
+      "name": "ノハナショウブ",
+      "scientific_name": "Iris ensata var. spontanea",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色のアヤメ形の花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/117494851",
+      "image_path": "images/0301_0350/flower_0331.jpg"
+    },
+    {
+      "id": "flower_0332",
+      "name": "サワオグルマ",
+      "scientific_name": "Tephroseris pierotii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い舌状花と中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/654758229",
+      "image_path": "images/0301_0350/flower_0332.jpg"
+    },
+    {
+      "id": "flower_0333",
+      "name": "サワシロギク",
+      "scientific_name": "Aster rugulosus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い舌状花と黄色い中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Aster_rugulosus_flower_s4.JPG",
+      "image_path": "images/0301_0350/flower_0333.jpg"
+    },
+    {
+      "id": "flower_0334",
+      "name": "ミミカキグサ",
+      "scientific_name": "Utricularia bifida",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い唇形花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/103732152",
+      "image_path": "images/0301_0350/flower_0334.jpg"
+    },
+    {
+      "id": "flower_0335",
+      "name": "ホザキノミミカキグサ",
+      "scientific_name": "Utricularia caerulea",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青紫色の唇形花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/57440007",
+      "image_path": "images/0301_0350/flower_0335.jpg"
+    },
+    {
+      "id": "flower_0336",
+      "name": "ムラサキミミカキグサ",
+      "scientific_name": "Utricularia uliginosa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の小さな花と水面。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/188248863",
+      "image_path": "images/0301_0350/flower_0336.jpg"
+    },
+    {
+      "id": "flower_0337",
+      "name": "モウセンゴケ",
+      "scientific_name": "Drosera rotundifolia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。丸い粘液毛のある葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/306390505",
+      "image_path": "images/0301_0350/flower_0337.jpeg"
+    },
+    {
+      "id": "flower_0338",
+      "name": "コモウセンゴケ",
+      "scientific_name": "Drosera spatulata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。粘液毛のある葉と細い花茎。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/113052806",
+      "image_path": "images/0301_0350/flower_0338.jpg"
+    },
+    {
+      "id": "flower_0339",
+      "name": "ナガバノモウセンゴケ",
+      "scientific_name": "Drosera anglica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細長い粘液毛のある葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/59228605",
+      "image_path": "images/0301_0350/flower_0339.jpg"
+    },
+    {
+      "id": "flower_0340",
+      "name": "タヌキモ",
+      "scientific_name": "Utricularia × japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。水上の黄色い唇形花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/327916758",
+      "image_path": "images/0301_0350/flower_0340.jpeg"
+    },
+    {
+      "id": "flower_0341",
+      "name": "イヌタヌキモ",
+      "scientific_name": "Utricularia australis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い唇形花の接写。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Utricularia_australis_inflorescens_(01).jpg",
+      "image_path": "images/0301_0350/flower_0341.jpg"
+    },
+    {
+      "id": "flower_0342",
+      "name": "ノアサガオ",
+      "scientific_name": "Ipomoea indica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青紫色の漏斗状花とつる。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/678927653",
+      "image_path": "images/0301_0350/flower_0342.jpg"
+    },
+    {
+      "id": "flower_0343",
+      "name": "テイカカズラ",
+      "scientific_name": "Trachelospermum asiaticum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡黄色の星形花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/661141533",
+      "image_path": "images/0301_0350/flower_0343.jpg"
+    },
+    {
+      "id": "flower_0344",
+      "name": "ハツユキカズラ",
+      "scientific_name": "Trachelospermum asiaticum 'Hatsuyukikazura'",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色・白色の斑入り葉。花は写らない。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Trachelospermum_asiaticum_cv1.jpg",
+      "image_path": "images/0301_0350/flower_0344.jpg"
+    },
+    {
+      "id": "flower_0345",
+      "name": "スイカズラ",
+      "scientific_name": "Lonicera japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白色から黄色の筒状花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/11747684",
+      "image_path": "images/0301_0350/flower_0345.jpeg"
+    },
+    {
+      "id": "flower_0346",
+      "name": "ラベンダー",
+      "scientific_name": "Lavandula",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の小花の穂と細い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/315889296",
+      "image_path": "images/0301_0350/flower_0346.jpeg"
+    },
+    {
+      "id": "flower_0347",
+      "name": "ローズマリー",
+      "scientific_name": "Salvia rosmarinus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の唇形花と細い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rosmarinus_officinalis133095382.jpg",
+      "image_path": "images/0301_0350/flower_0347.jpg"
+    },
+    {
+      "id": "flower_0348",
+      "name": "タイム",
+      "scientific_name": "Thymus vulgaris",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫白色の小花がまとまる。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Thymus_vulgaris_%27Common_thyme%27_(Lamiaceae)_flower.JPG",
+      "image_path": "images/0301_0350/flower_0348.jpg"
+    },
+    {
+      "id": "flower_0349",
+      "name": "オレガノ",
+      "scientific_name": "Origanum vulgare",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い小花と小さな葉。手が大きく写る。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/704735144",
+      "image_path": "images/0301_0350/flower_0349.jpg"
+    },
+    {
+      "id": "flower_0350",
+      "name": "バジル",
+      "scientific_name": "Ocimum basilicum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い唇形花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/110372060",
+      "image_path": "images/0301_0350/flower_0350.jpeg"
+    },
+    {
+      "id": "flower_0351",
+      "name": "アップルミント",
+      "scientific_name": "Mentha suaveolens",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い小花の穂としわのある葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/556581722",
+      "image_path": "images/0351_0400/flower_0351.jpg"
+    },
+    {
+      "id": "flower_0352",
+      "name": "ペパーミント",
+      "scientific_name": "Mentha × piperita",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の小花の穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mentha_%C3%97_piperita_%27Nigra%27_kz01.jpg",
+      "image_path": "images/0351_0400/flower_0352.jpg"
+    },
+    {
+      "id": "flower_0353",
+      "name": "スペアミント",
+      "scientific_name": "Mentha spicata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の細長い花穂と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/1186004",
+      "image_path": "images/0351_0400/flower_0353.jpg"
+    },
+    {
+      "id": "flower_0354",
+      "name": "レモンバーム",
+      "scientific_name": "Melissa officinalis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い唇形花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Melissa_officinalis,_2020-07-11,_Beechview,_01.jpg",
+      "image_path": "images/0351_0400/flower_0354.jpg"
+    },
+    {
+      "id": "flower_0355",
+      "name": "ジャーマンカモミール",
+      "scientific_name": "Matricaria chamomilla",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い舌状花と盛り上がった黄色い中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/709497534",
+      "image_path": "images/0351_0400/flower_0355.jpg"
+    },
+    {
+      "id": "flower_0356",
+      "name": "ローマンカモミール",
+      "scientific_name": "Chamaemelum nobile",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い舌状花と黄色い中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chamaemelum_nobile_3c.JPG",
+      "image_path": "images/0351_0400/flower_0356.jpg"
+    },
+    {
+      "id": "flower_0357",
+      "name": "フェンネル",
+      "scientific_name": "Foeniculum vulgare",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い複散形花序と細かい葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Foeniculum_vulgare_1DS-II_3-7719.jpg",
+      "image_path": "images/0351_0400/flower_0357.jpg"
+    },
+    {
+      "id": "flower_0358",
+      "name": "ディル",
+      "scientific_name": "Anethum graveolens",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い散形花序の接写。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/267570814",
+      "image_path": "images/0351_0400/flower_0358.jpg"
+    },
+    {
+      "id": "flower_0359",
+      "name": "パセリ",
+      "scientific_name": "Petroselinum crispum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄緑色の複散形花序と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/323258699",
+      "image_path": "images/0351_0400/flower_0359.jpg"
+    },
+    {
+      "id": "flower_0360",
+      "name": "イタリアンパセリ",
+      "scientific_name": "Petroselinum crispum Neapolitanum Group",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄緑色の複散形花序と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/247165633",
+      "image_path": "images/0351_0400/flower_0360.jpeg"
+    },
+    {
+      "id": "flower_0361",
+      "name": "クラリセージ",
+      "scientific_name": "Salvia sclarea",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の花と大きな苞。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/31487603",
+      "image_path": "images/0351_0400/flower_0361.jpeg"
+    },
+    {
+      "id": "flower_0362",
+      "name": "コモンセージ",
+      "scientific_name": "Salvia officinalis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の唇形花序と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/170747",
+      "image_path": "images/0351_0400/flower_0362.jpg"
+    },
+    {
+      "id": "flower_0363",
+      "name": "ボリジ",
+      "scientific_name": "Borago officinalis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡青紫色の星形花と毛のある花柄。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/465942146",
+      "image_path": "images/0351_0400/flower_0363.jpg"
+    },
+    {
+      "id": "flower_0364",
+      "name": "ナスタチウム",
+      "scientific_name": "Tropaeolum majus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。橙色の花と丸い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/155042909",
+      "image_path": "images/0351_0400/flower_0364.jpg"
+    },
+    {
+      "id": "flower_0365",
+      "name": "カレンデュラ",
+      "scientific_name": "Calendula officinalis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い頭花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/175864335",
+      "image_path": "images/0351_0400/flower_0365.jpeg"
+    },
+    {
+      "id": "flower_0366",
+      "name": "チャイブ",
+      "scientific_name": "Allium schoenoprasum var. schoenoprasum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の球状花序と細い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/137336737",
+      "image_path": "images/0351_0400/flower_0366.jpg"
+    },
+    {
+      "id": "flower_0367",
+      "name": "ニラ",
+      "scientific_name": "Allium tuberosum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い星形花とつぼみ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Allium_tuberosum_flowers_and_buds_-_Fukufukurou.jpg",
+      "image_path": "images/0351_0400/flower_0367.jpg"
+    },
+    {
+      "id": "flower_0368",
+      "name": "ネギ",
+      "scientific_name": "Allium fistulosum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い球状花序と多数の雄しべ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/248709671",
+      "image_path": "images/0351_0400/flower_0368.jpeg"
+    },
+    {
+      "id": "flower_0369",
+      "name": "タマネギ",
+      "scientific_name": "Allium cepa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い球状花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/296157622",
+      "image_path": "images/0351_0400/flower_0369.jpg"
+    },
+    {
+      "id": "flower_0370",
+      "name": "ニンニク",
+      "scientific_name": "Allium sativum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の小花とむかご、膜状の苞。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/43390911",
+      "image_path": "images/0351_0400/flower_0370.jpg"
+    },
+    {
+      "id": "flower_0371",
+      "name": "ソバ",
+      "scientific_name": "Fagopyrum esculentum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い小花と三角形の葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/219631921",
+      "image_path": "images/0351_0400/flower_0371.jpeg"
+    },
+    {
+      "id": "flower_0372",
+      "name": "ナタネ",
+      "scientific_name": "Brassica napus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い4弁花と大きい葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/497000036",
+      "image_path": "images/0351_0400/flower_0372.jpg"
+    },
+    {
+      "id": "flower_0373",
+      "name": "ダイコン",
+      "scientific_name": "Raphanus sativus var. hortensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の4弁花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/28387821",
+      "image_path": "images/0351_0400/flower_0373.jpeg"
+    },
+    {
+      "id": "flower_0374",
+      "name": "ハクサイ",
+      "scientific_name": "Brassica rapa var. glabra 'Pe-tsai'",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い4弁花。結球する株は写らない。植物名と写真に明らかな不一致なし。 結球する株は見えず、園芸系統までは未確認。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:JfPechay693Mustardflowersfvf.JPG",
+      "image_path": "images/0351_0400/flower_0374.jpg"
+    },
+    {
+      "id": "flower_0375",
+      "name": "キャベツ",
+      "scientific_name": "Brassica oleracea var. capitata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い小花が多く分枝した花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brassica_oleracea_02.JPG",
+      "image_path": "images/0351_0400/flower_0375.jpg"
+    },
+    {
+      "id": "flower_0376",
+      "name": "ブロッコリー",
+      "scientific_name": "Brassica oleracea var. italica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い4弁花と開花した株。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bl%C3%BChender_Broccoli,_Botanischer_Garten_in_Klagenfurt,_K%C3%A4rnten.jpg",
+      "image_path": "images/0351_0400/flower_0376.jpg"
+    },
+    {
+      "id": "flower_0377",
+      "name": "コマツナ",
+      "scientific_name": "Brassica rapa var. perviridis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い4弁花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/373294099",
+      "image_path": "images/0351_0400/flower_0377.jpeg"
+    },
+    {
+      "id": "flower_0378",
+      "name": "ミズナ",
+      "scientific_name": "Brassica rapa var. nipposinica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い4弁花と細長い果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/373294215",
+      "image_path": "images/0351_0400/flower_0378.jpeg"
+    },
+    {
+      "id": "flower_0379",
+      "name": "シュンギク",
+      "scientific_name": "Glebionis coronaria",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白色と黄色の舌状花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/12761983",
+      "image_path": "images/0351_0400/flower_0379.jpeg"
+    },
+    {
+      "id": "flower_0380",
+      "name": "ゴマ",
+      "scientific_name": "Sesamum indicum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の筒状花と細長い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/29332099",
+      "image_path": "images/0351_0400/flower_0380.jpeg"
+    },
+    {
+      "id": "flower_0381",
+      "name": "オクラ",
+      "scientific_name": "Abelmoschus esculentus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡黄色の大きい花と暗紅色の中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/332060792",
+      "image_path": "images/0351_0400/flower_0381.jpeg"
+    },
+    {
+      "id": "flower_0382",
+      "name": "ナス",
+      "scientific_name": "Solanum melongena",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の星形花と葉。植物名と写真に明らかな不一致なし。 果実が写らず、栽培系統・近縁種との差は未確認。",
+      "source_url": "https://www.inaturalist.org/photos/22997835",
+      "image_path": "images/0351_0400/flower_0382.jpg"
+    },
+    {
+      "id": "flower_0383",
+      "name": "トマト",
+      "scientific_name": "Solanum lycopersicum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い星形花と複葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flower_of_Solanum_lycopersicum.jpg",
+      "image_path": "images/0351_0400/flower_0383.jpg"
+    },
+    {
+      "id": "flower_0384",
+      "name": "ピーマン",
+      "scientific_name": "Capsicum annuum Grossum Group",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い星形花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flower_of_pepper_plant.jpg",
+      "image_path": "images/0351_0400/flower_0384.jpg"
+    },
+    {
+      "id": "flower_0385",
+      "name": "ジャガイモ",
+      "scientific_name": "Solanum tuberosum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の花と複葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/34184854",
+      "image_path": "images/0351_0400/flower_0385.jpeg"
+    },
+    {
+      "id": "flower_0386",
+      "name": "サツマイモ",
+      "scientific_name": "Ipomoea batatas",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い漏斗状花と紫色の花口。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/64415778",
+      "image_path": "images/0351_0400/flower_0386.jpeg"
+    },
+    {
+      "id": "flower_0387",
+      "name": "イチゴ",
+      "scientific_name": "Fragaria × ananassa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い5弁花と鋸歯葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fragaria_%C3%97_ananassa_%27Korona%27_flower_(1).jpg",
+      "image_path": "images/0351_0400/flower_0387.jpg"
+    },
+    {
+      "id": "flower_0388",
+      "name": "エンドウ",
+      "scientific_name": "Pisum sativum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の蝶形花とつる。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/187398623",
+      "image_path": "images/0351_0400/flower_0388.jpg"
+    },
+    {
+      "id": "flower_0389",
+      "name": "ソラマメ",
+      "scientific_name": "Vicia faba",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い蝶形花と黒い模様。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vicia_faba_flower_detail.jpg",
+      "image_path": "images/0351_0400/flower_0389.jpg"
+    },
+    {
+      "id": "flower_0390",
+      "name": "インゲンマメ",
+      "scientific_name": "Phaseolus vulgaris",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の蝶形花と三小葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/424145149",
+      "image_path": "images/0351_0400/flower_0390.jpg"
+    },
+    {
+      "id": "flower_0391",
+      "name": "ラッカセイ",
+      "scientific_name": "Arachis hypogaea",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い蝶形花と4小葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/105026294",
+      "image_path": "images/0351_0400/flower_0391.jpeg"
+    },
+    {
+      "id": "flower_0392",
+      "name": "ダイズ",
+      "scientific_name": "Glycine max",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。小さい紫色の蝶形花と毛のある茎。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/28348393",
+      "image_path": "images/0351_0400/flower_0392.jpeg"
+    },
+    {
+      "id": "flower_0393",
+      "name": "アズキ",
+      "scientific_name": "Vigna angularis var. angularis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡黄色の蝶形花と三小葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/431974177",
+      "image_path": "images/0351_0400/flower_0393.jpeg"
+    },
+    {
+      "id": "flower_0394",
+      "name": "プリムラ・マラコイデス",
+      "scientific_name": "Primula malacoides",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の小花が段状にまとまる。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/257627489",
+      "image_path": "images/0351_0400/flower_0394.jpeg"
+    },
+    {
+      "id": "flower_0395",
+      "name": "プリムラ・オブコニカ",
+      "scientific_name": "Primula obconica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の花と丸い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%E5%9B%9B%E5%AD%A3%E5%A0%B1%E6%98%A5_Primula_obconica_Touch_Me_Series_-%E9%A6%99%E6%B8%AF%E8%8A%B1%E5%B1%95_Hong_Kong_Flower_Show-_(9200909602).jpg",
+      "image_path": "images/0351_0400/flower_0395.jpg"
+    },
+    {
+      "id": "flower_0396",
+      "name": "カルーナ",
+      "scientific_name": "Calluna vulgaris",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃紫色の小さな鐘形花が並ぶ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Calluna_vulgaris_(flower_closeup).jpg",
+      "image_path": "images/0351_0400/flower_0396.jpg"
+    },
+    {
+      "id": "flower_0397",
+      "name": "カランコエ",
+      "scientific_name": "Kalanchoe",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。赤い4弁花の集合。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/335644990",
+      "image_path": "images/0351_0400/flower_0397.jpeg"
+    },
+    {
+      "id": "flower_0398",
+      "name": "シャコバサボテン",
+      "scientific_name": "Schlumbergera",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。濃桃色の左右非対称の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/117673039",
+      "image_path": "images/0351_0400/flower_0398.jpeg"
+    },
+    {
+      "id": "flower_0399",
+      "name": "クジャクサボテン",
+      "scientific_name": "Epiphyllum and related hybrids",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。橙桃色の多弁花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Epiphyllum_King_Midas.jpg",
+      "image_path": "images/0351_0400/flower_0399.jpg"
+    },
+    {
+      "id": "flower_0400",
+      "name": "ゲッカビジン",
+      "scientific_name": "Epiphyllum oxypetalum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い多弁の大きな花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/40327377",
+      "image_path": "images/0351_0400/flower_0400.jpeg"
+    }
+  ]
+}
