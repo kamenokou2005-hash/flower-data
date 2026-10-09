@@ -4550,55 +4550,57 @@
         "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
     },
     {
-        "id":  "flower_tree_0090",
-        "category":  "花の木",
-        "display_name":  "バラ",
-        "kana":  "バラ",
-        "search_aliases":  [
-                               "バラ"
-                           ],
-        "family":  "バラ科",
-        "genus":  "バラ属",
-        "scientific_name":  "Rosa spp.",
-        "taxon_id":  null,
-        "reference_taxon_id":  53438,
-        "taxon_rank":  "cultivar_group",
-        "matched_common_name":  "バラ",
-        "entity_type":  "園芸群（範囲は分類注記を参照）",
-        "life_form":  "落葉性・常緑性を含む低木・つる性木本の園芸群",
-        "flowering_season":  "種類・品種・環境により異なる。要確認",
-        "observation_season":  "葉・枝・花・果実をそれぞれの季節に観察。具体的な時期は地域・栽培環境により要確認",
-        "fruiting_season":  "種類・品種により異なる。要確認",
-        "distribution":  "複数の種・園芸系統を含む。原産地と栽培分布は系統ごとに要確認",
-        "habitat":  "種類・品種ごとの自生・栽培環境は要確認",
-        "common_place":  "種類・品種ごとの自生・栽培環境は要確認",
-        "feature_summary":  "バラ属の総称。刺をもつ種類が多く、花色・花弁数・樹形は多様。",
-        "trivia":  "切り花や庭植えのバラには複雑な交雑由来の園芸品種が多い。",
-        "classification":  {
-                               "kingdom":  "植物界",
-                               "clade":  "被子植物（真正双子葉類）",
-                               "order":  "バラ目",
-                               "family":  "バラ科",
-                               "genus":  "バラ属",
-                               "species":  "Rosa spp."
-                           },
-        "classification_note":  "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。園芸名の範囲を優先し、属を分類参照として扱う。",
-        "plant_source_url":  "https://mikawanoyasou.org/data/bara.htm",
-        "content_source_urls":  [
-                                    "https://mikawanoyasou.org/data/bara.htm",
-                                    "https://www.inaturalist.org/taxa/53438"
-                                ],
-        "image":  {
-                      "author":  "(c) Douglas Goldman, some rights reserved (CC BY-SA)",
-                      "license":  "CC BY-SA",
-                      "source_url":  "https://www.inaturalist.org/photos/241390581",
-                      "image_path":  "images/0051_0100/flower_tree_0090.jpg"
-                  },
-        "needs_ai_summary":  false,
-        "needs_manual_taxon_review":  false,
-        "taxon_lookup_error":  "",
-        "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "id": "flower_tree_0090",
+        "category": "花の木",
+        "display_name": "バラ",
+        "kana": "バラ",
+        "search_aliases": [
+            "バラ"
+        ],
+        "family": "バラ科",
+        "genus": "バラ属",
+        "scientific_name": "Rosa spp.",
+        "taxon_id": null,
+        "reference_taxon_id": 53438,
+        "taxon_rank": "cultivar_group",
+        "matched_common_name": "バラ",
+        "entity_type": "園芸群（範囲は分類注記を参照）",
+        "life_form": "落葉性・常緑性を含む低木・つる性木本の園芸群",
+        "flowering_season": "種類・品種・環境により異なる。要確認",
+        "observation_season": "葉・枝・花・果実をそれぞれの季節に観察。具体的な時期は地域・栽培環境により要確認",
+        "fruiting_season": "種類・品種により異なる。要確認",
+        "distribution": "複数の種・園芸系統を含む。原産地と栽培分布は系統ごとに要確認",
+        "habitat": "種類・品種ごとの自生・栽培環境は要確認",
+        "common_place": "種類・品種ごとの自生・栽培環境は要確認",
+        "feature_summary": "バラ属の総称。刺をもつ種類が多く、花色・花弁数・樹形は多様。",
+        "trivia": "切り花や庭植えのバラには複雑な交雑由来の園芸品種が多い。",
+        "classification": {
+            "kingdom": "植物界",
+            "clade": "被子植物（真正双子葉類）",
+            "order": "バラ目",
+            "family": "バラ科",
+            "genus": "バラ属",
+            "species": "Rosa spp."
+        },
+        "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。園芸名の範囲を優先し、属を分類参照として扱う。",
+        "plant_source_url": "https://mikawanoyasou.org/data/bara.htm",
+        "content_source_urls": [
+            "https://mikawanoyasou.org/data/bara.htm",
+            "https://www.inaturalist.org/taxa/53438"
+        ],
+        "image": {
+            "author": "(c) Elver Gallardo, some rights reserved (CC BY)",
+            "license": "CC-BY",
+            "source_url": "https://www.inaturalist.org/photos/201980712",
+            "image_path": "images/0051_0100/flower_tree_0090.jpg"
+        },
+        "needs_ai_summary": false,
+        "needs_manual_taxon_review": false,
+        "taxon_lookup_error": "",
+        "content_status": "完成",
+        "verification_notes": "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。 / 2026-10-09 再確認。園芸バラの参考例として、開いた八重の花全体が見える写真へ差替え。Rosa属の栽培個体。品種は未確定。",
+        "image_review_note": "2026-10-09 再確認。園芸バラの参考例として、開いた八重の花全体が見える写真へ差替え。Rosa属の栽培個体。品種は未確定。",
+        "needs_manual_image_review": false
     },
     {
         "id":  "flower_tree_0091",
@@ -7409,57 +7411,57 @@
         "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
     },
     {
-        "id":  "flower_tree_0147",
-        "category":  "花の木",
-        "display_name":  "カエンボク",
-        "kana":  "カエンボク",
-        "search_aliases":  [
-                               "カエンボク"
-                           ],
-        "family":  "ノウゼンカズラ科",
-        "genus":  "カエンボク属",
-        "scientific_name":  "Spathodea campanulata",
-        "taxon_id":  126566,
-        "reference_taxon_id":  126566,
-        "taxon_rank":  "species",
-        "matched_common_name":  "カエンボク",
-        "entity_type":  "種",
-        "life_form":  "常緑〜半落葉高木",
-        "flowering_season":  "温暖な栽培地では長期間。日本での開花時期は環境によるため要確認",
-        "observation_season":  "葉は展葉から落葉まで。冬は枝・芽・樹形を観察。花・果実は記載の季節を参照",
-        "fruiting_season":  "要確認",
-        "distribution":  "熱帯アフリカ原産。各地の熱帯・亜熱帯で栽培",
-        "habitat":  "庭、公園",
-        "common_place":  "庭、公園",
-        "feature_summary":  "大きな羽状複葉と、橙赤色の幅広い筒状の花をつける。",
-        "trivia":  "アフリカユリノキとも呼ばれるが、ユリノキとは別のノウゼンカズラ科。",
-        "classification":  {
-                               "kingdom":  "植物界",
-                               "clade":  "被子植物（真正双子葉類）",
-                               "order":  "シソ目",
-                               "family":  "ノウゼンカズラ科",
-                               "genus":  "カエンボク属",
-                               "species":  "Spathodea campanulata"
-                           },
-        "classification_note":  "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。参照資料内の原産地表記に矛盾があり、種の解説部分の熱帯アフリカ原産を採用。",
-        "plant_source_url":  "https://mikawanoyasou.org/data/kaenboku.htm",
-        "content_source_urls":  [
-                                    "https://mikawanoyasou.org/data/kaenboku.htm",
-                                    "https://www.inaturalist.org/taxa/126566"
-                                ],
-        "image":  {
-                      "author":  "no rights reserved",
-                      "license":  "CC0",
-                      "source_url":  "https://www.inaturalist.org/photos/729529211",
-                      "image_path":  "images/0101_0150/flower_tree_0147.jpg"
-                  },
-        "needs_ai_summary":  false,
-        "needs_manual_taxon_review":  false,
-        "taxon_lookup_error":  "",
-        "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
-        "needs_manual_image_review":  true,
-        "image_review_note":  "建物と周辺の樹木を写した遠景で、花・葉の識別点が十分に見えない。元画像と権利情報を保持し、表示名との対応は詳細確認対象。"
+        "id": "flower_tree_0147",
+        "category": "花の木",
+        "display_name": "カエンボク",
+        "kana": "カエンボク",
+        "search_aliases": [
+            "カエンボク"
+        ],
+        "family": "ノウゼンカズラ科",
+        "genus": "カエンボク属",
+        "scientific_name": "Spathodea campanulata",
+        "taxon_id": 126566,
+        "reference_taxon_id": 126566,
+        "taxon_rank": "species",
+        "matched_common_name": "カエンボク",
+        "entity_type": "種",
+        "life_form": "常緑〜半落葉高木",
+        "flowering_season": "温暖な栽培地では長期間。日本での開花時期は環境によるため要確認",
+        "observation_season": "葉は展葉から落葉まで。冬は枝・芽・樹形を観察。花・果実は記載の季節を参照",
+        "fruiting_season": "要確認",
+        "distribution": "熱帯アフリカ原産。各地の熱帯・亜熱帯で栽培",
+        "habitat": "庭、公園",
+        "common_place": "庭、公園",
+        "feature_summary": "大きな羽状複葉と、橙赤色の幅広い筒状の花をつける。",
+        "trivia": "アフリカユリノキとも呼ばれるが、ユリノキとは別のノウゼンカズラ科。",
+        "classification": {
+            "kingdom": "植物界",
+            "clade": "被子植物（真正双子葉類）",
+            "order": "シソ目",
+            "family": "ノウゼンカズラ科",
+            "genus": "カエンボク属",
+            "species": "Spathodea campanulata"
+        },
+        "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。参照資料内の原産地表記に矛盾があり、種の解説部分の熱帯アフリカ原産を採用。",
+        "plant_source_url": "https://mikawanoyasou.org/data/kaenboku.htm",
+        "content_source_urls": [
+            "https://mikawanoyasou.org/data/kaenboku.htm",
+            "https://www.inaturalist.org/taxa/126566"
+        ],
+        "image": {
+            "author": "(c) Ricard Busquets Reverte, some rights reserved (CC BY)",
+            "license": "CC-BY",
+            "source_url": "https://www.inaturalist.org/photos/173257063",
+            "image_path": "images/0101_0150/flower_tree_0147.jpg"
+        },
+        "needs_ai_summary": false,
+        "needs_manual_taxon_review": false,
+        "taxon_lookup_error": "",
+        "content_status": "完成",
+        "verification_notes": "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。 / 2026-10-09 再確認。建物の遠景から、橙赤色の花と羽状複葉が見える写真へ差替え。出典のResearch Grade観察はSpathodea campanulata。",
+        "needs_manual_image_review": false,
+        "image_review_note": "2026-10-09 再確認。建物の遠景から、橙赤色の花と羽状複葉が見える写真へ差替え。出典のResearch Grade観察はSpathodea campanulata。"
     },
     {
         "id":  "flower_tree_0148",

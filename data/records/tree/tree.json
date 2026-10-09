@@ -2350,54 +2350,56 @@
         "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
     },
     {
-        "id":  "tree_0048",
-        "category":  "木",
-        "display_name":  "ウラジロモミ",
-        "kana":  "ウラジロモミ",
-        "search_aliases":  [
-                               "ウラジロモミ"
-                           ],
-        "family":  "マツ科",
-        "genus":  "モミ属",
-        "scientific_name":  "Abies homolepis",
-        "taxon_id":  136321,
-        "taxon_rank":  "species",
-        "matched_common_name":  "ウラジロモミ",
-        "entity_type":  "種",
-        "life_form":  "常緑高木（針葉樹）",
-        "flowering_season":  "要確認（球花の時期）",
-        "observation_season":  "観察時期の詳細は要確認",
-        "fruiting_season":  "要確認（球果の成熟時期）",
-        "distribution":  "本州（福島県以西）～四国。",
-        "habitat":  "山地の林",
-        "common_place":  "山地の林",
-        "feature_summary":  "葉の裏が白く、球果は紫色を帯びる。山地に生える常緑針葉樹。",
-        "trivia":  "モミとの比較では、葉裏の色と球果の色が手掛かりになる。",
-        "classification":  {
-                               "kingdom":  "植物界",
-                               "clade":  "裸子植物（針葉樹類）",
-                               "order":  "マツ目",
-                               "family":  "マツ科",
-                               "genus":  "モミ属",
-                               "species":  "Abies homolepis"
-                           },
-        "classification_note":  "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
-        "plant_source_url":  "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A9%E3%82%B8%E3%83%AD%E3%83%A2%E3%83%9F",
-        "content_source_urls":  [
-                                    "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A9%E3%82%B8%E3%83%AD%E3%83%A2%E3%83%9F",
-                                    "https://www.inaturalist.org/taxa/136321"
-                                ],
-        "image":  {
-                      "author":  "(c) Allegheny County Park Rangers, some rights reserved (CC BY)",
-                      "license":  "CC-BY",
-                      "source_url":  "https://www.inaturalist.org/photos/736585990",
-                      "image_path":  "images/0001_0050/tree_0048.jpg"
-                  },
-        "needs_ai_summary":  false,
-        "needs_manual_taxon_review":  false,
-        "taxon_lookup_error":  "",
-        "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "id": "tree_0048",
+        "category": "木",
+        "display_name": "ウラジロモミ",
+        "kana": "ウラジロモミ",
+        "search_aliases": [
+            "ウラジロモミ"
+        ],
+        "family": "マツ科",
+        "genus": "モミ属",
+        "scientific_name": "Abies homolepis",
+        "taxon_id": 136321,
+        "taxon_rank": "species",
+        "matched_common_name": "ウラジロモミ",
+        "entity_type": "種",
+        "life_form": "常緑高木（針葉樹）",
+        "flowering_season": "要確認（球花の時期）",
+        "observation_season": "観察時期の詳細は要確認",
+        "fruiting_season": "要確認（球果の成熟時期）",
+        "distribution": "本州（福島県以西）～四国。",
+        "habitat": "山地の林",
+        "common_place": "山地の林",
+        "feature_summary": "葉の裏が白く、球果は紫色を帯びる。山地に生える常緑針葉樹。",
+        "trivia": "モミとの比較では、葉裏の色と球果の色が手掛かりになる。",
+        "classification": {
+            "kingdom": "植物界",
+            "clade": "裸子植物（針葉樹類）",
+            "order": "マツ目",
+            "family": "マツ科",
+            "genus": "モミ属",
+            "species": "Abies homolepis"
+        },
+        "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
+        "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A9%E3%82%B8%E3%83%AD%E3%83%A2%E3%83%9F",
+        "content_source_urls": [
+            "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A9%E3%82%B8%E3%83%AD%E3%83%A2%E3%83%9F",
+            "https://www.inaturalist.org/taxa/136321"
+        ],
+        "image": {
+            "author": "(c) Yoshimasa Uchiyama, some rights reserved (CC BY)",
+            "license": "CC-BY",
+            "source_url": "https://www.inaturalist.org/photos/58355861",
+            "image_path": "images/0001_0050/tree_0048.jpg"
+        },
+        "needs_ai_summary": false,
+        "needs_manual_taxon_review": false,
+        "taxon_lookup_error": "",
+        "content_status": "完成",
+        "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。 / 2026-10-09 再確認。樹皮と金属プレートの接写から、葉と枝が見える写真へ差替え。出典のResearch Grade観察はAbies homolepis。",
+        "image_review_note": "2026-10-09 再確認。樹皮と金属プレートの接写から、葉と枝が見える写真へ差替え。出典のResearch Grade観察はAbies homolepis。",
+        "needs_manual_image_review": false
     },
     {
         "id":  "tree_0049",
