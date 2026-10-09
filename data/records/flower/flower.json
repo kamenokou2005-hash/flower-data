@@ -19864,7 +19864,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。淡黄緑色の苞と刺のある茎。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0402",
@@ -19912,7 +19917,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。赤い仏炎苞と黄色い肉穂花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0403",
@@ -19959,7 +19969,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い仏炎苞と大きな葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0404",
@@ -20006,7 +20021,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。赤い苞とロゼット状の葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0405",
@@ -20054,7 +20074,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。桃色の花序とロゼット状の葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0406",
@@ -20101,7 +20126,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄緑色のラン形花と縞のある唇弁。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0407",
@@ -20148,7 +20178,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白いラン形花の群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0408",
@@ -20196,7 +20231,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い丸い花弁と黄色い中心。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0409",
@@ -20243,7 +20283,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。赤いラン形花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0410",
@@ -20290,7 +20335,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白いラン形花と紫斑。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0411",
@@ -20337,7 +20387,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。袋状の唇弁と紫色の花被。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0412",
@@ -20384,7 +20439,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色のラン形花序と帯状の葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0413",
@@ -20431,7 +20491,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。淡黄緑色のラン形花と白い唇弁。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0414",
@@ -20478,7 +20543,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色のラン形花とひだのある葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0415",
@@ -20526,7 +20596,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白いラン形花と節のある茎。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0416",
@@ -20574,7 +20649,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い花と長い距。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0417",
@@ -20621,7 +20701,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い6花被と線形葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0418",
@@ -20669,7 +20754,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い6花被と黄色い雄しべ。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0419",
@@ -20717,7 +20807,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄色い星形花と線形葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0420",
@@ -20764,7 +20859,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄色い多弁花と丸い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0421",
@@ -20811,7 +20911,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄色い5弁花と丸い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0422",
@@ -20860,7 +20965,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。網目模様のある淡色の釣鐘形花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0423",
@@ -20909,7 +21019,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。暗紫色の釣鐘形花と輪生葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0424",
@@ -20957,7 +21072,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い下向きの小花と幅広い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0425",
@@ -21005,7 +21125,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い下向きの小花と幅広い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0426",
@@ -21053,7 +21178,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。青紫色の唇形花の穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0427",
@@ -21101,7 +21231,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。赤い小花の花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0428",
@@ -21148,7 +21283,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い小花の穂と丸い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0429",
@@ -21195,7 +21335,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。青い小花としわのある葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0430",
@@ -21243,7 +21388,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の唇形花と斑入り葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0431",
@@ -21291,7 +21441,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い唇形花と暗色の上部。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0432",
@@ -21338,7 +21493,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白毛の多い花序と紫色の花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0433",
@@ -21386,7 +21546,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。淡紫色の頭花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0434",
@@ -21434,7 +21599,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。淡青色の花と細かい葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0435",
@@ -21482,7 +21652,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。橙色の頭花の群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0436",
@@ -21531,7 +21706,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白色から桃色の頭花と細い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0437",
@@ -21579,7 +21759,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。橙色の杯状花と細かい葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0438",
@@ -21628,7 +21813,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。桃色の5弁花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0439",
@@ -21676,7 +21866,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。青い深裂した頭花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0440",
@@ -21724,7 +21919,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。青紫色の鐘形花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0441",
@@ -21773,7 +21973,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の漏斗状花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0442",
@@ -21821,7 +22026,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。淡紫白色の花と細長い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0443",
@@ -21869,7 +22079,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。橙色の花と丸い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0444",
@@ -21918,7 +22133,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の頭花。園芸交雑系統までは未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0445",
@@ -21965,7 +22185,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の小花と毛のある丸い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0446",
@@ -22013,7 +22238,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の筒状花と毛のある葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0447",
@@ -22061,7 +22291,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。淡紫色の筒状花と葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0448",
@@ -22109,7 +22344,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い4弁花のまとまり。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0449",
@@ -22157,7 +22397,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の頭花。園芸系統までは未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0450",
@@ -22205,7 +22450,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い枝分かれした花序と複葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0451",
@@ -22253,7 +22503,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の小花の穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0452",
@@ -22301,7 +22556,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色のブラシ状の花穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0453",
@@ -22349,7 +22609,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄色い切れ込みのある舌状花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0454",
@@ -22397,7 +22662,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄色い小さな頭花と暗色の中心。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0455",
@@ -22445,7 +22715,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の頭花と黄色い中心。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0456",
@@ -22493,7 +22768,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。桃色の深く裂けた5弁花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0457",
@@ -22541,7 +22821,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄色い垂れた舌状花と盛り上がった中心。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0458",
@@ -22588,7 +22873,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄色い球状の花序と長い花茎。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0459",
@@ -22636,7 +22926,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。桃色の波打つ細い花被と長い雄しべ。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0460",
@@ -22684,7 +22979,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。青い下向きの6花被。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0461",
@@ -22732,7 +23032,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い星形の6花被。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0462",
@@ -22780,7 +23085,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。赤黄の反り返る花被。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0463",
@@ -22828,7 +23138,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。橙色から黄色の筒状花の穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0464",
@@ -22876,7 +23191,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。桃色の6花被と線形葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0465",
@@ -22924,7 +23244,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。桃色の小花の散形花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0466",
@@ -22973,7 +23298,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の球形の頭花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0467",
@@ -23021,7 +23351,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。桃色の筒状花と白い縁のある対生葉。属内の種までは未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0468",
@@ -23070,7 +23405,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い長短の花弁と赤い花茎。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0469",
@@ -23118,7 +23458,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。長短の白い花弁。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0470",
@@ -23166,7 +23511,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。淡紫色の長い距のある花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0471",
@@ -23214,7 +23564,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い曲がった穂状花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0472",
@@ -23262,7 +23617,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の唇形花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0473",
@@ -23310,7 +23670,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白くなる上部の葉と白い花穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0474",
@@ -23358,7 +23723,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄色い4弁花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0475",
@@ -23406,7 +23776,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。桃色の4弁花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0476",
@@ -23454,7 +23829,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の6花被と黄色い中心。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0477",
@@ -23502,7 +23882,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の閉じた花と細い茎。開花した正面像は未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0478",
@@ -23551,7 +23936,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の4弁花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0479",
@@ -23600,7 +23990,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄色い小さな頭花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0480",
@@ -23648,7 +24043,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。淡紫色の小さな唇形花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0481",
@@ -23696,7 +24096,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。桃色の5弁花と暗色の脈。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0482",
@@ -23744,7 +24149,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色のアザミ形の頭花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0483",
@@ -23792,7 +24202,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。淡紫色の5裂する花と幅広い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0484",
@@ -23840,7 +24255,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い緑先端の筒状花と弓状の茎。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0485",
@@ -23888,7 +24308,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。多数の下向きの白い筒状花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0486",
@@ -23936,7 +24361,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。長い緑色の果実と黄色い花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0487",
@@ -23985,7 +24415,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。大きな黄色い5裂花。栽培系統までは未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0488",
@@ -24033,7 +24468,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄色い花と深く切れ込む葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0489",
@@ -24083,7 +24523,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。橙色のいぼ状の熟果。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0490",
@@ -24132,7 +24577,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄色い大きな花。ズッキーニ系統は果実がなく未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0491",
@@ -24180,7 +24630,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。小さな黄色い花。栽培系統までは未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0492",
@@ -24229,7 +24684,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。大きな黄色い花と葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0493",
@@ -24277,7 +24737,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄色い筒状の頭花と苞。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0494",
@@ -24327,7 +24792,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い散形花序と細かい葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0495",
@@ -24377,7 +24847,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い4弁花と暗色の脈。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0496",
@@ -24425,7 +24900,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い花穂と幅広い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0497",
@@ -24474,7 +24954,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。青い舌状花の頭花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0498",
@@ -24522,7 +25007,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。地際の淡黄色の花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0499",
@@ -24571,7 +25061,12 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い散形花序と細い苞。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     },
     {
         "id":  "flower_0500",
@@ -24619,6 +25114,11 @@
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
-        "content_status":  "完成"
+        "content_status":  "完成",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の頭花と鉤のある苞。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。"
     }
 ]

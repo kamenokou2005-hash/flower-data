@@ -1,0 +1,2014 @@
+{
+  "date": "2026-10-09",
+  "summary": {
+    "reviewed": 200,
+    "accepted": 200,
+    "pending": 0,
+    "replaced_images": 0,
+    "errors": 0
+  },
+  "criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+  "limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視し、ペンステモン、ワラビ、オニヤブソテツは元画像も個別に開いた。",
+  "items": [
+    {
+      "category": "花",
+      "id": "flower_0401",
+      "name": "ハナキリン",
+      "scientific_name": "Euphorbia milii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡黄緑色の苞と刺のある茎。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/698010524",
+      "image_path": "images/0401_0450/flower_0401.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0402",
+      "name": "アンスリウム",
+      "scientific_name": "Anthurium",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。赤い仏炎苞と黄色い肉穂花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/253254407",
+      "image_path": "images/0401_0450/flower_0402.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0403",
+      "name": "スパティフィラム",
+      "scientific_name": "Spathiphyllum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い仏炎苞と大きな葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/641622833",
+      "image_path": "images/0401_0450/flower_0403.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0404",
+      "name": "グズマニア",
+      "scientific_name": "Guzmania",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。赤い苞とロゼット状の葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/659292503",
+      "image_path": "images/0401_0450/flower_0404.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0405",
+      "name": "ブロメリア",
+      "scientific_name": "Bromeliaceae",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の花序とロゼット状の葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Aechmea_fasciata-2-wild_orchid-yercaud-salem-India.jpg",
+      "image_path": "images/0401_0450/flower_0405.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0406",
+      "name": "シンビジウム",
+      "scientific_name": "Cymbidium",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄緑色のラン形花と縞のある唇弁。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/475920051",
+      "image_path": "images/0401_0450/flower_0406.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0407",
+      "name": "デンドロビウム",
+      "scientific_name": "Dendrobium",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白いラン形花の群落。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/97048301",
+      "image_path": "images/0401_0450/flower_0407.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0408",
+      "name": "コチョウラン",
+      "scientific_name": "Phalaenopsis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い丸い花弁と黄色い中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/368194406",
+      "image_path": "images/0401_0450/flower_0408.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0409",
+      "name": "カトレア",
+      "scientific_name": "Cattleya",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。赤いラン形花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/40853749",
+      "image_path": "images/0401_0450/flower_0409.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0410",
+      "name": "オンシジウム",
+      "scientific_name": "Oncidium",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白いラン形花と紫斑。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/186068063",
+      "image_path": "images/0401_0450/flower_0410.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0411",
+      "name": "パフィオペディルム",
+      "scientific_name": "Paphiopedilum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。袋状の唇弁と紫色の花被。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/98949876",
+      "image_path": "images/0401_0450/flower_0411.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0412",
+      "name": "バンダ",
+      "scientific_name": "Vanda",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色のラン形花序と帯状の葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vanda,_abbreviated_in_the_horticultural_trade_as_V.,_is_a_genus_in_the_orchid_family.jpg",
+      "image_path": "images/0401_0450/flower_0412.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0413",
+      "name": "ミルトニア",
+      "scientific_name": "Miltonia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡黄緑色のラン形花と白い唇弁。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/11596891",
+      "image_path": "images/0401_0450/flower_0413.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0414",
+      "name": "シラン",
+      "scientific_name": "Bletilla striata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色のラン形花とひだのある葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/297311171",
+      "image_path": "images/0401_0450/flower_0414.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0415",
+      "name": "セッコク",
+      "scientific_name": "Dendrobium moniliforme",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白いラン形花と節のある茎。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Dendrobium_moniliforme_(26603118095)_-_cropped.jpg",
+      "image_path": "images/0401_0450/flower_0415.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0416",
+      "name": "フウラン",
+      "scientific_name": "Vanda falcata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い花と長い距。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Neofinetia_falcata_(6552852765).jpg",
+      "image_path": "images/0401_0450/flower_0416.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0417",
+      "name": "アマナ",
+      "scientific_name": "Amana edulis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い6花被と線形葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/581237217",
+      "image_path": "images/0401_0450/flower_0417.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0418",
+      "name": "ヒロハノアマナ",
+      "scientific_name": "Amana erythronioides",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い6花被と黄色い雄しべ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amana_erythronioides_(flower).JPG",
+      "image_path": "images/0401_0450/flower_0418.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0419",
+      "name": "キバナノアマナ",
+      "scientific_name": "Gagea lutea",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い星形花と線形葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/190889668",
+      "image_path": "images/0401_0450/flower_0419.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0420",
+      "name": "ヒメリュウキンカ",
+      "scientific_name": "Ficaria verna",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い多弁花と丸い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/621079458",
+      "image_path": "images/0401_0450/flower_0420.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0421",
+      "name": "リュウキンカ",
+      "scientific_name": "Caltha palustris var. nipponica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い5弁花と丸い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/66264943",
+      "image_path": "images/0401_0450/flower_0421.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0422",
+      "name": "バイモ",
+      "scientific_name": "Fritillaria verticillata var. thunbergii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。網目模様のある淡色の釣鐘形花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/634582022",
+      "image_path": "images/0401_0450/flower_0422.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0423",
+      "name": "クロユリ",
+      "scientific_name": "Fritillaria camschatcensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。暗紫色の釣鐘形花と輪生葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/191364797",
+      "image_path": "images/0401_0450/flower_0423.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0424",
+      "name": "スズラン",
+      "scientific_name": "Convallaria majalis var. manshurica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い下向きの小花と幅広い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/672517774",
+      "image_path": "images/0401_0450/flower_0424.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0425",
+      "name": "ドイツスズラン",
+      "scientific_name": "Convallaria majalis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い下向きの小花と幅広い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/500751831",
+      "image_path": "images/0401_0450/flower_0425.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0426",
+      "name": "アジュガ",
+      "scientific_name": "Ajuga",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青紫色の唇形花の穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/28863996",
+      "image_path": "images/0401_0450/flower_0426.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0427",
+      "name": "ヒューケラ",
+      "scientific_name": "Heuchera",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。赤い小花の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/88376901",
+      "image_path": "images/0401_0450/flower_0427.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0428",
+      "name": "ティアレラ",
+      "scientific_name": "Tiarella",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い小花の穂と丸い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/513752904",
+      "image_path": "images/0401_0450/flower_0428.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0429",
+      "name": "ブルンネラ",
+      "scientific_name": "Brunnera",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青い小花としわのある葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/360101334",
+      "image_path": "images/0401_0450/flower_0429.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0430",
+      "name": "ラミウム",
+      "scientific_name": "Lamium",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の唇形花と斑入り葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/502542584",
+      "image_path": "images/0401_0450/flower_0430.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0431",
+      "name": "アカンサス",
+      "scientific_name": "Acanthus mollis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い唇形花と暗色の上部。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Acanthaceae_-_Acanthus_mollis-2.JPG",
+      "image_path": "images/0401_0450/flower_0431.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0432",
+      "name": "ラムズイヤー",
+      "scientific_name": "Stachys byzantina",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白毛の多い花序と紫色の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/689874874",
+      "image_path": "images/0401_0450/flower_0432.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0433",
+      "name": "スカビオサ",
+      "scientific_name": "Scabiosa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の頭花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/737389302",
+      "image_path": "images/0401_0450/flower_0433.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0434",
+      "name": "ニゲラ",
+      "scientific_name": "Nigella damascena",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡青色の花と細かい葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/547641865",
+      "image_path": "images/0401_0450/flower_0434.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0435",
+      "name": "アークトチス",
+      "scientific_name": "Arctotis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。橙色の頭花の群落。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/431138381",
+      "image_path": "images/0401_0450/flower_0435.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0436",
+      "name": "エリゲロン",
+      "scientific_name": "Erigeron karvinskianus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白色から桃色の頭花と細い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/102796104",
+      "image_path": "images/0401_0450/flower_0436.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0437",
+      "name": "ハナビシソウ",
+      "scientific_name": "Eschscholzia californica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。橙色の杯状花と細かい葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/181928247",
+      "image_path": "images/0401_0450/flower_0437.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0438",
+      "name": "ムギセンノウ",
+      "scientific_name": "Agrostemma githago",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の5弁花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/681419007",
+      "image_path": "images/0401_0450/flower_0438.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0439",
+      "name": "ヤグルマギク",
+      "scientific_name": "Centaurea cyanus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青い深裂した頭花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/143259272",
+      "image_path": "images/0401_0450/flower_0439.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0440",
+      "name": "キキョウ",
+      "scientific_name": "Platycodon grandiflorus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青紫色の鐘形花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/736963578",
+      "image_path": "images/0401_0450/flower_0440.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0441",
+      "name": "トルコギキョウ",
+      "scientific_name": "Eustoma grandiflorum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の漏斗状花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/727589727",
+      "image_path": "images/0401_0450/flower_0441.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0442",
+      "name": "ホウセンカ",
+      "scientific_name": "Impatiens balsamina",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫白色の花と細長い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/740301285",
+      "image_path": "images/0401_0450/flower_0442.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0443",
+      "name": "ゼラニウム",
+      "scientific_name": "Pelargonium",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。橙色の花と丸い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/716727836",
+      "image_path": "images/0401_0450/flower_0443.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0444",
+      "name": "サイネリア",
+      "scientific_name": "Pericallis × hybrida",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の頭花。園芸交雑系統までは未確認。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/715669267",
+      "image_path": "images/0401_0450/flower_0444.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0445",
+      "name": "セントポーリア",
+      "scientific_name": "Streptocarpus sect. Saintpaulia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の小花と毛のある丸い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/606573372",
+      "image_path": "images/0401_0450/flower_0445.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0446",
+      "name": "グロキシニア",
+      "scientific_name": "Sinningia speciosa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の筒状花と毛のある葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/721458074",
+      "image_path": "images/0401_0450/flower_0446.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0447",
+      "name": "ストレプトカーパス",
+      "scientific_name": "Streptocarpus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の筒状花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/738124716",
+      "image_path": "images/0401_0450/flower_0447.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0448",
+      "name": "オルレア",
+      "scientific_name": "Orlaya grandiflora",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い4弁花のまとまり。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/268540",
+      "image_path": "images/0401_0450/flower_0448.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0449",
+      "name": "ミヤコワスレ",
+      "scientific_name": "Aster savatieri cultivars",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の頭花。園芸系統までは未確認。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/730663881",
+      "image_path": "images/0401_0450/flower_0449.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0450",
+      "name": "アスチルベ",
+      "scientific_name": "Astilbe",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い枝分かれした花序と複葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/209889199",
+      "image_path": "images/0401_0450/flower_0450.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0451",
+      "name": "ベロニカ",
+      "scientific_name": "Veronica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の小花の穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744484684",
+      "image_path": "images/0451_0500/flower_0451.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0452",
+      "name": "リアトリス",
+      "scientific_name": "Liatris spicata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色のブラシ状の花穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/86566147",
+      "image_path": "images/0451_0500/flower_0452.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0453",
+      "name": "コレオプシス",
+      "scientific_name": "Coreopsis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い切れ込みのある舌状花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/52851933",
+      "image_path": "images/0451_0500/flower_0453.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0454",
+      "name": "サンビタリア",
+      "scientific_name": "Sanvitalia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い小さな頭花と暗色の中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/741991535",
+      "image_path": "images/0451_0500/flower_0454.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0455",
+      "name": "ブラキカム",
+      "scientific_name": "Brachyscome",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の頭花と黄色い中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brachyscome_iberidifolia_-_Flickr_-_Kevin_Thiele_(1).jpg",
+      "image_path": "images/0451_0500/flower_0455.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0456",
+      "name": "シレネ",
+      "scientific_name": "Silene",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の深く裂けた5弁花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/63191709",
+      "image_path": "images/0451_0500/flower_0456.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0457",
+      "name": "ヘレニウム",
+      "scientific_name": "Helenium",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い垂れた舌状花と盛り上がった中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/226501455",
+      "image_path": "images/0451_0500/flower_0457.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0458",
+      "name": "クラスペディア",
+      "scientific_name": "Craspedia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い球状の花序と長い花茎。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/577553202",
+      "image_path": "images/0451_0500/flower_0458.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0459",
+      "name": "ネリネ",
+      "scientific_name": "Nerine",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の波打つ細い花被と長い雄しべ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/629698558",
+      "image_path": "images/0451_0500/flower_0459.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0460",
+      "name": "シラー",
+      "scientific_name": "Scilla",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青い下向きの6花被。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/703521187",
+      "image_path": "images/0451_0500/flower_0460.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0461",
+      "name": "オーニソガラム",
+      "scientific_name": "Ornithogalum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い星形の6花被。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/737782323",
+      "image_path": "images/0451_0500/flower_0461.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0462",
+      "name": "グロリオサ",
+      "scientific_name": "Gloriosa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。赤黄の反り返る花被。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/736948221",
+      "image_path": "images/0451_0500/flower_0462.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0463",
+      "name": "トリトマ",
+      "scientific_name": "Kniphofia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。橙色から黄色の筒状花の穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/32371726",
+      "image_path": "images/0451_0500/flower_0463.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0464",
+      "name": "アッツザクラ",
+      "scientific_name": "Rhodohypoxis baurii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の6花被と線形葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/620621168",
+      "image_path": "images/0451_0500/flower_0464.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0465",
+      "name": "ツルバキア",
+      "scientific_name": "Tulbaghia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の小花の散形花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/705445504",
+      "image_path": "images/0451_0500/flower_0465.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0466",
+      "name": "ルリタマアザミ",
+      "scientific_name": "Echinops ritro",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の球形の頭花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/742213336",
+      "image_path": "images/0451_0500/flower_0466.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0467",
+      "name": "ペンステモン",
+      "scientific_name": "Penstemon",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の筒状花と白い縁のある対生葉。属内の種までは未確認。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744449442",
+      "image_path": "images/0451_0500/flower_0467.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0468",
+      "name": "ユキノシタ",
+      "scientific_name": "Saxifraga stolonifera",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い長短の花弁と赤い花茎。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/684021805",
+      "image_path": "images/0451_0500/flower_0468.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0469",
+      "name": "ダイモンジソウ",
+      "scientific_name": "Saxifraga fortunei var. alpina",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。長短の白い花弁。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/4989325",
+      "image_path": "images/0451_0500/flower_0469.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0470",
+      "name": "イカリソウ",
+      "scientific_name": "Epimedium grandiflorum var. thunbergianum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の長い距のある花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/8339018",
+      "image_path": "images/0451_0500/flower_0470.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0471",
+      "name": "オカトラノオ",
+      "scientific_name": "Lysimachia clethroides",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い曲がった穂状花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/742032421",
+      "image_path": "images/0451_0500/flower_0471.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0472",
+      "name": "タツナミソウ",
+      "scientific_name": "Scutellaria indica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の唇形花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/62491567",
+      "image_path": "images/0451_0500/flower_0472.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0473",
+      "name": "ハンゲショウ",
+      "scientific_name": "Saururus chinensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白くなる上部の葉と白い花穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/67047190",
+      "image_path": "images/0451_0500/flower_0473.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0474",
+      "name": "マツヨイグサ",
+      "scientific_name": "Oenothera stricta",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い4弁花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/716951211",
+      "image_path": "images/0451_0500/flower_0474.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0475",
+      "name": "ユウゲショウ",
+      "scientific_name": "Oenothera rosea",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の4弁花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/743961897",
+      "image_path": "images/0451_0500/flower_0475.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0476",
+      "name": "ニワゼキショウ",
+      "scientific_name": "Sisyrinchium rosulatum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の6花被と黄色い中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sisyrinchium_rosulatum_(flower).JPG",
+      "image_path": "images/0451_0500/flower_0476.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0477",
+      "name": "マツバウンラン",
+      "scientific_name": "Nuttallanthus canadensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の閉じた花と細い茎。開花した正面像は未確認。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Nuttallanthus_canadensis_flower_and_buds_close-up_-_Fukufukurou.jpg",
+      "image_path": "images/0451_0500/flower_0477.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0478",
+      "name": "ムラサキハナナ",
+      "scientific_name": "Orychophragmus violaceus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の4弁花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/716023565",
+      "image_path": "images/0451_0500/flower_0478.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0479",
+      "name": "ハハコグサ",
+      "scientific_name": "Pseudognaphalium affine",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い小さな頭花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/66927271",
+      "image_path": "images/0451_0500/flower_0479.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0480",
+      "name": "キツネノマゴ",
+      "scientific_name": "Justicia procumbens",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の小さな唇形花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Justicia_procumbens_var._riukiuensis_flower_in_Kunigami,_Okinawa.jpg",
+      "image_path": "images/0451_0500/flower_0480.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0481",
+      "name": "ゲンノショウコ",
+      "scientific_name": "Geranium thunbergii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。桃色の5弁花と暗色の脈。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/23944986",
+      "image_path": "images/0451_0500/flower_0481.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0482",
+      "name": "ノアザミ",
+      "scientific_name": "Cirsium japonicum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色のアザミ形の頭花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/572295049",
+      "image_path": "images/0451_0500/flower_0482.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0483",
+      "name": "ツルニチニチソウ",
+      "scientific_name": "Vinca major",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。淡紫色の5裂する花と幅広い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744420665",
+      "image_path": "images/0451_0500/flower_0483.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0484",
+      "name": "アマドコロ",
+      "scientific_name": "Polygonatum odoratum var. pluriflorum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い緑先端の筒状花と弓状の茎。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Polygonatum_odoratum_(flowers).jpg",
+      "image_path": "images/0451_0500/flower_0484.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0485",
+      "name": "ナルコユリ",
+      "scientific_name": "Polygonatum falcatum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。多数の下向きの白い筒状花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Polygonatum_falcatum_Mainau_ies.jpg",
+      "image_path": "images/0451_0500/flower_0485.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0486",
+      "name": "キュウリ",
+      "scientific_name": "Cucumis sativus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。長い緑色の果実と黄色い花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/346972380",
+      "image_path": "images/0451_0500/flower_0486.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0487",
+      "name": "カボチャ",
+      "scientific_name": "Cucurbita",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。大きな黄色い5裂花。栽培系統までは未確認。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744434538",
+      "image_path": "images/0451_0500/flower_0487.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0488",
+      "name": "スイカ",
+      "scientific_name": "Citrullus lanatus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い花と深く切れ込む葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Citrullus_lanatus_flower.JPG",
+      "image_path": "images/0451_0500/flower_0488.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0489",
+      "name": "ゴーヤ",
+      "scientific_name": "Momordica charantia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。橙色のいぼ状の熟果。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/269347188",
+      "image_path": "images/0451_0500/flower_0489.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0490",
+      "name": "ズッキーニ",
+      "scientific_name": "Cucurbita pepo Zucchini Group",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い大きな花。ズッキーニ系統は果実がなく未確認。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/224381899",
+      "image_path": "images/0451_0500/flower_0490.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0491",
+      "name": "メロン",
+      "scientific_name": "Cucumis melo",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。小さな黄色い花。栽培系統までは未確認。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/738835879",
+      "image_path": "images/0451_0500/flower_0491.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0492",
+      "name": "ヘチマ",
+      "scientific_name": "Luffa aegyptiaca",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。大きな黄色い花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/109026133",
+      "image_path": "images/0451_0500/flower_0492.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0493",
+      "name": "ベニバナ",
+      "scientific_name": "Carthamus tinctorius",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄色い筒状の頭花と苞。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/135048787",
+      "image_path": "images/0451_0500/flower_0493.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0494",
+      "name": "コリアンダー",
+      "scientific_name": "Coriandrum sativum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い散形花序と細かい葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/30423712",
+      "image_path": "images/0451_0500/flower_0494.jpeg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0495",
+      "name": "ルッコラ",
+      "scientific_name": "Eruca vesicaria subsp. sativa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い4弁花と暗色の脈。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/551026138",
+      "image_path": "images/0451_0500/flower_0495.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0496",
+      "name": "シソ",
+      "scientific_name": "Perilla frutescens var. crispa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い花穂と幅広い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Perilla_frutescens%27_flower.jpg",
+      "image_path": "images/0451_0500/flower_0496.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0497",
+      "name": "チコリ",
+      "scientific_name": "Cichorium intybus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。青い舌状花の頭花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chicory_flower_closeup.jpg",
+      "image_path": "images/0451_0500/flower_0497.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0498",
+      "name": "ミョウガ",
+      "scientific_name": "Zingiber mioga",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。地際の淡黄色の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%E3%83%9F%E3%83%A7%E3%82%A6%E3%82%AC(%E8%8C%97%E8%8D%B7)(Zingiber_mioga)-%E8%8A%B1_(5852495693).jpg",
+      "image_path": "images/0451_0500/flower_0498.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0499",
+      "name": "ニンジン",
+      "scientific_name": "Daucus carota subsp. sativus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い散形花序と細い苞。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Daucus_carota_May_2008-1_edit.jpg",
+      "image_path": "images/0451_0500/flower_0499.jpg"
+    },
+    {
+      "category": "花",
+      "id": "flower_0500",
+      "name": "ゴボウ",
+      "scientific_name": "Arctium lappa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。紫色の頭花と鉤のある苞。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/301802738",
+      "image_path": "images/0451_0500/flower_0500.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0001",
+      "name": "ススキ",
+      "scientific_name": "Miscanthus sinensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。枝分かれした褐色の穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/113871134",
+      "image_path": "images/0001_0050/grass_0001.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0002",
+      "name": "オギ",
+      "scientific_name": "Miscanthus sacchariflorus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い綿毛状の穂と枯れた葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/255388772",
+      "image_path": "images/0001_0050/grass_0002.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0003",
+      "name": "チガヤ",
+      "scientific_name": "Imperata cylindrica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。白い綿毛状の穂と線形葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/35345977",
+      "image_path": "images/0001_0050/grass_0003.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0004",
+      "name": "エノコログサ",
+      "scientific_name": "Setaria viridis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。緑色の円柱状の穂の群落。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/20934114",
+      "image_path": "images/0001_0050/grass_0004.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0005",
+      "name": "キンエノコロ",
+      "scientific_name": "Setaria pumila",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄褐色の円柱状の穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/95789820",
+      "image_path": "images/0001_0050/grass_0005.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0006",
+      "name": "アキノエノコログサ",
+      "scientific_name": "Setaria faberi",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。垂れた毛の多い円柱状の穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/220573339",
+      "image_path": "images/0001_0050/grass_0006.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0007",
+      "name": "メヒシバ",
+      "scientific_name": "Digitaria ciliaris",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。指状に分かれた穂と細い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/423517727",
+      "image_path": "images/0001_0050/grass_0007.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0008",
+      "name": "アキメヒシバ",
+      "scientific_name": "Digitaria violascens",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。低い草姿と細い穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/492035000",
+      "image_path": "images/0001_0050/grass_0008.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0009",
+      "name": "オヒシバ",
+      "scientific_name": "Eleusine indica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。指状に放射する穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/46240603",
+      "image_path": "images/0001_0050/grass_0009.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0010",
+      "name": "チカラシバ",
+      "scientific_name": "Cenchrus alopecuroides",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。長い毛のある暗色の穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/87738518",
+      "image_path": "images/0001_0050/grass_0010.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0011",
+      "name": "スズメノカタビラ",
+      "scientific_name": "Poa annua",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。小さな枝分かれした緑色の穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/248427051",
+      "image_path": "images/0001_0050/grass_0011.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0012",
+      "name": "スズメノテッポウ",
+      "scientific_name": "Alopecurus aequalis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細い円柱状の穂と線形葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/48469190",
+      "image_path": "images/0001_0050/grass_0012.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0013",
+      "name": "カモジグサ",
+      "scientific_name": "Elymus tsukushiensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。長い芒のある垂れた穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/205962126",
+      "image_path": "images/0001_0050/grass_0013.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0014",
+      "name": "ネズミムギ",
+      "scientific_name": "Lolium multiflorum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。茎の両側に並ぶ芒のある小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/15178032",
+      "image_path": "images/0001_0050/grass_0014.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0015",
+      "name": "ホソムギ",
+      "scientific_name": "Lolium perenne",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。茎の両側に並ぶ短い小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/79134409",
+      "image_path": "images/0001_0050/grass_0015.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0016",
+      "name": "イヌムギ",
+      "scientific_name": "Bromus catharticus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。垂れた長い小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/458554578",
+      "image_path": "images/0001_0050/grass_0016.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0017",
+      "name": "コバンソウ",
+      "scientific_name": "Briza maxima",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。大きな小判形の垂れた小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/671822674",
+      "image_path": "images/0001_0050/grass_0017.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0018",
+      "name": "ヒメコバンソウ",
+      "scientific_name": "Briza minor",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。小さな小判形の垂れた小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/34264",
+      "image_path": "images/0001_0050/grass_0018.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0019",
+      "name": "カラスムギ",
+      "scientific_name": "Avena fatua",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細長い葉とまばらな穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/65309053",
+      "image_path": "images/0001_0050/grass_0019.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0020",
+      "name": "セイバンモロコシ",
+      "scientific_name": "Sorghum halepense",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。赤褐色の大きな円錐状の穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/78416044",
+      "image_path": "images/0001_0050/grass_0020.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0021",
+      "name": "ヨシ",
+      "scientific_name": "Phragmites australis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。褐色の大きな穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/51626885",
+      "image_path": "images/0001_0050/grass_0021.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0022",
+      "name": "ツルヨシ",
+      "scientific_name": "Phragmites japonicus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。地面を這う茎と細い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/429936036",
+      "image_path": "images/0001_0050/grass_0022.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0023",
+      "name": "マコモ",
+      "scientific_name": "Zizania latifolia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。水辺の高い葉と穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/314015113",
+      "image_path": "images/0001_0050/grass_0023.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0024",
+      "name": "シバ",
+      "scientific_name": "Zoysia japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。低い草姿と細い穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/370314889",
+      "image_path": "images/0001_0050/grass_0024.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0025",
+      "name": "ギョウギシバ",
+      "scientific_name": "Cynodon dactylon",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。節のある茎と細い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/136428732",
+      "image_path": "images/0001_0050/grass_0025.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0026",
+      "name": "チヂミザサ",
+      "scientific_name": "Oplismenus undulatifolius",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。波打つ幅広い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/4217286",
+      "image_path": "images/0001_0050/grass_0026.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0027",
+      "name": "ササクサ",
+      "scientific_name": "Lophatherum gracile",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。林床の幅広い細長い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/21772802",
+      "image_path": "images/0001_0050/grass_0027.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0028",
+      "name": "ヌカキビ",
+      "scientific_name": "Panicum bisulcatum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細い枝に分かれる小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/439261042",
+      "image_path": "images/0001_0050/grass_0028.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0029",
+      "name": "オオクサキビ",
+      "scientific_name": "Panicum dichotomiflorum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。広がる細い穂と細い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/564732348",
+      "image_path": "images/0001_0050/grass_0029.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0030",
+      "name": "ヌメリグサ",
+      "scientific_name": "Sacciolepis indica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細長く密な穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/154156951",
+      "image_path": "images/0001_0050/grass_0030.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0031",
+      "name": "カヤツリグサ",
+      "scientific_name": "Cyperus microiria",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。放射する細い枝と小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/23385636",
+      "image_path": "images/0001_0050/grass_0031.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0032",
+      "name": "コゴメガヤツリ",
+      "scientific_name": "Cyperus iria",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。黄褐色の放射する小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/385879465",
+      "image_path": "images/0001_0050/grass_0032.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0033",
+      "name": "ハマスゲ",
+      "scientific_name": "Cyperus rotundus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。赤褐色の小穂と白い花部。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/60471960",
+      "image_path": "images/0001_0050/grass_0033.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0034",
+      "name": "ミズガヤツリ",
+      "scientific_name": "Cyperus serotinus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。長い苞と褐色の穂。標本写真。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/399576402",
+      "image_path": "images/0001_0050/grass_0034.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0035",
+      "name": "タマガヤツリ",
+      "scientific_name": "Cyperus difformis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。球状に集まる小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/525728979",
+      "image_path": "images/0001_0050/grass_0035.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0036",
+      "name": "アゼガヤツリ",
+      "scientific_name": "Cyperus flavidus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。赤褐色の放射する穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/189791790",
+      "image_path": "images/0001_0050/grass_0036.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0037",
+      "name": "ホタルイ",
+      "scientific_name": "Schoenoplectiella hotarui",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。緑色の茎の側方につく小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Scirpus_hotarui.JPG",
+      "image_path": "images/0001_0050/grass_0037.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0038",
+      "name": "フトイ",
+      "scientific_name": "Schoenoplectus tabernaemontani",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。水辺の茎と褐色の枝分かれした花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/536510900",
+      "image_path": "images/0001_0050/grass_0038.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0039",
+      "name": "イグサ",
+      "scientific_name": "Juncus decipiens",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。小さな花の枝分かれした花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/123789589",
+      "image_path": "images/0001_0050/grass_0039.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0040",
+      "name": "クサイ",
+      "scientific_name": "Juncus tenuis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細い茎と小さな枝分かれした花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/559992875",
+      "image_path": "images/0001_0050/grass_0040.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0041",
+      "name": "ワラビ",
+      "scientific_name": "Pteridium latiusculum subsp. japonicum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細かく分かれるシダの葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/297982795",
+      "image_path": "images/0001_0050/grass_0041.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0042",
+      "name": "ゼンマイ",
+      "scientific_name": "Osmunda japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。大きな羽状のシダの葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/125664651",
+      "image_path": "images/0001_0050/grass_0042.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0043",
+      "name": "クサソテツ",
+      "scientific_name": "Matteuccia struthiopteris",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。直立する大きな羽状葉の群落。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/394351700",
+      "image_path": "images/0001_0050/grass_0043.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0044",
+      "name": "ベニシダ",
+      "scientific_name": "Dryopteris erythrosora",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。若い羽状のシダの葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/462154679",
+      "image_path": "images/0001_0050/grass_0044.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0045",
+      "name": "イヌワラビ",
+      "scientific_name": "Athyrium niponicum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。銀灰色を帯びるシダの葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/273735391",
+      "image_path": "images/0001_0050/grass_0045.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0046",
+      "name": "ノキシノブ",
+      "scientific_name": "Lepisorus thunbergianus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細長い葉と裏面の胞子嚢群。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/350619540",
+      "image_path": "images/0001_0050/grass_0046.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0047",
+      "name": "マメヅタ",
+      "scientific_name": "Lemmaphyllum microphyllum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。岩面の丸い小さな葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/730092292",
+      "image_path": "images/0001_0050/grass_0047.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0048",
+      "name": "スギナ",
+      "scientific_name": "Equisetum arvense",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。輪生する細い枝と節のある茎。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/500564927",
+      "image_path": "images/0001_0050/grass_0048.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0049",
+      "name": "トクサ",
+      "scientific_name": "Equisetum hyemale",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。節のある直立した緑色の茎。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/59558022",
+      "image_path": "images/0001_0050/grass_0049.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0050",
+      "name": "イワヒバ",
+      "scientific_name": "Selaginella tamariscina",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。巻き縮む枝と周囲の若い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/525327579",
+      "image_path": "images/0001_0050/grass_0050.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0051",
+      "name": "イネ",
+      "scientific_name": "Oryza sativa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。垂れた穂の群落。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/334082084",
+      "image_path": "images/0051_0100/grass_0051.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0052",
+      "name": "コムギ",
+      "scientific_name": "Triticum aestivum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細い葉と小麦形の穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/662621546",
+      "image_path": "images/0051_0100/grass_0052.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0053",
+      "name": "オオムギ",
+      "scientific_name": "Hordeum vulgare",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。長い芒の密な穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/131047417",
+      "image_path": "images/0051_0100/grass_0053.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0054",
+      "name": "エンバク",
+      "scientific_name": "Avena sativa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。垂れた小穂の群落。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/331836711",
+      "image_path": "images/0051_0100/grass_0054.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0055",
+      "name": "トウモロコシ",
+      "scientific_name": "Zea mays",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。幅広い葉と高い茎。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/506732118",
+      "image_path": "images/0051_0100/grass_0055.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0056",
+      "name": "アワ",
+      "scientific_name": "Setaria italica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。太く垂れる穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/59749115",
+      "image_path": "images/0051_0100/grass_0056.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0057",
+      "name": "キビ",
+      "scientific_name": "Panicum miliaceum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。枝分かれした粒のある穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/402414029",
+      "image_path": "images/0051_0100/grass_0057.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0058",
+      "name": "ヒエ",
+      "scientific_name": "Echinochloa esculenta",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。密な粒のつく穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/99295561",
+      "image_path": "images/0051_0100/grass_0058.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0059",
+      "name": "モロコシ",
+      "scientific_name": "Sorghum bicolor",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。赤褐色の大きな穂と幅広い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/552390313",
+      "image_path": "images/0051_0100/grass_0059.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0060",
+      "name": "オオアワガエリ",
+      "scientific_name": "Phleum pratense",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。緑色の円柱状の穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/209619890",
+      "image_path": "images/0051_0100/grass_0060.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0061",
+      "name": "カゼクサ",
+      "scientific_name": "Eragrostis ferruginea",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細かく分かれる小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/2562979",
+      "image_path": "images/0051_0100/grass_0061.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0062",
+      "name": "ニワホコリ",
+      "scientific_name": "Eragrostis multicaulis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。地面に広がる茎と細い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/341655502",
+      "image_path": "images/0051_0100/grass_0062.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0063",
+      "name": "コスズメガヤ",
+      "scientific_name": "Eragrostis minor",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細長い多数の小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/153565426",
+      "image_path": "images/0051_0100/grass_0063.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0064",
+      "name": "シナダレスズメガヤ",
+      "scientific_name": "Eragrostis curvula",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。弓状の細い葉の株。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/449563650",
+      "image_path": "images/0051_0100/grass_0064.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0065",
+      "name": "ナガハグサ",
+      "scientific_name": "Poa pratensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。小さな小穂の円錐状花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/250832565",
+      "image_path": "images/0051_0100/grass_0065.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0066",
+      "name": "カモガヤ",
+      "scientific_name": "Dactylis glomerata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。まとまった房状の小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/650976476",
+      "image_path": "images/0051_0100/grass_0066.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0067",
+      "name": "ハルガヤ",
+      "scientific_name": "Anthoxanthum odoratum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細長く密な小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/73830271",
+      "image_path": "images/0051_0100/grass_0067.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0068",
+      "name": "クサヨシ",
+      "scientific_name": "Phalaris arundinacea",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。高い茎と赤褐色の穂の群落。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/202633462",
+      "image_path": "images/0051_0100/grass_0068.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0069",
+      "name": "カナリークサヨシ",
+      "scientific_name": "Phalaris canariensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。重なった苞の密な穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/674403590",
+      "image_path": "images/0051_0100/grass_0069.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0070",
+      "name": "イヌビエ",
+      "scientific_name": "Echinochloa crus-galli",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。幅広い葉と枝分かれした穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/611600667",
+      "image_path": "images/0051_0100/grass_0070.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0071",
+      "name": "アシボソ",
+      "scientific_name": "Microstegium vimineum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。幅広い短い葉の群落。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/305624365",
+      "image_path": "images/0051_0100/grass_0071.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0072",
+      "name": "ワセビエ",
+      "scientific_name": "Echinochloa colona",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。低い草姿と細い穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/328675426",
+      "image_path": "images/0051_0100/grass_0072.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0073",
+      "name": "アゼガヤ",
+      "scientific_name": "Dinebra chinensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細い枝に沿う小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/401556278",
+      "image_path": "images/0051_0100/grass_0073.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0074",
+      "name": "シマスズメノヒエ",
+      "scientific_name": "Paspalum dilatatum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。長い枝に並ぶ小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/419371498",
+      "image_path": "images/0051_0100/grass_0074.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0075",
+      "name": "スズメノヒエ",
+      "scientific_name": "Paspalum thunbergii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。丸い小穂の並ぶ穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/150918177",
+      "image_path": "images/0051_0100/grass_0075.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0076",
+      "name": "カリマタスズメノヒエ",
+      "scientific_name": "Paspalum distichum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。水辺の這う茎と細い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/349257200",
+      "image_path": "images/0051_0100/grass_0076.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0077",
+      "name": "チゴザサ",
+      "scientific_name": "Isachne globosa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細い枝とまばらな小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/559361870",
+      "image_path": "images/0051_0100/grass_0077.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0078",
+      "name": "トダシバ",
+      "scientific_name": "Arundinella hirta",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。枝分かれした穂の群落。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/13387626",
+      "image_path": "images/0051_0100/grass_0078.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0079",
+      "name": "コブナグサ",
+      "scientific_name": "Arthraxon hispidus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細長い葉と複数の穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/234975263",
+      "image_path": "images/0051_0100/grass_0079.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0080",
+      "name": "サヤヌカグサ",
+      "scientific_name": "Leersia sayanuka",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細い枝にまばらにつく小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Leersia_sayanuka_sayanukags01.jpg",
+      "image_path": "images/0051_0100/grass_0080.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0081",
+      "name": "ウシノシッペイ",
+      "scientific_name": "Hemarthria sibirica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。茎に沿う小穂と赤い花部。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/417352433",
+      "image_path": "images/0051_0100/grass_0081.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0082",
+      "name": "メガルカヤ",
+      "scientific_name": "Themeda triandra",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細い葉の株。花穂の細部は未確認。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/501682265",
+      "image_path": "images/0051_0100/grass_0082.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0083",
+      "name": "ヤマヌカボ",
+      "scientific_name": "Agrostis clavata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。水辺の細い葉と小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/148911015",
+      "image_path": "images/0051_0100/grass_0083.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0084",
+      "name": "ガマ",
+      "scientific_name": "Typha latifolia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。褐色の太い円柱状花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/728718538",
+      "image_path": "images/0051_0100/grass_0084.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0085",
+      "name": "ヒメガマ",
+      "scientific_name": "Typha domingensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細長い円柱状花序と線形葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/92725062",
+      "image_path": "images/0051_0100/grass_0085.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0086",
+      "name": "コガマ",
+      "scientific_name": "Typha orientalis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。水辺の円柱状の花序と細い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/271945722",
+      "image_path": "images/0051_0100/grass_0086.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0087",
+      "name": "サンカクイ",
+      "scientific_name": "Schoenoplectus triqueter",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。太い茎の側方にある褐色の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/224596646",
+      "image_path": "images/0051_0100/grass_0087.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0088",
+      "name": "カンガレイ",
+      "scientific_name": "Schoenoplectiella triangulata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細い直立茎と側方の小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/316255729",
+      "image_path": "images/0051_0100/grass_0088.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0089",
+      "name": "ミクリ",
+      "scientific_name": "Sparganium erectum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。球状の花序と幅広い線形葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/441238729",
+      "image_path": "images/0051_0100/grass_0089.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0090",
+      "name": "ヒメミクリ",
+      "scientific_name": "Sparganium subglobosum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細い葉と白い小さな球状花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/258610455",
+      "image_path": "images/0051_0100/grass_0090.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0091",
+      "name": "カサスゲ",
+      "scientific_name": "Carex dispalata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。長い葉と密な円柱状小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/3718621",
+      "image_path": "images/0051_0100/grass_0091.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0092",
+      "name": "カンスゲ",
+      "scientific_name": "Carex morrowii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。斑入りの細長い葉の株。園芸系統は未確認。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/4777501",
+      "image_path": "images/0051_0100/grass_0092.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0093",
+      "name": "ヒカゲスゲ",
+      "scientific_name": "Carex lanceolata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細い茎と短い小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/279646191",
+      "image_path": "images/0051_0100/grass_0093.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0094",
+      "name": "ゴウソ",
+      "scientific_name": "Carex maximowiczii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。垂れる細長い小穂。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/386235252",
+      "image_path": "images/0051_0100/grass_0094.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0095",
+      "name": "ヤブソテツ",
+      "scientific_name": "Cyrtomium fortunei",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。岩面に生える羽状のシダの葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/352861128",
+      "image_path": "images/0051_0100/grass_0095.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0096",
+      "name": "オニヤブソテツ",
+      "scientific_name": "Cyrtomium falcatum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。若い光沢のある幅広い羽片。成熟葉は未確認。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/345190886",
+      "image_path": "images/0051_0100/grass_0096.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0097",
+      "name": "イノデ",
+      "scientific_name": "Polystichum polyblepharon",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。羽片の細かい切れ込みと光沢のある葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/457964207",
+      "image_path": "images/0051_0100/grass_0097.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0098",
+      "name": "ジュウモンジシダ",
+      "scientific_name": "Polystichum tripteron",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。三方向に分かれる羽状葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/115921171",
+      "image_path": "images/0051_0100/grass_0098.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0099",
+      "name": "リョウメンシダ",
+      "scientific_name": "Arachniodes standishii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。幅広い三角形のシダの葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/110376033",
+      "image_path": "images/0051_0100/grass_0099.jpg"
+    },
+    {
+      "category": "草",
+      "id": "grass_0100",
+      "name": "コシダ",
+      "scientific_name": "Dicranopteris linearis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-09 目視確認。細長い羽状葉の群落。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/94779756",
+      "image_path": "images/0051_0100/grass_0100.jpg"
+    }
+  ]
+}
