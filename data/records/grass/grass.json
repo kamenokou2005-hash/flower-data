@@ -16633,7 +16633,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。這う小葉の茎と長い柄の胞子穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0302",
@@ -16683,7 +16688,12 @@
         "needs_manual_taxon_review":  true,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。樹木状に分枝する茎と胞子穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0303",
@@ -16733,7 +16743,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。鋸歯のある小葉をつける直立茎。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0304",
@@ -16783,7 +16798,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。光沢のある細かい葉のコケ群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0305",
@@ -16833,7 +16853,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。扁平な枝と小葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0306",
@@ -16883,7 +16908,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。扁平な枝と小葉のまとまり。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0307",
@@ -16933,7 +16963,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細かく分枝する茎と小葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0308",
@@ -16983,7 +17018,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。節のある直立茎の群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0309",
@@ -17033,7 +17073,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。水辺の節のある茎と細い枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0310",
@@ -17083,7 +17128,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い羽片のシダの葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0311",
@@ -17133,7 +17183,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。少数の広い羽片と切れ込み。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0312",
@@ -17183,7 +17238,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。光沢のある大きな羽状葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0313",
@@ -17233,7 +17293,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い羽状葉。他植物の黄色い花も混在。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0314",
@@ -17283,7 +17348,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い羽状葉と丸い小羽片。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0315",
@@ -17333,7 +17403,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。切れ込みのある幅広い羽片。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0316",
@@ -17383,7 +17458,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細かく裂けた大きな羽状葉と植物名札。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0317",
@@ -17433,7 +17513,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。幅広い三角形の羽状葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0318",
@@ -17483,7 +17568,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細かく分かれる三角形の葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0319",
@@ -17533,7 +17623,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細い枝が広がるコケ。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0320",
@@ -17583,7 +17678,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。平たい葉状体と杯状の器官。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0321",
@@ -17633,7 +17733,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。平たい光沢のある葉状体。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0322",
@@ -17683,7 +17788,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。地面を覆う細い枝と小葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0323",
@@ -17733,7 +17843,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。小さなコケの塊と胞子体。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0324",
@@ -17783,7 +17898,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。星状の葉のまとまり。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0325",
@@ -17833,7 +17953,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。淡色で細長い葉の密な塊。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0326",
@@ -17883,7 +18008,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い葉をつけるコケの群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0327",
@@ -17933,7 +18063,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。岩面のコケの塊と褐色の胞子体。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0328",
@@ -17983,7 +18118,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。赤褐色を帯びる湿地のコケ群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0329",
@@ -18033,7 +18173,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。球形の蒴と長い柄。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0330",
@@ -18083,7 +18228,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い枝と密な小葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0331",
@@ -18133,7 +18283,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。樹木状に枝分かれするコケ。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0332",
@@ -18183,7 +18338,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。岩面の星状の葉の群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0333",
@@ -18233,7 +18393,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。赤褐色の星状の葉の群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0334",
@@ -18283,7 +18448,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。石を覆う小さなコケ群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0335",
@@ -18333,7 +18503,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。水中の枝と小葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0336",
@@ -18383,7 +18558,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。林床の直立した細い茎と葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0337",
@@ -18433,7 +18613,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。岩面の小さな星状の葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0338",
@@ -18483,7 +18668,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細かく枝分かれするコケ。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0339",
@@ -18533,7 +18723,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。小さな葉をつける茎と杯状器官。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0340",
@@ -18583,7 +18778,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。湿った面の細い枝と小葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0341",
@@ -18633,7 +18833,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い葉のコケと長柄の蒴。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0342",
@@ -18683,7 +18888,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。小さな葉の群落と褐色の胞子体。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0343",
@@ -18733,7 +18943,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。水辺のコケの塊。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0344",
@@ -18783,7 +18998,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。垂れる糸状の枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0345",
@@ -18833,7 +19053,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細い茎の群落と橙色の蒴。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0346",
@@ -18883,7 +19108,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。淡黄緑色の密な葉の頭部。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0347",
@@ -18933,7 +19163,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。褐色を帯びるコケの頭部。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0348",
@@ -18983,7 +19218,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長く放射する枝と葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0349",
@@ -19033,7 +19273,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細かい枝のコケが面を覆う。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0350",
@@ -19083,7 +19328,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い葉と曲がった黄褐色の蒴。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0351",
@@ -19133,7 +19383,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。玉状の果実と幅広い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0352",
@@ -19183,7 +19438,12 @@
         "needs_manual_taxon_review":  true,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。円柱状の穂の草の群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0353",
@@ -19233,7 +19493,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。指状に広がる細い穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0354",
@@ -19283,7 +19548,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。指状に放射する太い穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0355",
@@ -19333,7 +19603,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白毛のある密な穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0356",
@@ -19383,7 +19658,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。赤褐色の穂と幅広い葉の群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0357",
@@ -19433,7 +19713,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。垂れる小穂と長い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0358",
@@ -19483,7 +19768,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。枝分かれする淡色の穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0359",
@@ -19533,7 +19823,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。弓状の葉と細い垂れる穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0360",
@@ -19583,7 +19878,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。広がる細い穂と淡色の小穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0361",
@@ -19633,7 +19933,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。砂浜の低い草の群落。小穂の細部は未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0362",
@@ -19683,7 +19988,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。幅広い葉と黄緑色の垂れる穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0363",
@@ -19733,7 +20043,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。2本に分かれる長い穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0364",
@@ -19785,8 +20100,12 @@
         "taxon_lookup_error":  "",
         "content_status":  "完成",
         "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。 / 2026-10-09 再確認。種子だけの写真から、穂が見える写真へ差替え。出典にFestuca rubra subsp. rubraと明記。和名の適用範囲に関する分類の要確認は保持。",
-        "image_review_note":  "2026-10-09 再確認。種子だけの写真から、穂が見える写真へ差替え。出典にFestuca rubra subsp. rubraと明記。和名の適用範囲に関する分類の要確認は保持。",
-        "needs_manual_image_review":  false
+        "image_review_note":  "2026-10-09 目視確認。細長い小穂の疎らな穂。植物名と写真に明らかな不一致なし。",
+        "needs_manual_image_review":  false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
+        "image_review_previous_note": "2026-10-09 再確認。種子だけの写真から、穂が見える写真へ差替え。出典にFestuca rubra subsp. rubraと明記。和名の適用範囲に関する分類の要確認は保持。"
     },
     {
         "id":  "grass_0365",
@@ -19836,7 +20155,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。長い芒のある垂れる小穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0366",
@@ -19887,7 +20211,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白っぽい垂れる小穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0367",
@@ -19937,7 +20266,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。長い芒のある垂れる小穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0368",
@@ -19987,7 +20321,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。芒のある密な円柱状の穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0369",
@@ -20037,7 +20376,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。枝分かれする細い穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0370",
@@ -20087,7 +20431,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い葉と淡色の花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0371",
@@ -20137,7 +20486,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い葉の株と細い穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0372",
@@ -20187,7 +20541,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。非常に細かい枝と小さな小穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0373",
@@ -20238,7 +20597,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。幅広いササの葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0374",
@@ -20288,7 +20652,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。若い細長い葉と植物名札。成熟した穂は未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0375",
@@ -20338,7 +20707,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。褐色の密な穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0376",
@@ -20389,7 +20763,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。毛と芒のある小穂の拡大。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0377",
@@ -20439,7 +20818,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。枯葉の株と直立する密な穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0378",
@@ -20489,7 +20873,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細い葉の株とまばらな穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0379",
@@ -20539,7 +20928,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白毛のある放射状の穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0380",
@@ -20590,7 +20984,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。節のある枝と幅広いササの葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0381",
@@ -20640,7 +21039,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い雄小穂と側方の小穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0382",
@@ -20690,7 +21094,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。複数の細長い緑色の小穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0383",
@@ -20740,7 +21149,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄褐色の尖る果胞の集まり。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0384",
@@ -20790,7 +21204,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い小穂と線形葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0385",
@@ -20840,7 +21259,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。幅広く弓状の根生葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0386",
@@ -20890,7 +21314,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。幅広い葉と離れて並ぶ果胞。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0387",
@@ -20940,7 +21369,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。短く密な小穂と幅広い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0388",
@@ -20990,7 +21424,12 @@
         "needs_manual_taxon_review":  true,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細い葉の株。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0389",
@@ -21040,7 +21479,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い葉と小穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0390",
@@ -21090,7 +21534,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。岩面の細かく分かれるシダの葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0391",
@@ -21140,7 +21589,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細い茎の先の少数の果胞。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0392",
@@ -21190,7 +21644,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。暗色の苞と果胞。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0393",
@@ -21240,7 +21699,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。非常に細い茎と疎らな小穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0394",
@@ -21290,7 +21754,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黒い軸と小さな丸い羽片。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0395",
@@ -21340,7 +21809,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。垂れる小穂と褐色の苞。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0396",
@@ -21390,7 +21864,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。褐色の短い小穂と線形葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0397",
@@ -21441,7 +21920,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。丸く切れ込む羽片のシダの葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0398",
@@ -21491,7 +21975,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い果胞と長い苞。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0399",
@@ -21541,7 +22030,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。放射状の小穂と細い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0400",
@@ -21591,7 +22085,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。茎の側方の小穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0401",
@@ -21641,7 +22140,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。水辺の低い葉の株と小穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0402",
@@ -21691,7 +22195,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。幅広く光沢のあるササの葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0403",
@@ -21741,7 +22250,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。山地のササ群落。葉の細部は未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0404",
@@ -21791,7 +22305,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。曲がった嘴のある水草の果実。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0405",
@@ -21841,7 +22360,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い水草の茎と葉。写りが小さく細部は未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0406",
@@ -21891,7 +22415,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い水草の葉と株。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0407",
@@ -21941,7 +22470,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。長い葉と褐色の小花のまとまり。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0408",
@@ -21991,7 +22525,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。淡褐色の果実と細い茎。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0409",
@@ -22041,7 +22580,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。暗褐色の果実と苞。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0410",
@@ -22091,7 +22635,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い切れ込みのある羽片。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0411",
@@ -22141,7 +22690,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。地際の栄養葉と直立する細い胞子葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0412",
@@ -22191,7 +22745,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。岩面の多数の細長い羽片。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0413",
@@ -22241,7 +22800,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。少数の幅広い羽片。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0414",
@@ -22291,7 +22855,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。光沢のある切れ込む葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0415",
@@ -22341,7 +22910,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細かく分かれた大きな葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0416",
@@ -22391,7 +22965,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い羽片と赤褐色の軸。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0417",
@@ -22441,7 +23020,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。長い多数の羽片の葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0418",
@@ -22491,7 +23075,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。水中の細長い葉の株。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0419",
@@ -22541,7 +23130,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。幅広く切れ込む羽片。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0420",
@@ -22591,7 +23185,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細かく分かれる三角形の葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0421",
@@ -22641,7 +23240,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。小さな三角形の羽状葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0422",
@@ -22691,7 +23295,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。林床の羽状葉と下向きの下部羽片。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0423",
@@ -22742,7 +23351,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細い羽片の裏面と胞子嚢群。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0424",
@@ -22792,7 +23406,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細い水中葉と分枝する茎。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0425",
@@ -22842,7 +23461,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。長い細かな羽状葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0426",
@@ -22892,7 +23516,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細かい毛のあるシダの群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0427",
@@ -22942,7 +23571,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。長い羽状葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0428",
@@ -22992,7 +23626,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。幅広く鋸歯のある羽片。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0429",
@@ -23042,7 +23681,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い羽片の葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0430",
@@ -23092,7 +23736,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。水中の細い葉の分枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0431",
@@ -23142,7 +23791,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細い反り返る水中葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0432",
@@ -23192,7 +23846,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。樹幹に着生する細長い単葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0433",
@@ -23242,7 +23901,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。小さなコケの塊と長い柄の蒴。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0434",
@@ -23293,7 +23957,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細かい切れ込みのある羽状葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0435",
@@ -23343,7 +24012,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。若いシダの葉の群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0436",
@@ -23393,7 +24067,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。小さく切れ込む黄緑色の葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0437",
@@ -23443,7 +24122,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い羽片と光沢のある葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0438",
@@ -23493,7 +24177,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。巻いたシダの若芽と直立した葉柄。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0439",
@@ -23543,7 +24232,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。淡色のコケの頭部と細い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0440",
@@ -23593,7 +24287,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄色い5裂花と丸い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0441",
@@ -23643,7 +24342,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。水面に浮く心形の葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0442",
@@ -23693,7 +24397,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。切れ込みのある浮葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0443",
@@ -23743,7 +24452,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。水面に広がる大きな丸い葉。遠景で細部は未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0444",
@@ -23793,7 +24507,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。光沢のある水辺の葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0445",
@@ -23843,7 +24562,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。黄色い花と切れ込みのある浮葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0446",
@@ -23893,7 +24617,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。小さな黄色い花と丸い浮葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0447",
@@ -23943,7 +24672,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。褐色のコケの頭部の群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0448",
@@ -23993,7 +24727,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。幅広い水中葉と白い3弁花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0449",
@@ -24043,7 +24782,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。心形の浮葉と白い3弁花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0450",
@@ -24093,7 +24837,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い葉と白い3弁花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0451",
@@ -24143,7 +24892,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い葉と枝分かれする白い小花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0452",
@@ -24193,7 +24947,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い3弁花と黄色い中心。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0453",
@@ -24243,7 +25002,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。湿地の細長い葉。矢尻形の成熟葉は未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0454",
@@ -24293,7 +25057,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。水辺の長楕円形の葉と枝分かれする花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0455",
@@ -24343,7 +25112,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の花と幅広い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0456",
@@ -24393,7 +25167,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。小さな紫色の花と長楕円形の葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0457",
@@ -24443,7 +25222,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。水辺の小さな対生葉と細い茎。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0458",
@@ -24493,7 +25277,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。水中の細い葉と先端の丸い浮葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0459",
@@ -24543,7 +25332,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。赤みのある細い葉と小花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0460",
@@ -24593,7 +25387,12 @@
         "needs_manual_taxon_review":  true,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。淡色のコケの頭部と枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0461",
@@ -24643,7 +25442,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。水辺の細い葉と小花の穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0462",
@@ -24694,7 +25498,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。紫色の小花の密な穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0463",
@@ -24744,7 +25553,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細い茎に密につく針状の葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0464",
@@ -24794,7 +25608,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。角のある果実の展示標本。葉や花は未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0465",
@@ -24844,7 +25663,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。水中の細長い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0466",
@@ -24894,7 +25718,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。長い水中葉と水面の穂。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0467",
@@ -24944,7 +25773,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。水中の細い葉の群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0468",
@@ -24994,7 +25828,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細長い水草の葉と粒状の果実。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0469",
@@ -25044,7 +25883,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細い水草の葉と茎。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0470",
@@ -25094,7 +25938,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。直立するコケの葉と長柄の蒴。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0471",
@@ -25144,7 +25993,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。星状の葉の群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0472",
@@ -25194,7 +26048,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。広く光沢のある葉のコケ。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0473",
@@ -25244,7 +26103,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。尖る枝葉のコケ群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0474",
@@ -25294,7 +26158,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。湿地の水中にあるコケの枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0475",
@@ -25344,7 +26213,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。扁平で光沢のあるコケの枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0476",
@@ -25394,7 +26268,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細い葉と葉先から伸びる細い枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0477",
@@ -25444,7 +26323,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。岩面の小さく直立したコケの塊。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0478",
@@ -25494,7 +26378,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。岩面の星状の葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0479",
@@ -25544,7 +26433,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。小さな羽状のコケの枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0480",
@@ -25594,7 +26488,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。丸みのある葉を密につける枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0481",
@@ -25644,7 +26543,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。樹幹の扁平な細い枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0482",
@@ -25694,7 +26598,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。丸い小葉と赤褐色の軸。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0483",
@@ -25744,7 +26653,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。幅広く丸みのある葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0484",
@@ -25794,7 +26708,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細かい羽状の枝の群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0485",
@@ -25844,7 +26763,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。大きく細かい羽状の枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0486",
@@ -25894,7 +26818,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細く垂れる羽状の枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0487",
@@ -25944,7 +26873,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。岩面の平たい葉状体。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0488",
@@ -25994,7 +26928,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。平たい緑色の葉状体。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0489",
@@ -26044,7 +26983,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。心形の葉とつると小花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0490",
@@ -26094,7 +27038,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。地面の淡色の葉状体。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0491",
@@ -26144,7 +27093,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細かい模様のある緑色の葉状体。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0492",
@@ -26194,7 +27148,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。丸い葉状体と中央の器官。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0493",
@@ -26246,7 +27205,12 @@
         "needs_manual_taxon_review":  true,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。羽状の細いコケの枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0494",
@@ -26296,7 +27260,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。細い枝の密なコケの群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0495",
@@ -26346,7 +27315,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。つると心形の葉とむかご。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0496",
@@ -26396,7 +27370,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。矛形の葉と葉脈。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0497",
@@ -26446,7 +27425,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。大きく掌状に切れ込む葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0498",
@@ -26497,7 +27481,12 @@
         "needs_manual_taxon_review":  true,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。切れ込みのある心形の葉。裂片数の変異は未確認。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0499",
@@ -26549,7 +27538,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。白い筒状花と紫色の内側。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "grass_0500",
@@ -26599,6 +27593,11 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 目視確認。巻きひげのあるつると切れ込む葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     }
 ]
