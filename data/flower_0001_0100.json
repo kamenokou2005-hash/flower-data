@@ -1923,9 +1923,12 @@
         "content_status": "試験完成",
         "github_image_path": "images/flower/flower_0043.jpg",
         "github_image_url": "https://raw.githubusercontent.com/kamenokou2005-hash/flower-data/main/images/flower/flower_0043.jpg",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。写真がぼけ、出典は室内のC.persicum cultivars。ガーデン系統の根拠なし 再利用可能で園芸系統も確認できる差替え写真を確保できず。野生型や一般の鉢花をガーデンシクラメンとして採用しない。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。赤い反り返る花弁と模様のある葉を持つ鉢植えのシクラメン。画像はやや不鮮明だが明らかな別植物ではない。ガーデン系統と耐寒性は写真から未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。写真がぼけ、出典は室内のC.persicum cultivars。ガーデン系統の根拠なし 再利用可能で園芸系統も確認できる差替え写真を確保できず。野生型や一般の鉢花をガーデンシクラメンとして採用しない。"
     },
   {
     "id": "flower_0044",

@@ -7,9 +7,11 @@
     "classification_changes": 4,
     "resolved_previous_flags": 35,
     "provisional_ok": 177,
-    "pending": 23
+    "pending": 0,
+    "adopted_by_practical_criterion": 23,
+    "no_obvious_mismatch": 200
   },
-  "limitations": "暫定問題なしは独立した厳密な種・亜種・品種同定を意味しない。出典の分類と目視特徴に依拠。保留23件は未確定。前回目視142件は今回は再度開いていない。",
+  "limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。 今回23件の元画像から作成した確認シートを目視。他177件は前回の確認結果を継承。",
   "items": [
     {
       "id": "flower_0001",
@@ -476,13 +478,15 @@
     {
       "id": "flower_0043",
       "name": "ガーデンシクラメン",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Cyclamen persicum",
       "note_before": "写真がぼけ、出典は室内のC.persicum cultivars。ガーデン系統の根拠なし",
       "source_before": "https://commons.wikimedia.org/wiki/File:Ericales_-_Cyclamen_persicum_cultivars_-_3.jpg",
       "scientific_after": "Cyclamen persicum",
       "source_after": "https://commons.wikimedia.org/wiki/File:Ericales_-_Cyclamen_persicum_cultivars_-_3.jpg",
-      "note_after": "2026-10-09 要確認継続。写真がぼけ、出典は室内のC.persicum cultivars。ガーデン系統の根拠なし 再利用可能で園芸系統も確認できる差替え写真を確保できず。野生型や一般の鉢花をガーデンシクラメンとして採用しない。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。赤い反り返る花弁と模様のある葉を持つ鉢植えのシクラメン。画像はやや不鮮明だが明らかな別植物ではない。ガーデン系統と耐寒性は写真から未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。写真がぼけ、出典は室内のC.persicum cultivars。ガーデン系統の根拠なし 再利用可能で園芸系統も確認できる差替え写真を確保できず。野生型や一般の鉢花をガーデンシクラメンとして採用しない。"
     },
     {
       "id": "flower_0044",
@@ -1433,13 +1437,15 @@
     {
       "id": "flower_0130",
       "name": "アメリカンブルー",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Evolvulus nuttallianus",
       "note_before": "青い小花と有毛葉。登録Evolvulus nuttallianusに対し出典E.pilosus、カテゴリE.prostratus。異名か種違いか要確認。",
       "source_before": "https://commons.wikimedia.org/wiki/File:Evolvulus_pilosus.jpg",
       "scientific_after": "Evolvulus",
       "source_after": "https://commons.wikimedia.org/wiki/File:Evolvulus_pilosus.jpg",
-      "note_after": "2026-10-09 要確認継続。青い小花と有毛葉。登録Evolvulus nuttallianusに対し出典E.pilosus、カテゴリE.prostratus。異名か種違いか要確認。 アメリカンブルーは園芸上の通称。園芸資料のEvolvulus pilosusと、植物分類上のE. pilosus Nutt.の異名関係だけでE. nuttallianusへ自動的に固定しない。交雑系統などを含む園芸群としてEvolvulus属で扱う。写真は説明pilosusとカテゴリprostratusが矛盾するため種・系統の要確認を保持。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。青紫色の小花と有毛葉。Evolvulus属の園芸群の参考写真として明らかな不一致なし。出典説明と分類カテゴリの種名の食い違いは未解決。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。青い小花と有毛葉。登録Evolvulus nuttallianusに対し出典E.pilosus、カテゴリE.prostratus。異名か種違いか要確認。 アメリカンブルーは園芸上の通称。園芸資料のEvolvulus pilosusと、植物分類上のE. pilosus Nutt.の異名関係だけでE. nuttallianusへ自動的に固定しない。交雑系統などを含む園芸群としてEvolvulus属で扱う。写真は説明pilosusとカテゴリprostratusが矛盾するため種・系統の要確認を保持。"
     },
     {
       "id": "flower_0131",
@@ -1543,13 +1549,15 @@
     {
       "id": "flower_0140",
       "name": "アサリナ",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Asarina",
       "note_before": "つる性の紫色唇形花と心形葉。登録AsarinaだがMaurandyaとの属の扱いおよびiNaturalist出典未確認。",
       "source_before": "https://www.inaturalist.org/photos/454311885",
       "scientific_after": "Asarina / Maurandya / Lophospermum",
       "source_after": "https://www.inaturalist.org/photos/454311885",
-      "note_after": "2026-10-09 要確認継続。つる性の紫色唇形花と心形葉。登録AsarinaだがMaurandyaとの属の扱いおよびiNaturalist出典未確認。 園芸名アサリナには旧Asarina名を用いるMaurandyaやLophospermum系統も含まれる。現在のAsarina単一属へ固定しない。元写真の個別出典・種は未確認のため保留。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。紫の筒状花と心形の葉を付けるつる性植物。登録済みの複数属を含む園芸名アサリナの範囲で明らかな不一致なし。具体的な種は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。つる性の紫色唇形花と心形葉。登録AsarinaだがMaurandyaとの属の扱いおよびiNaturalist出典未確認。 園芸名アサリナには旧Asarina名を用いるMaurandyaやLophospermum系統も含まれる。現在のAsarina単一属へ固定しない。元写真の個別出典・種は未確認のため保留。"
     },
     {
       "id": "flower_0141",
@@ -1686,24 +1694,28 @@
     {
       "id": "flower_0153",
       "name": "コギク",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Chrysanthemum × morifolium",
       "note_before": "桃色の小さい園芸キク。iNaturalist出典の品種・種未照合。333×500でやや粗い。",
       "source_before": "https://www.inaturalist.org/photos/590122517",
       "scientific_after": "Chrysanthemum × morifolium",
       "source_after": "https://www.inaturalist.org/photos/590122517",
-      "note_after": "2026-10-09 要確認継続。桃色の小さい園芸キク。iNaturalist出典の品種・種未照合。333×500でやや粗い。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。桃色の小さな園芸キクの頭花が多数写る。小菊の参考写真として明らかな不一致なし。品種は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。桃色の小さい園芸キク。iNaturalist出典の品種・種未照合。333×500でやや粗い。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0154",
       "name": "スプレーマム",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Chrysanthemum × morifolium",
       "note_before": "黄色の園芸キク。枝全体が写らずスプレー型の確認が難しい。iNaturalist出典未照合。",
       "source_before": "https://www.inaturalist.org/photos/444268960",
       "scientific_after": "Chrysanthemum × morifolium",
       "source_after": "https://www.inaturalist.org/photos/444268960",
-      "note_after": "2026-10-09 要確認継続。黄色の園芸キク。枝全体が写らずスプレー型の確認が難しい。iNaturalist出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。黄色い園芸キクの頭花が多数写る。スプレーマムの参考写真として明らかな不一致なし。枝全体が見えず、園芸系統は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。黄色の園芸キク。枝全体が写らずスプレー型の確認が難しい。iNaturalist出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0155",
@@ -1774,35 +1786,41 @@
     {
       "id": "flower_0161",
       "name": "フジバカマ",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Eupatorium japonicum",
       "note_before": "白い小花集合と3裂葉が写る。ヒヨドリバナや交雑園芸系統との差に出典照合が必要。",
       "source_before": "https://www.inaturalist.org/photos/4391106",
       "scientific_after": "Eupatorium japonicum",
       "source_after": "https://www.inaturalist.org/photos/4391106",
-      "note_after": "2026-10-09 要確認継続。白い小花集合と3裂葉が写る。ヒヨドリバナや交雑園芸系統との差に出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。白い小花の集合と裂けた葉が写る。フジバカマとして明らかな不一致なし。近縁種・交雑系統との厳密な区別は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。白い小花集合と3裂葉が写る。ヒヨドリバナや交雑園芸系統との差に出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0162",
       "name": "ワレモコウ",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Sanguisorba officinalis",
       "note_before": "暗紅色の楕円花穂は整合。葉の細部が小さくiNaturalist出典未確認。",
       "source_before": "https://www.inaturalist.org/photos/708323343",
       "scientific_after": "Sanguisorba officinalis",
       "source_after": "https://www.inaturalist.org/photos/708323343",
-      "note_after": "2026-10-09 要確認継続。暗紅色の楕円花穂は整合。葉の細部が小さくiNaturalist出典未確認。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。暗紅色の楕円形の花穂が写る。ワレモコウとして明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。暗紅色の楕円花穂は整合。葉の細部が小さくiNaturalist出典未確認。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0163",
       "name": "リンドウ",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Gentiana scabra var. buergeri",
       "note_before": "青紫の5裂筒状花と対生葉。var.buergeriまでの出典照合が必要。",
       "source_before": "https://www.inaturalist.org/photos/4991676",
       "scientific_after": "Gentiana scabra var. buergeri",
       "source_after": "https://www.inaturalist.org/photos/4991676",
-      "note_after": "2026-10-09 要確認継続。青紫の5裂筒状花と対生葉。var.buergeriまでの出典照合が必要。 API検索で登録名に完全一致する分類を取得できず。亜種・変種や旧分類の対応を含め保留。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。青紫色の筒状花と葉が写る。リンドウとして明らかな不一致なし。登録変種までの同定は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。青紫の5裂筒状花と対生葉。var.buergeriまでの出典照合が必要。 API検索で登録名に完全一致する分類を取得できず。亜種・変種や旧分類の対応を含め保留。"
     },
     {
       "id": "flower_0164",
@@ -1840,24 +1858,28 @@
     {
       "id": "flower_0167",
       "name": "ヤブラン",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Liriope muscari",
       "note_before": "紫色の小花の穂と線形葉。近似種との差に出典照合が必要。",
       "source_before": "https://www.inaturalist.org/photos/224122408",
       "scientific_after": "Liriope muscari",
       "source_after": "https://www.inaturalist.org/photos/224122408",
-      "note_after": "2026-10-09 要確認継続。紫色の小花の穂と線形葉。近似種との差に出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。紫色の小花の穂と帯状の葉が写る。ヤブランとして明らかな不一致なし。近似種との厳密な区別は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。紫色の小花の穂と線形葉。近似種との差に出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0168",
       "name": "ノシラン",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Ophiopogon jaburan",
       "note_before": "白い反り返る6花被と幅広い線形葉。出典未照合。",
       "source_before": "https://www.inaturalist.org/photos/446219686",
       "scientific_after": "Ophiopogon jaburan",
       "source_after": "https://www.inaturalist.org/photos/446219686",
-      "note_after": "2026-10-09 要確認継続。白い反り返る6花被と幅広い線形葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。白い花と長い帯状の葉が写る。ノシランとして明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。白い反り返る6花被と幅広い線形葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0169",
@@ -1873,24 +1895,28 @@
     {
       "id": "flower_0170",
       "name": "ギボウシ",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Hosta",
       "note_before": "白い筒状花はギボウシ属と整合するが、葉や全株が見えず手が大きく写る。属の代表画像として要検討、出典未照合。",
       "source_before": "https://www.inaturalist.org/photos/442793621",
       "scientific_after": "Hosta",
       "source_after": "https://www.inaturalist.org/photos/442793621",
-      "note_after": "2026-10-09 要確認継続。白い筒状花はギボウシ属と整合するが、葉や全株が見えず手が大きく写る。属の代表画像として要検討、出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。白い漏斗状の花が写る。ギボウシ属の参考写真として明らかな不一致なし。葉と全株は見えない。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。白い筒状花はギボウシ属と整合するが、葉や全株が見えず手が大きく写る。属の代表画像として要検討、出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0171",
       "name": "コルチカム",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Colchicum",
       "note_before": "紫色6花被、6雄しべが見える。属の例。出典未照合。",
       "source_before": "https://www.inaturalist.org/photos/53423231",
       "scientific_after": "Colchicum",
       "source_after": "https://www.inaturalist.org/photos/53423231",
-      "note_after": "2026-10-09 要確認継続。紫色6花被、6雄しべが見える。属の例。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。淡紫色の6花被の花と雄しべが写る。コルチカム属の参考写真として明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。紫色6花被、6雄しべが見える。属の例。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0172",
@@ -1928,35 +1954,41 @@
     {
       "id": "flower_0175",
       "name": "サワヒヨドリ",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Eupatorium lindleyanum",
       "note_before": "桃白色の密な小花群と細長い葉。出典未照合。",
       "source_before": "https://www.inaturalist.org/photos/101856993",
       "scientific_after": "Eupatorium lindleyanum",
       "source_after": "https://www.inaturalist.org/photos/101856993",
-      "note_after": "2026-10-09 要確認継続。桃白色の密な小花群と細長い葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。淡桃白色の小花の集合と細長い葉が写る。サワヒヨドリとして明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。桃白色の密な小花群と細長い葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0176",
       "name": "アキノキリンソウ",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Solidago virgaurea subsp. asiatica",
       "note_before": "黄色の小頭状花群。葉がなく亜種までの識別困難、出典未照合。",
       "source_before": "https://www.inaturalist.org/photos/555968859",
       "scientific_after": "Solidago virgaurea subsp. asiatica",
       "source_after": "https://www.inaturalist.org/photos/555968859",
-      "note_after": "2026-10-09 要確認継続。黄色の小頭状花群。葉がなく亜種までの識別困難、出典未照合。 API検索で登録名に完全一致する分類を取得できず。亜種・変種や旧分類の対応を含め保留。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。黄色い小さな頭花がまとまって写る。アキノキリンソウとして明らかな不一致なし。登録亜種までの同定は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。黄色の小頭状花群。葉がなく亜種までの識別困難、出典未照合。 API検索で登録名に完全一致する分類を取得できず。亜種・変種や旧分類の対応を含め保留。"
     },
     {
       "id": "flower_0177",
       "name": "セイタカアワダチソウ",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Solidago altissima",
       "note_before": "黄色の大きな円錐花序と細長い葉。出典未照合。",
       "source_before": "https://www.inaturalist.org/photos/161401409",
       "scientific_after": "Solidago altissima",
       "source_after": "https://www.inaturalist.org/photos/161401409",
-      "note_after": "2026-10-09 要確認継続。黄色の大きな円錐花序と細長い葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。黄色い円錐状の大きな花序が写る。セイタカアワダチソウとして明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。黄色の大きな円錐花序と細長い葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0178",
@@ -1983,24 +2015,28 @@
     {
       "id": "flower_0180",
       "name": "ヌスビトハギ",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Hylodesmum podocarpum subsp. oxyphyllum",
       "note_before": "桃色蝶形の小花と3小葉。亜種までの出典照合が必要。",
       "source_before": "https://www.inaturalist.org/photos/2360942",
       "scientific_after": "Hylodesmum podocarpum subsp. oxyphyllum",
       "source_after": "https://www.inaturalist.org/photos/2360942",
-      "note_after": "2026-10-09 要確認継続。桃色蝶形の小花と3小葉。亜種までの出典照合が必要。 API検索で登録名に完全一致する分類を取得できず。亜種・変種や旧分類の対応を含め保留。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。小さな桃色の蝶形花と葉が写る。ヌスビトハギとして明らかな不一致なし。登録亜種までの同定は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。桃色蝶形の小花と3小葉。亜種までの出典照合が必要。 API検索で登録名に完全一致する分類を取得できず。亜種・変種や旧分類の対応を含め保留。"
     },
     {
       "id": "flower_0181",
       "name": "ナンバンギセル",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Aeginetia indica",
       "note_before": "葉のない茎と桃色の筒状花、舟形萼。出典未照合。",
       "source_before": "https://www.inaturalist.org/photos/114719663",
       "scientific_after": "Aeginetia indica",
       "source_after": "https://www.inaturalist.org/photos/114719663",
-      "note_after": "2026-10-09 要確認継続。葉のない茎と桃色の筒状花、舟形萼。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。葉のない茎に桃色の筒状花が写る。ナンバンギセルとして明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。葉のない茎と桃色の筒状花、舟形萼。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0182",
@@ -2049,24 +2085,28 @@
     {
       "id": "flower_0186",
       "name": "チェリーセージ",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Salvia microphylla",
       "note_before": "赤い唇形花と小葉。Salvia greggiiや交雑品種との差に出典照合が必要。",
       "source_before": "https://www.inaturalist.org/photos/593802705",
       "scientific_after": "Salvia microphylla",
       "source_after": "https://www.inaturalist.org/photos/593802705",
-      "note_after": "2026-10-09 要確認継続。赤い唇形花と小葉。Salvia greggiiや交雑品種との差に出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。赤い唇形花と小さな葉が写る。園芸名チェリーセージとして明らかな不一致なし。近縁種・交雑品種との厳密な区別は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。赤い唇形花と小葉。Salvia greggiiや交雑品種との差に出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0187",
       "name": "パイナップルセージ",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Salvia elegans",
       "note_before": "赤い細長い花と鋸歯葉。出典未照合。",
       "source_before": "https://www.inaturalist.org/photos/38012652",
       "scientific_after": "Salvia elegans",
       "source_after": "https://www.inaturalist.org/photos/38012652",
-      "note_after": "2026-10-09 要確認継続。赤い細長い花と鋸歯葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。赤い細長い花と葉が写る。パイナップルセージとして明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。赤い細長い花と鋸歯葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0188",
@@ -2104,13 +2144,15 @@
     {
       "id": "flower_0191",
       "name": "ユーパトリウム",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Conoclinium coelestinum",
       "note_before": "青紫色の糸状小花と対生葉。出典未照合。",
       "source_before": "https://www.inaturalist.org/photos/572409746",
       "scientific_after": "Conoclinium coelestinum",
       "source_after": "https://www.inaturalist.org/photos/572409746",
-      "note_after": "2026-10-09 要確認継続。青紫色の糸状小花と対生葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。青紫色の糸状小花と対生する鋸歯のある葉が写る。ユーパトリウムの参考写真として明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。青紫色の糸状小花と対生葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0192",
@@ -2126,13 +2168,15 @@
     {
       "id": "flower_0193",
       "name": "サラシナショウマ",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Actaea simplex",
       "note_before": "白い穂状花序と多数の雄しべ。葉が写らず出典照合が必要。",
       "source_before": "https://www.inaturalist.org/photos/314467083",
       "scientific_after": "Actaea simplex",
       "source_after": "https://www.inaturalist.org/photos/314467083",
-      "note_after": "2026-10-09 要確認継続。白い穂状花序と多数の雄しべ。葉が写らず出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。白い長い穂状花序が写る。サラシナショウマとして明らかな不一致なし。葉の識別点は写っていない。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。白い穂状花序と多数の雄しべ。葉が写らず出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0194",
@@ -2159,24 +2203,28 @@
     {
       "id": "flower_0196",
       "name": "タンポポ",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Taraxacum",
       "note_before": "黄色い頭状花とロゼット状の切れ込む葉。属の例、出典未照合。",
       "source_before": "https://www.inaturalist.org/photos/120947448",
       "scientific_after": "Taraxacum",
       "source_after": "https://www.inaturalist.org/photos/120947448",
-      "note_after": "2026-10-09 要確認継続。黄色い頭状花とロゼット状の切れ込む葉。属の例、出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。黄色い頭花と切れ込む葉が写る。タンポポ属の参考写真として明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。黄色い頭状花とロゼット状の切れ込む葉。属の例、出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0197",
       "name": "セイヨウタンポポ",
-      "status": "要確認",
+      "status": "明らかな不一致なし",
       "scientific_before": "Taraxacum officinale",
       "note_before": "黄色い頭状花と裂葉。総苞が見えず日本産タンポポ・交雑型との識別困難、出典未照合。",
       "source_before": "https://www.inaturalist.org/photos/74722284",
       "scientific_after": "Taraxacum officinale",
       "source_after": "https://www.inaturalist.org/photos/74722284",
-      "note_after": "2026-10-09 要確認継続。黄色い頭状花と裂葉。総苞が見えず日本産タンポポ・交雑型との識別困難、出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+      "note_after": "2026-10-09 使う人指定の基準で再確認。黄色い頭花と切れ込む葉が写る。セイヨウタンポポとして明らかな不一致なし。総苞が見えず、日本産種・交雑型との厳密な区別は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+      "previous_status": "要確認",
+      "previous_note_after": "2026-10-09 要確認継続。黄色い頭状花と裂葉。総苞が見えず日本産タンポポ・交雑型との識別困難、出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
       "id": "flower_0198",
@@ -2211,5 +2259,16 @@
       "source_after": "https://www.inaturalist.org/photos/77103478",
       "note_after": "2026-10-09 再確認。枯れた頭花の多い旧写真から、Trifolium repensの開いた白い頭花と三小葉が見える写真へ差替え。"
     }
-  ]
+  ],
+  "previous_summary": {
+    "reviewed": 200,
+    "replaced_images": 20,
+    "gallery_source_confirmations": 13,
+    "classification_changes": 4,
+    "resolved_previous_flags": 35,
+    "provisional_ok": 177,
+    "pending": 23
+  },
+  "previous_limitations": "暫定問題なしは独立した厳密な種・亜種・品種同定を意味しない。出典の分類と目視特徴に依拠。保留23件は未確定。前回目視142件は今回は再度開いていない。",
+  "criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。"
 }

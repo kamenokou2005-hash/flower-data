@@ -1414,9 +1414,12 @@
         "needs_manual_taxon_review": true,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。青い小花と有毛葉。登録Evolvulus nuttallianusに対し出典E.pilosus、カテゴリE.prostratus。異名か種違いか要確認。 アメリカンブルーは園芸上の通称。園芸資料のEvolvulus pilosusと、植物分類上のE. pilosus Nutt.の異名関係だけでE. nuttallianusへ自動的に固定しない。交雑系統などを含む園芸群としてEvolvulus属で扱う。写真は説明pilosusとカテゴリprostratusが矛盾するため種・系統の要確認を保持。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。青紫色の小花と有毛葉。Evolvulus属の園芸群の参考写真として明らかな不一致なし。出典説明と分類カテゴリの種名の食い違いは未解決。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。青い小花と有毛葉。登録Evolvulus nuttallianusに対し出典E.pilosus、カテゴリE.prostratus。異名か種違いか要確認。 アメリカンブルーは園芸上の通称。園芸資料のEvolvulus pilosusと、植物分類上のE. pilosus Nutt.の異名関係だけでE. nuttallianusへ自動的に固定しない。交雑系統などを含む園芸群としてEvolvulus属で扱う。写真は説明pilosusとカテゴリprostratusが矛盾するため種・系統の要確認を保持。"
     },
   {
     "id": "flower_0131",
@@ -1888,9 +1891,12 @@
         "needs_manual_taxon_review": true,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。つる性の紫色唇形花と心形葉。登録AsarinaだがMaurandyaとの属の扱いおよびiNaturalist出典未確認。 園芸名アサリナには旧Asarina名を用いるMaurandyaやLophospermum系統も含まれる。現在のAsarina単一属へ固定しない。元写真の個別出典・種は未確認のため保留。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。紫の筒状花と心形の葉を付けるつる性植物。登録済みの複数属を含む園芸名アサリナの範囲で明らかな不一致なし。具体的な種は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。つる性の紫色唇形花と心形葉。登録AsarinaだがMaurandyaとの属の扱いおよびiNaturalist出典未確認。 園芸名アサリナには旧Asarina名を用いるMaurandyaやLophospermum系統も含まれる。現在のAsarina単一属へ固定しない。元写真の個別出典・種は未確認のため保留。"
     },
   {
         "id": "flower_0141",

@@ -145,9 +145,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。桃色の小さい園芸キク。iNaturalist出典の品種・種未照合。333×500でやや粗い。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。桃色の小さな園芸キクの頭花が多数写る。小菊の参考写真として明らかな不一致なし。品種は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。桃色の小さい園芸キク。iNaturalist出典の品種・種未照合。333×500でやや粗い。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0154",
@@ -196,9 +199,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。黄色の園芸キク。枝全体が写らずスプレー型の確認が難しい。iNaturalist出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。黄色い園芸キクの頭花が多数写る。スプレーマムの参考写真として明らかな不一致なし。枝全体が見えず、園芸系統は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。黄色の園芸キク。枝全体が写らずスプレー型の確認が難しい。iNaturalist出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id":  "flower_0155",
@@ -538,9 +544,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。白い小花集合と3裂葉が写る。ヒヨドリバナや交雑園芸系統との差に出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。白い小花の集合と裂けた葉が写る。フジバカマとして明らかな不一致なし。近縁種・交雑系統との厳密な区別は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。白い小花集合と3裂葉が写る。ヒヨドリバナや交雑園芸系統との差に出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0162",
@@ -589,9 +598,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。暗紅色の楕円花穂は整合。葉の細部が小さくiNaturalist出典未確認。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。暗紅色の楕円形の花穂が写る。ワレモコウとして明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。暗紅色の楕円花穂は整合。葉の細部が小さくiNaturalist出典未確認。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0163",
@@ -639,9 +651,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。青紫の5裂筒状花と対生葉。var.buergeriまでの出典照合が必要。 API検索で登録名に完全一致する分類を取得できず。亜種・変種や旧分類の対応を含め保留。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。青紫色の筒状花と葉が写る。リンドウとして明らかな不一致なし。登録変種までの同定は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。青紫の5裂筒状花と対生葉。var.buergeriまでの出典照合が必要。 API検索で登録名に完全一致する分類を取得できず。亜種・変種や旧分類の対応を含め保留。"
     },
     {
         "id": "flower_0164",
@@ -837,9 +852,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。紫色の小花の穂と線形葉。近似種との差に出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。紫色の小花の穂と帯状の葉が写る。ヤブランとして明らかな不一致なし。近似種との厳密な区別は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。紫色の小花の穂と線形葉。近似種との差に出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0168",
@@ -887,9 +905,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。白い反り返る6花被と幅広い線形葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。白い花と長い帯状の葉が写る。ノシランとして明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。白い反り返る6花被と幅広い線形葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0169",
@@ -991,9 +1012,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。白い筒状花はギボウシ属と整合するが、葉や全株が見えず手が大きく写る。属の代表画像として要検討、出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。白い漏斗状の花が写る。ギボウシ属の参考写真として明らかな不一致なし。葉と全株は見えない。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。白い筒状花はギボウシ属と整合するが、葉や全株が見えず手が大きく写る。属の代表画像として要検討、出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0171",
@@ -1041,9 +1065,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。紫色6花被、6雄しべが見える。属の例。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。淡紫色の6花被の花と雄しべが写る。コルチカム属の参考写真として明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。紫色6花被、6雄しべが見える。属の例。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0172",
@@ -1241,9 +1268,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。桃白色の密な小花群と細長い葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。淡桃白色の小花の集合と細長い葉が写る。サワヒヨドリとして明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。桃白色の密な小花群と細長い葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0176",
@@ -1292,9 +1322,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。黄色の小頭状花群。葉がなく亜種までの識別困難、出典未照合。 API検索で登録名に完全一致する分類を取得できず。亜種・変種や旧分類の対応を含め保留。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。黄色い小さな頭花がまとまって写る。アキノキリンソウとして明らかな不一致なし。登録亜種までの同定は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。黄色の小頭状花群。葉がなく亜種までの識別困難、出典未照合。 API検索で登録名に完全一致する分類を取得できず。亜種・変種や旧分類の対応を含め保留。"
     },
     {
         "id": "flower_0177",
@@ -1342,9 +1375,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。黄色の大きな円錐花序と細長い葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。黄色い円錐状の大きな花序が写る。セイタカアワダチソウとして明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。黄色の大きな円錐花序と細長い葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id":  "flower_0178",
@@ -1490,9 +1526,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。桃色蝶形の小花と3小葉。亜種までの出典照合が必要。 API検索で登録名に完全一致する分類を取得できず。亜種・変種や旧分類の対応を含め保留。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。小さな桃色の蝶形花と葉が写る。ヌスビトハギとして明らかな不一致なし。登録亜種までの同定は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。桃色蝶形の小花と3小葉。亜種までの出典照合が必要。 API検索で登録名に完全一致する分類を取得できず。亜種・変種や旧分類の対応を含め保留。"
     },
     {
         "id": "flower_0181",
@@ -1540,9 +1579,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。葉のない茎と桃色の筒状花、舟形萼。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。葉のない茎に桃色の筒状花が写る。ナンバンギセルとして明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。葉のない茎と桃色の筒状花、舟形萼。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0182",
@@ -1795,9 +1837,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。赤い唇形花と小葉。Salvia greggiiや交雑品種との差に出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。赤い唇形花と小さな葉が写る。園芸名チェリーセージとして明らかな不一致なし。近縁種・交雑品種との厳密な区別は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。赤い唇形花と小葉。Salvia greggiiや交雑品種との差に出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0187",
@@ -1845,9 +1890,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。赤い細長い花と鋸歯葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。赤い細長い花と葉が写る。パイナップルセージとして明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。赤い細長い花と鋸歯葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0188",
@@ -2051,9 +2099,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。青紫色の糸状小花と対生葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。青紫色の糸状小花と対生する鋸歯のある葉が写る。ユーパトリウムの参考写真として明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。青紫色の糸状小花と対生葉。出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0192",
@@ -2152,9 +2203,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。白い穂状花序と多数の雄しべ。葉が写らず出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。白い長い穂状花序が写る。サラシナショウマとして明らかな不一致なし。葉の識別点は写っていない。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。白い穂状花序と多数の雄しべ。葉が写らず出典照合が必要。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0194",
@@ -2299,9 +2353,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。黄色い頭状花とロゼット状の切れ込む葉。属の例、出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。黄色い頭花と切れ込む葉が写る。タンポポ属の参考写真として明らかな不一致なし。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。黄色い頭状花とロゼット状の切れ込む葉。属の例、出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0197",
@@ -2349,9 +2406,12 @@
         "needs_manual_taxon_review": false,
         "taxon_lookup_error": "",
         "content_status": "完成",
-        "needs_manual_image_review": true,
-        "image_review_status": "要確認",
-        "image_review_note": "2026-10-09 要確認継続。黄色い頭状花と裂葉。総苞が見えず日本産タンポポ・交雑型との識別困難、出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-09 使う人指定の基準で再確認。黄色い頭花と切れ込む葉が写る。セイヨウタンポポとして明らかな不一致なし。総苞が見えず、日本産種・交雑型との厳密な区別は未確認。 出典未照合・細分類未特定だけでは保留にしない。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "写真による目視確認の結果。厳密な種・亜種・変種・品種の同定や、出典の同定結果を確定したものではない。",
+        "image_review_previous_note": "2026-10-09 要確認継続。黄色い頭状花と裂葉。総苞が見えず日本産タンポポ・交雑型との識別困難、出典未照合。 分類ギャラリー内に元写真IDを確認できず。未掲載は誤同定の証明ではない。写真ページへ直接アクセスできず、観察記録との照合は未完了。"
     },
     {
         "id": "flower_0198",
