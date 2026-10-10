@@ -49,7 +49,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。重なる灰褐色のひだ状の子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "重なる灰褐色のひだ状の子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0002",
@@ -103,7 +109,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "晩秋～早春",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。木についた白灰色の扇形の子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "木についた白灰色の扇形の子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0003",
@@ -155,7 +167,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。幹についた紫褐色の扇形の子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "幹についた紫褐色の扇形の子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0004",
@@ -208,7 +226,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い丸い子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い丸い子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0005",
@@ -260,7 +284,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。昆虫から伸びる橙色の子実体、背景は紙。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "昆虫から伸びる橙色の子実体、背景は紙。子実体が見える。"
     },
     {
         "id":  "mushroom_0006",
@@ -312,7 +342,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。落葉から伸びる橙色の柄と褐色の頭部。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "落葉から伸びる橙色の柄と褐色の頭部。子実体が見える。"
     },
     {
         "id":  "mushroom_0007",
@@ -364,7 +400,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。昆虫についた白い小さな菌の突起。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "昆虫についた白い小さな菌の突起。子実体が見える。"
     },
     {
         "id":  "mushroom_0008",
@@ -417,7 +459,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。暗色の傘と黄色い太い柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "暗色の傘と黄色い太い柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0009",
@@ -469,7 +517,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。傷みのある淡灰紫色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "傷みのある淡灰紫色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0010",
@@ -522,7 +576,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。床に並べた淡紫灰色の傘と白いひだ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "床に並べた淡紫灰色の傘と白いひだ。子実体が見える。"
     },
     {
         "id":  "mushroom_0011",
@@ -574,7 +634,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。採取した灰褐色の傘と柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "採取した灰褐色の傘と柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0012",
@@ -626,7 +692,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。暗色の中心のある黄灰色の傘と白いひだ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "暗色の中心のある黄灰色の傘と白いひだ。子実体が見える。"
     },
     {
         "id":  "mushroom_0013",
@@ -678,7 +750,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。苔の中の細い桃色の柄と褐色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "苔の中の細い桃色の柄と褐色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0014",
@@ -731,7 +809,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "春～秋（主に夏）",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。紙等の上の大きな乾いた褐色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "紙等の上の大きな乾いた褐色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0015",
@@ -783,7 +867,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。黄色いひだと柄、白いつぼ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "黄色いひだと柄、白いつぼ。子実体が見える。"
     },
     {
         "id":  "mushroom_0016",
@@ -835,7 +925,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い管孔と褐色の斑のある柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い管孔と褐色の斑のある柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0017",
@@ -888,7 +984,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。褐色の傘と淡色の太い柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "褐色の傘と淡色の太い柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0018",
@@ -941,7 +1043,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。褐色の傘と黄色い柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "褐色の傘と黄色い柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0019",
@@ -993,7 +1101,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。紙の上の橙色のひだの採取個体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "紙の上の橙色のひだの採取個体。子実体が見える。"
     },
     {
         "id":  "mushroom_0020",
@@ -1030,12 +1144,7 @@
                                     "https://en.wikipedia.org/wiki/Coprinellus_domesticus",
                                     "https://www.inaturalist.org/taxa/203062"
                                 ],
-        "image":  {
-                      "author":  "(c) Dan Riley, some rights reserved (CC BY)",
-                      "license":  "CC-BY",
-                      "source_url":  "https://www.inaturalist.org/photos/745767260",
-                      "image_path":  "images/0001_0050/mushroom_0020.jpg"
-                  },
+        "image":  {"author": "(c) Sam Kieschnick, some rights reserved (CC BY)", "license": "CC BY 4.0", "source_url": "https://www.inaturalist.org/photos/6824102", "image_path": "images/0001_0050/mushroom_0020.jpg", "license_url": "https://creativecommons.org/licenses/by/4.0/", "observation_url": "https://www.inaturalist.org/observations/5530524", "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"},
         "content_status":  "完成",
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
@@ -1045,10 +1154,18 @@
         "life_form":  "菌類（腐生菌）",
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "（アメリカ：春～）夏～秋",
-        "needs_manual_image_review":  true,
-        "image_review_note":  "菌糸マットを中心に写した画像で、傘・ヒダの識別点が確認できない。元画像を保持し要確認。",
+        "needs_manual_image_review":  false,
+        "image_review_note":  "2026-10-11 サムネイルを目視。木や草のそばの条線のある褐色の傘と淡色の柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は菌糸状の部分だけで子実体が写らないのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Coprinellus domesticus、research。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。木や草のそばの条線のある褐色の傘と淡色の柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は菌糸状の部分だけで子実体が写らないのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Coprinellus domesticus、research。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "木や草のそばの条線のある褐色の傘と淡色の柄。子実体が見える。",
+      "image_review_previous_note": "菌糸マットを中心に写した画像で、傘・ヒダの識別点が確認できない。元画像を保持し要確認。",
+      "image_review_status": "明らかな不一致なし"
     },
     {
         "id":  "mushroom_0021",
@@ -1100,7 +1217,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。黒い舌状の子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "黒い舌状の子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0022",
@@ -1152,7 +1275,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。手に持つ昆虫から伸びる長い赤褐色の子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "手に持つ昆虫から伸びる長い赤褐色の子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0023",
@@ -1205,7 +1334,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。木についた淡色の枝分かれする子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "木についた淡色の枝分かれする子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0024",
@@ -1257,7 +1392,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。淡褐色の円錐状の傘と長い柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "淡褐色の円錐状の傘と長い柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0025",
@@ -1309,7 +1450,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。切断した暗色の丸い子実体と黄色い内壁。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "切断した暗色の丸い子実体と黄色い内壁。子実体が見える。"
     },
     {
         "id":  "mushroom_0026",
@@ -1361,7 +1508,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。古いきのこの上に生える小さな淡色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "古いきのこの上に生える小さな淡色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0027",
@@ -1413,7 +1566,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い斑点のある青緑色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い斑点のある青緑色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0028",
@@ -1466,7 +1625,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。繊維状の淡色の円錐形の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "繊維状の淡色の円錐形の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0029",
@@ -1518,7 +1683,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。多数の小さな灰色の傘の群生。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "多数の小さな灰色の傘の群生。子実体が見える。"
     },
     {
         "id":  "mushroom_0030",
@@ -1571,7 +1742,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。橙色の傘と柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "橙色の傘と柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0031",
@@ -1625,7 +1802,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。赤橙色の若い円錐状の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "赤橙色の若い円錐状の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0032",
@@ -1677,7 +1860,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。並べた桃褐色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "並べた桃褐色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0033",
@@ -1729,7 +1918,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。紫色の柄とひだ、褐色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "紫色の柄とひだ、褐色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0034",
@@ -1781,7 +1976,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。淡色の傘と柄、桃色のひだ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "淡色の傘と柄、桃色のひだ。子実体が見える。"
     },
     {
         "id":  "mushroom_0035",
@@ -1833,7 +2034,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。厚い橙色のひだと細い褐色の柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "厚い橙色のひだと細い褐色の柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0036",
@@ -1888,7 +2095,13 @@
         "needs_manual_image_review":  true,
         "image_review_note":  "参照解説の緑色系の頭部と写真の黄色系の色調に違いがある。状態・分類群の対応は要確認。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。暗色の丸い頭部と黄色い柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "暗色の丸い頭部と黄色い柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0037",
@@ -1940,7 +2153,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。木についた橙色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "木についた橙色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0038",
@@ -1993,7 +2212,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "春～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い管孔の扇形子実体と暗色の柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い管孔の扇形子実体と暗色の柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0039",
@@ -2046,7 +2271,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "春～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。木についた淡灰色の傘と暗色の中心。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "木についた淡灰色の傘と暗色の中心。子実体が見える。"
     },
     {
         "id":  "mushroom_0040",
@@ -2099,7 +2330,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。灰紫色の傘と白い縁。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "灰紫色の傘と白い縁。子実体が見える。"
     },
     {
         "id":  "mushroom_0041",
@@ -2151,7 +2388,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。長い淡色の柄と褐色の円錐状の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "長い淡色の柄と褐色の円錐状の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0042",
@@ -2204,7 +2447,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "初夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。放射状の模様のある褐灰色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "放射状の模様のある褐灰色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0043",
@@ -2256,7 +2505,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。木のそばの橙色の椀形子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "木のそばの橙色の椀形子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0044",
@@ -2308,7 +2563,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。褐色の傘と白い縁、白い柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "褐色の傘と白い縁、白い柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0045",
@@ -2362,7 +2623,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。苔の中の中央がくぼむ淡色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "苔の中の中央がくぼむ淡色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0046",
@@ -2415,7 +2682,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。紙の上の淡色の小さな傘と柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "紙の上の淡色の小さな傘と柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0047",
@@ -2467,7 +2740,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い平たい傘と細い柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い平たい傘と細い柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0048",
@@ -2520,7 +2799,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "通年",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。幹についた褐色の帯模様の扇形子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "幹についた褐色の帯模様の扇形子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0049",
@@ -2573,7 +2858,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "春～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。採取した淡色の柄と褐色のひだ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "採取した淡色の柄と褐色のひだ。子実体が見える。"
     },
     {
         "id":  "mushroom_0050",
@@ -2625,7 +2916,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。林床の褐色の傘の群生。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "林床の褐色の傘の群生。子実体が見える。"
     },
     {
         "id":  "mushroom_0051",
@@ -2678,7 +2975,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。地面の鮮やかな黄橙色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "地面の鮮やかな黄橙色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0052",
@@ -2730,7 +3033,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。小さな橙色の傘と白黄色の細い柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "小さな橙色の傘と白黄色の細い柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0053",
@@ -2783,7 +3092,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。手に持つ青紫色の傘と柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "手に持つ青紫色の傘と柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0054",
@@ -2835,7 +3150,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。木についた小さな白い傘と細い褐色の柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "木についた小さな白い傘と細い褐色の柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0055",
@@ -2888,7 +3209,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "晩秋～早春",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。幹についた橙褐色の傘と暗色の柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "幹についた橙褐色の傘と暗色の柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0056",
@@ -2941,7 +3268,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "春、秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。採取した褐色の斑のある傘の集まり。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "採取した褐色の斑のある傘の集まり。子実体が見える。"
     },
     {
         "id":  "mushroom_0057",
@@ -2993,7 +3326,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。採取した成熟・乾燥気味の褐色の子実体、傘とひだ・柄が見える。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "採取した成熟・乾燥気味の褐色の子実体、傘とひだ・柄が見える。子実体が見える。"
     },
     {
         "id":  "mushroom_0058",
@@ -3047,7 +3386,13 @@
         "needs_manual_image_review":  true,
         "image_review_note":  "市販袋入りの写真で、野生の子実体の形態・識別点が見えにくい。元画像を保持。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。市販袋内の白い傘と短い柄、子実体は見える。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "市販袋内の白い傘と短い柄、子実体は見える。子実体が見える。"
     },
     {
         "id":  "mushroom_0059",
@@ -3099,7 +3444,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い太い柄と垂生する褐色のひだ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い太い柄と垂生する褐色のひだ。子実体が見える。"
     },
     {
         "id":  "mushroom_0060",
@@ -3151,7 +3502,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い傘と柄、つば。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い傘と柄、つば。子実体が見える。"
     },
     {
         "id":  "mushroom_0061",
@@ -3204,7 +3561,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "春～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。切り株についた褐色の耳状の子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "切り株についた褐色の耳状の子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0062",
@@ -3257,7 +3620,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "春～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。手に持つ紫褐色の耳状の子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "手に持つ紫褐色の耳状の子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0063",
@@ -3309,7 +3678,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。淡白色のひだ状に縮れた子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "淡白色のひだ状に縮れた子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0064",
@@ -3361,7 +3736,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。幹についた白い丸い垂れ下がる子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "幹についた白い丸い垂れ下がる子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0065",
@@ -3413,7 +3794,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。採取した扇形の傘と淡色のひだ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "採取した扇形の傘と淡色のひだ。子実体が見える。"
     },
     {
         "id":  "mushroom_0066",
@@ -3465,7 +3852,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。木についた褐桃色の傘の群生。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "木についた褐桃色の傘の群生。子実体が見える。"
     },
     {
         "id":  "mushroom_0067",
@@ -3517,7 +3910,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。幹の分かれ目の褐色の傘の群生。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "幹の分かれ目の褐色の傘の群生。子実体が見える。"
     },
     {
         "id":  "mushroom_0068",
@@ -3569,7 +3968,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。群生する褐色の傘と白いひだ、柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "群生する褐色の傘と白いひだ、柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0069",
@@ -3621,7 +4026,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。中央がくぼむ淡桃褐色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "中央がくぼむ淡桃褐色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0070",
@@ -3673,7 +4084,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。紙の上に並べた橙色のひだの採取個体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "紙の上に並べた橙色のひだの採取個体。子実体が見える。"
     },
     {
         "id":  "mushroom_0071",
@@ -3727,7 +4144,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。中央がくぼむ大きな褐色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "中央がくぼむ大きな褐色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0072",
@@ -3779,7 +4202,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。林内の黄褐色の傘と柄のつば。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "林内の黄褐色の傘と柄のつば。子実体が見える。"
     },
     {
         "id":  "mushroom_0073",
@@ -3831,7 +4260,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。灰色の傘と白いひだ、長い白い柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "灰色の傘と白いひだ、長い白い柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0074",
@@ -3883,7 +4318,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。採取した褐色の傘と白いひだの群れ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "採取した褐色の傘と白いひだの群れ。子実体が見える。"
     },
     {
         "id":  "mushroom_0075",
@@ -3936,7 +4377,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "春～晩秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。採取した灰褐色の傘と白いひだ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "採取した灰褐色の傘と白いひだ。子実体が見える。"
     },
     {
         "id":  "mushroom_0076",
@@ -3988,7 +4435,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。草の中の桃褐色の傘と白いひだ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "草の中の桃褐色の傘と白いひだ。子実体が見える。"
     },
     {
         "id":  "mushroom_0077",
@@ -4041,7 +4494,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "初夏～晩秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。黄褐色の大きな管孔と傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "黄褐色の大きな管孔と傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0078",
@@ -4093,7 +4552,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "晩夏～初冬",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。苔の中の褐色の傘と柄のつば。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "苔の中の褐色の傘と柄のつば。子実体が見える。"
     },
     {
         "id":  "mushroom_0079",
@@ -4146,7 +4611,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。手に持つ褐色の傘と淡色の太い柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "手に持つ褐色の傘と淡色の太い柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0080",
@@ -4198,7 +4669,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。炭灰色の傘と白い下面。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "炭灰色の傘と白い下面。子実体が見える。"
     },
     {
         "id":  "mushroom_0081",
@@ -4250,7 +4727,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。桃色の枝分かれする密な子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "桃色の枝分かれする密な子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0082",
@@ -4303,7 +4786,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。淡灰色の平たい傘と細い柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "淡灰色の平たい傘と細い柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0083",
@@ -4355,7 +4844,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。手に持つ栗褐色の傘と柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "手に持つ栗褐色の傘と柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0084",
@@ -4408,7 +4903,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い傘とひだ、白い鱗片状の柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い傘とひだ、白い鱗片状の柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0085",
@@ -4460,7 +4961,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。手に持つ白い傘と柄、全体の同定は未確定。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "手に持つ白い傘と柄、全体の同定は未確定。子実体が見える。"
     },
     {
         "id":  "mushroom_0086",
@@ -4512,7 +5019,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。手に持つ黄緑色の傘と白いひだ、つばと根元。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "手に持つ黄緑色の傘と白いひだ、つばと根元。子実体が見える。"
     },
     {
         "id":  "mushroom_0087",
@@ -4564,7 +5077,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。若い桃赤色の丸い傘と白いいぼ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "若い桃赤色の丸い傘と白いいぼ。子実体が見える。"
     },
     {
         "id":  "mushroom_0088",
@@ -4616,7 +5135,13 @@
         "needs_manual_content_review":  true,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。褐色の傘と多数の白いいぼ、太い柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "褐色の傘と多数の白いいぼ、太い柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0089",
@@ -4669,7 +5194,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。採取した白い柄とひだ、灰色の傘の一部。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "採取した白い柄とひだ、灰色の傘の一部。子実体が見える。"
     },
     {
         "id":  "mushroom_0090",
@@ -4722,7 +5253,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。落葉の中の深くくぼむ淡褐色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "落葉の中の深くくぼむ淡褐色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0091",
@@ -4775,7 +5312,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。採取した褐色の傘と白いいぼ、ひだ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "採取した褐色の傘と白いいぼ、ひだ。子実体が見える。"
     },
     {
         "id":  "mushroom_0092",
@@ -4828,7 +5371,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。褐灰色の傘と白いひだ、黒変した部分。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "褐灰色の傘と白いひだ、黒変した部分。子実体が見える。"
     },
     {
         "id":  "mushroom_0093",
@@ -4880,7 +5429,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。木についた小さな橙褐色の傘。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "木についた小さな橙褐色の傘。子実体が見える。"
     },
     {
         "id":  "mushroom_0094",
@@ -4934,7 +5489,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "通年",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。木についた黄褐色の傘の群生。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "木についた黄褐色の傘の群生。子実体が見える。"
     },
     {
         "id":  "mushroom_0095",
@@ -4987,7 +5548,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。苔のある木についた薄い白い扇形子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "苔のある木についた薄い白い扇形子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0096",
@@ -5039,7 +5606,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。手に持つ橙褐色の傘と黄色い柄、つば。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "手に持つ橙褐色の傘と黄色い柄、つば。子実体が見える。"
     },
     {
         "id":  "mushroom_0097",
@@ -5091,7 +5664,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "子実体の発生時期は要確認",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。木のそばの赤い指状の子実体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "木のそばの赤い指状の子実体。子実体が見える。"
     },
     {
         "id":  "mushroom_0098",
@@ -5144,7 +5723,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "春～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。若い白灰色の細長い傘の群生。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "若い白灰色の細長い傘の群生。子実体が見える。"
     },
     {
         "id":  "mushroom_0099",
@@ -5197,7 +5782,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "春～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。採取した褐色の中心のある白い傘の群れ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "採取した褐色の中心のある白い傘の群れ。子実体が見える。"
     },
     {
         "id":  "mushroom_0100",
@@ -5249,7 +5840,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。黄色い垂生ひだと褐色の傘の下面。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "黄色い垂生ひだと褐色の傘の下面。子実体が見える。"
     },
     {
         "id":  "mushroom_0101",
@@ -5301,7 +5898,13 @@
         "needs_manual_content_review":  false,
         "fruiting_body_season":  "夏～秋",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。傷みのある赤い傘と白いひだ、柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "傷みのある赤い傘と白いひだ、柄。子実体が見える。"
     },
     {
         "id":  "mushroom_0102",

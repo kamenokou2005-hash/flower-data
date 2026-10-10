@@ -6260,7 +6260,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。赤い小花の花房。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "赤い小花の花房。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0102",
@@ -6311,7 +6317,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。桃白色の花と黄色い中心。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "桃白色の花と黄色い中心。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0103",
@@ -6362,7 +6374,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。紫色の筒状花の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "紫色の筒状花の枝。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0104",
@@ -6413,7 +6431,13 @@
         "needs_manual_taxon_review":  true,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。淡桃色の小花の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "淡桃色の小花の枝。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0105",
@@ -6464,7 +6488,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。淡白色の細長い花弁。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "淡白色の細長い花弁。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0106",
@@ -6515,7 +6545,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。紫縁の淡色の花と常緑葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "紫縁の淡色の花と常緑葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0107",
@@ -6566,7 +6602,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。淡黄色の垂れた花房。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "淡黄色の垂れた花房。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0108",
@@ -6617,7 +6659,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。淡黄色の小花と新葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "淡黄色の小花と新葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0109",
@@ -6668,7 +6716,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。長い垂れた淡黄色の花序。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "長い垂れた淡黄色の花序。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0110",
@@ -6719,7 +6773,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い小花の房と葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い小花の房と葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0111",
@@ -6770,7 +6830,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い花が茂る木の全景。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い花が茂る木の全景。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0112",
@@ -6821,7 +6887,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。裸の枝についた桃色の花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "裸の枝についた桃色の花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0113",
@@ -6872,7 +6944,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い五弁花とつぼみ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い五弁花とつぼみ。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0114",
@@ -6923,7 +7001,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。細長い白い花穂。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "細長い白い花穂。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0115",
@@ -6974,7 +7058,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。桃色の円錐状の花序。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "桃色の円錐状の花序。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0116",
@@ -7025,7 +7115,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。淡色の花序と掌状複葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "淡色の花序と掌状複葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0117",
@@ -7076,7 +7172,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い平たい花房と光沢葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い平たい花房と光沢葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0118",
@@ -7127,7 +7229,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。斑点のある淡桃色の花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "斑点のある淡桃色の花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0119",
@@ -7178,7 +7286,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。赤桃色のツツジ状の花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "赤桃色のツツジ状の花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0120",
@@ -7229,7 +7343,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。桃紫色の漏斗形の花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "桃紫色の漏斗形の花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0121",
@@ -7280,7 +7400,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白色型のツツジ状の花、品種の厳密な特定は未確定。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白色型のツツジ状の花、品種の厳密な特定は未確定。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0122",
@@ -7331,7 +7457,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。淡黄色の漏斗形の花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "淡黄色の漏斗形の花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0123",
@@ -7382,7 +7514,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。小さな白い花と赤い雄しべ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "小さな白い花と赤い雄しべ。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0125",
@@ -7433,7 +7571,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い五弁花と若葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い五弁花と若葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0126",
@@ -7484,7 +7628,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。枝に咲く白い花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "枝に咲く白い花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0127",
@@ -7535,7 +7685,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。葉の茂る木と白い細長い花弁の花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "葉の茂る木と白い細長い花弁の花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0128",
@@ -7586,7 +7742,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。桃色の花が茂る木。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "桃色の花が茂る木。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0129",
@@ -7637,7 +7799,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い五弁花と鋸歯葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い五弁花と鋸歯葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0130",
@@ -7688,7 +7856,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い五弁花の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い五弁花の枝。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0131",
@@ -7739,7 +7913,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。細かい淡白色の円錐花序。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "細かい淡白色の円錐花序。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0132",
@@ -7790,7 +7970,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。紫色の小花の花穂。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "紫色の小花の花穂。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0133",
@@ -7842,7 +8028,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。暗赤色の厚い花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "暗赤色の厚い花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0134",
@@ -7893,7 +8085,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。裸の枝の赤橙色の花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "裸の枝の赤橙色の花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0135",
@@ -7944,7 +8142,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。赤い細長い花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "赤い細長い花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0136",
@@ -7995,7 +8199,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。黄色い五弁花と羽状複葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "黄色い五弁花と羽状複葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0137",
@@ -8046,7 +8256,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い中心のある淡紫色の花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い中心のある淡紫色の花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0138",
@@ -8097,7 +8313,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。低く広がる枝の紫色の花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "低く広がる枝の紫色の花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0139",
@@ -8138,17 +8360,22 @@
                                     "https://en.wikipedia.org/wiki/Hamamelis_virginiana",
                                     "https://www.inaturalist.org/taxa/51970"
                                 ],
-        "image":  {
-                      "author":  "no rights reserved",
-                      "license":  "CC0",
-                      "source_url":  "https://www.inaturalist.org/photos/735096125",
-                      "image_path":  "images/0101_0150/flower_tree_0139.jpg"
-                  },
+        "image":  {"author": "(c) Alex Abair, some rights reserved (CC BY)", "license": "CC BY 4.0", "source_url": "https://www.inaturalist.org/photos/576166558", "image_path": "images/0101_0150/flower_tree_0139.jpg", "license_url": "https://creativecommons.org/licenses/by/4.0/", "observation_url": "https://www.inaturalist.org/observations/318776662", "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"},
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。黄色いリボン状の花弁と木質の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は葉だけで花が写らないのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Hamamelis virginiana、research。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "黄色いリボン状の花弁と木質の枝。花または花として目立つ苞・総苞が見える。",
+      "image_review_previous_note": "",
+      "image_review_note": "2026-10-11 サムネイルを目視。黄色いリボン状の花弁と木質の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は葉だけで花が写らないのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Hamamelis virginiana、research。",
+      "image_review_status": "明らかな不一致なし",
+      "needs_manual_image_review": false
     },
     {
         "id":  "flower_tree_0140",
@@ -8199,7 +8426,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。赤い細裂花弁と長い雄しべの柱。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "赤い細裂花弁と長い雄しべの柱。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0141",
@@ -8250,7 +8483,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。採用画像は淡色の八重咲きの栽培型で、野生型の赤い一重花とは区別。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。採用画像は淡色の八重咲きの栽培型で、野生型の赤い一重花とは区別。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。淡桃白色の多弁のツバキ状の花、園芸形の特定は未確定。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "淡桃白色の多弁のツバキ状の花、園芸形の特定は未確定。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0142",
@@ -8291,17 +8530,22 @@
                                     "https://mikawanoyasou.org/data/hiiraginanten.htm",
                                     "https://www.inaturalist.org/taxa/857208"
                                 ],
-        "image":  {
-                      "author":  "(c) Timur Kalininsky, some rights reserved (CC BY)",
-                      "license":  "CC-BY",
-                      "source_url":  "https://www.inaturalist.org/photos/698678320",
-                      "image_path":  "images/0101_0150/flower_tree_0142.jpg"
-                  },
+        "image":  {"author": "no rights reserved", "license": "CC0 1.0", "source_url": "https://www.inaturalist.org/photos/354006817", "image_path": "images/0101_0150/flower_tree_0142.jpg", "license_url": "https://creativecommons.org/publicdomain/zero/1.0/", "observation_url": "https://www.inaturalist.org/observations/200628327", "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"},
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  true,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。黄色い花房と棘のある複葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は葉だけで花が写らないのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Berberis japonica、research。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "黄色い花房と棘のある複葉。花または花として目立つ苞・総苞が見える。",
+      "image_review_previous_note": "",
+      "image_review_note": "2026-10-11 サムネイルを目視。黄色い花房と棘のある複葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は葉だけで花が写らないのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Berberis japonica、research。",
+      "image_review_status": "明らかな不一致なし",
+      "needs_manual_image_review": false
     },
     {
         "id":  "flower_tree_0143",
@@ -8353,7 +8597,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。紫色の花が茂る低木。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "紫色の花が茂る低木。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0144",
@@ -8405,7 +8655,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い小花と密な葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い小花と密な葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0145",
@@ -8456,7 +8712,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。黄色い球状花序と細かい複葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "黄色い球状花序と細かい複葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0146",
@@ -8507,7 +8769,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。空を背景にした赤い花の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "空を背景にした赤い花の枝。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0147",
@@ -8560,7 +8828,13 @@
         "content_status":  "完成",
         "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。 / 2026-10-09 再確認。建物の遠景から、橙赤色の花と羽状複葉が見える写真へ差替え。出典のResearch Grade観察はSpathodea campanulata。",
         "needs_manual_image_review":  false,
-        "image_review_note":  "2026-10-09 再確認。建物の遠景から、橙赤色の花と羽状複葉が見える写真へ差替え。出典のResearch Grade観察はSpathodea campanulata。"
+        "image_review_note":  "2026-10-09 再確認。建物の遠景から、橙赤色の花と羽状複葉が見える写真へ差替え。出典のResearch Grade観察はSpathodea campanulata。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。橙色の大きな筒状花と複葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "橙色の大きな筒状花と複葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0148",
@@ -8611,7 +8885,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。斑点のある淡黄色の花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "斑点のある淡黄色の花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0149",
@@ -8663,7 +8943,13 @@
         "taxon_lookup_error":  "",
         "content_status":  "完成",
         "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
-        "needs_manual_category_review":  true
+        "needs_manual_category_review":  true,
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。低く広がる青い花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "低く広がる青い花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0150",
@@ -8705,17 +8991,22 @@
                                     "https://mikawanoyasou.org/data/oubai.htm",
                                     "https://www.inaturalist.org/taxa/164232"
                                 ],
-        "image":  {
-                      "author":  "(c) 振远 王, some rights reserved (CC BY)",
-                      "license":  "CC-BY",
-                      "source_url":  "https://www.inaturalist.org/photos/716025931",
-                      "image_path":  "images/0101_0150/flower_tree_0150.jpg"
-                  },
+        "image":  {"author": "(c) Andrew Fielding, some rights reserved (CC BY)", "license": "CC BY 4.0", "source_url": "https://www.inaturalist.org/photos/613606349", "image_path": "images/0101_0150/flower_tree_0150.jpg", "license_url": "https://creativecommons.org/licenses/by/4.0/", "observation_url": "https://www.inaturalist.org/observations/337529281", "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"},
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。緑の枝についた黄色い開花した花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は花が小さくサムネイルで分かりにくいのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Jasminum nudiflorum、research。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "緑の枝についた黄色い開花した花。花または花として目立つ苞・総苞が見える。",
+      "image_review_previous_note": "",
+      "image_review_note": "2026-10-11 サムネイルを目視。緑の枝についた黄色い開花した花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は花が小さくサムネイルで分かりにくいのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Jasminum nudiflorum、research。",
+      "image_review_status": "明らかな不一致なし",
+      "needs_manual_image_review": false
     },
     {
         "id":  "flower_tree_0151",
@@ -8766,7 +9057,13 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。淡白色の長い雄しべが目立つ花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "淡白色の長い雄しべが目立つ花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0152",
@@ -8816,7 +9113,13 @@
         "feature_summary":  "角張った長い枝がしだれ、春に黄色の花を咲かせる。",
         "trivia":  "別名はオウバイモドキ。落葉するオウバイと区別される。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。黄色い花と緑の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "黄色い花と緑の枝。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0153",
@@ -8866,7 +9169,13 @@
         "feature_summary":  "朱赤色の漏斗形の花をつけ、上側の花弁に濃い斑点がある。",
         "trivia":  "春に出る葉と、冬を越す小さな夏葉がある。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。林内の橙色の花が茂る低木。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "林内の橙色の花が茂る低木。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0154",
@@ -8918,7 +9227,13 @@
         "feature_summary":  "淡紅紫色の大きな花をつけ、花柄や萼の腺毛が粘る。",
         "trivia":  "イワツツジ、ネバツツジとも呼ばれ、ヤマツツジとの自然交雑も知られる。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。桃紫色の長い筒状花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "桃紫色の長い筒状花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0155",
@@ -8969,7 +9284,13 @@
         "feature_summary":  "垂れ下がる小さな釣鐘形の花に、赤い縦筋が入る。",
         "trivia":  "フウリンツツジという別名がある。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。桃色の鐘形花の房。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "桃色の鐘形花の房。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0156",
@@ -9019,7 +9340,13 @@
         "feature_summary":  "枝がしだれ、壺形の小さな花を咲かせる。",
         "trivia":  "斑入り葉の園芸品種があり、地面を覆う植栽にも使われる。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。小さな白い鐘形花と細長い葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "小さな白い鐘形花と細長い葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0157",
@@ -9069,7 +9396,13 @@
         "feature_summary":  "若い枝や冬芽が赤く、幹や樹皮の裂け目がねじれる。",
         "trivia":  "ねじれた幹や樹皮が名前の由来とされる。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。小枝に並ぶ白い鐘形花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "小枝に並ぶ白い鐘形花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0158",
@@ -9119,7 +9452,13 @@
         "feature_summary":  "低く茂るツツジ科の低木。花色などは園芸品種ごとの確認が必要。",
         "trivia":  "カルーナ属の種として分類される。園芸品種を区別して扱う。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。細い枝の桃色の小花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "細い枝の桃色の小花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0159",
@@ -9169,7 +9508,13 @@
         "feature_summary":  "山地で見られるタニウツギ属の木で、淡紅色の花を咲かせる。",
         "trivia":  "ハコネウツギのように花色が白から赤へ変わるものと区別する。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。淡桃色の筒状花の房。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "淡桃色の筒状花の房。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0160",
@@ -9219,7 +9564,13 @@
         "feature_summary":  "海岸の砂浜で低く広がり、青紫系の花をつける。",
         "trivia":  "海岸に生えるハマゴウと、直立するミツバハマゴウを区別する。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。紫色の花と丸い灰緑色の葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "紫色の花と丸い灰緑色の葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0161",
@@ -9270,7 +9621,13 @@
         "feature_summary":  "枝が密に茂り、初めから濃紅色の花をつける。",
         "trivia":  "葉の裏や枝に毛が多く、ケウツギとも呼ばれる。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。暗桃色の筒状花と葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "暗桃色の筒状花と葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0162",
@@ -9321,7 +9678,13 @@
         "feature_summary":  "枝先に漏斗形の花をつけ、果実の先に萼が残る。",
         "trivia":  "果実に残る萼が羽根つきの羽根を連想させるウツギ類。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。内側に黄色い模様のある淡色の筒状花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "内側に黄色い模様のある淡色の筒状花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0163",
@@ -9371,7 +9734,13 @@
         "feature_summary":  "ツクバネウツギ属の小型の木。花や萼の詳細は参照資料で確認する。",
         "trivia":  "旧Abelia属として記載されることがあり、現在の参照分類はDiabelia属。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。内側に黄色い模様のある淡色の漏斗形花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "内側に黄色い模様のある淡色の漏斗形花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0164",
@@ -9422,7 +9791,13 @@
         "feature_summary":  "比較的丸みのある葉をもち、白い花を咲かせる。",
         "trivia":  "ウツギより葉が丸いことが和名の由来とされる。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い多弁の花と広い葉、園芸形の特定は未確定。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い多弁の花と広い葉、園芸形の特定は未確定。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0165",
@@ -9472,7 +9847,13 @@
         "feature_summary":  "背丈の低いウツギ類で、春に白い花を咲かせる。",
         "trivia":  "和名の「ヒメ」は小型であることを表す。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い五弁花の花房。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い五弁花の花房。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0166",
@@ -9522,7 +9903,13 @@
         "feature_summary":  "つやのある対生葉をもち、小さな両性花と白い装飾花が混じる。",
         "trivia":  "花びらのように目立つ部分は装飾花の萼。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い装飾花と中心の小花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い装飾花と中心の小花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0167",
@@ -9573,7 +9960,13 @@
         "feature_summary":  "つやのある葉をもち、白い装飾花を花序の外側につける。",
         "trivia":  "コンテリギという別名がある。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い装飾花をつけた枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い装飾花をつけた枝。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0168",
@@ -9623,7 +10016,13 @@
         "feature_summary":  "丸みのある葉をもち、白い小花を枝先にまとめて咲かせる。",
         "trivia":  "葉の丸い形が和名の「マルバ」に対応する。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。丸い白い小花の花房。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "丸い白い小花の花房。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0169",
@@ -9673,7 +10072,13 @@
         "feature_summary":  "淡紅色の小花が密に集まり、長い花穂をつくる。",
         "trivia":  "花穂の形から「穂咲」と名付けられた。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。細長い桃色の花穂。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "細長い桃色の花穂。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0170",
@@ -9725,7 +10130,13 @@
         "feature_summary":  "枝先に白い五弁花がまとまって咲く。葉先付近に少数の鋸歯がある。",
         "trivia":  "岩場で見られ、園芸植物としても栽培される。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。丸く集まる白い小花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "丸く集まる白い小花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0171",
@@ -9775,7 +10186,13 @@
         "feature_summary":  "葉先が三つに裂け、散房状の花序に白い花をつける。",
         "trivia":  "本項の参照種はアムール地域などに分布するP. amurensis。園芸流通名との対応は要確認。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い球状の花房が茂る枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い球状の花房が茂る枝。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0172",
@@ -9825,7 +10242,13 @@
         "feature_summary":  "幹が立ち上がり、通常は三枚の小葉からなる葉と淡紫色の花をつける。",
         "trivia":  "タチハマゴウとも呼ばれ、地をはうハマゴウと区別される。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。淡紫色の花と灰緑色の葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "淡紫色の花と灰緑色の葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0173",
@@ -9875,7 +10298,13 @@
         "feature_summary":  "対生する葉をもち、白い小花が散房状に集まる。",
         "trivia":  "ガマズミ類の中では比較的高い場所にも生える。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い平たい花房としわのある葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い平たい花房としわのある葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0174",
@@ -9925,7 +10354,13 @@
         "feature_summary":  "小さめの対生葉と白い花群をもち、葉柄の基部に托葉がある。",
         "trivia":  "托葉や葉の毛が、似たオトコヨウゾメなどを見分ける手がかりになる。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い花房と鋸歯のある葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い花房と鋸歯のある葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0175",
@@ -9976,7 +10411,13 @@
         "feature_summary":  "大きめの対生葉と白い花序をもち、果実は赤色から黒色へ熟す。",
         "trivia":  "ゴマキという別名がある。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い小花と緑のつぼみ等の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い小花と緑のつぼみ等の枝。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0176",
@@ -10026,7 +10467,13 @@
         "feature_summary":  "細い花柄に白い小花をまばらにつけ、秋に赤い実がなる。",
         "trivia":  "葉が乾くと黒くなる特徴がある。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。垂れた白い小さな花房。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "垂れた白い小さな花房。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0177",
@@ -10076,7 +10523,13 @@
         "feature_summary":  "白い花の外側が桃色を帯び、細長い花筒と芳香がある。",
         "trivia":  "チュウゴクガマズミとも呼ばれ、オオチョウジガマズミの変種として扱われる。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白桃色の球状の花房。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白桃色の球状の花房。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0178",
@@ -10126,7 +10579,13 @@
         "feature_summary":  "若い枝に黒い斑があり、枝葉に香りがある。葉の展開と同時に開花する。",
         "trivia":  "枝は和菓子に添える高級な楊枝の材料に使われる。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。若葉と淡黄色の小花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "若葉と淡黄色の小花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0179",
@@ -10176,7 +10635,13 @@
         "feature_summary":  "葉が開く前後に、小さな黄色の花がまとまって咲く。",
         "trivia":  "雌雄別株で、花芽は葉芽の両側につく。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。裸の枝の黄緑色の小花の集まり。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "裸の枝の黄緑色の小花の集まり。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0180",
@@ -10228,7 +10693,13 @@
         "feature_summary":  "葉先が浅く三つに分かれ、展葉前に黄色の花を咲かせる。",
         "trivia":  "ウコンバナ、シロヂシャという別名がある。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。裸の枝の黄色い花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "裸の枝の黄色い花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0181",
@@ -10278,7 +10749,13 @@
         "feature_summary":  "革質の葉をもち、白色〜淡紅色の花の内側に薄緑の斑点がある。",
         "trivia":  "高山の厳しい環境では、低い樹形になることがある。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い大きな花と常緑葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い大きな花と常緑葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0182",
@@ -10328,7 +10805,13 @@
         "feature_summary":  "葉の基部が細長くなり、淡黄色の花と秋の赤い果実をつける。",
         "trivia":  "種子の模様もクロモジ類を見分ける手がかりになる。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。新芽のそばの黄色い小花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "新芽のそばの黄色い小花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0183",
@@ -10378,7 +10861,13 @@
         "feature_summary":  "羽状複葉をもち、春に細い花弁の白い小花を多数つける。",
         "trivia":  "材は野球用バットや家具・器具などに利用される。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い細長い花弁の花房と複葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い細長い花弁の花房と複葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0184",
@@ -10430,7 +10919,13 @@
         "feature_summary":  "羽状複葉の小葉に鋸歯が少なく、白い小花をまとめて咲かせる。",
         "trivia":  "「マルバ」は葉形よりも、葉縁に鋸歯がほとんどないことに関係する。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い細かい花の房と葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い細かい花の房と葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0185",
@@ -10481,7 +10976,13 @@
         "feature_summary":  "カエデ属の木で、春の花と秋の葉色が観察対象になる。",
         "trivia":  "ハナカエデという別名がある。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。多数の小さな赤い花のある裸の枝、花の細部の同定は未確定。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "多数の小さな赤い花のある裸の枝、花の細部の同定は未確定。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0186",
@@ -10519,12 +11020,7 @@
                                     "https://mikawanoyasou.org/data/sikimi.htm",
                                     "https://www.inaturalist.org/taxa/447191"
                                 ],
-        "image":  {
-                      "author":  "(c) Grey Smith, some rights reserved (CC BY)",
-                      "license":  "CC-BY",
-                      "source_url":  "https://www.inaturalist.org/photos/569130530",
-                      "image_path":  "images/0151_0200/flower_tree_0186.jpg"
-                  },
+        "image":  {"author": "(c) 謝麗霦, some rights reserved (CC BY)", "license": "CC BY 4.0", "source_url": "https://www.inaturalist.org/photos/629584154", "image_path": "images/0151_0200/flower_tree_0186.jpg", "license_url": "https://creativecommons.org/licenses/by/4.0/", "observation_url": "https://www.inaturalist.org/observations/345461836", "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"},
         "content_status":  "完成",
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
@@ -10533,7 +11029,17 @@
         "feature_summary":  "光沢のある葉と、細い花被片を多数もつ淡黄白色の花をつける。",
         "trivia":  "仏事に用いられる一方、全体に毒性があり、特に果実の毒性が強い。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。細長い淡白色の花弁の花と常緑葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は葉と実・つぼみが中心で開いた花が見えないのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Illicium anisatum、research。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "細長い淡白色の花弁の花と常緑葉。花または花として目立つ苞・総苞が見える。",
+      "image_review_previous_note": "",
+      "image_review_note": "2026-10-11 サムネイルを目視。細長い淡白色の花弁の花と常緑葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は葉と実・つぼみが中心で開いた花が見えないのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Illicium anisatum、research。",
+      "image_review_status": "明らかな不一致なし",
+      "needs_manual_image_review": false
     },
     {
         "id":  "flower_tree_0187",
@@ -10569,12 +11075,7 @@
                                     "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A4%E3%83%9E%E3%82%B7%E3%82%AD%E3%83%9F",
                                     "https://www.inaturalist.org/taxa/128909"
                                 ],
-        "image":  {
-                      "author":  "no rights reserved",
-                      "license":  "CC0",
-                      "source_url":  "https://www.inaturalist.org/photos/653644232",
-                      "image_path":  "images/0151_0200/flower_tree_0187.jpg"
-                  },
+        "image":  {"author": "(c) Se Lena, some rights reserved (CC BY)", "license": "CC BY 4.0", "source_url": "https://www.inaturalist.org/photos/187447448", "image_path": "images/0151_0200/flower_tree_0187.jpg", "license_url": "https://creativecommons.org/licenses/by/4.0/", "observation_url": "https://www.inaturalist.org/observations/111070239", "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"},
         "content_status":  "完成",
         "needs_ai_summary":  false,
         "needs_manual_taxon_review":  false,
@@ -10583,7 +11084,17 @@
         "feature_summary":  "革質でつやのある葉と白い花をもち、雌株に赤い実がなる。",
         "trivia":  "名前はシキミに似ることによるが、こちらはミカン科。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い開花中の小花の房と常緑葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は花の終わりで花房の姿が分かりにくい。開花中の写真を優先のため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Skimmia japonica、research。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い開花中の小花の房と常緑葉。花または花として目立つ苞・総苞が見える。",
+      "image_review_previous_note": "",
+      "image_review_note": "2026-10-11 サムネイルを目視。白い開花中の小花の房と常緑葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は花の終わりで花房の姿が分かりにくい。開花中の写真を優先のため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Skimmia japonica、research。",
+      "image_review_status": "明らかな不一致なし",
+      "needs_manual_image_review": false
     },
     {
         "id":  "flower_tree_0188",
@@ -10633,7 +11144,13 @@
         "feature_summary":  "大きな革質の葉と、白い小花を集めた広い花序をもつ。",
         "trivia":  "葉はカナメモチより大きくなる。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い花序と細長い葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い花序と細長い葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0189",
@@ -10683,7 +11200,13 @@
         "feature_summary":  "新しい葉が鮮やかな赤色になり、白い小花をまとめて咲かせる。",
         "trivia":  "カナメモチとオオカナメモチに由来する園芸交雑種。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い花序と赤い新葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い花序と赤い新葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0190",
@@ -10733,7 +11256,13 @@
         "feature_summary":  "革質の対生葉をもち、葉腋に香りのある小花をつける。",
         "trivia":  "モクセイという呼び名にはギンモクセイ・キンモクセイなどを含む場合がある。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。葉腋に集まる淡黄色の小花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "葉腋に集まる淡黄色の小花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0191",
@@ -10784,7 +11313,13 @@
         "feature_summary":  "白い五弁花がまとまって咲き、果実は赤く熟す。",
         "trivia":  "カマツカ類は葉形や毛に変異があり、狭義の種類と広義の総称を区別する。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い平たい花房と鋸歯葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い平たい花房と鋸歯葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0192",
@@ -10835,7 +11370,13 @@
         "feature_summary":  "白い五弁花と小さな果実をつけ、新枝の葉は切れ込むことがある。",
         "trivia":  "リンゴ栽培の初期に台木として利用された。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い五弁花の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い五弁花の枝。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0193",
@@ -10885,7 +11426,13 @@
         "feature_summary":  "細い帯状の白色〜淡黄色の花弁をもつ花を咲かせる。",
         "trivia":  "赤花のベニバナトキワマンサクとは区別して扱う。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い細長いリボン状花弁。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "白い細長いリボン状花弁。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0194",
@@ -10935,7 +11482,13 @@
         "feature_summary":  "初夏に大きな花をつけ、外側の花被片が白く、内側は淡黄色になる。",
         "trivia":  "冬に咲くロウバイとは属も異なり、こちらはクロバナロウバイ属。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。暗色の中心のある白い椀形の花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "暗色の中心のある白い椀形の花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0195",
@@ -10985,7 +11538,13 @@
         "feature_summary":  "直立する枝に、四裂する鮮黄色の花をつける。",
         "trivia":  "長い枝が下垂するレンギョウと樹形や葉などで区別する。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。枝についた黄色い四裂花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "枝についた黄色い四裂花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0196",
@@ -11035,7 +11594,13 @@
         "feature_summary":  "小さな硬い葉をもち、白い小花を咲かせる栽培木。",
         "trivia":  "斑入りや八重咲きなどの園芸品種がある。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。小さな白い五裂花と緑の葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "小さな白い五裂花と緑の葉。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0197",
@@ -11085,7 +11650,13 @@
         "feature_summary":  "黄色の花から多数の長い雄しべが広がる。",
         "trivia":  "キンシバイより雄しべが長く、花の姿も異なる。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。黄色い花と多数の長い雄しべ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "黄色い花と多数の長い雄しべ。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0198",
@@ -11135,7 +11706,13 @@
         "feature_summary":  "黄色い杯形の花をつけ、雄しべは花弁より短い。",
         "trivia":  "和名は黄色の花と多数の雄しべに関係するとされる。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。黄色い椀形の花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "黄色い椀形の花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0199",
@@ -11185,7 +11762,13 @@
         "feature_summary":  "小さな複葉をもち、夏に黄色の五弁花を咲かせる。",
         "trivia":  "亜高山〜高山の岩礫地でも見られ、白花の型は別名で呼ばれる。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。低木の黄色い五弁花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "低木の黄色い五弁花。花または花として目立つ苞・総苞が見える。"
     },
     {
         "id":  "flower_tree_0200",
@@ -11235,6 +11818,12 @@
         "feature_summary":  "北海道などの岩場に生え、春の開花後に葉が茂る。",
         "trivia":  "北海道の温根湯温泉に知られた群落がある。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08"
+        "thumbnail_review_date":  "2026-10-08",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。葉の少ない枝の桃紫色の花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "葉の少ない枝の桃紫色の花。花または花として目立つ苞・総苞が見える。"
     }
 ]

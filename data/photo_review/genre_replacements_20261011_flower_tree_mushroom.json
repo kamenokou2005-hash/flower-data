@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-11",
+  "replacements": [
+    {
+      "id": "flower_tree_0139",
+      "name": "アメリカマンサク",
+      "previous_image": {
+        "author": "no rights reserved",
+        "license": "CC0",
+        "source_url": "https://www.inaturalist.org/photos/735096125",
+        "image_path": "images/0101_0150/flower_tree_0139.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) Alex Abair, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/576166558",
+        "image_path": "images/0101_0150/flower_tree_0139.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/318776662",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"
+      },
+      "reason": "葉だけで花が写らない",
+      "note": "2026-10-11 サムネイルを目視。黄色いリボン状の花弁と木質の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は葉だけで花が写らないのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Hamamelis virginiana、research。",
+      "quality_grade": "research",
+      "image_sha256": "1567aa55d4ff131cb7cac314dbff2bd4ac6f18de9579ca18f85690912e4092da"
+    },
+    {
+      "id": "flower_tree_0142",
+      "name": "ヒイラギナンテン",
+      "previous_image": {
+        "author": "(c) Timur Kalininsky, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/698678320",
+        "image_path": "images/0101_0150/flower_tree_0142.jpg"
+      },
+      "replacement_image": {
+        "author": "no rights reserved",
+        "license": "CC0 1.0",
+        "source_url": "https://www.inaturalist.org/photos/354006817",
+        "image_path": "images/0101_0150/flower_tree_0142.jpg",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "observation_url": "https://www.inaturalist.org/observations/200628327",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"
+      },
+      "reason": "葉だけで花が写らない",
+      "note": "2026-10-11 サムネイルを目視。黄色い花房と棘のある複葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は葉だけで花が写らないのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Berberis japonica、research。",
+      "quality_grade": "research",
+      "image_sha256": "c7659cf49d9df7cd3baef22ab49231c130c215be1bba7b56dceb7e55194c3664"
+    },
+    {
+      "id": "flower_tree_0150",
+      "name": "オウバイ",
+      "previous_image": {
+        "author": "(c) 振远 王, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/716025931",
+        "image_path": "images/0101_0150/flower_tree_0150.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) Andrew Fielding, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/613606349",
+        "image_path": "images/0101_0150/flower_tree_0150.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/337529281",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"
+      },
+      "reason": "花が小さくサムネイルで分かりにくい",
+      "note": "2026-10-11 サムネイルを目視。緑の枝についた黄色い開花した花。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は花が小さくサムネイルで分かりにくいのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Jasminum nudiflorum、research。",
+      "quality_grade": "research",
+      "image_sha256": "7ef083beaf4c2db98e8672cd9b156bf2da7c2ce4cf0f43cd32319d7ec65c11ef"
+    },
+    {
+      "id": "flower_tree_0186",
+      "name": "シキミ",
+      "previous_image": {
+        "author": "(c) Grey Smith, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/569130530",
+        "image_path": "images/0151_0200/flower_tree_0186.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) 謝麗霦, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/629584154",
+        "image_path": "images/0151_0200/flower_tree_0186.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/345461836",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"
+      },
+      "reason": "葉と実・つぼみが中心で開いた花が見えない",
+      "note": "2026-10-11 サムネイルを目視。細長い淡白色の花弁の花と常緑葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は葉と実・つぼみが中心で開いた花が見えないのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Illicium anisatum、research。",
+      "quality_grade": "research",
+      "image_sha256": "7b3d28f40d7df05752ec6daa30a0fa4eb4050837fb6277dd2f399d1d545d28d1"
+    },
+    {
+      "id": "flower_tree_0187",
+      "name": "ミヤマシキミ",
+      "previous_image": {
+        "author": "no rights reserved",
+        "license": "CC0",
+        "source_url": "https://www.inaturalist.org/photos/653644232",
+        "image_path": "images/0151_0200/flower_tree_0187.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) Se Lena, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/187447448",
+        "image_path": "images/0151_0200/flower_tree_0187.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/111070239",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"
+      },
+      "reason": "花の終わりで花房の姿が分かりにくい。開花中の写真を優先",
+      "note": "2026-10-11 サムネイルを目視。白い開花中の小花の房と常緑葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は花の終わりで花房の姿が分かりにくい。開花中の写真を優先のため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Skimmia japonica、research。",
+      "quality_grade": "research",
+      "image_sha256": "288cb051b82cfbb6dc0ef007a11583e47194681523f06a6cf5c283157ec0ef16"
+    },
+    {
+      "id": "mushroom_0020",
+      "name": "コキララタケ",
+      "previous_image": {
+        "author": "(c) Dan Riley, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/745767260",
+        "image_path": "images/0001_0050/mushroom_0020.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/6824102",
+        "image_path": "images/0001_0050/mushroom_0020.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/5530524",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"
+      },
+      "reason": "菌糸状の部分だけで子実体が写らない",
+      "note": "2026-10-11 サムネイルを目視。木や草のそばの条線のある褐色の傘と淡色の柄。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は菌糸状の部分だけで子実体が写らないのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Coprinellus domesticus、research。",
+      "quality_grade": "research",
+      "image_sha256": "15b5b3d448e7a6527aa6dfe0e30f2f6ef7a5b3e517c32ee45f6f0da22b70689b"
+    }
+  ]
+}
