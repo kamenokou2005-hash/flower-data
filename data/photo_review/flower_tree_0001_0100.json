@@ -1,0 +1,1014 @@
+{
+  "date": "2026-10-10",
+  "summary": {
+    "reviewed": 100,
+    "accepted": 100,
+    "pending": 0,
+    "replaced_images": 0,
+    "errors": 0
+  },
+  "criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+  "limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
+  "items": [
+    {
+      "category": "花の木",
+      "id": "flower_tree_0001",
+      "name": "あじさい",
+      "scientific_name": "Hydrangea spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。青い球状の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hydrangea,_Tenn%C5%8Dji,_Osaka.jpg",
+      "image_path": "images/0001_0050/flower_tree_0001.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0002",
+      "name": "ガクアジサイ",
+      "scientific_name": "Hydrangea macrophylla",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。中心の小花と周囲の大きな装飾花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hydrangea_macrophylla_Japon.jpg",
+      "image_path": "images/0001_0050/flower_tree_0002.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0003",
+      "name": "ヤマアジサイ",
+      "scientific_name": "Hydrangea serrata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。青い小花と白い装飾花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Laitche-P006.jpg",
+      "image_path": "images/0001_0050/flower_tree_0003.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0004",
+      "name": "アナベル",
+      "scientific_name": "Hydrangea arborescens 'Annabelle'",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い球状の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hydrangea_arborescens_%27Annabelle%27_%28Tsukuba_Botanical_Garden%29.jpg",
+      "image_path": "images/0001_0050/flower_tree_0004.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0005",
+      "name": "サクラ（ソメイヨシノ）",
+      "scientific_name": "Prunus × yedoensis 'Somei-yoshino'",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡色の桜の花と樹姿。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Yoshino_cherry_%E3%82%BD%E3%83%A1%E3%82%A4%E3%83%A8%E3%82%B7%E3%83%8E.jpg",
+      "image_path": "images/0001_0050/flower_tree_0005.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0006",
+      "name": "ヤエザクラ",
+      "scientific_name": "Prunus spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の八重花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Yaezakura_%2853667482116%29.jpg",
+      "image_path": "images/0001_0050/flower_tree_0006.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0007",
+      "name": "シダレザクラ",
+      "scientific_name": "Prunus spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。垂れる枝と淡色の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cerasus_spachiana_at_Ono-dera_01.jpg",
+      "image_path": "images/0001_0050/flower_tree_0007.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0008",
+      "name": "カワヅザクラ",
+      "scientific_name": "Prunus 'Kawazu-zakura'",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の桜の花と樹姿。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kawazu-zakura3.jpg",
+      "image_path": "images/0001_0050/flower_tree_0008.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0009",
+      "name": "ウメ",
+      "scientific_name": "Prunus mume",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い五弁花と赤い萼。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Prunus_mume.JPG",
+      "image_path": "images/0001_0050/flower_tree_0009.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0010",
+      "name": "モモ",
+      "scientific_name": "Prunus persica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の花の咲く樹列。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Prunus_persica12.jpg",
+      "image_path": "images/0001_0050/flower_tree_0010.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0011",
+      "name": "ハナモモ",
+      "scientific_name": "Prunus persica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の八重花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Prunus_persica%EF%BC%88%E8%8A%B1%E6%A1%83%EF%BC%894035837.JPG",
+      "image_path": "images/0001_0050/flower_tree_0011.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0012",
+      "name": "ボケ",
+      "scientific_name": "Chaenomeles spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。赤い五弁花ととげのある枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chaenomeles_flowers_in_full_bloom.jpg",
+      "image_path": "images/0001_0050/flower_tree_0012.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0013",
+      "name": "ハナカイドウ",
+      "scientific_name": "Malus halliana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の花が多数咲く枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Malus_halliana3.jpg",
+      "image_path": "images/0001_0050/flower_tree_0013.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0014",
+      "name": "ツバキ",
+      "scientific_name": "Camellia spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。赤い花と厚い光沢葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Camellia_japonica_BotGardBln271207C.jpg",
+      "image_path": "images/0001_0050/flower_tree_0014.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0015",
+      "name": "サザンカ",
+      "scientific_name": "Camellia sasanqua",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。赤い花と黄色い雄しべ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Camellia_sasanqua_(flower).jpg",
+      "image_path": "images/0001_0050/flower_tree_0015.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0016",
+      "name": "ハナミズキ",
+      "scientific_name": "Cornus florida",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の四枚の苞。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Benthamidia_florida7.jpg",
+      "image_path": "images/0001_0050/flower_tree_0016.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0017",
+      "name": "ヤマボウシ",
+      "scientific_name": "Cornus kousa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い四枚の苞と広い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Yamabousi_tubomieda.jpg",
+      "image_path": "images/0001_0050/flower_tree_0017.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0018",
+      "name": "コブシ",
+      "scientific_name": "Magnolia kobus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。枝に咲く白い花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:W_kobusi5041.jpg",
+      "image_path": "images/0001_0050/flower_tree_0018.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0019",
+      "name": "モクレン",
+      "scientific_name": "Magnolia liliiflora",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。紫色の細長い花被。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Magnolia_liliiflora3.jpg",
+      "image_path": "images/0001_0050/flower_tree_0019.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0020",
+      "name": "ハクモクレン",
+      "scientific_name": "Magnolia denudata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い大きな花の咲く樹姿。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kouzouji_temple.jpg",
+      "image_path": "images/0001_0050/flower_tree_0020.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0021",
+      "name": "サラサモクレン",
+      "scientific_name": "Magnolia × soulangeana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。外が桃色の大きな花被。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Magnolia_x_soulangeana_flower.jpg",
+      "image_path": "images/0001_0050/flower_tree_0021.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0022",
+      "name": "レンギョウ",
+      "scientific_name": "Forsythia suspensa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。黄色い四裂の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:W_rengyou5041.jpg",
+      "image_path": "images/0001_0050/flower_tree_0022.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0023",
+      "name": "ユキヤナギ",
+      "scientific_name": "Spiraea thunbergii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い小花が密生する枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Spiraea_thunbergii1.jpg",
+      "image_path": "images/0001_0050/flower_tree_0023.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0024",
+      "name": "コデマリ",
+      "scientific_name": "Spiraea cantoniensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い丸い花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Spiraea_cantoniensis2.jpg",
+      "image_path": "images/0001_0050/flower_tree_0024.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0025",
+      "name": "オオデマリ",
+      "scientific_name": "Viburnum plicatum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い球状の花序と広い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Viburnum_plicatum_var_plicatum2.jpg",
+      "image_path": "images/0001_0050/flower_tree_0025.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0026",
+      "name": "ツツジ",
+      "scientific_name": "Rhododendron spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。赤白の花の群落。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Azalea_of_Maizuru.jpg",
+      "image_path": "images/0001_0050/flower_tree_0026.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0027",
+      "name": "サツキ",
+      "scientific_name": "Rhododendron spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。濃桃色の漏斗状花と小さい葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:R-indicum_satsuki_blossom.jpg",
+      "image_path": "images/0001_0050/flower_tree_0027.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0028",
+      "name": "シャクナゲ",
+      "scientific_name": "Rhododendron spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡桃色の漏斗状花のまとまり。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744046506",
+      "image_path": "images/0001_0050/flower_tree_0028.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0029",
+      "name": "アセビ",
+      "scientific_name": "Pieris japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡桃色の釣鐘形の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/690784241",
+      "image_path": "images/0001_0050/flower_tree_0029.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0030",
+      "name": "ドウダンツツジ",
+      "scientific_name": "Enkianthus perulatus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い小さな釣鐘形の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Enkianthus_perulatus2.jpg",
+      "image_path": "images/0001_0050/flower_tree_0030.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0031",
+      "name": "クチナシ",
+      "scientific_name": "Gardenia jasminoides",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い大きな花と光沢葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gardenia_jasminoides_in_Mount_Yagi_2008-06-13.jpg",
+      "image_path": "images/0001_0050/flower_tree_0031.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0032",
+      "name": "キンモクセイ",
+      "scientific_name": "Osmanthus fragrans",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。橙色の小花のまとまり。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Osmanthus_fragrans_(orange_flowers).jpg",
+      "image_path": "images/0001_0050/flower_tree_0032.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0033",
+      "name": "ギンモクセイ",
+      "scientific_name": "Osmanthus fragrans",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡黄色の小花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Osmanthus_fragrans.jpg",
+      "image_path": "images/0001_0050/flower_tree_0033.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0034",
+      "name": "ジンチョウゲ",
+      "scientific_name": "Daphne odora",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白と紫の小花のまとまり。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Daphne_odora-ja01.jpg",
+      "image_path": "images/0001_0050/flower_tree_0034.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0035",
+      "name": "ムクゲ",
+      "scientific_name": "Hibiscus syriacus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の五弁花と中央の雄しべの柱。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hibiscus_syriacus_2.jpg",
+      "image_path": "images/0001_0050/flower_tree_0035.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0036",
+      "name": "フヨウ",
+      "scientific_name": "Hibiscus mutabilis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の五弁花と大きな葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hibiscus_mutabilis.jpg",
+      "image_path": "images/0001_0050/flower_tree_0036.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0037",
+      "name": "ハイビスカス",
+      "scientific_name": "Hibiscus spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。赤い大きな花と長い雄しべの柱。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hibiskus_rosa-sinensis_-_Kwiat.JPG",
+      "image_path": "images/0001_0050/flower_tree_0037.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0038",
+      "name": "サルスベリ",
+      "scientific_name": "Lagerstroemia indica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の縮れた花弁の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flower_of_lagerstroemia_indica.jpg",
+      "image_path": "images/0001_0050/flower_tree_0038.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0039",
+      "name": "エニシダ",
+      "scientific_name": "Cytisus scoparius",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。黄色い蝶形花と細い枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cytisus_scoparius3.jpg",
+      "image_path": "images/0001_0050/flower_tree_0039.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0040",
+      "name": "ニワウメ",
+      "scientific_name": "Prunus japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡桃色の八重花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Prunus_japonica_blossom.jpg",
+      "image_path": "images/0001_0050/flower_tree_0040.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0041",
+      "name": "ニワザクラ",
+      "scientific_name": "Prunus glandulosa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い八重花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Prunus_glandulosa_for._albiplena_02.JPG",
+      "image_path": "images/0001_0050/flower_tree_0041.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0042",
+      "name": "ロウバイ",
+      "scientific_name": "Chimonanthus praecox",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡黄色の蝋質の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/609931525",
+      "image_path": "images/0001_0050/flower_tree_0042.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0043",
+      "name": "マンサク",
+      "scientific_name": "Hamamelis japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。細い黄色い帯状の花弁。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hamamelis_japonica4.jpg",
+      "image_path": "images/0001_0050/flower_tree_0043.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0044",
+      "name": "ミツマタ",
+      "scientific_name": "Edgeworthia chrysantha",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。黄色い小花が丸くまとまる花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2022-03-27_Edgeworthia_chrysantha_(flowers)_%E3%83%9F%E3%83%84%E3%83%9E%E3%82%BF_DSCF9698.jpg",
+      "image_path": "images/0001_0050/flower_tree_0044.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0045",
+      "name": "ヤマブキ",
+      "scientific_name": "Kerria japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。黄色い八重花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kerria_japonica_001_JPN.jpg",
+      "image_path": "images/0001_0050/flower_tree_0045.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0046",
+      "name": "シロヤマブキ",
+      "scientific_name": "Rhodotypos scandens",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い四弁花と鋸歯葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rhodotypos_scandens4.jpg",
+      "image_path": "images/0001_0050/flower_tree_0046.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0047",
+      "name": "ナツツバキ",
+      "scientific_name": "Stewartia pseudocamellia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い杯形の花と黄色い雄しべ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Stewartia_pseudocamellia_02.JPG",
+      "image_path": "images/0001_0050/flower_tree_0047.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0048",
+      "name": "エゴノキ",
+      "scientific_name": "Styrax japonicus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。下向きの白い花のまとまり。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Styrax_japonica2.JPG",
+      "image_path": "images/0001_0050/flower_tree_0048.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0049",
+      "name": "ボタン",
+      "scientific_name": "Paeonia spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の大きな八重花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Paeonia_suffruticosa_at_Beijing.jpg",
+      "image_path": "images/0001_0050/flower_tree_0049.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0050",
+      "name": "ランタナ",
+      "scientific_name": "Lantana camara",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。色の変わる筒状の小花のまとまり。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lantana.camara.jpg",
+      "image_path": "images/0001_0050/flower_tree_0050.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0051",
+      "name": "ルリマツリ",
+      "scientific_name": "Plumbago auriculata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡青色の五裂する花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flowers_of_Plumbago_auriculata_in_TBG.jpg",
+      "image_path": "images/0051_0100/flower_tree_0051.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0052",
+      "name": "ハナセンナ",
+      "scientific_name": "Senna corymbosa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。黄色い五弁花と複葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/471406545",
+      "image_path": "images/0051_0100/flower_tree_0052.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0053",
+      "name": "ハギ",
+      "scientific_name": "Lespedeza spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の蝶形花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/561029182",
+      "image_path": "images/0051_0100/flower_tree_0053.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0054",
+      "name": "ミヤギノハギ",
+      "scientific_name": "Lespedeza thunbergii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。紫色の蝶形花と三小葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/10277022",
+      "image_path": "images/0051_0100/flower_tree_0054.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0055",
+      "name": "シロハギ",
+      "scientific_name": "Lespedeza spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い蝶形花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%E7%99%BD%E8%8A%B1%E8%90%A9_Lespedeza_thunbergii_-%E6%97%A5%E6%9C%AC%E5%A7%AC%E8%B7%AF%E5%85%AC%E5%9C%92_Himeji,_Japan-_(9240154092).jpg",
+      "image_path": "images/0051_0100/flower_tree_0055.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0056",
+      "name": "ポインセチア",
+      "scientific_name": "Euphorbia pulcherrima",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。赤い苞と小さな花のまとまり。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/467993798",
+      "image_path": "images/0051_0100/flower_tree_0056.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0057",
+      "name": "エリカ",
+      "scientific_name": "Erica spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。細い葉と白い花および長い赤色の雄しべ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/15514158",
+      "image_path": "images/0051_0100/flower_tree_0057.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0058",
+      "name": "ジャノメエリカ",
+      "scientific_name": "Erica canaliculata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の小花と針状葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/579376",
+      "image_path": "images/0051_0100/flower_tree_0058.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0059",
+      "name": "ギョリュウバイ",
+      "scientific_name": "Leptospermum scoparium",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い五弁花と暗赤色の中心。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/57833486",
+      "image_path": "images/0051_0100/flower_tree_0059.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0060",
+      "name": "ヤマザクラ",
+      "scientific_name": "Prunus jamasakura",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡桃色の桜の花と樹姿。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/1689626",
+      "image_path": "images/0051_0100/flower_tree_0060.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0061",
+      "name": "オオシマザクラ",
+      "scientific_name": "Prunus speciosa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い桜の花と葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/34786174",
+      "image_path": "images/0051_0100/flower_tree_0061.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0062",
+      "name": "エドヒガン",
+      "scientific_name": "Prunus itosakura",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡桃色の桜の花とつぼみ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cerasus_spachiana_-_Flickr_-_odako1.jpg",
+      "image_path": "images/0051_0100/flower_tree_0062.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0063",
+      "name": "カンヒザクラ",
+      "scientific_name": "Prunus campanulata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。濃桃色の下向きの釣鐘形の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/348834748",
+      "image_path": "images/0051_0100/flower_tree_0063.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0064",
+      "name": "フユザクラ",
+      "scientific_name": "Prunus × parvifolia 'Fuyu-zakura'",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡色の桜の花と枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kobazakura_P042_6.jpg",
+      "image_path": "images/0051_0100/flower_tree_0064.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0065",
+      "name": "サンシュユ",
+      "scientific_name": "Cornus officinalis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。枝に付く黄色い小花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/620509546",
+      "image_path": "images/0051_0100/flower_tree_0065.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0066",
+      "name": "タイサンボク",
+      "scientific_name": "Magnolia grandiflora",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い大きな杯状花と厚い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/250285504",
+      "image_path": "images/0051_0100/flower_tree_0066.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0067",
+      "name": "ホオノキ",
+      "scientific_name": "Magnolia obovata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。大きな葉と淡色の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/126641840",
+      "image_path": "images/0051_0100/flower_tree_0067.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0068",
+      "name": "ヒメシャラ",
+      "scientific_name": "Stewartia monadelpha",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い花と細かい鋸歯葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Stewartia_monadelpha_(flower_s2).jpg",
+      "image_path": "images/0051_0100/flower_tree_0068.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0069",
+      "name": "ライラック",
+      "scientific_name": "Syringa vulgaris",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡紫色の小花の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/18059699",
+      "image_path": "images/0051_0100/flower_tree_0069.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0070",
+      "name": "ハナズオウ",
+      "scientific_name": "Cercis chinensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。枝に直接咲く赤紫色の蝶形花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/106914333",
+      "image_path": "images/0051_0100/flower_tree_0070.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0071",
+      "name": "ミモザ（ギンヨウアカシア）",
+      "scientific_name": "Acacia baileyana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。黄色い球状の花と細かい複葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/553205311",
+      "image_path": "images/0051_0100/flower_tree_0071.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0072",
+      "name": "ネムノキ",
+      "scientific_name": "Albizia julibrissin",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。長い桃色の雄しべの花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/146757188",
+      "image_path": "images/0051_0100/flower_tree_0072.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0073",
+      "name": "キリ",
+      "scientific_name": "Paulownia tomentosa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。紫色の筒状花と毛のある萼。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/68488461",
+      "image_path": "images/0051_0100/flower_tree_0073.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0074",
+      "name": "ハリエンジュ",
+      "scientific_name": "Robinia pseudoacacia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い蝶形花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/80871679",
+      "image_path": "images/0051_0100/flower_tree_0074.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0075",
+      "name": "ヒトツバタゴ（ナンジャモンジャ）",
+      "scientific_name": "Chionanthus retusus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。細長い白い花弁の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/33354488",
+      "image_path": "images/0051_0100/flower_tree_0075.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0076",
+      "name": "ハクウンボク",
+      "scientific_name": "Styrax obassia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。大きな葉と垂れる白い花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/383205222",
+      "image_path": "images/0051_0100/flower_tree_0076.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0077",
+      "name": "ヤブデマリ",
+      "scientific_name": "Viburnum plicatum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い装飾花と小さい花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Viburnum_plicatum_Tomentosum_JPG1a.jpg",
+      "image_path": "images/0051_0100/flower_tree_0077.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0078",
+      "name": "オオカメノキ（ムシカリ）",
+      "scientific_name": "Viburnum furcatum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い装飾花と丸い広葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/7752980",
+      "image_path": "images/0051_0100/flower_tree_0078.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0079",
+      "name": "シャリンバイ",
+      "scientific_name": "Rhaphiolepis spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い小花と厚い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/575797625",
+      "image_path": "images/0051_0100/flower_tree_0079.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0080",
+      "name": "クサギ",
+      "scientific_name": "Clerodendrum trichotomum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い花と長い雄しべ。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/417396677",
+      "image_path": "images/0051_0100/flower_tree_0080.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0081",
+      "name": "キョウチクトウ",
+      "scientific_name": "Nerium oleander",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。細長い葉と桃色の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/416812964",
+      "image_path": "images/0051_0100/flower_tree_0081.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0082",
+      "name": "ブラシノキ（カリステモン）",
+      "scientific_name": "Melaleuca spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。赤いブラシ状の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/700497826",
+      "image_path": "images/0051_0100/flower_tree_0082.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0083",
+      "name": "ブッドレア",
+      "scientific_name": "Buddleja spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の小花の長い花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/461179174",
+      "image_path": "images/0051_0100/flower_tree_0083.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0084",
+      "name": "アベリア",
+      "scientific_name": "Abelia × grandiflora",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡桃白色の筒状花と赤い萼。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/119229249",
+      "image_path": "images/0051_0100/flower_tree_0084.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0085",
+      "name": "ハコネウツギ",
+      "scientific_name": "Weigela coraeensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。赤白の筒状花と鋸歯葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/386406831",
+      "image_path": "images/0051_0100/flower_tree_0085.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0086",
+      "name": "ウツギ",
+      "scientific_name": "Deutzia crenata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い八重花の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/3869506",
+      "image_path": "images/0051_0100/flower_tree_0086.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0087",
+      "name": "バイカウツギ",
+      "scientific_name": "Philadelphus satsumi",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い四弁花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/43231381",
+      "image_path": "images/0051_0100/flower_tree_0087.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0088",
+      "name": "シモツケ",
+      "scientific_name": "Spiraea japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の小花のまとまる花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/524079302",
+      "image_path": "images/0051_0100/flower_tree_0088.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0089",
+      "name": "ハマナス",
+      "scientific_name": "Rosa rugosa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。赤紫色の花としわの目立つ葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/79410526",
+      "image_path": "images/0051_0100/flower_tree_0089.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0090",
+      "name": "バラ",
+      "scientific_name": "Rosa spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。桃色の八重のバラの花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/201980712",
+      "image_path": "images/0051_0100/flower_tree_0090.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0091",
+      "name": "モッコウバラ",
+      "scientific_name": "Rosa banksiae",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。黄色い小型の八重花の房。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/167472852",
+      "image_path": "images/0051_0100/flower_tree_0091.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0092",
+      "name": "ノイバラ",
+      "scientific_name": "Rosa multiflora",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い花の房と複葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/252786276",
+      "image_path": "images/0051_0100/flower_tree_0092.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0093",
+      "name": "レンゲツツジ",
+      "scientific_name": "Rhododendron molle subsp. japonicum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。橙色の漏斗状花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%28Rhododendron_japonicum_close-up_in_Ryuzu_Falls%2C_Japan%29_-_DPLA_-_7dd9edd97a04d0b2bfe18e57d07fe6ed.jpg",
+      "image_path": "images/0051_0100/flower_tree_0093.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0094",
+      "name": "ミツバツツジ",
+      "scientific_name": "Rhododendron dilatatum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。紫色の漏斗状花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/7385223",
+      "image_path": "images/0051_0100/flower_tree_0094.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0095",
+      "name": "カルミア",
+      "scientific_name": "Kalmia spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い杯状の小花のまとまり。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/395501030",
+      "image_path": "images/0051_0100/flower_tree_0095.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0096",
+      "name": "カシワバアジサイ",
+      "scientific_name": "Hydrangea quercifolia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い装飾花と深く裂けた葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/73031980",
+      "image_path": "images/0051_0100/flower_tree_0096.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0097",
+      "name": "ノリウツギ",
+      "scientific_name": "Hydrangea paniculata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。円錐状の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/223392227",
+      "image_path": "images/0051_0100/flower_tree_0097.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0098",
+      "name": "タマアジサイ",
+      "scientific_name": "Hydrangea involucrata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡紫色の小花と白い装飾花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/10171310",
+      "image_path": "images/0051_0100/flower_tree_0098.jpeg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0099",
+      "name": "ニオイバンマツリ",
+      "scientific_name": "Brunfelsia australis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。紫色と白色の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/1537983",
+      "image_path": "images/0051_0100/flower_tree_0099.jpg"
+    },
+    {
+      "category": "花の木",
+      "id": "flower_tree_0100",
+      "name": "デュランタ",
+      "scientific_name": "Duranta spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。紫色の小花の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/515847013",
+      "image_path": "images/0051_0100/flower_tree_0100.jpg"
+    }
+  ]
+}

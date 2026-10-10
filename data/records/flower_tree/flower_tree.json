@@ -50,7 +50,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。青い球状の花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0002",
@@ -101,7 +106,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。中心の小花と周囲の大きな装飾花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0003",
@@ -152,7 +162,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。青い小花と白い装飾花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0004",
@@ -203,7 +218,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い球状の花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0005",
@@ -254,7 +274,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。淡色の桜の花と樹姿。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0006",
@@ -305,7 +330,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。桃色の八重花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0007",
@@ -356,7 +386,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。垂れる枝と淡色の花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0008",
@@ -407,7 +442,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。桃色の桜の花と樹姿。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0009",
@@ -458,7 +498,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い五弁花と赤い萼。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0010",
@@ -509,7 +554,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。桃色の花の咲く樹列。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0011",
@@ -560,7 +610,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。桃色の八重花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0012",
@@ -611,7 +666,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。赤い五弁花ととげのある枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0013",
@@ -662,7 +722,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。桃色の花が多数咲く枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0014",
@@ -713,7 +778,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。赤い花と厚い光沢葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0015",
@@ -764,7 +834,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。赤い花と黄色い雄しべ。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0016",
@@ -815,7 +890,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。桃色の四枚の苞。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0017",
@@ -866,7 +946,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い四枚の苞と広い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0018",
@@ -917,7 +1002,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。枝に咲く白い花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0019",
@@ -968,7 +1058,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。紫色の細長い花被。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0020",
@@ -1019,7 +1114,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い大きな花の咲く樹姿。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0021",
@@ -1070,7 +1170,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。外が桃色の大きな花被。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0022",
@@ -1121,7 +1226,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。黄色い四裂の花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0023",
@@ -1172,7 +1282,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い小花が密生する枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0024",
@@ -1223,7 +1338,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い丸い花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0025",
@@ -1274,7 +1394,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い球状の花序と広い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0026",
@@ -1325,7 +1450,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。赤白の花の群落。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0027",
@@ -1376,7 +1506,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。濃桃色の漏斗状花と小さい葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0028",
@@ -1427,7 +1562,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。淡桃色の漏斗状花のまとまり。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0029",
@@ -1478,7 +1618,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。淡桃色の釣鐘形の花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0030",
@@ -1529,7 +1674,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い小さな釣鐘形の花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0031",
@@ -1580,7 +1730,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い大きな花と光沢葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0032",
@@ -1631,7 +1786,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。橙色の小花のまとまり。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0033",
@@ -1682,7 +1842,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。淡黄色の小花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0034",
@@ -1733,7 +1898,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白と紫の小花のまとまり。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0035",
@@ -1784,7 +1954,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。桃色の五弁花と中央の雄しべの柱。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0036",
@@ -1835,7 +2010,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。桃色の五弁花と大きな葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0037",
@@ -1886,7 +2066,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。赤い大きな花と長い雄しべの柱。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0038",
@@ -1937,7 +2122,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。桃色の縮れた花弁の花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0039",
@@ -1988,7 +2178,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。黄色い蝶形花と細い枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0040",
@@ -2039,7 +2234,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。淡桃色の八重花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0041",
@@ -2090,7 +2290,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い八重花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0042",
@@ -2141,7 +2346,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。淡黄色の蝋質の花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0043",
@@ -2192,7 +2402,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。細い黄色い帯状の花弁。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0044",
@@ -2243,7 +2458,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。黄色い小花が丸くまとまる花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0045",
@@ -2294,7 +2514,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。黄色い八重花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0046",
@@ -2345,7 +2570,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い四弁花と鋸歯葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0047",
@@ -2396,7 +2626,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い杯形の花と黄色い雄しべ。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0048",
@@ -2447,7 +2682,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。下向きの白い花のまとまり。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0049",
@@ -2499,7 +2739,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。桃色の大きな八重花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0050",
@@ -2552,7 +2797,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。色の変わる筒状の小花のまとまり。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0051",
@@ -2603,7 +2853,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。淡青色の五裂する花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0052",
@@ -2654,7 +2909,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。黄色い五弁花と複葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0053",
@@ -2705,7 +2965,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。桃色の蝶形花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0054",
@@ -2756,7 +3021,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。紫色の蝶形花と三小葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0055",
@@ -2810,7 +3080,12 @@
         "needs_manual_taxon_review":  true,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い蝶形花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0056",
@@ -2861,7 +3136,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。赤い苞と小さな花のまとまり。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0057",
@@ -2912,7 +3192,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。細い葉と白い花および長い赤色の雄しべ。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0058",
@@ -2963,7 +3248,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。桃色の小花と針状葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0059",
@@ -3014,7 +3304,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い五弁花と暗赤色の中心。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0060",
@@ -3065,7 +3360,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。淡桃色の桜の花と樹姿。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0061",
@@ -3116,7 +3416,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い桜の花と葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0062",
@@ -3167,7 +3472,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。淡桃色の桜の花とつぼみ。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0063",
@@ -3218,7 +3528,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。濃桃色の下向きの釣鐘形の花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0064",
@@ -3269,7 +3584,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。淡色の桜の花と枝。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0065",
@@ -3320,7 +3640,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。枝に付く黄色い小花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0066",
@@ -3371,7 +3696,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い大きな杯状花と厚い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0067",
@@ -3422,7 +3752,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。大きな葉と淡色の花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0068",
@@ -3473,7 +3808,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い花と細かい鋸歯葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0069",
@@ -3525,7 +3865,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。淡紫色の小花の花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0070",
@@ -3576,7 +3921,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。枝に直接咲く赤紫色の蝶形花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0071",
@@ -3627,7 +3977,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。黄色い球状の花と細かい複葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0072",
@@ -3678,7 +4033,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。長い桃色の雄しべの花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0073",
@@ -3729,7 +4089,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。紫色の筒状花と毛のある萼。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0074",
@@ -3781,7 +4146,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い蝶形花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0075",
@@ -3832,7 +4202,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。細長い白い花弁の花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0076",
@@ -3883,7 +4258,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。大きな葉と垂れる白い花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0077",
@@ -3934,7 +4314,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い装飾花と小さい花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0078",
@@ -3985,7 +4370,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い装飾花と丸い広葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0079",
@@ -4036,7 +4426,12 @@
         "needs_manual_taxon_review":  true,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い小花と厚い葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0080",
@@ -4087,7 +4482,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い花と長い雄しべ。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0081",
@@ -4138,7 +4538,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。細長い葉と桃色の花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0082",
@@ -4189,7 +4594,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。赤いブラシ状の花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0083",
@@ -4240,7 +4650,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。桃色の小花の長い花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0084",
@@ -4292,7 +4707,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。淡桃白色の筒状花と赤い萼。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0085",
@@ -4343,7 +4763,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。赤白の筒状花と鋸歯葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0086",
@@ -4394,7 +4819,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い八重花の花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0087",
@@ -4445,7 +4875,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い四弁花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0088",
@@ -4496,7 +4931,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。桃色の小花のまとまる花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0089",
@@ -4547,7 +4987,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。赤紫色の花としわの目立つ葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0090",
@@ -4599,8 +5044,12 @@
         "taxon_lookup_error":  "",
         "content_status":  "完成",
         "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。 / 2026-10-09 再確認。園芸バラの参考例として、開いた八重の花全体が見える写真へ差替え。Rosa属の栽培個体。品種は未確定。",
-        "image_review_note":  "2026-10-09 再確認。園芸バラの参考例として、開いた八重の花全体が見える写真へ差替え。Rosa属の栽培個体。品種は未確定。",
-        "needs_manual_image_review":  false
+        "image_review_note":  "2026-10-10 目視確認。桃色の八重のバラの花。植物名と写真に明らかな不一致なし。",
+        "needs_manual_image_review":  false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
+        "image_review_previous_note": "2026-10-09 再確認。園芸バラの参考例として、開いた八重の花全体が見える写真へ差替え。Rosa属の栽培個体。品種は未確定。"
     },
     {
         "id":  "flower_tree_0091",
@@ -4651,7 +5100,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。黄色い小型の八重花の房。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0092",
@@ -4702,7 +5156,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い花の房と複葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0093",
@@ -4753,7 +5212,12 @@
         "needs_manual_taxon_review":  true,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。橙色の漏斗状花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0094",
@@ -4804,7 +5268,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。紫色の漏斗状花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0095",
@@ -4855,7 +5324,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い杯状の小花のまとまり。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0096",
@@ -4906,7 +5380,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。白い装飾花と深く裂けた葉。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0097",
@@ -4957,7 +5436,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。円錐状の花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0098",
@@ -5008,7 +5492,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。淡紫色の小花と白い装飾花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0099",
@@ -5059,7 +5548,12 @@
         "needs_manual_taxon_review":  true,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。紫色と白色の花。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0100",
@@ -5110,7 +5604,12 @@
         "needs_manual_taxon_review":  false,
         "taxon_lookup_error":  "",
         "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。"
+        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+        "needs_manual_image_review": false,
+        "image_review_status": "明らかな不一致なし",
+        "image_review_note": "2026-10-10 目視確認。紫色の小花の花序。植物名と写真に明らかな不一致なし。",
+        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。"
     },
     {
         "id":  "flower_tree_0101",

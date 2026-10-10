@@ -1,0 +1,1014 @@
+{
+  "date": "2026-10-10",
+  "summary": {
+    "reviewed": 100,
+    "accepted": 100,
+    "pending": 0,
+    "replaced_images": 0,
+    "errors": 0
+  },
+  "criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+  "limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
+  "items": [
+    {
+      "category": "木",
+      "id": "tree_0201",
+      "name": "イヌザクラ",
+      "scientific_name": "Prunus buergeriana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い小花の穂状花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/503864509",
+      "image_path": "images/0201_0250/tree_0201.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0202",
+      "name": "ウワミズザクラ",
+      "scientific_name": "Prunus grayana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。鋸歯のある葉の枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/740128450",
+      "image_path": "images/0201_0250/tree_0202.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0203",
+      "name": "アズキナシ",
+      "scientific_name": "Alniaria alnifolia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。鋸歯葉と丸い果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744820097",
+      "image_path": "images/0201_0250/tree_0203.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0204",
+      "name": "イヌザンショウ",
+      "scientific_name": "Zanthoxylum schinifolium",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。複葉と黄緑色の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744821056",
+      "image_path": "images/0201_0250/tree_0204.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0205",
+      "name": "カラスザンショウ",
+      "scientific_name": "Zanthoxylum ailanthoides",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。羽状複葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744377713",
+      "image_path": "images/0201_0250/tree_0205.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0206",
+      "name": "キウイフルーツ",
+      "scientific_name": "Actinidia chinensis var. deliciosa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。毛のある果実の房。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/673256638",
+      "image_path": "images/0201_0250/tree_0206.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0207",
+      "name": "ナツメ",
+      "scientific_name": "Ziziphus jujuba",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。三行脈の葉と小さな淡緑色の花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744195005",
+      "image_path": "images/0201_0250/tree_0207.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0208",
+      "name": "アキグミ",
+      "scientific_name": "Elaeagnus umbellata var. umbellata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。斑点のある赤い果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/589621705",
+      "image_path": "images/0201_0250/tree_0208.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0209",
+      "name": "ナワシログミ",
+      "scientific_name": "Elaeagnus pungens",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。小型の葉と細い枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744899288",
+      "image_path": "images/0201_0250/tree_0209.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0210",
+      "name": "ツルグミ",
+      "scientific_name": "Elaeagnus glabra",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。厚い光沢のある葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/733935812",
+      "image_path": "images/0201_0250/tree_0210.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0211",
+      "name": "アケビ",
+      "scientific_name": "Akebia quinata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。掌状複葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745104957",
+      "image_path": "images/0201_0250/tree_0211.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0212",
+      "name": "ムベ",
+      "scientific_name": "Stauntonia hexaphylla",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡色の細長い花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/672063555",
+      "image_path": "images/0201_0250/tree_0212.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0213",
+      "name": "ポポー",
+      "scientific_name": "Asimina triloba",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。枝先にまとまる大きな葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745023578",
+      "image_path": "images/0201_0250/tree_0213.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0214",
+      "name": "ペカン",
+      "scientific_name": "Carya illinoinensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。羽状複葉の枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745015550",
+      "image_path": "images/0201_0250/tree_0214.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0215",
+      "name": "ピスタチオ",
+      "scientific_name": "Pistacia vera",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。果実と広い小葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/734113971",
+      "image_path": "images/0201_0250/tree_0215.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0216",
+      "name": "バンジロウ",
+      "scientific_name": "Psidium guajava",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。対生する広い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/743580205",
+      "image_path": "images/0201_0250/tree_0216.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0217",
+      "name": "アボカド",
+      "scientific_name": "Persea americana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。大きな葉の茂る樹姿。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/742248992",
+      "image_path": "images/0201_0250/tree_0217.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0218",
+      "name": "マンゴー",
+      "scientific_name": "Mangifera indica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。枝に付く緑色の果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744224113",
+      "image_path": "images/0201_0250/tree_0218.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0219",
+      "name": "ストローブマツ",
+      "scientific_name": "Pinus strobus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。細い針葉の束。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745045000",
+      "image_path": "images/0201_0250/tree_0219.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0220",
+      "name": "テーダマツ",
+      "scientific_name": "Pinus taeda",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。長い針葉と球果。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744357525",
+      "image_path": "images/0201_0250/tree_0220.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0221",
+      "name": "シベリアカラマツ",
+      "scientific_name": "Larix sibirica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。黄葉する針葉樹の遠景。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744927524",
+      "image_path": "images/0201_0250/tree_0221.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0222",
+      "name": "チョウセンゴヨウ",
+      "scientific_name": "Pinus koraiensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。大きな松ぼっくり。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744259006",
+      "image_path": "images/0201_0250/tree_0222.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0223",
+      "name": "モンチコラマツ",
+      "scientific_name": "Pinus monticola",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。細い針葉の束。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745230586",
+      "image_path": "images/0201_0250/tree_0223.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0224",
+      "name": "バンクスマツ",
+      "scientific_name": "Pinus banksiana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。短い針葉の束と枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744821076",
+      "image_path": "images/0201_0250/tree_0224.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0225",
+      "name": "ヒマラヤスギ",
+      "scientific_name": "Cedrus deodara",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。垂れる枝と長い針葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745311671",
+      "image_path": "images/0201_0250/tree_0225.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0226",
+      "name": "アトラスシーダー",
+      "scientific_name": "Cedrus atlantica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。束状の針葉と細長い花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744234313",
+      "image_path": "images/0201_0250/tree_0226.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0227",
+      "name": "コーカサスモミ",
+      "scientific_name": "Abies nordmanniana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。平たい針葉の枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744242578",
+      "image_path": "images/0201_0250/tree_0227.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0228",
+      "name": "ノーブルモミ",
+      "scientific_name": "Abies procera",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。針葉樹の幹と全体像。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/743085604",
+      "image_path": "images/0201_0250/tree_0228.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0229",
+      "name": "アメリカブナ",
+      "scientific_name": "Fagus grandifolia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。広い葉の若木。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745022025",
+      "image_path": "images/0201_0250/tree_0229.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0230",
+      "name": "ヨーロッパブナ",
+      "scientific_name": "Fagus sylvatica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。波状の縁を持つ葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745363455",
+      "image_path": "images/0201_0250/tree_0230.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0231",
+      "name": "ホワイトオーク",
+      "scientific_name": "Quercus alba",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。丸い裂片を持つ紅葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745336356",
+      "image_path": "images/0201_0250/tree_0231.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0232",
+      "name": "コルクガシ",
+      "scientific_name": "Quercus suber",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。広葉樹の全体像。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744430252",
+      "image_path": "images/0201_0250/tree_0232.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0233",
+      "name": "アメリカガシワ",
+      "scientific_name": "Quercus palustris",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。深い切れ込みのある葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745039624",
+      "image_path": "images/0201_0250/tree_0233.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0234",
+      "name": "アメリカニレ",
+      "scientific_name": "Ulmus americana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。粗く割れた幹と鋸歯葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745176691",
+      "image_path": "images/0201_0250/tree_0234.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0235",
+      "name": "シラキ",
+      "scientific_name": "Neoshirakia japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。鋸歯葉と小さい球形の果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744820587",
+      "image_path": "images/0201_0250/tree_0235.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0236",
+      "name": "ナンキンハゼ",
+      "scientific_name": "Triadica sebifera",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。枝葉の全体像。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/743499929",
+      "image_path": "images/0201_0250/tree_0236.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0237",
+      "name": "モミジバフウ",
+      "scientific_name": "Liquidambar styraciflua",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。五裂する色づいた葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745330307",
+      "image_path": "images/0201_0250/tree_0237.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0238",
+      "name": "フウ",
+      "scientific_name": "Liquidambar formosana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。三裂する葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/741458073",
+      "image_path": "images/0201_0250/tree_0238.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0239",
+      "name": "イヌガシ",
+      "scientific_name": "Neolitsea aciculata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。厚い葉と赤い小花のまとまり。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/481783858",
+      "image_path": "images/0201_0250/tree_0239.jpeg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0240",
+      "name": "ホソバタブ",
+      "scientific_name": "Machilus japonicus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。細長い葉がまとまる枝先。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/743703556",
+      "image_path": "images/0201_0250/tree_0240.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0241",
+      "name": "ヤチダモ",
+      "scientific_name": "Fraxinus mandshurica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。小葉の並ぶ複葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/734897940",
+      "image_path": "images/0201_0250/tree_0241.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0242",
+      "name": "シオジ",
+      "scientific_name": "Fraxinus platypoda",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。複葉と細長い翼果。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/703351775",
+      "image_path": "images/0201_0250/tree_0242.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0243",
+      "name": "オオハマボウ",
+      "scientific_name": "Hibiscus tiliaceus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。心形の大きな葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744192859",
+      "image_path": "images/0201_0250/tree_0243.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0244",
+      "name": "モンパノキ",
+      "scientific_name": "Heliotropium arboreum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。厚く細長い葉の若株。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/742731346",
+      "image_path": "images/0201_0250/tree_0244.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0245",
+      "name": "テリハボク",
+      "scientific_name": "Calophyllum inophyllum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。対生する厚い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/743089955",
+      "image_path": "images/0201_0250/tree_0245.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0246",
+      "name": "ヤエヤマヒルギ",
+      "scientific_name": "Rhizophora stylosa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。厚い葉が集まる枝先。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/740905639",
+      "image_path": "images/0201_0250/tree_0246.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0247",
+      "name": "オヒルギ",
+      "scientific_name": "Bruguiera gymnorhiza",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。黄色い花の萼と花弁。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/741263705",
+      "image_path": "images/0201_0250/tree_0247.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0248",
+      "name": "メヒルギ",
+      "scientific_name": "Kandelia obovata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。小型の厚い葉の茂る枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/743327205",
+      "image_path": "images/0201_0250/tree_0248.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0249",
+      "name": "ヒルギダマシ",
+      "scientific_name": "Avicennia marina",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。水辺の樹姿と直立する呼吸根。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745303708",
+      "image_path": "images/0201_0250/tree_0249.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0250",
+      "name": "サキシマスオウノキ",
+      "scientific_name": "Heritiera littoralis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。大きな葉と幹。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/741260515",
+      "image_path": "images/0201_0250/tree_0250.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0251",
+      "name": "アカギ",
+      "scientific_name": "Bischofia javanica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。三出複葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/740934103",
+      "image_path": "images/0251_0300/tree_0251.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0252",
+      "name": "リュウキュウガキ",
+      "scientific_name": "Diospyros maritima",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。厚い楕円形の葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/698735331",
+      "image_path": "images/0251_0300/tree_0252.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0253",
+      "name": "アカテツ",
+      "scientific_name": "Planchonella obovata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。細長い葉の茂る枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/736395332",
+      "image_path": "images/0251_0300/tree_0253.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0254",
+      "name": "ヤエヤマアオキ",
+      "scientific_name": "Morinda citrifolia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。大きな対生葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/740924726",
+      "image_path": "images/0251_0300/tree_0254.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0255",
+      "name": "シマトネリコ",
+      "scientific_name": "Fraxinus griffithii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。小葉の並ぶ枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/743626142",
+      "image_path": "images/0251_0300/tree_0255.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0256",
+      "name": "シマサルスベリ",
+      "scientific_name": "Lagerstroemia subcostata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。小葉の付く広葉樹の枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/740853734",
+      "image_path": "images/0251_0300/tree_0256.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0257",
+      "name": "クロヨナ",
+      "scientific_name": "Pongamia pinnata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。厚い光沢葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744300503",
+      "image_path": "images/0251_0300/tree_0257.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0258",
+      "name": "クロツグ",
+      "scientific_name": "Arenga ryukyuensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。ヤシの羽状葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/666499452",
+      "image_path": "images/0251_0300/tree_0258.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0259",
+      "name": "ダイダイ",
+      "scientific_name": "Citrus × aurantium",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。柑橘の葉と橙色の果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/739160009",
+      "image_path": "images/0251_0300/tree_0259.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0260",
+      "name": "シークヮーサー",
+      "scientific_name": "Citrus depressa",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。柑橘の葉と細い枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/488599203",
+      "image_path": "images/0251_0300/tree_0260.jpeg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0261",
+      "name": "ライム",
+      "scientific_name": "Citrus spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。柑橘の葉と丸い緑色の果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/733300861",
+      "image_path": "images/0251_0300/tree_0261.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0262",
+      "name": "ネクタリン",
+      "scientific_name": "Prunus persica var. nucipersica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。細長い葉と赤紫色の果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/669075820",
+      "image_path": "images/0251_0300/tree_0262.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0263",
+      "name": "ヒメグルミ",
+      "scientific_name": "Juglans ailantifolia var. cordiformis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。先端のとがった硬い果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/447021338",
+      "image_path": "images/0251_0300/tree_0263.jpeg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0264",
+      "name": "ハシバミ",
+      "scientific_name": "Corylus heterophylla",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。丸みのある鋸歯葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/700646645",
+      "image_path": "images/0251_0300/tree_0264.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0265",
+      "name": "ライチ",
+      "scientific_name": "Litchi chinensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。赤い果実の房と樹姿。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/737417538",
+      "image_path": "images/0251_0300/tree_0265.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0266",
+      "name": "ツノハシバミ",
+      "scientific_name": "Corylus sieboldiana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。筒状の果実を包む苞。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/689528320",
+      "image_path": "images/0251_0300/tree_0266.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0267",
+      "name": "リュウガン",
+      "scientific_name": "Dimocarpus longan",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。複葉の茂る枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/740926076",
+      "image_path": "images/0251_0300/tree_0267.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0268",
+      "name": "チェリモヤ",
+      "scientific_name": "Annona cherimola",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。垂れる葉と緑色の果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/742579300",
+      "image_path": "images/0251_0300/tree_0268.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0269",
+      "name": "ニワウルシ",
+      "scientific_name": "Ailanthus altissima",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。大きな羽状複葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745162879",
+      "image_path": "images/0251_0300/tree_0269.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0270",
+      "name": "トウネズミモチ",
+      "scientific_name": "Ligustrum lucidum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。水辺に立つ広葉樹の若木。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745241808",
+      "image_path": "images/0251_0300/tree_0270.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0271",
+      "name": "レモンユーカリ",
+      "scientific_name": "Corymbia citriodora",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。淡い色の幹。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/722980388",
+      "image_path": "images/0251_0300/tree_0271.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0272",
+      "name": "セイヨウハコヤナギ",
+      "scientific_name": "Populus nigra f. italica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。三角形の鋸歯葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/742675359",
+      "image_path": "images/0251_0300/tree_0272.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0273",
+      "name": "ノルウェーカエデ",
+      "scientific_name": "Acer platanoides",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。掌状に裂けた落葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745362851",
+      "image_path": "images/0251_0300/tree_0273.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0274",
+      "name": "サトウカエデ",
+      "scientific_name": "Acer saccharum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。掌状の大きな葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745045964",
+      "image_path": "images/0251_0300/tree_0274.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0275",
+      "name": "ヒッコリー",
+      "scientific_name": "Carya spp.",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。複葉の若木。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745037960",
+      "image_path": "images/0251_0300/tree_0275.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0276",
+      "name": "ナツハゼ",
+      "scientific_name": "Vaccinium oldhamii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。小型の葉と黒い小果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/639447000",
+      "image_path": "images/0251_0300/tree_0276.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0277",
+      "name": "アカメガシワ",
+      "scientific_name": "Mallotus japonicus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。毛状の突起を持つ果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745315309",
+      "image_path": "images/0251_0300/tree_0277.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0278",
+      "name": "カクレミノ",
+      "scientific_name": "Dendropanax trifidus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。光沢葉と一部三裂する葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/741431073",
+      "image_path": "images/0251_0300/tree_0278.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0279",
+      "name": "ヤマコウバシ",
+      "scientific_name": "Lindera glauca",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。厚い楕円形の葉の枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/732523748",
+      "image_path": "images/0251_0300/tree_0279.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0280",
+      "name": "チャンチン",
+      "scientific_name": "Toona sinensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。細長い小葉の複葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/741324113",
+      "image_path": "images/0251_0300/tree_0280.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0281",
+      "name": "ゴシュユ",
+      "scientific_name": "Tetradium ruticarpum",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。複葉と枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/689503183",
+      "image_path": "images/0251_0300/tree_0281.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0282",
+      "name": "ケンポナシ",
+      "scientific_name": "Hovenia dulcis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白い小花の花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/740305140",
+      "image_path": "images/0251_0300/tree_0282.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0283",
+      "name": "クマヤナギ",
+      "scientific_name": "Berchemia floribunda",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。小さい葉と細い枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/742668541",
+      "image_path": "images/0251_0300/tree_0283.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0284",
+      "name": "タムシバ",
+      "scientific_name": "Magnolia salicifolia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。細長い葉と枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/653460931",
+      "image_path": "images/0251_0300/tree_0284.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0285",
+      "name": "バッコヤナギ",
+      "scientific_name": "Salix caprea",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。幅の広い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/745338366",
+      "image_path": "images/0251_0300/tree_0285.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0286",
+      "name": "オノエヤナギ",
+      "scientific_name": "Salix udensis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。細長い鋸歯葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/739291505",
+      "image_path": "images/0251_0300/tree_0286.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0287",
+      "name": "イヌコリヤナギ",
+      "scientific_name": "Salix integra",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。葉と長い花序。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/733697718",
+      "image_path": "images/0251_0300/tree_0287.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0288",
+      "name": "キヌヤナギ",
+      "scientific_name": "Salix schwerinii",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。垂れる細長い葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/733496836",
+      "image_path": "images/0251_0300/tree_0288.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0289",
+      "name": "ケショウヤナギ",
+      "scientific_name": "Salix arbutifolia",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。白黒の林の遠景。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/609434874",
+      "image_path": "images/0251_0300/tree_0289.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0290",
+      "name": "サワフタギ",
+      "scientific_name": "Symplocos sawafutagi",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。小型の葉と若い果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/744820402",
+      "image_path": "images/0251_0300/tree_0290.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0291",
+      "name": "タンナサワフタギ",
+      "scientific_name": "Symplocos coreana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。多数の雄しべを持つ白い小花。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/661927764",
+      "image_path": "images/0251_0300/tree_0291.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0292",
+      "name": "ウメモドキ",
+      "scientific_name": "Ilex serrata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。赤い小果実と鋸歯葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/603592577",
+      "image_path": "images/0251_0300/tree_0292.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0293",
+      "name": "イヌツゲ",
+      "scientific_name": "Ilex crenata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。小さな光沢葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/740128338",
+      "image_path": "images/0251_0300/tree_0293.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0294",
+      "name": "ハマヒサカキ",
+      "scientific_name": "Eurya emarginata",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。小さな厚い葉が密生する枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/738194371",
+      "image_path": "images/0251_0300/tree_0294.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0295",
+      "name": "ヒメアオキ",
+      "scientific_name": "Aucuba japonica var. borealis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。斑入りの鋸歯葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/654045861",
+      "image_path": "images/0251_0300/tree_0295.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0296",
+      "name": "オオバクロモジ",
+      "scientific_name": "Lindera umbellata var. membranacea",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。広い葉と小型の丸い果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/712510049",
+      "image_path": "images/0251_0300/tree_0296.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0297",
+      "name": "トキワガキ",
+      "scientific_name": "Diospyros morrisiana",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。厚い光沢葉。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/743703654",
+      "image_path": "images/0251_0300/tree_0297.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0298",
+      "name": "マメガキ",
+      "scientific_name": "Diospyros lotus",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。葉と丸い小果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/742683974",
+      "image_path": "images/0251_0300/tree_0298.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0299",
+      "name": "リュウキュウマメガキ",
+      "scientific_name": "Diospyros japonica",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。楕円形の葉の枝。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/712338380",
+      "image_path": "images/0251_0300/tree_0299.jpg"
+    },
+    {
+      "category": "木",
+      "id": "tree_0300",
+      "name": "ヤブムラサキ",
+      "scientific_name": "Callicarpa mollis",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 目視確認。細長い葉と淡紫色の小果実。植物名と写真に明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/731352705",
+      "image_path": "images/0251_0300/tree_0300.jpg"
+    }
+  ]
+}
