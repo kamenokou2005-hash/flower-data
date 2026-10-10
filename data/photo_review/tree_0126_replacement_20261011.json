@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-11",
+  "id": "tree_0126",
+  "name": "フクギ",
+  "previous_image": {
+    "author": "(c) Licheng Shih, some rights reserved (CC BY)",
+    "license": "CC-BY",
+    "source_url": "https://www.inaturalist.org/photos/731292892",
+    "image_path": "images/0101_0150/tree_0126.jpg"
+  },
+  "replacement_image": {
+    "author": "(c) Nicole Kearney, some rights reserved (CC BY)",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.inaturalist.org/photos/425490743",
+    "image_path": "images/0101_0150/tree_0126.jpg",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "observation_url": "https://www.inaturalist.org/observations/238950271",
+    "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200pxへ縮小しJPEG品質90で保存。"
+  },
+  "reason": "旧写真は長い花柄の白花と多数の雄しべが写り、フクギの腋生・小型で5弁の花の資料記述と合わないため差替え。旧画像の掲載元にはGarcinia subellipticaと登録されているがneeds_idで、別植物の可能性を残す。新写真は黄色い実と厚い対生葉が見える。観察238950271（Garcinia subelliptica、research）の写真425490743、CC BYを採用し、元画像とサムネイルを個別目視で再確認。",
+  "supporting_sources": [
+    "https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2930",
+    "https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2774",
+    "https://www.inaturalist.org/observations/238950271"
+  ],
+  "image_sha256": "db102a97d7e665d99a70771c8c2dc1caf8337c621af231862bda5da8b5265c26"
+}
