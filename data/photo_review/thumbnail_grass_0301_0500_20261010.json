@@ -5,10 +5,10 @@
   "criterion": "明らかな不一致がなければ採用する。ただし対象の形が写真から確認できない場合は別枠で保留。",
   "summary": {
     "reviewed": 200,
-    "accepted": 199,
-    "photo_not_determinable": 1,
+    "accepted": 200,
+    "photo_not_determinable": 0,
     "obvious_mismatch": 0,
-    "replaced_images": 0
+    "replaced_images": 1
   },
   "items": [
     {
@@ -1065,11 +1065,13 @@
       "id": "grass_0406",
       "name": "スブタ",
       "scientific_name": "Blyxa echinosperma",
-      "status": "写真からはわからない",
-      "note": "手の上に葉先の小片だけが写る。元画像でも株全体・葉の束・花や果実が見えず、写真からスブタの形を確認できない。出典写真691835796は観察378291560のBlyxa echinosperma（research）に一致するが、一覧用には形の見える写真への差替えが必要。明らかな別植物と判断したものではない。",
-      "source_url": "https://www.inaturalist.org/photos/691835796",
+      "status": "明らかな不一致なし",
+      "note": "2026-10-10 葉先の小片しか見えなかった旧写真を、同じ撮影者・観察378291560の別写真691836005へ差替え。水中の細長い葉と細い花柄、白い花が見える。元画像と200pxサムネイルを個別に目視し、植物名との明らかな不一致なし。",
+      "source_url": "https://www.inaturalist.org/photos/691836005",
       "thumbnail_path": "01_Data/草/thumbnails/200_q90/grass_0406.jpg",
-      "original_opened": true
+      "original_opened": true,
+      "previous_status": "写真からはわからない",
+      "previous_note": "手の上に葉先の小片だけが写る。元画像でも株全体・葉の束・花や果実が見えず、写真からスブタの形を確認できない。出典写真691835796は観察378291560のBlyxa echinosperma（research）に一致するが、一覧用には形の見える写真への差替えが必要。明らかな別植物と判断したものではない。"
     },
     {
       "id": "grass_0407",
@@ -2011,5 +2013,13 @@
       "thumbnail_path": "01_Data/草/thumbnails/200_q90/grass_0500.jpg",
       "original_opened": false
     }
-  ]
+  ],
+  "initial_summary": {
+    "reviewed": 200,
+    "accepted": 199,
+    "photo_not_determinable": 1,
+    "obvious_mismatch": 0,
+    "replaced_images": 0
+  },
+  "resolved_by": "grass_0406_replacement_20261010.json"
 }

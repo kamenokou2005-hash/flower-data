@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-10",
+  "id": "grass_0406",
+  "name": "スブタ",
+  "reason": "旧写真は葉先の小片しか写っておらず一覧で植物の形を確認できなかった",
+  "previous_image": {
+    "author": "(c) Cheng-Te Hsu, some rights reserved (CC BY)",
+    "license": "CC-BY",
+    "source_url": "https://www.inaturalist.org/photos/691835796",
+    "image_path": "images/0401_0450/grass_0406.jpg"
+  },
+  "replacement_image": {
+    "author": "(c) Cheng-Te Hsu, some rights reserved (CC BY)",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.inaturalist.org/photos/691836005",
+    "image_path": "images/0401_0450/grass_0406.jpg",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "observation_url": "https://www.inaturalist.org/observations/378291560",
+    "modifications": "元画像は無加工。一覧用サムネイルは縦横比を維持して長辺200pxへ縮小しJPEG品質90で保存。"
+  },
+  "status": "明らかな不一致なし",
+  "note": "2026-10-10 葉先の小片しか見えなかった旧写真を、同じ撮影者・観察378291560の別写真691836005へ差替え。水中の細長い葉と細い花柄、白い花が見える。元画像と200pxサムネイルを個別に目視し、植物名との明らかな不一致なし。",
+  "image_sha256": "7cdfb6dbaa266f869444ea9c86891e8f4b984fe9a3655490a1c0e19a93f3f952",
+  "thumbnail_size": [
+    200,
+    113
+  ],
+  "source_taxon": "Blyxa echinosperma",
+  "source_quality_grade": "research"
+}
