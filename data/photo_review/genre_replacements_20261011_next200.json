@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-11",
+  "replacements": [
+    {
+      "id": "tree_0218",
+      "name": "マンゴー",
+      "previous_image": {
+        "author": "(c) Wallace Carneiro Almeida, some rights reserved (CC BY-SA)",
+        "license": "CC-BY-SA",
+        "source_url": "https://www.inaturalist.org/photos/744224113",
+        "image_path": "images/0201_0250/tree_0218.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) amantedarmanin, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/743219855",
+        "image_path": "images/0201_0250/tree_0218.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/404814951",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"
+      },
+      "reason": "実が中心で木の姿が分からない",
+      "note": "2026-10-11 サムネイルを目視。大きな樹冠と幹の見える木。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は実が中心で木の姿が分からないのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Mangifera indica、research。",
+      "quality_grade": "research",
+      "image_sha256": "6cf1a9e78bf3f5e41c004a2a98ca2092c23d2f0b604a378e1b7bf12c38cd8420"
+    },
+    {
+      "id": "tree_0221",
+      "name": "シベリアカラマツ",
+      "previous_image": {
+        "author": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/744927524",
+        "image_path": "images/0201_0250/tree_0221.jpg"
+      },
+      "replacement_image": {
+        "author": "Roman A. Lagazyuk (Роман А. Лагазюк)",
+        "license": "CC0 1.0",
+        "source_url": "https://www.inaturalist.org/photos/254926828",
+        "image_path": "images/0201_0250/tree_0221.jpg",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "observation_url": "https://www.inaturalist.org/observations/148077240",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"
+      },
+      "reason": "薄い遠景でサムネイルの樹形が分かりにくい",
+      "note": "2026-10-11 サムネイルを目視。冬の幹と枝ぶりが見える樹形。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は薄い遠景でサムネイルの樹形が分かりにくいのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Larix sibirica、research。",
+      "quality_grade": "research",
+      "image_sha256": "e4b2b84d38d24080273a6cc2713c680733ea3c16b2ae1bb3546d619e48c41287"
+    },
+    {
+      "id": "tree_0222",
+      "name": "チョウセンゴヨウ",
+      "previous_image": {
+        "author": "(c) Viktor Strenada, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/744259006",
+        "image_path": "images/0201_0250/tree_0222.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) Lena Perova, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/581250028",
+        "image_path": "images/0201_0250/tree_0222.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/321397535",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"
+      },
+      "reason": "球果だけの写真",
+      "note": "2026-10-11 サムネイルを目視。針葉と枝ぶりが見える若木。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は球果だけの写真のため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Pinus koraiensis、research。",
+      "quality_grade": "research",
+      "image_sha256": "334250c361330b550ec2760337e66b1f39ac376a6979a00180aad85e63ea2023"
+    },
+    {
+      "id": "tree_0247",
+      "name": "オヒルギ",
+      "previous_image": {
+        "author": "(c) Shelomi Doyle, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/741263705",
+        "image_path": "images/0201_0250/tree_0247.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) smathichong, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/736315121",
+        "image_path": "images/0201_0250/tree_0247.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/401182726",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"
+      },
+      "reason": "手に持つ花だけの写真",
+      "note": "2026-10-11 サムネイルを目視。幹と枝葉の見えるマングローブの木。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は手に持つ花だけの写真のため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Bruguiera gymnorhiza、research。",
+      "quality_grade": "research",
+      "image_sha256": "2cb5d47007bdc40c2f1b44c2f425e751ec606619d7e1be76595668b4802ca5c4"
+    },
+    {
+      "id": "tree_0263",
+      "name": "ヒメグルミ",
+      "previous_image": {
+        "author": "(c) Viktor Strenada, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/447021338",
+        "image_path": "images/0251_0300/tree_0263.jpeg"
+      },
+      "replacement_image": {
+        "author": "(c) Oleksandr Shynder, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/236921642",
+        "image_path": "images/0251_0300/tree_0263.jpeg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/138597575",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"
+      },
+      "reason": "核だけの写真",
+      "note": "2026-10-11 サムネイルを目視。羽状複葉の枝と樹冠。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は核だけの写真のため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Juglans ailantifolia cordiformis、casual。 変種名で掲載されているがcasualの観察。変種の同定は未確定。",
+      "quality_grade": "casual",
+      "image_sha256": "59ca99ccb97f368b14b6a73605dc8edf1340340df41be90cfaae64034d6b103c"
+    },
+    {
+      "id": "tree_0273",
+      "name": "ノルウェーカエデ",
+      "previous_image": {
+        "author": "(c) Полина Полежанкина, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/745362851",
+        "image_path": "images/0251_0300/tree_0273.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) Stanislav Murashkin, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/748481077",
+        "image_path": "images/0251_0300/tree_0273.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/407312691",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"
+      },
+      "reason": "落ち葉だけで枝や樹形がない",
+      "note": "2026-10-11 サムネイルを目視。黄葉した木の樹形。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。 旧写真は落ち葉だけで枝や樹形がないのため差替え。元画像の確認用縮小表示と新200pxサムネイルを個別目視。掲載元分類: Acer platanoides、research。",
+      "quality_grade": "research",
+      "image_sha256": "ec080225379dce40c86afb472796eccd862d7c44b8e1a7b8984eb448900bb106"
+    }
+  ]
+}
