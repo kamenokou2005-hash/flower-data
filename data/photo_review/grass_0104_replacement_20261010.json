@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-10",
+  "id": "grass_0104",
+  "name": "ヒンジモ",
+  "reason": "池の遠景では写真から植物の形がわからなかった",
+  "previous_image": {
+    "author": "(c) Michael D. Pirie, some rights reserved (CC BY)",
+    "license": "CC BY",
+    "source_url": "https://www.inaturalist.org/photos/155877311",
+    "image_path": "images/0101_0150/grass_0104.jpg"
+  },
+  "replacement_image": {
+    "author": "Christian Fischer",
+    "license": "CC BY-SA 3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:LemnaTrisulca.jpg",
+    "image_path": "images/0101_0150/grass_0104.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "modifications": "一覧用サムネイルは縦横比を維持して長辺200pxに縮小しJPEG品質90で保存。元画像は無加工。"
+  },
+  "status": "明らかな不一致なし",
+  "note": "2026-10-10 池の遠景では対象が見えなかったため、Christian Fischer撮影のヒンジモ近接写真へ差替え。元画像と200pxサムネイルを個別に目視確認。細長い葉状体が柄で連なり、分岐する形が見える。明らかな不一致なし。",
+  "image_sha256": "d8660bd04619a7361969c62cb29dcc2996b7060beb349a25908263e0359e08b6",
+  "thumbnail_size": [
+    200,
+    133
+  ]
+}
