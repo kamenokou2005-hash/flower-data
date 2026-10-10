@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-11",
+  "id": "tree_0042",
+  "name": "ヒノキ",
+  "previous_image": {
+    "author": "(c) Vladislav Isaev, some rights reserved (CC BY)",
+    "license": "CC-BY",
+    "source_url": "https://www.inaturalist.org/photos/743654433",
+    "image_path": "images/0001_0050/tree_0042.jpg"
+  },
+  "replacement_image": {
+    "author": "(c) 曾昱承 Yu-Cheng Zeng, some rights reserved (CC BY)",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.inaturalist.org/photos/356790063",
+    "image_path": "images/0001_0050/tree_0042.jpg",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "observation_url": "https://www.inaturalist.org/observations/202059546",
+    "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。"
+  },
+  "note": "2026-10-11 ジャンル適合性を再確認。球果だけの旧写真から、青空を背景にヒノキの樹冠・枝ぶり・幹の一部が見える写真へ差替え。木の根元までの全景ではないが、200pxでも木の姿が分かる。元画像とサムネイルを個別目視し、植物名との明らかな不一致なし、木ジャンルの代表写真として適合。出典は観察202059546（Chamaecyparis obtusa、research）。写真のみで厳密な同定を確定するものではない。",
+  "genre_status": "適合",
+  "image_sha256": "1e3aebdcca74b220a1bd2850f23e09d27ea849f1bffa97d10364e0078dcaed12",
+  "thumbnail_size": [
+    200,
+    133
+  ],
+  "source_quality_grade": "research"
+}

@@ -8,7 +8,7 @@
     "accepted": 200,
     "photo_not_determinable": 0,
     "obvious_mismatch_remaining": 0,
-    "replaced_images": 1,
+    "replaced_images": 2,
     "initial_suspected_mismatch": 1
   },
   "items": [
@@ -386,9 +386,11 @@
       "name": "ヒノキ",
       "scientific_name": "Chamaecyparis obtusa",
       "status": "明らかな不一致なし",
-      "note": "2026-10-11 現在のサムネイルを目視。乾燥した球果の拡大、葉や樹形は写らない。掲載元写真743654433は観察404908281のChamaecyparis obtusa（needs_id）に一致。球果の参考写真として採用し、種の厳密な同定は未確定。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定する判定ではない。",
-      "source_url": "https://www.inaturalist.org/photos/743654433",
-      "original_opened": true
+      "note": "2026-10-11 ジャンル適合性を再確認。球果だけの旧写真から、青空を背景にヒノキの樹冠・枝ぶり・幹の一部が見える写真へ差替え。木の根元までの全景ではないが、200pxでも木の姿が分かる。元画像とサムネイルを個別目視し、植物名との明らかな不一致なし、木ジャンルの代表写真として適合。出典は観察202059546（Chamaecyparis obtusa、research）。写真のみで厳密な同定を確定するものではない。",
+      "source_url": "https://www.inaturalist.org/photos/356790063",
+      "original_opened": true,
+      "previous_note": "2026-10-11 現在のサムネイルを目視。乾燥した球果の拡大、葉や樹形は写らない。掲載元写真743654433は観察404908281のChamaecyparis obtusa（needs_id）に一致。球果の参考写真として採用し、種の厳密な同定は未確定。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定する判定ではない。",
+      "genre_status": "適合"
     },
     {
       "id": "tree_0043",
@@ -1812,5 +1814,6 @@
       "source_url": "https://www.inaturalist.org/photos/744820208",
       "original_opened": true
     }
-  ]
+  ],
+  "genre_review_scope": "新基準で確認済みはtree_0042のみ。他199件はジャンル適合の再確認未実施。"
 }
