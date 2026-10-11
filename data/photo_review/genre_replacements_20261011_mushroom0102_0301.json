@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-11",
+  "replacements": [
+    {
+      "id": "mushroom_0118",
+      "name": "オニフスベ",
+      "previous_image": {
+        "author": "(c) Atsushi Nakajima, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/740340800",
+        "image_path": "images/0101_0150/mushroom_0118.jpg"
+      },
+      "replacement_image": {
+        "author": "no rights reserved",
+        "license": "CC0 1.0",
+        "source_url": "https://www.inaturalist.org/photos/125422374",
+        "image_path": "images/0101_0150/mushroom_0118.jpg",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "observation_url": "https://www.inaturalist.org/observations/76686542",
+        "modifications": "Original photograph unchanged; thumbnail resized with preserved aspect ratio to maximum 200px, JPEG quality 90."
+      },
+      "reason": "成熟した断面では球形が伝わりにくいため、白い球状の全体写真へ変更。",
+      "quality_grade": "research",
+      "reference_taxon": "Calvatia nipponica",
+      "original_and_200px_thumbnail_visually_reviewed": true,
+      "image_sha256": "264b047a24bee8e47a6e3764f091219cfc540af3a3a656b8dea1957abf92823f"
+    },
+    {
+      "id": "mushroom_0144",
+      "name": "オオゴムタケ",
+      "previous_image": {
+        "author": "(c) Atsushi Nakajima, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/742726028",
+        "image_path": "images/0101_0150/mushroom_0144.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/675862895",
+        "image_path": "images/0101_0150/mushroom_0144.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/370219101",
+        "modifications": "Original photograph unchanged; thumbnail resized with preserved aspect ratio to maximum 200px, JPEG quality 90."
+      },
+      "reason": "元写真では杯形が見えないため、厚い杯形の子実体が見える写真へ変更。",
+      "quality_grade": "research",
+      "reference_taxon": "Trichaleurina tenuispora",
+      "original_and_200px_thumbnail_visually_reviewed": true,
+      "image_sha256": "39ae7816550bf4ea51fb0917769d2c30e98a567e446c4332c8ae185708ad26c0"
+    },
+    {
+      "id": "mushroom_0147",
+      "name": "サナギタケ",
+      "previous_image": {
+        "author": "no rights reserved",
+        "license": "CC0",
+        "source_url": "https://www.inaturalist.org/photos/745158117",
+        "image_path": "images/0101_0150/mushroom_0147.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) Enrico Tomschke, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/56322174",
+        "image_path": "images/0101_0150/mushroom_0147.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/35697710",
+        "modifications": "Original photograph unchanged; thumbnail resized with preserved aspect ratio to maximum 200px, JPEG quality 90."
+      },
+      "reason": "画面のスクリーンショットと不鮮明な褐色像を、橙色の子実体写真へ変更。",
+      "quality_grade": "research",
+      "reference_taxon": "Cordyceps militaris",
+      "original_and_200px_thumbnail_visually_reviewed": true,
+      "image_sha256": "1934f4bc717da98b7cd7ed807244922fb52654f4ecb193fb6a93bb7c0ff34e1b"
+    },
+    {
+      "id": "mushroom_0150",
+      "name": "クモタケ",
+      "previous_image": {
+        "author": "(c) Ged Tranter, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/729904317",
+        "image_path": "images/0101_0150/mushroom_0150.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) reagan peschke, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/711627059",
+        "image_path": "images/0101_0150/mushroom_0150.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/388544958",
+        "modifications": "Original photograph unchanged; thumbnail resized with preserved aspect ratio to maximum 200px, JPEG quality 90."
+      },
+      "reason": "クモだけの写真では菌の姿が明瞭でないため、菌の棍棒状の構造が見える写真へ変更。",
+      "quality_grade": "research",
+      "reference_taxon": "Purpureocillium atypicola",
+      "original_and_200px_thumbnail_visually_reviewed": true,
+      "image_sha256": "c1282afe2fee764d914265439b8a00df3808c90c246fd2dd0c885d360a932c93"
+    },
+    {
+      "id": "mushroom_0167",
+      "name": "スジオチバタケ",
+      "previous_image": {
+        "author": "(c) Hilda Chan, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/737409616",
+        "image_path": "images/0151_0200/mushroom_0167.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) りなべる, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/378840990",
+        "image_path": "images/0151_0200/mushroom_0167.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/214333983",
+        "modifications": "Original photograph unchanged; thumbnail resized with preserved aspect ratio to maximum 200px, JPEG quality 90."
+      },
+      "reason": "子実体が小さく不明瞭な写真を、筋のある傘と細長い柄が見える写真へ変更。",
+      "quality_grade": "research",
+      "reference_taxon": "Marasmius purpureostriatus",
+      "original_and_200px_thumbnail_visually_reviewed": true,
+      "image_sha256": "a7ab8bb4dcf6a3b5d41907aaf1a5c35606d51ffe3348404550974633f03503e1"
+    },
+    {
+      "id": "mushroom_0177",
+      "name": "ムラサキヤマドリタケ",
+      "previous_image": {
+        "author": "(c) turtlecrab, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/709593101",
+        "image_path": "images/0151_0200/mushroom_0177.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) Atsushi Nakajima, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/571396827",
+        "image_path": "images/0151_0200/mushroom_0177.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/316265387",
+        "modifications": "Original photograph unchanged; thumbnail resized with preserved aspect ratio to maximum 200px, JPEG quality 90."
+      },
+      "reason": "柄が隠れて形が伝わりにくいため、紫色系の傘と柄が見える写真へ変更。",
+      "quality_grade": "research",
+      "reference_taxon": "Boletus violaceofuscus",
+      "original_and_200px_thumbnail_visually_reviewed": true,
+      "image_sha256": "8a8d74845b6d12a5b576f0cc552faace654b4429de23f88963c6d9e9e3ce8c46"
+    }
+  ]
+}
