@@ -4175,5 +4175,12 @@
       "thumbnail_sha256": "0b6a3af21c37403132b1fb08abad391d4c2ef79da89b43590551407a4a519607"
     }
   ],
-  "github_remote_verified": false
+  "github_remote_verified": true,
+  "github_data_commit": "ab9b417eb97d8a4307865f27dbc7807dc07bb22c",
+  "github_verification": {
+    "files": 205,
+    "original_images": 200,
+    "errors": 0,
+    "receipt": "data/photo_review/new200_github_verification_20261011.json"
+  }
 }
