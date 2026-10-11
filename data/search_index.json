@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "generated_at_utc":  "2026-10-09T06:08:10.3396085Z",
-    "completed_count":  1850,
+    "generated_at_utc":  "2026-10-11T13:00:28.486487+00:00",
+    "completed_count":  2050,
     "items":  [
                   {
                       "id":  "flower_0001",
@@ -50554,6 +50554,5028 @@
                                                "yabumurasaki",
                                                "callicarpamollis"
                                            ]
-                  }
-              ]
+                  },
+    {
+        "id": "mushroom_0352",
+        "category": "きのこ",
+        "name": "コガネキヌカラカサタケ",
+        "kana": "コガネキヌカラカサタケ",
+        "aliases": [
+            "コガネキヌカラカサタケ"
+        ],
+        "romaji": [
+            "koganekinukarakasatake"
+        ],
+        "scientific": "Leucocoprinus birnbaumii",
+        "search_terms": [
+            "コガネキヌカラカサタケ",
+            "こがねきぬからかさたけ",
+            "koganekinukarakasatake",
+            "Leucocoprinus birnbaumii"
+        ],
+        "normalized_terms": [
+            "コガネキヌカラカサタケ",
+            "こがねきぬからかさたけ",
+            "koganekinukarakasatake",
+            "leucocoprinusbirnbaumii"
+        ]
+    },
+    {
+        "id": "mushroom_0353",
+        "category": "きのこ",
+        "name": "ハナオチバタケ",
+        "kana": "ハナオチバタケ",
+        "aliases": [
+            "ハナオチバタケ"
+        ],
+        "romaji": [
+            "hanaochibatake"
+        ],
+        "scientific": "Marasmius pulcherripes",
+        "search_terms": [
+            "ハナオチバタケ",
+            "はなおちばたけ",
+            "hanaochibatake",
+            "Marasmius pulcherripes"
+        ],
+        "normalized_terms": [
+            "ハナオチバタケ",
+            "はなおちばたけ",
+            "hanaochibatake",
+            "marasmiuspulcherripes"
+        ]
+    },
+    {
+        "id": "mushroom_0354",
+        "category": "きのこ",
+        "name": "アカチシオタケ",
+        "kana": "アカチシオタケ",
+        "aliases": [
+            "アカチシオタケ"
+        ],
+        "romaji": [
+            "akachishiotake"
+        ],
+        "scientific": "Mycena crocata",
+        "search_terms": [
+            "アカチシオタケ",
+            "あかちしおたけ",
+            "akachishiotake",
+            "Mycena crocata"
+        ],
+        "normalized_terms": [
+            "アカチシオタケ",
+            "あかちしおたけ",
+            "akachishiotake",
+            "mycenacrocata"
+        ]
+    },
+    {
+        "id": "mushroom_0355",
+        "category": "きのこ",
+        "name": "チシオタケ",
+        "kana": "チシオタケ",
+        "aliases": [
+            "チシオタケ"
+        ],
+        "romaji": [
+            "chishiotake"
+        ],
+        "scientific": "Mycena haematopus",
+        "search_terms": [
+            "チシオタケ",
+            "ちしおたけ",
+            "chishiotake",
+            "Mycena haematopus"
+        ],
+        "normalized_terms": [
+            "チシオタケ",
+            "ちしおたけ",
+            "chishiotake",
+            "mycenahaematopus"
+        ]
+    },
+    {
+        "id": "mushroom_0356",
+        "category": "きのこ",
+        "name": "サクラタケ",
+        "kana": "サクラタケ",
+        "aliases": [
+            "サクラタケ"
+        ],
+        "romaji": [
+            "sakuratake"
+        ],
+        "scientific": "Mycena pura",
+        "search_terms": [
+            "サクラタケ",
+            "さくらたけ",
+            "sakuratake",
+            "Mycena pura"
+        ],
+        "normalized_terms": [
+            "サクラタケ",
+            "さくらたけ",
+            "sakuratake",
+            "mycenapura"
+        ]
+    },
+    {
+        "id": "mushroom_0357",
+        "category": "きのこ",
+        "name": "クヌギタケ",
+        "kana": "クヌギタケ",
+        "aliases": [
+            "クヌギタケ"
+        ],
+        "romaji": [
+            "kunugitake"
+        ],
+        "scientific": "Mycena galericulata",
+        "search_terms": [
+            "クヌギタケ",
+            "くぬぎたけ",
+            "kunugitake",
+            "Mycena galericulata"
+        ],
+        "normalized_terms": [
+            "クヌギタケ",
+            "くぬぎたけ",
+            "kunugitake",
+            "mycenagalericulata"
+        ]
+    },
+    {
+        "id": "mushroom_0358",
+        "category": "きのこ",
+        "name": "ツルタケダマシ",
+        "kana": "ツルタケダマシ",
+        "aliases": [
+            "ツルタケダマシ"
+        ],
+        "romaji": [
+            "tsurutakedamashi"
+        ],
+        "scientific": "Amanita spreta",
+        "search_terms": [
+            "ツルタケダマシ",
+            "つるたけだまし",
+            "tsurutakedamashi",
+            "Amanita spreta"
+        ],
+        "normalized_terms": [
+            "ツルタケダマシ",
+            "つるたけだまし",
+            "tsurutakedamashi",
+            "amanitaspreta"
+        ]
+    },
+    {
+        "id": "mushroom_0359",
+        "category": "きのこ",
+        "name": "トキイロヒラタケ",
+        "kana": "トキイロヒラタケ",
+        "aliases": [
+            "トキイロヒラタケ"
+        ],
+        "romaji": [
+            "tokiirohiratake"
+        ],
+        "scientific": "Pleurotus djamor",
+        "search_terms": [
+            "トキイロヒラタケ",
+            "ときいろひらたけ",
+            "tokiirohiratake",
+            "Pleurotus djamor"
+        ],
+        "normalized_terms": [
+            "トキイロヒラタケ",
+            "ときいろひらたけ",
+            "tokiirohiratake",
+            "pleurotusdjamor"
+        ]
+    },
+    {
+        "id": "mushroom_0360",
+        "category": "きのこ",
+        "name": "タモギタケ",
+        "kana": "タモギタケ",
+        "aliases": [
+            "タモギタケ"
+        ],
+        "romaji": [
+            "tamogitake"
+        ],
+        "scientific": "Pleurotus citrinopileatus",
+        "search_terms": [
+            "タモギタケ",
+            "たもぎたけ",
+            "tamogitake",
+            "Pleurotus citrinopileatus"
+        ],
+        "normalized_terms": [
+            "タモギタケ",
+            "たもぎたけ",
+            "tamogitake",
+            "pleurotuscitrinopileatus"
+        ]
+    },
+    {
+        "id": "mushroom_0361",
+        "category": "きのこ",
+        "name": "スギタケモドキ",
+        "kana": "スギタケモドキ",
+        "aliases": [
+            "スギタケモドキ"
+        ],
+        "romaji": [
+            "sugitakemodoki"
+        ],
+        "scientific": "Pholiota squarrosoides",
+        "search_terms": [
+            "スギタケモドキ",
+            "すぎたけもどき",
+            "sugitakemodoki",
+            "Pholiota squarrosoides"
+        ],
+        "normalized_terms": [
+            "スギタケモドキ",
+            "すぎたけもどき",
+            "sugitakemodoki",
+            "pholiotasquarrosoides"
+        ]
+    },
+    {
+        "id": "mushroom_0362",
+        "category": "きのこ",
+        "name": "カワキタケ",
+        "kana": "カワキタケ",
+        "aliases": [
+            "カワキタケ"
+        ],
+        "romaji": [
+            "kawakitake"
+        ],
+        "scientific": "Panus conchatus",
+        "search_terms": [
+            "カワキタケ",
+            "かわきたけ",
+            "kawakitake",
+            "Panus conchatus"
+        ],
+        "normalized_terms": [
+            "カワキタケ",
+            "かわきたけ",
+            "kawakitake",
+            "panusconchatus"
+        ]
+    },
+    {
+        "id": "mushroom_0363",
+        "category": "きのこ",
+        "name": "ヒメムキタケ",
+        "kana": "ヒメムキタケ",
+        "aliases": [
+            "ヒメムキタケ"
+        ],
+        "romaji": [
+            "himemukitake"
+        ],
+        "scientific": "Hohenbuehelia reniformis",
+        "search_terms": [
+            "ヒメムキタケ",
+            "ひめむきたけ",
+            "himemukitake",
+            "Hohenbuehelia reniformis"
+        ],
+        "normalized_terms": [
+            "ヒメムキタケ",
+            "ひめむきたけ",
+            "himemukitake",
+            "hohenbueheliareniformis"
+        ]
+    },
+    {
+        "id": "mushroom_0364",
+        "category": "きのこ",
+        "name": "チャヒラタケ",
+        "kana": "チャヒラタケ",
+        "aliases": [
+            "チャヒラタケ"
+        ],
+        "romaji": [
+            "chahiratake"
+        ],
+        "scientific": "Crepidotus mollis",
+        "search_terms": [
+            "チャヒラタケ",
+            "ちゃひらたけ",
+            "chahiratake",
+            "Crepidotus mollis"
+        ],
+        "normalized_terms": [
+            "チャヒラタケ",
+            "ちゃひらたけ",
+            "chahiratake",
+            "crepidotusmollis"
+        ]
+    },
+    {
+        "id": "mushroom_0365",
+        "category": "きのこ",
+        "name": "ミミナミハタケ",
+        "kana": "ミミナミハタケ",
+        "aliases": [
+            "ミミナミハタケ"
+        ],
+        "romaji": [
+            "miminamihatake"
+        ],
+        "scientific": "Lentinellus cochleatus",
+        "search_terms": [
+            "ミミナミハタケ",
+            "みみなみはたけ",
+            "miminamihatake",
+            "Lentinellus cochleatus"
+        ],
+        "normalized_terms": [
+            "ミミナミハタケ",
+            "みみなみはたけ",
+            "miminamihatake",
+            "lentinelluscochleatus"
+        ]
+    },
+    {
+        "id": "mushroom_0366",
+        "category": "きのこ",
+        "name": "アミヒラタケ",
+        "kana": "アミヒラタケ",
+        "aliases": [
+            "アミヒラタケ"
+        ],
+        "romaji": [
+            "amihiratake"
+        ],
+        "scientific": "Cerioporus squamosus",
+        "search_terms": [
+            "アミヒラタケ",
+            "あみひらたけ",
+            "amihiratake",
+            "Cerioporus squamosus"
+        ],
+        "normalized_terms": [
+            "アミヒラタケ",
+            "あみひらたけ",
+            "amihiratake",
+            "cerioporussquamosus"
+        ]
+    },
+    {
+        "id": "mushroom_0367",
+        "category": "きのこ",
+        "name": "シックイタケ",
+        "kana": "シックイタケ",
+        "aliases": [
+            "シックイタケ"
+        ],
+        "romaji": [
+            "shikkuitake"
+        ],
+        "scientific": "Cyanotrama gypsea",
+        "search_terms": [
+            "シックイタケ",
+            "しっくいたけ",
+            "shikkuitake",
+            "Cyanotrama gypsea"
+        ],
+        "normalized_terms": [
+            "シックイタケ",
+            "しっくいたけ",
+            "shikkuitake",
+            "cyanotramagypsea"
+        ]
+    },
+    {
+        "id": "mushroom_0368",
+        "category": "きのこ",
+        "name": "クジラタケ",
+        "kana": "クジラタケ",
+        "aliases": [
+            "クジラタケ"
+        ],
+        "romaji": [
+            "kujiratake"
+        ],
+        "scientific": "Trametes orientalis",
+        "search_terms": [
+            "クジラタケ",
+            "くじらたけ",
+            "kujiratake",
+            "Trametes orientalis"
+        ],
+        "normalized_terms": [
+            "クジラタケ",
+            "くじらたけ",
+            "kujiratake",
+            "trametesorientalis"
+        ]
+    },
+    {
+        "id": "mushroom_0369",
+        "category": "きのこ",
+        "name": "エゴノキタケ",
+        "kana": "エゴノキタケ",
+        "aliases": [
+            "エゴノキタケ"
+        ],
+        "romaji": [
+            "egonokitake"
+        ],
+        "scientific": "Daedaleopsis styracina",
+        "search_terms": [
+            "エゴノキタケ",
+            "えごのきたけ",
+            "egonokitake",
+            "Daedaleopsis styracina"
+        ],
+        "normalized_terms": [
+            "エゴノキタケ",
+            "えごのきたけ",
+            "egonokitake",
+            "daedaleopsisstyracina"
+        ]
+    },
+    {
+        "id": "mushroom_0370",
+        "category": "きのこ",
+        "name": "ヒメモグサタケ",
+        "kana": "ヒメモグサタケ",
+        "aliases": [
+            "ヒメモグサタケ"
+        ],
+        "romaji": [
+            "himemogusatake"
+        ],
+        "scientific": "Bjerkandera fumosa",
+        "search_terms": [
+            "ヒメモグサタケ",
+            "ひめもぐさたけ",
+            "himemogusatake",
+            "Bjerkandera fumosa"
+        ],
+        "normalized_terms": [
+            "ヒメモグサタケ",
+            "ひめもぐさたけ",
+            "himemogusatake",
+            "bjerkanderafumosa"
+        ]
+    },
+    {
+        "id": "mushroom_0371",
+        "category": "きのこ",
+        "name": "カイメンタケ",
+        "kana": "カイメンタケ",
+        "aliases": [
+            "カイメンタケ"
+        ],
+        "romaji": [
+            "kaimentake"
+        ],
+        "scientific": "Phaeolus schweinitzii",
+        "search_terms": [
+            "カイメンタケ",
+            "かいめんたけ",
+            "kaimentake",
+            "Phaeolus schweinitzii"
+        ],
+        "normalized_terms": [
+            "カイメンタケ",
+            "かいめんたけ",
+            "kaimentake",
+            "phaeolusschweinitzii"
+        ]
+    },
+    {
+        "id": "mushroom_0372",
+        "category": "きのこ",
+        "name": "カミウロコタケ",
+        "kana": "カミウロコタケ",
+        "aliases": [
+            "カミウロコタケ"
+        ],
+        "romaji": [
+            "kamiurokotake"
+        ],
+        "scientific": "Phlebiopsis crassa",
+        "search_terms": [
+            "カミウロコタケ",
+            "かみうろこたけ",
+            "kamiurokotake",
+            "Phlebiopsis crassa"
+        ],
+        "normalized_terms": [
+            "カミウロコタケ",
+            "かみうろこたけ",
+            "kamiurokotake",
+            "phlebiopsiscrassa"
+        ]
+    },
+    {
+        "id": "mushroom_0373",
+        "category": "きのこ",
+        "name": "ヤケイロタケ",
+        "kana": "ヤケイロタケ",
+        "aliases": [
+            "ヤケイロタケ"
+        ],
+        "romaji": [
+            "yakeirotake"
+        ],
+        "scientific": "Bjerkandera adusta",
+        "search_terms": [
+            "ヤケイロタケ",
+            "やけいろたけ",
+            "yakeirotake",
+            "Bjerkandera adusta"
+        ],
+        "normalized_terms": [
+            "ヤケイロタケ",
+            "やけいろたけ",
+            "yakeirotake",
+            "bjerkanderaadusta"
+        ]
+    },
+    {
+        "id": "mushroom_0374",
+        "category": "きのこ",
+        "name": "ハカワラタケ",
+        "kana": "ハカワラタケ",
+        "aliases": [
+            "ハカワラタケ"
+        ],
+        "romaji": [
+            "hakawaratake"
+        ],
+        "scientific": "Trichaptum biforme",
+        "search_terms": [
+            "ハカワラタケ",
+            "はかわらたけ",
+            "hakawaratake",
+            "Trichaptum biforme"
+        ],
+        "normalized_terms": [
+            "ハカワラタケ",
+            "はかわらたけ",
+            "hakawaratake",
+            "trichaptumbiforme"
+        ]
+    },
+    {
+        "id": "mushroom_0375",
+        "category": "きのこ",
+        "name": "シハイタケ",
+        "kana": "シハイタケ",
+        "aliases": [
+            "シハイタケ"
+        ],
+        "romaji": [
+            "shihaitake"
+        ],
+        "scientific": "Trichaptum abietinum",
+        "search_terms": [
+            "シハイタケ",
+            "しはいたけ",
+            "shihaitake",
+            "Trichaptum abietinum"
+        ],
+        "normalized_terms": [
+            "シハイタケ",
+            "しはいたけ",
+            "shihaitake",
+            "trichaptumabietinum"
+        ]
+    },
+    {
+        "id": "mushroom_0376",
+        "category": "きのこ",
+        "name": "ニクウチワタケ",
+        "kana": "ニクウチワタケ",
+        "aliases": [
+            "ニクウチワタケ"
+        ],
+        "romaji": [
+            "nikuuchiwatake"
+        ],
+        "scientific": "Abortiporus biennis",
+        "search_terms": [
+            "ニクウチワタケ",
+            "にくうちわたけ",
+            "nikuuchiwatake",
+            "Abortiporus biennis"
+        ],
+        "normalized_terms": [
+            "ニクウチワタケ",
+            "にくうちわたけ",
+            "nikuuchiwatake",
+            "abortiporusbiennis"
+        ]
+    },
+    {
+        "id": "mushroom_0377",
+        "category": "きのこ",
+        "name": "タマチョレイタケ",
+        "kana": "タマチョレイタケ",
+        "aliases": [
+            "タマチョレイタケ"
+        ],
+        "romaji": [
+            "tamachoreitake"
+        ],
+        "scientific": "Polyporus tuberaster",
+        "search_terms": [
+            "タマチョレイタケ",
+            "たまちょれいたけ",
+            "tamachoreitake",
+            "Polyporus tuberaster"
+        ],
+        "normalized_terms": [
+            "タマチョレイタケ",
+            "たまちょれいたけ",
+            "tamachoreitake",
+            "polyporustuberaster"
+        ]
+    },
+    {
+        "id": "mushroom_0378",
+        "category": "きのこ",
+        "name": "アミスギタケ",
+        "kana": "アミスギタケ",
+        "aliases": [
+            "アミスギタケ"
+        ],
+        "romaji": [
+            "amisugitake"
+        ],
+        "scientific": "Lentinus arcularius",
+        "search_terms": [
+            "アミスギタケ",
+            "あみすぎたけ",
+            "amisugitake",
+            "Lentinus arcularius"
+        ],
+        "normalized_terms": [
+            "アミスギタケ",
+            "あみすぎたけ",
+            "amisugitake",
+            "lentinusarcularius"
+        ]
+    },
+    {
+        "id": "mushroom_0379",
+        "category": "きのこ",
+        "name": "キアシグロタケ",
+        "kana": "キアシグロタケ",
+        "aliases": [
+            "キアシグロタケ"
+        ],
+        "romaji": [
+            "kiashigurotake"
+        ],
+        "scientific": "Cerioporus varius",
+        "search_terms": [
+            "キアシグロタケ",
+            "きあしぐろたけ",
+            "kiashigurotake",
+            "Cerioporus varius"
+        ],
+        "normalized_terms": [
+            "キアシグロタケ",
+            "きあしぐろたけ",
+            "kiashigurotake",
+            "cerioporusvarius"
+        ]
+    },
+    {
+        "id": "mushroom_0380",
+        "category": "きのこ",
+        "name": "シロヒメチャワンタケ",
+        "kana": "シロヒメチャワンタケ",
+        "aliases": [
+            "シロヒメチャワンタケ"
+        ],
+        "romaji": [
+            "shirohimechawantake"
+        ],
+        "scientific": "Lachnum diminutum",
+        "search_terms": [
+            "シロヒメチャワンタケ",
+            "しろひめちゃわんたけ",
+            "shirohimechawantake",
+            "Lachnum diminutum"
+        ],
+        "normalized_terms": [
+            "シロヒメチャワンタケ",
+            "しろひめちゃわんたけ",
+            "shirohimechawantake",
+            "lachnumdiminutum"
+        ]
+    },
+    {
+        "id": "mushroom_0381",
+        "category": "きのこ",
+        "name": "キチャワンタケ",
+        "kana": "キチャワンタケ",
+        "aliases": [
+            "キチャワンタケ"
+        ],
+        "romaji": [
+            "kichawantake"
+        ],
+        "scientific": "Caloscypha fulgens",
+        "search_terms": [
+            "キチャワンタケ",
+            "きちゃわんたけ",
+            "kichawantake",
+            "Caloscypha fulgens"
+        ],
+        "normalized_terms": [
+            "キチャワンタケ",
+            "きちゃわんたけ",
+            "kichawantake",
+            "caloscyphafulgens"
+        ]
+    },
+    {
+        "id": "mushroom_0382",
+        "category": "きのこ",
+        "name": "クロサイワイタケ",
+        "kana": "クロサイワイタケ",
+        "aliases": [
+            "クロサイワイタケ"
+        ],
+        "romaji": [
+            "kurosaiwaitake"
+        ],
+        "scientific": "Xylaria hypoxylon",
+        "search_terms": [
+            "クロサイワイタケ",
+            "くろさいわいたけ",
+            "kurosaiwaitake",
+            "Xylaria hypoxylon"
+        ],
+        "normalized_terms": [
+            "クロサイワイタケ",
+            "くろさいわいたけ",
+            "kurosaiwaitake",
+            "xylariahypoxylon"
+        ]
+    },
+    {
+        "id": "mushroom_0383",
+        "category": "きのこ",
+        "name": "ツノマタタケ",
+        "kana": "ツノマタタケ",
+        "aliases": [
+            "ツノマタタケ"
+        ],
+        "romaji": [
+            "tsunomatatake"
+        ],
+        "scientific": "Dacrymyces spathularia",
+        "search_terms": [
+            "ツノマタタケ",
+            "つのまたたけ",
+            "tsunomatatake",
+            "Dacrymyces spathularia"
+        ],
+        "normalized_terms": [
+            "ツノマタタケ",
+            "つのまたたけ",
+            "tsunomatatake",
+            "dacrymycesspathularia"
+        ]
+    },
+    {
+        "id": "mushroom_0384",
+        "category": "きのこ",
+        "name": "ズキンタケ",
+        "kana": "ズキンタケ",
+        "aliases": [
+            "ズキンタケ"
+        ],
+        "romaji": [
+            "zukintake"
+        ],
+        "scientific": "Leotia lubrica",
+        "search_terms": [
+            "ズキンタケ",
+            "ずきんたけ",
+            "zukintake",
+            "Leotia lubrica"
+        ],
+        "normalized_terms": [
+            "ズキンタケ",
+            "ずきんたけ",
+            "zukintake",
+            "leotialubrica"
+        ]
+    },
+    {
+        "id": "mushroom_0385",
+        "category": "きのこ",
+        "name": "ミミブサタケ",
+        "kana": "ミミブサタケ",
+        "aliases": [
+            "ミミブサタケ"
+        ],
+        "romaji": [
+            "mimibusatake"
+        ],
+        "scientific": "Wynnea gigantea",
+        "search_terms": [
+            "ミミブサタケ",
+            "みみぶさたけ",
+            "mimibusatake",
+            "Wynnea gigantea"
+        ],
+        "normalized_terms": [
+            "ミミブサタケ",
+            "みみぶさたけ",
+            "mimibusatake",
+            "wynneagigantea"
+        ]
+    },
+    {
+        "id": "mushroom_0386",
+        "category": "きのこ",
+        "name": "ウスキキヌガサタケ",
+        "kana": "ウスキキヌガサタケ",
+        "aliases": [
+            "ウスキキヌガサタケ"
+        ],
+        "romaji": [
+            "usukikinugasatake"
+        ],
+        "scientific": "Phallus luteus",
+        "search_terms": [
+            "ウスキキヌガサタケ",
+            "うすききぬがさたけ",
+            "usukikinugasatake",
+            "Phallus luteus"
+        ],
+        "normalized_terms": [
+            "ウスキキヌガサタケ",
+            "うすききぬがさたけ",
+            "usukikinugasatake",
+            "phallusluteus"
+        ]
+    },
+    {
+        "id": "mushroom_0387",
+        "category": "きのこ",
+        "name": "キアミズキンタケ",
+        "kana": "キアミズキンタケ",
+        "aliases": [
+            "キアミズキンタケ"
+        ],
+        "romaji": [
+            "kiamizukintake"
+        ],
+        "scientific": "Lysurus periphragmoides",
+        "search_terms": [
+            "キアミズキンタケ",
+            "きあみずきんたけ",
+            "kiamizukintake",
+            "Lysurus periphragmoides"
+        ],
+        "normalized_terms": [
+            "キアミズキンタケ",
+            "きあみずきんたけ",
+            "kiamizukintake",
+            "lysurusperiphragmoides"
+        ]
+    },
+    {
+        "id": "mushroom_0388",
+        "category": "きのこ",
+        "name": "ケシボウズタケ",
+        "kana": "ケシボウズタケ",
+        "aliases": [
+            "ケシボウズタケ"
+        ],
+        "romaji": [
+            "keshibouzutake"
+        ],
+        "scientific": "Tulostoma brumale",
+        "search_terms": [
+            "ケシボウズタケ",
+            "けしぼうずたけ",
+            "keshibouzutake",
+            "Tulostoma brumale"
+        ],
+        "normalized_terms": [
+            "ケシボウズタケ",
+            "けしぼうずたけ",
+            "keshibouzutake",
+            "tulostomabrumale"
+        ]
+    },
+    {
+        "id": "mushroom_0389",
+        "category": "きのこ",
+        "name": "キツネノタイマツ",
+        "kana": "キツネノタイマツ",
+        "aliases": [
+            "キツネノタイマツ"
+        ],
+        "romaji": [
+            "kitsunenotaimatsu"
+        ],
+        "scientific": "Satyrus rugulosus",
+        "search_terms": [
+            "キツネノタイマツ",
+            "きつねのたいまつ",
+            "kitsunenotaimatsu",
+            "Satyrus rugulosus"
+        ],
+        "normalized_terms": [
+            "キツネノタイマツ",
+            "きつねのたいまつ",
+            "kitsunenotaimatsu",
+            "satyrusrugulosus"
+        ]
+    },
+    {
+        "id": "mushroom_0390",
+        "category": "きのこ",
+        "name": "ツネノチャダイゴケ",
+        "kana": "ツネノチャダイゴケ",
+        "aliases": [
+            "ツネノチャダイゴケ"
+        ],
+        "romaji": [
+            "tsunenochadaigoke"
+        ],
+        "scientific": "Crucibulum laeve",
+        "search_terms": [
+            "ツネノチャダイゴケ",
+            "つねのちゃだいごけ",
+            "tsunenochadaigoke",
+            "Crucibulum laeve"
+        ],
+        "normalized_terms": [
+            "ツネノチャダイゴケ",
+            "つねのちゃだいごけ",
+            "tsunenochadaigoke",
+            "crucibulumlaeve"
+        ]
+    },
+    {
+        "id": "mushroom_0391",
+        "category": "きのこ",
+        "name": "ゴムタケ",
+        "kana": "ゴムタケ",
+        "aliases": [
+            "ゴムタケ"
+        ],
+        "romaji": [
+            "gomutake"
+        ],
+        "scientific": "Bulgaria inquinans",
+        "search_terms": [
+            "ゴムタケ",
+            "ごむたけ",
+            "gomutake",
+            "Bulgaria inquinans"
+        ],
+        "normalized_terms": [
+            "ゴムタケ",
+            "ごむたけ",
+            "gomutake",
+            "bulgariainquinans"
+        ]
+    },
+    {
+        "id": "mushroom_0392",
+        "category": "きのこ",
+        "name": "ハナビラダクリオキン",
+        "kana": "ハナビラダクリオキン",
+        "aliases": [
+            "ハナビラダクリオキン"
+        ],
+        "romaji": [
+            "hanabiradakuriokin"
+        ],
+        "scientific": "Dacrymyces chrysospermus",
+        "search_terms": [
+            "ハナビラダクリオキン",
+            "はなびらだくりおきん",
+            "hanabiradakuriokin",
+            "Dacrymyces chrysospermus"
+        ],
+        "normalized_terms": [
+            "ハナビラダクリオキン",
+            "はなびらだくりおきん",
+            "hanabiradakuriokin",
+            "dacrymyceschrysospermus"
+        ]
+    },
+    {
+        "id": "mushroom_0393",
+        "category": "きのこ",
+        "name": "オサムシタケ",
+        "kana": "オサムシタケ",
+        "aliases": [
+            "オサムシタケ"
+        ],
+        "romaji": [
+            "osamushitake"
+        ],
+        "scientific": "Ophiocordyceps entomorrhiza",
+        "search_terms": [
+            "オサムシタケ",
+            "おさむしたけ",
+            "osamushitake",
+            "Ophiocordyceps entomorrhiza"
+        ],
+        "normalized_terms": [
+            "オサムシタケ",
+            "おさむしたけ",
+            "osamushitake",
+            "ophiocordycepsentomorrhiza"
+        ]
+    },
+    {
+        "id": "mushroom_0394",
+        "category": "きのこ",
+        "name": "タンポタケ",
+        "kana": "タンポタケ",
+        "aliases": [
+            "タンポタケ"
+        ],
+        "romaji": [
+            "tanpotake"
+        ],
+        "scientific": "Tolypocladium capitatum",
+        "search_terms": [
+            "タンポタケ",
+            "たんぽたけ",
+            "tanpotake",
+            "Tolypocladium capitatum"
+        ],
+        "normalized_terms": [
+            "タンポタケ",
+            "たんぽたけ",
+            "tanpotake",
+            "tolypocladiumcapitatum"
+        ]
+    },
+    {
+        "id": "mushroom_0395",
+        "category": "きのこ",
+        "name": "キホウキタケ",
+        "kana": "キホウキタケ",
+        "aliases": [
+            "キホウキタケ"
+        ],
+        "romaji": [
+            "kihoukitake"
+        ],
+        "scientific": "Ramaria flava",
+        "search_terms": [
+            "キホウキタケ",
+            "きほうきたけ",
+            "kihoukitake",
+            "Ramaria flava"
+        ],
+        "normalized_terms": [
+            "キホウキタケ",
+            "きほうきたけ",
+            "kihoukitake",
+            "ramariaflava"
+        ]
+    },
+    {
+        "id": "mushroom_0396",
+        "category": "きのこ",
+        "name": "ネンドタケ",
+        "kana": "ネンドタケ",
+        "aliases": [
+            "ネンドタケ"
+        ],
+        "romaji": [
+            "nendotake"
+        ],
+        "scientific": "Fuscoporia gilva",
+        "search_terms": [
+            "ネンドタケ",
+            "ねんどたけ",
+            "nendotake",
+            "Fuscoporia gilva"
+        ],
+        "normalized_terms": [
+            "ネンドタケ",
+            "ねんどたけ",
+            "nendotake",
+            "fuscoporiagilva"
+        ]
+    },
+    {
+        "id": "mushroom_0397",
+        "category": "きのこ",
+        "name": "クロコブタケ",
+        "kana": "クロコブタケ",
+        "aliases": [
+            "クロコブタケ"
+        ],
+        "romaji": [
+            "kurokobutake"
+        ],
+        "scientific": "Annulohypoxylon truncatum",
+        "search_terms": [
+            "クロコブタケ",
+            "くろこぶたけ",
+            "kurokobutake",
+            "Annulohypoxylon truncatum"
+        ],
+        "normalized_terms": [
+            "クロコブタケ",
+            "くろこぶたけ",
+            "kurokobutake",
+            "annulohypoxylontruncatum"
+        ]
+    },
+    {
+        "id": "mushroom_0398",
+        "category": "きのこ",
+        "name": "チャミダレアミタケ",
+        "kana": "チャミダレアミタケ",
+        "aliases": [
+            "チャミダレアミタケ"
+        ],
+        "romaji": [
+            "chamidareamitake"
+        ],
+        "scientific": "Daedaleopsis confragosa",
+        "search_terms": [
+            "チャミダレアミタケ",
+            "ちゃみだれあみたけ",
+            "chamidareamitake",
+            "Daedaleopsis confragosa"
+        ],
+        "normalized_terms": [
+            "チャミダレアミタケ",
+            "ちゃみだれあみたけ",
+            "chamidareamitake",
+            "daedaleopsisconfragosa"
+        ]
+    },
+    {
+        "id": "mushroom_0399",
+        "category": "きのこ",
+        "name": "カワウソタケ",
+        "kana": "カワウソタケ",
+        "aliases": [
+            "カワウソタケ"
+        ],
+        "romaji": [
+            "kawausotake"
+        ],
+        "scientific": "Inonotus mikadoi",
+        "search_terms": [
+            "カワウソタケ",
+            "かわうそたけ",
+            "kawausotake",
+            "Inonotus mikadoi"
+        ],
+        "normalized_terms": [
+            "カワウソタケ",
+            "かわうそたけ",
+            "kawausotake",
+            "inonotusmikadoi"
+        ]
+    },
+    {
+        "id": "mushroom_0400",
+        "category": "きのこ",
+        "name": "ウメノキゴケ",
+        "kana": "ウメノキゴケ",
+        "aliases": [
+            "ウメノキゴケ"
+        ],
+        "romaji": [
+            "umenokigoke"
+        ],
+        "scientific": "Parmotrema tinctorum",
+        "search_terms": [
+            "ウメノキゴケ",
+            "うめのきごけ",
+            "umenokigoke",
+            "Parmotrema tinctorum"
+        ],
+        "normalized_terms": [
+            "ウメノキゴケ",
+            "うめのきごけ",
+            "umenokigoke",
+            "parmotrematinctorum"
+        ]
+    },
+    {
+        "id": "mushroom_0401",
+        "category": "きのこ",
+        "name": "パイプタケ",
+        "kana": "パイプタケ",
+        "aliases": [
+            "パイプタケ"
+        ],
+        "romaji": [
+            "paiputake"
+        ],
+        "scientific": "Henningsomyces candidus",
+        "search_terms": [
+            "パイプタケ",
+            "ぱいぷたけ",
+            "paiputake",
+            "Henningsomyces candidus"
+        ],
+        "normalized_terms": [
+            "パイプタケ",
+            "ぱいぷたけ",
+            "paiputake",
+            "henningsomycescandidus"
+        ]
+    },
+    {
+        "id": "mushroom_0402",
+        "category": "きのこ",
+        "name": "ツリガネタケ",
+        "kana": "ツリガネタケ",
+        "aliases": [
+            "ツリガネタケ"
+        ],
+        "romaji": [
+            "tsuriganetake"
+        ],
+        "scientific": "Fomes fomentarius",
+        "search_terms": [
+            "ツリガネタケ",
+            "つりがねたけ",
+            "tsuriganetake",
+            "Fomes fomentarius"
+        ],
+        "normalized_terms": [
+            "ツリガネタケ",
+            "つりがねたけ",
+            "tsuriganetake",
+            "fomesfomentarius"
+        ]
+    },
+    {
+        "id": "mushroom_0403",
+        "category": "きのこ",
+        "name": "ニセキンカクアカビョウタケ",
+        "kana": "ニセキンカクアカビョウタケ",
+        "aliases": [
+            "ニセキンカクアカビョウタケ"
+        ],
+        "romaji": [
+            "nisekinkakuakabyoutake"
+        ],
+        "scientific": "Dicephalospora rufocornea",
+        "search_terms": [
+            "ニセキンカクアカビョウタケ",
+            "にせきんかくあかびょうたけ",
+            "nisekinkakuakabyoutake",
+            "Dicephalospora rufocornea"
+        ],
+        "normalized_terms": [
+            "ニセキンカクアカビョウタケ",
+            "にせきんかくあかびょうたけ",
+            "nisekinkakuakabyoutake",
+            "dicephalosporarufocornea"
+        ]
+    },
+    {
+        "id": "mushroom_0404",
+        "category": "きのこ",
+        "name": "ニクウスバタケ",
+        "kana": "ニクウスバタケ",
+        "aliases": [
+            "ニクウスバタケ"
+        ],
+        "romaji": [
+            "nikuusubatake"
+        ],
+        "scientific": "Irpex consors",
+        "search_terms": [
+            "ニクウスバタケ",
+            "にくうすばたけ",
+            "nikuusubatake",
+            "Irpex consors"
+        ],
+        "normalized_terms": [
+            "ニクウスバタケ",
+            "にくうすばたけ",
+            "nikuusubatake",
+            "irpexconsors"
+        ]
+    },
+    {
+        "id": "mushroom_0405",
+        "category": "きのこ",
+        "name": "ケシワウロコタケ",
+        "kana": "ケシワウロコタケ",
+        "aliases": [
+            "ケシワウロコタケ"
+        ],
+        "romaji": [
+            "keshiwaurokotake"
+        ],
+        "scientific": "Punctularia strigosozonata",
+        "search_terms": [
+            "ケシワウロコタケ",
+            "けしわうろこたけ",
+            "keshiwaurokotake",
+            "Punctularia strigosozonata"
+        ],
+        "normalized_terms": [
+            "ケシワウロコタケ",
+            "けしわうろこたけ",
+            "keshiwaurokotake",
+            "punctulariastrigosozonata"
+        ]
+    },
+    {
+        "id": "mushroom_0406",
+        "category": "きのこ",
+        "name": "オオミコブタケ",
+        "kana": "オオミコブタケ",
+        "aliases": [
+            "オオミコブタケ"
+        ],
+        "romaji": [
+            "oomikobutake"
+        ],
+        "scientific": "Kretzschmaria deusta",
+        "search_terms": [
+            "オオミコブタケ",
+            "おおみこぶたけ",
+            "oomikobutake",
+            "Kretzschmaria deusta"
+        ],
+        "normalized_terms": [
+            "オオミコブタケ",
+            "おおみこぶたけ",
+            "oomikobutake",
+            "kretzschmariadeusta"
+        ]
+    },
+    {
+        "id": "mushroom_0407",
+        "category": "きのこ",
+        "name": "オロシタケ",
+        "kana": "オロシタケ",
+        "aliases": [
+            "オロシタケ"
+        ],
+        "romaji": [
+            "oroshitake"
+        ],
+        "scientific": "Heterochaete delicata",
+        "search_terms": [
+            "オロシタケ",
+            "おろしたけ",
+            "oroshitake",
+            "Heterochaete delicata"
+        ],
+        "normalized_terms": [
+            "オロシタケ",
+            "おろしたけ",
+            "oroshitake",
+            "heterochaetedelicata"
+        ]
+    },
+    {
+        "id": "mushroom_0408",
+        "category": "きのこ",
+        "name": "キウメノキゴケ",
+        "kana": "キウメノキゴケ",
+        "aliases": [
+            "キウメノキゴケ"
+        ],
+        "romaji": [
+            "kiumenokigoke"
+        ],
+        "scientific": "Flavoparmelia caperata",
+        "search_terms": [
+            "キウメノキゴケ",
+            "きうめのきごけ",
+            "kiumenokigoke",
+            "Flavoparmelia caperata"
+        ],
+        "normalized_terms": [
+            "キウメノキゴケ",
+            "きうめのきごけ",
+            "kiumenokigoke",
+            "flavoparmeliacaperata"
+        ]
+    },
+    {
+        "id": "mushroom_0409",
+        "category": "きのこ",
+        "name": "モミジウロコタケ",
+        "kana": "モミジウロコタケ",
+        "aliases": [
+            "モミジウロコタケ"
+        ],
+        "romaji": [
+            "momijiurokotake"
+        ],
+        "scientific": "Xylobolus spectabilis",
+        "search_terms": [
+            "モミジウロコタケ",
+            "もみじうろこたけ",
+            "momijiurokotake",
+            "Xylobolus spectabilis"
+        ],
+        "normalized_terms": [
+            "モミジウロコタケ",
+            "もみじうろこたけ",
+            "momijiurokotake",
+            "xylobolusspectabilis"
+        ]
+    },
+    {
+        "id": "mushroom_0410",
+        "category": "きのこ",
+        "name": "チリメンタケ",
+        "kana": "チリメンタケ",
+        "aliases": [
+            "チリメンタケ"
+        ],
+        "romaji": [
+            "chirimentake"
+        ],
+        "scientific": "Trametes elegans",
+        "search_terms": [
+            "チリメンタケ",
+            "ちりめんたけ",
+            "chirimentake",
+            "Trametes elegans"
+        ],
+        "normalized_terms": [
+            "チリメンタケ",
+            "ちりめんたけ",
+            "chirimentake",
+            "trameteselegans"
+        ]
+    },
+    {
+        "id": "mushroom_0411",
+        "category": "きのこ",
+        "name": "ヤマジノカレバタケ",
+        "kana": "ヤマジノカレバタケ",
+        "aliases": [
+            "ヤマジノカレバタケ"
+        ],
+        "romaji": [
+            "yamajinokarebatake"
+        ],
+        "scientific": "Collybiopsis biformis",
+        "search_terms": [
+            "ヤマジノカレバタケ",
+            "やまじのかればたけ",
+            "yamajinokarebatake",
+            "Collybiopsis biformis"
+        ],
+        "normalized_terms": [
+            "ヤマジノカレバタケ",
+            "やまじのかればたけ",
+            "yamajinokarebatake",
+            "collybiopsisbiformis"
+        ]
+    },
+    {
+        "id": "mushroom_0412",
+        "category": "きのこ",
+        "name": "イヌセンボンタケ",
+        "kana": "イヌセンボンタケ",
+        "aliases": [
+            "イヌセンボンタケ"
+        ],
+        "romaji": [
+            "inusenbontake"
+        ],
+        "scientific": "Coprinellus disseminatus",
+        "search_terms": [
+            "イヌセンボンタケ",
+            "いぬせんぼんたけ",
+            "inusenbontake",
+            "Coprinellus disseminatus"
+        ],
+        "normalized_terms": [
+            "イヌセンボンタケ",
+            "いぬせんぼんたけ",
+            "inusenbontake",
+            "coprinellusdisseminatus"
+        ]
+    },
+    {
+        "id": "mushroom_0413",
+        "category": "きのこ",
+        "name": "ダイダイガサ",
+        "kana": "ダイダイガサ",
+        "aliases": [
+            "ダイダイガサ"
+        ],
+        "romaji": [
+            "daidaigasa"
+        ],
+        "scientific": "Cyptotrama asprata",
+        "search_terms": [
+            "ダイダイガサ",
+            "だいだいがさ",
+            "daidaigasa",
+            "Cyptotrama asprata"
+        ],
+        "normalized_terms": [
+            "ダイダイガサ",
+            "だいだいがさ",
+            "daidaigasa",
+            "cyptotramaasprata"
+        ]
+    },
+    {
+        "id": "mushroom_0414",
+        "category": "きのこ",
+        "name": "ナミガタウメノキゴケ",
+        "kana": "ナミガタウメノキゴケ",
+        "aliases": [
+            "ナミガタウメノキゴケ"
+        ],
+        "romaji": [
+            "namigataumenokigoke"
+        ],
+        "scientific": "Parmotrema austrosinense",
+        "search_terms": [
+            "ナミガタウメノキゴケ",
+            "なみがたうめのきごけ",
+            "namigataumenokigoke",
+            "Parmotrema austrosinense"
+        ],
+        "normalized_terms": [
+            "ナミガタウメノキゴケ",
+            "なみがたうめのきごけ",
+            "namigataumenokigoke",
+            "parmotremaaustrosinense"
+        ]
+    },
+    {
+        "id": "mushroom_0415",
+        "category": "きのこ",
+        "name": "ケガワタケ",
+        "kana": "ケガワタケ",
+        "aliases": [
+            "ケガワタケ"
+        ],
+        "romaji": [
+            "kegawatake"
+        ],
+        "scientific": "Lentinus squarrosulus",
+        "search_terms": [
+            "ケガワタケ",
+            "けがわたけ",
+            "kegawatake",
+            "Lentinus squarrosulus"
+        ],
+        "normalized_terms": [
+            "ケガワタケ",
+            "けがわたけ",
+            "kegawatake",
+            "lentinussquarrosulus"
+        ]
+    },
+    {
+        "id": "mushroom_0416",
+        "category": "きのこ",
+        "name": "ウラベニガサ",
+        "kana": "ウラベニガサ",
+        "aliases": [
+            "ウラベニガサ"
+        ],
+        "romaji": [
+            "urabenigasa"
+        ],
+        "scientific": "Pluteus cervinus",
+        "search_terms": [
+            "ウラベニガサ",
+            "うらべにがさ",
+            "urabenigasa",
+            "Pluteus cervinus"
+        ],
+        "normalized_terms": [
+            "ウラベニガサ",
+            "うらべにがさ",
+            "urabenigasa",
+            "pluteuscervinus"
+        ]
+    },
+    {
+        "id": "mushroom_0417",
+        "category": "きのこ",
+        "name": "チウロコタケ",
+        "kana": "チウロコタケ",
+        "aliases": [
+            "チウロコタケ"
+        ],
+        "romaji": [
+            "chiurokotake"
+        ],
+        "scientific": "Stereum gausapatum",
+        "search_terms": [
+            "チウロコタケ",
+            "ちうろこたけ",
+            "chiurokotake",
+            "Stereum gausapatum"
+        ],
+        "normalized_terms": [
+            "チウロコタケ",
+            "ちうろこたけ",
+            "chiurokotake",
+            "stereumgausapatum"
+        ]
+    },
+    {
+        "id": "mushroom_0418",
+        "category": "きのこ",
+        "name": "アナタケ",
+        "kana": "アナタケ",
+        "aliases": [
+            "アナタケ"
+        ],
+        "romaji": [
+            "anatake"
+        ],
+        "scientific": "Xylodon flaviporus",
+        "search_terms": [
+            "アナタケ",
+            "あなたけ",
+            "anatake",
+            "Xylodon flaviporus"
+        ],
+        "normalized_terms": [
+            "アナタケ",
+            "あなたけ",
+            "anatake",
+            "xylodonflaviporus"
+        ]
+    },
+    {
+        "id": "mushroom_0419",
+        "category": "きのこ",
+        "name": "キツネノハナガサ",
+        "kana": "キツネノハナガサ",
+        "aliases": [
+            "キツネノハナガサ"
+        ],
+        "romaji": [
+            "kitsunenohanagasa"
+        ],
+        "scientific": "Leucocoprinus fragilissimus",
+        "search_terms": [
+            "キツネノハナガサ",
+            "きつねのはながさ",
+            "kitsunenohanagasa",
+            "Leucocoprinus fragilissimus"
+        ],
+        "normalized_terms": [
+            "キツネノハナガサ",
+            "きつねのはながさ",
+            "kitsunenohanagasa",
+            "leucocoprinusfragilissimus"
+        ]
+    },
+    {
+        "id": "mushroom_0420",
+        "category": "きのこ",
+        "name": "ミダレアミタケ",
+        "kana": "ミダレアミタケ",
+        "aliases": [
+            "ミダレアミタケ"
+        ],
+        "romaji": [
+            "midareamitake"
+        ],
+        "scientific": "Cerrena unicolor",
+        "search_terms": [
+            "ミダレアミタケ",
+            "みだれあみたけ",
+            "midareamitake",
+            "Cerrena unicolor"
+        ],
+        "normalized_terms": [
+            "ミダレアミタケ",
+            "みだれあみたけ",
+            "midareamitake",
+            "cerrenaunicolor"
+        ]
+    },
+    {
+        "id": "mushroom_0421",
+        "category": "きのこ",
+        "name": "ツヤウチワタケ",
+        "kana": "ツヤウチワタケ",
+        "aliases": [
+            "ツヤウチワタケ"
+        ],
+        "romaji": [
+            "tsuyauchiwatake"
+        ],
+        "scientific": "Microporus vernicipes",
+        "search_terms": [
+            "ツヤウチワタケ",
+            "つやうちわたけ",
+            "tsuyauchiwatake",
+            "Microporus vernicipes"
+        ],
+        "normalized_terms": [
+            "ツヤウチワタケ",
+            "つやうちわたけ",
+            "tsuyauchiwatake",
+            "microporusvernicipes"
+        ]
+    },
+    {
+        "id": "mushroom_0422",
+        "category": "きのこ",
+        "name": "ツノフノリタケ",
+        "kana": "ツノフノリタケ",
+        "aliases": [
+            "ツノフノリタケ"
+        ],
+        "romaji": [
+            "tsunofunoritake"
+        ],
+        "scientific": "Calocera cornea",
+        "search_terms": [
+            "ツノフノリタケ",
+            "つのふのりたけ",
+            "tsunofunoritake",
+            "Calocera cornea"
+        ],
+        "normalized_terms": [
+            "ツノフノリタケ",
+            "つのふのりたけ",
+            "tsunofunoritake",
+            "caloceracornea"
+        ]
+    },
+    {
+        "id": "mushroom_0423",
+        "category": "きのこ",
+        "name": "スジウチワタケモドキ",
+        "kana": "スジウチワタケモドキ",
+        "aliases": [
+            "スジウチワタケモドキ"
+        ],
+        "romaji": [
+            "sujiuchiwatakemodoki"
+        ],
+        "scientific": "Favolus acervatus",
+        "search_terms": [
+            "スジウチワタケモドキ",
+            "すじうちわたけもどき",
+            "sujiuchiwatakemodoki",
+            "Favolus acervatus"
+        ],
+        "normalized_terms": [
+            "スジウチワタケモドキ",
+            "すじうちわたけもどき",
+            "sujiuchiwatakemodoki",
+            "favolusacervatus"
+        ]
+    },
+    {
+        "id": "mushroom_0424",
+        "category": "きのこ",
+        "name": "クシノハシワタケ",
+        "kana": "クシノハシワタケ",
+        "aliases": [
+            "クシノハシワタケ"
+        ],
+        "romaji": [
+            "kushinohashiwatake"
+        ],
+        "scientific": "Lopharia cinerascens",
+        "search_terms": [
+            "クシノハシワタケ",
+            "くしのはしわたけ",
+            "kushinohashiwatake",
+            "Lopharia cinerascens"
+        ],
+        "normalized_terms": [
+            "クシノハシワタケ",
+            "くしのはしわたけ",
+            "kushinohashiwatake",
+            "lophariacinerascens"
+        ]
+    },
+    {
+        "id": "mushroom_0425",
+        "category": "きのこ",
+        "name": "ムジナタケ",
+        "kana": "ムジナタケ",
+        "aliases": [
+            "ムジナタケ"
+        ],
+        "romaji": [
+            "mujinatake"
+        ],
+        "scientific": "Lacrymaria lacrymabunda",
+        "search_terms": [
+            "ムジナタケ",
+            "むじなたけ",
+            "mujinatake",
+            "Lacrymaria lacrymabunda"
+        ],
+        "normalized_terms": [
+            "ムジナタケ",
+            "むじなたけ",
+            "mujinatake",
+            "lacrymarialacrymabunda"
+        ]
+    },
+    {
+        "id": "mushroom_0426",
+        "category": "きのこ",
+        "name": "ネンドタケモドキ",
+        "kana": "ネンドタケモドキ",
+        "aliases": [
+            "ネンドタケモドキ"
+        ],
+        "romaji": [
+            "nendotakemodoki"
+        ],
+        "scientific": "Fuscoporia setifera",
+        "search_terms": [
+            "ネンドタケモドキ",
+            "ねんどたけもどき",
+            "nendotakemodoki",
+            "Fuscoporia setifera"
+        ],
+        "normalized_terms": [
+            "ネンドタケモドキ",
+            "ねんどたけもどき",
+            "nendotakemodoki",
+            "fuscoporiasetifera"
+        ]
+    },
+    {
+        "id": "mushroom_0427",
+        "category": "きのこ",
+        "name": "オニタケ",
+        "kana": "オニタケ",
+        "aliases": [
+            "オニタケ"
+        ],
+        "romaji": [
+            "onitake"
+        ],
+        "scientific": "Echinoderma asperum",
+        "search_terms": [
+            "オニタケ",
+            "おにたけ",
+            "onitake",
+            "Echinoderma asperum"
+        ],
+        "normalized_terms": [
+            "オニタケ",
+            "おにたけ",
+            "onitake",
+            "echinodermaasperum"
+        ]
+    },
+    {
+        "id": "mushroom_0428",
+        "category": "きのこ",
+        "name": "サガリハリタケ",
+        "kana": "サガリハリタケ",
+        "aliases": [
+            "サガリハリタケ"
+        ],
+        "romaji": [
+            "sagariharitake"
+        ],
+        "scientific": "Radulomyces copelandii",
+        "search_terms": [
+            "サガリハリタケ",
+            "さがりはりたけ",
+            "sagariharitake",
+            "Radulomyces copelandii"
+        ],
+        "normalized_terms": [
+            "サガリハリタケ",
+            "さがりはりたけ",
+            "sagariharitake",
+            "radulomycescopelandii"
+        ]
+    },
+    {
+        "id": "mushroom_0429",
+        "category": "きのこ",
+        "name": "ウズラタケ",
+        "kana": "ウズラタケ",
+        "aliases": [
+            "ウズラタケ"
+        ],
+        "romaji": [
+            "uzuratake"
+        ],
+        "scientific": "Truncospora ochroleuca",
+        "search_terms": [
+            "ウズラタケ",
+            "うずらたけ",
+            "uzuratake",
+            "Truncospora ochroleuca"
+        ],
+        "normalized_terms": [
+            "ウズラタケ",
+            "うずらたけ",
+            "uzuratake",
+            "truncosporaochroleuca"
+        ]
+    },
+    {
+        "id": "mushroom_0430",
+        "category": "きのこ",
+        "name": "ニッケイタケ",
+        "kana": "ニッケイタケ",
+        "aliases": [
+            "ニッケイタケ"
+        ],
+        "romaji": [
+            "nikkeitake"
+        ],
+        "scientific": "Coltricia cinnamomea",
+        "search_terms": [
+            "ニッケイタケ",
+            "にっけいたけ",
+            "nikkeitake",
+            "Coltricia cinnamomea"
+        ],
+        "normalized_terms": [
+            "ニッケイタケ",
+            "にっけいたけ",
+            "nikkeitake",
+            "coltriciacinnamomea"
+        ]
+    },
+    {
+        "id": "mushroom_0431",
+        "category": "きのこ",
+        "name": "ヒイロハリタケ",
+        "kana": "ヒイロハリタケ",
+        "aliases": [
+            "ヒイロハリタケ"
+        ],
+        "romaji": [
+            "hiiroharitake"
+        ],
+        "scientific": "Hydnophlebia chrysorhiza",
+        "search_terms": [
+            "ヒイロハリタケ",
+            "ひいろはりたけ",
+            "hiiroharitake",
+            "Hydnophlebia chrysorhiza"
+        ],
+        "normalized_terms": [
+            "ヒイロハリタケ",
+            "ひいろはりたけ",
+            "hiiroharitake",
+            "hydnophlebiachrysorhiza"
+        ]
+    },
+    {
+        "id": "mushroom_0432",
+        "category": "きのこ",
+        "name": "ニクハリタケ",
+        "kana": "ニクハリタケ",
+        "aliases": [
+            "ニクハリタケ"
+        ],
+        "romaji": [
+            "nikuharitake"
+        ],
+        "scientific": "Steccherinum ochraceum",
+        "search_terms": [
+            "ニクハリタケ",
+            "にくはりたけ",
+            "nikuharitake",
+            "Steccherinum ochraceum"
+        ],
+        "normalized_terms": [
+            "ニクハリタケ",
+            "にくはりたけ",
+            "nikuharitake",
+            "steccherinumochraceum"
+        ]
+    },
+    {
+        "id": "mushroom_0433",
+        "category": "きのこ",
+        "name": "ヒメシロウテナタケ",
+        "kana": "ヒメシロウテナタケ",
+        "aliases": [
+            "ヒメシロウテナタケ"
+        ],
+        "romaji": [
+            "himeshiroutenatake"
+        ],
+        "scientific": "Delicatula integrella",
+        "search_terms": [
+            "ヒメシロウテナタケ",
+            "ひめしろうてなたけ",
+            "himeshiroutenatake",
+            "Delicatula integrella"
+        ],
+        "normalized_terms": [
+            "ヒメシロウテナタケ",
+            "ひめしろうてなたけ",
+            "himeshiroutenatake",
+            "delicatulaintegrella"
+        ]
+    },
+    {
+        "id": "mushroom_0434",
+        "category": "きのこ",
+        "name": "ホウネンタケ",
+        "kana": "ホウネンタケ",
+        "aliases": [
+            "ホウネンタケ"
+        ],
+        "romaji": [
+            "hounentake"
+        ],
+        "scientific": "Abundisporus pubertatis",
+        "search_terms": [
+            "ホウネンタケ",
+            "ほうねんたけ",
+            "hounentake",
+            "Abundisporus pubertatis"
+        ],
+        "normalized_terms": [
+            "ホウネンタケ",
+            "ほうねんたけ",
+            "hounentake",
+            "abundisporuspubertatis"
+        ]
+    },
+    {
+        "id": "mushroom_0435",
+        "category": "きのこ",
+        "name": "カンゾウタケ",
+        "kana": "カンゾウタケ",
+        "aliases": [
+            "カンゾウタケ"
+        ],
+        "romaji": [
+            "kanzoutake"
+        ],
+        "scientific": "Fistulina hepatica",
+        "search_terms": [
+            "カンゾウタケ",
+            "かんぞうたけ",
+            "kanzoutake",
+            "Fistulina hepatica"
+        ],
+        "normalized_terms": [
+            "カンゾウタケ",
+            "かんぞうたけ",
+            "kanzoutake",
+            "fistulinahepatica"
+        ]
+    },
+    {
+        "id": "mushroom_0436",
+        "category": "きのこ",
+        "name": "フユノウスキサラタケ",
+        "kana": "フユノウスキサラタケ",
+        "aliases": [
+            "フユノウスキサラタケ"
+        ],
+        "romaji": [
+            "fuyunousukisaratake"
+        ],
+        "scientific": "Chlorosplenium chlora",
+        "search_terms": [
+            "フユノウスキサラタケ",
+            "ふゆのうすきさらたけ",
+            "fuyunousukisaratake",
+            "Chlorosplenium chlora"
+        ],
+        "normalized_terms": [
+            "フユノウスキサラタケ",
+            "ふゆのうすきさらたけ",
+            "fuyunousukisaratake",
+            "chlorospleniumchlora"
+        ]
+    },
+    {
+        "id": "mushroom_0437",
+        "category": "きのこ",
+        "name": "コフキメダルチイ",
+        "kana": "コフキメダルチイ",
+        "aliases": [
+            "コフキメダルチイ"
+        ],
+        "romaji": [
+            "kofukimedaruchii"
+        ],
+        "scientific": "Dirinaria applanata",
+        "search_terms": [
+            "コフキメダルチイ",
+            "こふきめだるちい",
+            "kofukimedaruchii",
+            "Dirinaria applanata"
+        ],
+        "normalized_terms": [
+            "コフキメダルチイ",
+            "こふきめだるちい",
+            "kofukimedaruchii",
+            "dirinariaapplanata"
+        ]
+    },
+    {
+        "id": "mushroom_0438",
+        "category": "きのこ",
+        "name": "シバフタケ",
+        "kana": "シバフタケ",
+        "aliases": [
+            "シバフタケ"
+        ],
+        "romaji": [
+            "shibafutake"
+        ],
+        "scientific": "Marasmius oreades",
+        "search_terms": [
+            "シバフタケ",
+            "しばふたけ",
+            "shibafutake",
+            "Marasmius oreades"
+        ],
+        "normalized_terms": [
+            "シバフタケ",
+            "しばふたけ",
+            "shibafutake",
+            "marasmiusoreades"
+        ]
+    },
+    {
+        "id": "mushroom_0439",
+        "category": "きのこ",
+        "name": "シジミタケ",
+        "kana": "シジミタケ",
+        "aliases": [
+            "シジミタケ"
+        ],
+        "romaji": [
+            "shijimitake"
+        ],
+        "scientific": "Resupinatus applicatus",
+        "search_terms": [
+            "シジミタケ",
+            "しじみたけ",
+            "shijimitake",
+            "Resupinatus applicatus"
+        ],
+        "normalized_terms": [
+            "シジミタケ",
+            "しじみたけ",
+            "shijimitake",
+            "resupinatusapplicatus"
+        ]
+    },
+    {
+        "id": "mushroom_0440",
+        "category": "きのこ",
+        "name": "アセハリタケ",
+        "kana": "アセハリタケ",
+        "aliases": [
+            "アセハリタケ"
+        ],
+        "romaji": [
+            "aseharitake"
+        ],
+        "scientific": "Donkia pulcherrima",
+        "search_terms": [
+            "アセハリタケ",
+            "あせはりたけ",
+            "aseharitake",
+            "Donkia pulcherrima"
+        ],
+        "normalized_terms": [
+            "アセハリタケ",
+            "あせはりたけ",
+            "aseharitake",
+            "donkiapulcherrima"
+        ]
+    },
+    {
+        "id": "mushroom_0441",
+        "category": "きのこ",
+        "name": "ニカワホウキタケ",
+        "kana": "ニカワホウキタケ",
+        "aliases": [
+            "ニカワホウキタケ"
+        ],
+        "romaji": [
+            "nikawahoukitake"
+        ],
+        "scientific": "Calocera viscosa",
+        "search_terms": [
+            "ニカワホウキタケ",
+            "にかわほうきたけ",
+            "nikawahoukitake",
+            "Calocera viscosa"
+        ],
+        "normalized_terms": [
+            "ニカワホウキタケ",
+            "にかわほうきたけ",
+            "nikawahoukitake",
+            "caloceraviscosa"
+        ]
+    },
+    {
+        "id": "mushroom_0442",
+        "category": "きのこ",
+        "name": "カニノツメ",
+        "kana": "カニノツメ",
+        "aliases": [
+            "カニノツメ"
+        ],
+        "romaji": [
+            "kaninotsume"
+        ],
+        "scientific": "Clathrus bicolumnatus",
+        "search_terms": [
+            "カニノツメ",
+            "かにのつめ",
+            "kaninotsume",
+            "Clathrus bicolumnatus"
+        ],
+        "normalized_terms": [
+            "カニノツメ",
+            "かにのつめ",
+            "kaninotsume",
+            "clathrusbicolumnatus"
+        ]
+    },
+    {
+        "id": "mushroom_0443",
+        "category": "きのこ",
+        "name": "ヒメコナカブリツルタケ",
+        "kana": "ヒメコナカブリツルタケ",
+        "aliases": [
+            "ヒメコナカブリツルタケ"
+        ],
+        "romaji": [
+            "himekonakaburitsurutake"
+        ],
+        "scientific": "Amanita farinosa",
+        "search_terms": [
+            "ヒメコナカブリツルタケ",
+            "ひめこなかぶりつるたけ",
+            "himekonakaburitsurutake",
+            "Amanita farinosa"
+        ],
+        "normalized_terms": [
+            "ヒメコナカブリツルタケ",
+            "ひめこなかぶりつるたけ",
+            "himekonakaburitsurutake",
+            "amanitafarinosa"
+        ]
+    },
+    {
+        "id": "mushroom_0444",
+        "category": "きのこ",
+        "name": "ツバキキンカクチャワンタケ",
+        "kana": "ツバキキンカクチャワンタケ",
+        "aliases": [
+            "ツバキキンカクチャワンタケ"
+        ],
+        "romaji": [
+            "tsubakikinkakuchawantake"
+        ],
+        "scientific": "Ciborinia camelliae",
+        "search_terms": [
+            "ツバキキンカクチャワンタケ",
+            "つばききんかくちゃわんたけ",
+            "tsubakikinkakuchawantake",
+            "Ciborinia camelliae"
+        ],
+        "normalized_terms": [
+            "ツバキキンカクチャワンタケ",
+            "つばききんかくちゃわんたけ",
+            "tsubakikinkakuchawantake",
+            "ciboriniacamelliae"
+        ]
+    },
+    {
+        "id": "mushroom_0445",
+        "category": "きのこ",
+        "name": "ヘリトリゴケ",
+        "kana": "ヘリトリゴケ",
+        "aliases": [
+            "ヘリトリゴケ"
+        ],
+        "romaji": [
+            "heritorigoke"
+        ],
+        "scientific": "Porpidia albocaerulescens",
+        "search_terms": [
+            "ヘリトリゴケ",
+            "へりとりごけ",
+            "heritorigoke",
+            "Porpidia albocaerulescens"
+        ],
+        "normalized_terms": [
+            "ヘリトリゴケ",
+            "へりとりごけ",
+            "heritorigoke",
+            "porpidiaalbocaerulescens"
+        ]
+    },
+    {
+        "id": "mushroom_0446",
+        "category": "きのこ",
+        "name": "ワヒダタケ",
+        "kana": "ワヒダタケ",
+        "aliases": [
+            "ワヒダタケ"
+        ],
+        "romaji": [
+            "wahidatake"
+        ],
+        "scientific": "Hymenochaete cyclolamellata",
+        "search_terms": [
+            "ワヒダタケ",
+            "わひだたけ",
+            "wahidatake",
+            "Hymenochaete cyclolamellata"
+        ],
+        "normalized_terms": [
+            "ワヒダタケ",
+            "わひだたけ",
+            "wahidatake",
+            "hymenochaetecyclolamellata"
+        ]
+    },
+    {
+        "id": "mushroom_0447",
+        "category": "きのこ",
+        "name": "カシ類紫かび病菌",
+        "kana": "カシルイムラサキカビビョウキン",
+        "aliases": [
+            "カシ類紫かび病菌"
+        ],
+        "romaji": [
+            "kashiruimurasakikabibyoukin"
+        ],
+        "scientific": "Cystotheca wrightii",
+        "search_terms": [
+            "カシ類紫かび病菌",
+            "カシルイムラサキカビビョウキン",
+            "かしるいむらさきかびびょうきん",
+            "かし類紫かび病菌",
+            "kashiruimurasakikabibyoukin",
+            "Cystotheca wrightii"
+        ],
+        "normalized_terms": [
+            "カシ類紫かび病菌",
+            "カシルイムラサキカビビョウキン",
+            "かしるいむらさきかびびょうきん",
+            "かし類紫かび病菌",
+            "kashiruimurasakikabibyoukin",
+            "cystothecawrightii"
+        ]
+    },
+    {
+        "id": "mushroom_0448",
+        "category": "きのこ",
+        "name": "ニオイドクツルタケ",
+        "kana": "ニオイドクツルタケ",
+        "aliases": [
+            "ニオイドクツルタケ"
+        ],
+        "romaji": [
+            "nioidokutsurutake"
+        ],
+        "scientific": "Amanita oberwinkleriana",
+        "search_terms": [
+            "ニオイドクツルタケ",
+            "においどくつるたけ",
+            "nioidokutsurutake",
+            "Amanita oberwinkleriana"
+        ],
+        "normalized_terms": [
+            "ニオイドクツルタケ",
+            "においどくつるたけ",
+            "nioidokutsurutake",
+            "amanitaoberwinkleriana"
+        ]
+    },
+    {
+        "id": "mushroom_0449",
+        "category": "きのこ",
+        "name": "エノキ裏うどんこ病菌",
+        "kana": "エノキウラウドンコビョウキン",
+        "aliases": [
+            "エノキ裏うどんこ病菌"
+        ],
+        "romaji": [
+            "enokiuraudonkobyoukin"
+        ],
+        "scientific": "Pleochaeta shiraiana",
+        "search_terms": [
+            "エノキ裏うどんこ病菌",
+            "エノキウラウドンコビョウキン",
+            "えのきうらうどんこびょうきん",
+            "えのき裏うどんこ病菌",
+            "enokiuraudonkobyoukin",
+            "Pleochaeta shiraiana"
+        ],
+        "normalized_terms": [
+            "エノキ裏うどんこ病菌",
+            "エノキウラウドンコビョウキン",
+            "えのきうらうどんこびょうきん",
+            "えのき裏うどんこ病菌",
+            "enokiuraudonkobyoukin",
+            "pleochaetashiraiana"
+        ]
+    },
+    {
+        "id": "mushroom_0450",
+        "category": "きのこ",
+        "name": "アシグロホウライタケ",
+        "kana": "アシグロホウライタケ",
+        "aliases": [
+            "アシグロホウライタケ"
+        ],
+        "romaji": [
+            "ashigurohouraitake"
+        ],
+        "scientific": "Tetrapyrgos nigripes",
+        "search_terms": [
+            "アシグロホウライタケ",
+            "あしぐろほうらいたけ",
+            "ashigurohouraitake",
+            "Tetrapyrgos nigripes"
+        ],
+        "normalized_terms": [
+            "アシグロホウライタケ",
+            "あしぐろほうらいたけ",
+            "ashigurohouraitake",
+            "tetrapyrgosnigripes"
+        ]
+    },
+    {
+        "id": "mushroom_0451",
+        "category": "きのこ",
+        "name": "ウスキサナギタケ",
+        "kana": "ウスキサナギタケ",
+        "aliases": [
+            "ウスキサナギタケ"
+        ],
+        "romaji": [
+            "usukisanagitake"
+        ],
+        "scientific": "Cordyceps tenuipes",
+        "search_terms": [
+            "ウスキサナギタケ",
+            "うすきさなぎたけ",
+            "usukisanagitake",
+            "Cordyceps tenuipes"
+        ],
+        "normalized_terms": [
+            "ウスキサナギタケ",
+            "うすきさなぎたけ",
+            "usukisanagitake",
+            "cordycepstenuipes"
+        ]
+    },
+    {
+        "id": "mushroom_0452",
+        "category": "きのこ",
+        "name": "スズキセミタケ",
+        "kana": "スズキセミタケ",
+        "aliases": [
+            "スズキセミタケ"
+        ],
+        "romaji": [
+            "suzukisemitake"
+        ],
+        "scientific": "Purpureocillium takamizusanense",
+        "search_terms": [
+            "スズキセミタケ",
+            "すずきせみたけ",
+            "suzukisemitake",
+            "Purpureocillium takamizusanense"
+        ],
+        "normalized_terms": [
+            "スズキセミタケ",
+            "すずきせみたけ",
+            "suzukisemitake",
+            "purpureocilliumtakamizusanense"
+        ]
+    },
+    {
+        "id": "mushroom_0453",
+        "category": "きのこ",
+        "name": "ワサビタケ",
+        "kana": "ワサビタケ",
+        "aliases": [
+            "ワサビタケ"
+        ],
+        "romaji": [
+            "wasabitake"
+        ],
+        "scientific": "Panellus stipticus",
+        "search_terms": [
+            "ワサビタケ",
+            "わさびたけ",
+            "wasabitake",
+            "Panellus stipticus"
+        ],
+        "normalized_terms": [
+            "ワサビタケ",
+            "わさびたけ",
+            "wasabitake",
+            "panellusstipticus"
+        ]
+    },
+    {
+        "id": "mushroom_0454",
+        "category": "きのこ",
+        "name": "アラゲカワキタケ",
+        "kana": "アラゲカワキタケ",
+        "aliases": [
+            "アラゲカワキタケ"
+        ],
+        "romaji": [
+            "aragekawakitake"
+        ],
+        "scientific": "Panus lecomtei",
+        "search_terms": [
+            "アラゲカワキタケ",
+            "あらげかわきたけ",
+            "aragekawakitake",
+            "Panus lecomtei"
+        ],
+        "normalized_terms": [
+            "アラゲカワキタケ",
+            "あらげかわきたけ",
+            "aragekawakitake",
+            "panuslecomtei"
+        ]
+    },
+    {
+        "id": "mushroom_0455",
+        "category": "きのこ",
+        "name": "マツゲゴケ",
+        "kana": "マツゲゴケ",
+        "aliases": [
+            "マツゲゴケ"
+        ],
+        "romaji": [
+            "matsugegoke"
+        ],
+        "scientific": "Parmotrema clavuliferum",
+        "search_terms": [
+            "マツゲゴケ",
+            "まつげごけ",
+            "matsugegoke",
+            "Parmotrema clavuliferum"
+        ],
+        "normalized_terms": [
+            "マツゲゴケ",
+            "まつげごけ",
+            "matsugegoke",
+            "parmotremaclavuliferum"
+        ]
+    },
+    {
+        "id": "mushroom_0456",
+        "category": "きのこ",
+        "name": "オシロイタケ",
+        "kana": "オシロイタケ",
+        "aliases": [
+            "オシロイタケ"
+        ],
+        "romaji": [
+            "oshiroitake"
+        ],
+        "scientific": "Tyromyces chioneus",
+        "search_terms": [
+            "オシロイタケ",
+            "おしろいたけ",
+            "oshiroitake",
+            "Tyromyces chioneus"
+        ],
+        "normalized_terms": [
+            "オシロイタケ",
+            "おしろいたけ",
+            "oshiroitake",
+            "tyromyceschioneus"
+        ]
+    },
+    {
+        "id": "mushroom_0457",
+        "category": "きのこ",
+        "name": "ロウソクゴケ（広義）",
+        "kana": "ロウソクゴケ",
+        "aliases": [
+            "ロウソクゴケ（広義）"
+        ],
+        "romaji": [
+            "rousokugoke"
+        ],
+        "scientific": "Candelaria concolor",
+        "search_terms": [
+            "ロウソクゴケ（広義）",
+            "ロウソクゴケ",
+            "ろうそくごけ",
+            "ろうそくごけ（広義）",
+            "rousokugoke",
+            "Candelaria concolor"
+        ],
+        "normalized_terms": [
+            "ロウソクゴケ(広義)",
+            "ロウソクゴケ",
+            "ろうそくごけ",
+            "ろうそくごけ(広義)",
+            "rousokugoke",
+            "candelariaconcolor"
+        ]
+    },
+    {
+        "id": "mushroom_0458",
+        "category": "きのこ",
+        "name": "ウスベニイタチタケ",
+        "kana": "ウスベニイタチタケ",
+        "aliases": [
+            "ウスベニイタチタケ"
+        ],
+        "romaji": [
+            "usubeniitachitake"
+        ],
+        "scientific": "Psathyrella bipellis",
+        "search_terms": [
+            "ウスベニイタチタケ",
+            "うすべにいたちたけ",
+            "usubeniitachitake",
+            "Psathyrella bipellis"
+        ],
+        "normalized_terms": [
+            "ウスベニイタチタケ",
+            "うすべにいたちたけ",
+            "usubeniitachitake",
+            "psathyrellabipellis"
+        ]
+    },
+    {
+        "id": "mushroom_0459",
+        "category": "きのこ",
+        "name": "オリーブサカズキタケ",
+        "kana": "オリーブサカズキタケ",
+        "aliases": [
+            "オリーブサカズキタケ"
+        ],
+        "romaji": [
+            "oriibusakazukitake"
+        ],
+        "scientific": "Gerronema nemorale",
+        "search_terms": [
+            "オリーブサカズキタケ",
+            "おりーぶさかずきたけ",
+            "oriibusakazukitake",
+            "Gerronema nemorale"
+        ],
+        "normalized_terms": [
+            "オリーブサカズキタケ",
+            "おりーぶさかずきたけ",
+            "oriibusakazukitake",
+            "gerronemanemorale"
+        ]
+    },
+    {
+        "id": "mushroom_0460",
+        "category": "きのこ",
+        "name": "ロウタケ",
+        "kana": "ロウタケ",
+        "aliases": [
+            "ロウタケ"
+        ],
+        "romaji": [
+            "routake"
+        ],
+        "scientific": "Sebacina incrustans",
+        "search_terms": [
+            "ロウタケ",
+            "ろうたけ",
+            "routake",
+            "Sebacina incrustans"
+        ],
+        "normalized_terms": [
+            "ロウタケ",
+            "ろうたけ",
+            "routake",
+            "sebacinaincrustans"
+        ]
+    },
+    {
+        "id": "mushroom_0461",
+        "category": "きのこ",
+        "name": "アオキオチバタケ",
+        "kana": "アオキオチバタケ",
+        "aliases": [
+            "アオキオチバタケ"
+        ],
+        "romaji": [
+            "aokiochibatake"
+        ],
+        "scientific": "Cryptomarasmius aucubae",
+        "search_terms": [
+            "アオキオチバタケ",
+            "あおきおちばたけ",
+            "aokiochibatake",
+            "Cryptomarasmius aucubae"
+        ],
+        "normalized_terms": [
+            "アオキオチバタケ",
+            "あおきおちばたけ",
+            "aokiochibatake",
+            "cryptomarasmiusaucubae"
+        ]
+    },
+    {
+        "id": "mushroom_0462",
+        "category": "きのこ",
+        "name": "シトネタケ",
+        "kana": "シトネタケ",
+        "aliases": [
+            "シトネタケ"
+        ],
+        "romaji": [
+            "shitonetake"
+        ],
+        "scientific": "Diatrype stigma",
+        "search_terms": [
+            "シトネタケ",
+            "しとねたけ",
+            "shitonetake",
+            "Diatrype stigma"
+        ],
+        "normalized_terms": [
+            "シトネタケ",
+            "しとねたけ",
+            "shitonetake",
+            "diatrypestigma"
+        ]
+    },
+    {
+        "id": "mushroom_0463",
+        "category": "きのこ",
+        "name": "コガネハナイグチ",
+        "kana": "コガネハナイグチ",
+        "aliases": [
+            "コガネハナイグチ"
+        ],
+        "romaji": [
+            "koganehanaiguchi"
+        ],
+        "scientific": "Suillus grevillei",
+        "search_terms": [
+            "コガネハナイグチ",
+            "こがねはないぐち",
+            "koganehanaiguchi",
+            "Suillus grevillei"
+        ],
+        "normalized_terms": [
+            "コガネハナイグチ",
+            "こがねはないぐち",
+            "koganehanaiguchi",
+            "suillusgrevillei"
+        ]
+    },
+    {
+        "id": "mushroom_0464",
+        "category": "きのこ",
+        "name": "ツブダイダイゴケ",
+        "kana": "ツブダイダイゴケ",
+        "aliases": [
+            "ツブダイダイゴケ"
+        ],
+        "romaji": [
+            "tsubudaidaigoke"
+        ],
+        "scientific": "Gyalolechia flavovirescens",
+        "search_terms": [
+            "ツブダイダイゴケ",
+            "つぶだいだいごけ",
+            "tsubudaidaigoke",
+            "Gyalolechia flavovirescens"
+        ],
+        "normalized_terms": [
+            "ツブダイダイゴケ",
+            "つぶだいだいごけ",
+            "tsubudaidaigoke",
+            "gyalolechiaflavovirescens"
+        ]
+    },
+    {
+        "id": "mushroom_0465",
+        "category": "きのこ",
+        "name": "フクロキクラゲ",
+        "kana": "フクロキクラゲ",
+        "aliases": [
+            "フクロキクラゲ"
+        ],
+        "romaji": [
+            "fukurokikurage"
+        ],
+        "scientific": "Sirobasidium magnum",
+        "search_terms": [
+            "フクロキクラゲ",
+            "ふくろきくらげ",
+            "fukurokikurage",
+            "Sirobasidium magnum"
+        ],
+        "normalized_terms": [
+            "フクロキクラゲ",
+            "ふくろきくらげ",
+            "fukurokikurage",
+            "sirobasidiummagnum"
+        ]
+    },
+    {
+        "id": "mushroom_0466",
+        "category": "きのこ",
+        "name": "チャコブタケ",
+        "kana": "チャコブタケ",
+        "aliases": [
+            "チャコブタケ"
+        ],
+        "romaji": [
+            "chakobutake"
+        ],
+        "scientific": "Daldinia childiae",
+        "search_terms": [
+            "チャコブタケ",
+            "ちゃこぶたけ",
+            "chakobutake",
+            "Daldinia childiae"
+        ],
+        "normalized_terms": [
+            "チャコブタケ",
+            "ちゃこぶたけ",
+            "chakobutake",
+            "daldiniachildiae"
+        ]
+    },
+    {
+        "id": "mushroom_0467",
+        "category": "きのこ",
+        "name": "センベイタケ",
+        "kana": "センベイタケ",
+        "aliases": [
+            "センベイタケ"
+        ],
+        "romaji": [
+            "senbeitake"
+        ],
+        "scientific": "Coriolopsis strumosa",
+        "search_terms": [
+            "センベイタケ",
+            "せんべいたけ",
+            "senbeitake",
+            "Coriolopsis strumosa"
+        ],
+        "normalized_terms": [
+            "センベイタケ",
+            "せんべいたけ",
+            "senbeitake",
+            "coriolopsisstrumosa"
+        ]
+    },
+    {
+        "id": "mushroom_0468",
+        "category": "きのこ",
+        "name": "ハクテンゴケ",
+        "kana": "ハクテンゴケ",
+        "aliases": [
+            "ハクテンゴケ"
+        ],
+        "romaji": [
+            "hakutengoke"
+        ],
+        "scientific": "Punctelia borreri",
+        "search_terms": [
+            "ハクテンゴケ",
+            "はくてんごけ",
+            "hakutengoke",
+            "Punctelia borreri"
+        ],
+        "normalized_terms": [
+            "ハクテンゴケ",
+            "はくてんごけ",
+            "hakutengoke",
+            "puncteliaborreri"
+        ]
+    },
+    {
+        "id": "mushroom_0469",
+        "category": "きのこ",
+        "name": "レプラゴケ",
+        "kana": "レプラゴケ",
+        "aliases": [
+            "レプラゴケ"
+        ],
+        "romaji": [
+            "repuragoke"
+        ],
+        "scientific": "Lepraria finkii",
+        "search_terms": [
+            "レプラゴケ",
+            "れぷらごけ",
+            "repuragoke",
+            "Lepraria finkii"
+        ],
+        "normalized_terms": [
+            "レプラゴケ",
+            "れぷらごけ",
+            "repuragoke",
+            "leprariafinkii"
+        ]
+    },
+    {
+        "id": "mushroom_0470",
+        "category": "きのこ",
+        "name": "エビウラタケ",
+        "kana": "エビウラタケ",
+        "aliases": [
+            "エビウラタケ"
+        ],
+        "romaji": [
+            "ebiuratake"
+        ],
+        "scientific": "Gloeoporus dichrous",
+        "search_terms": [
+            "エビウラタケ",
+            "えびうらたけ",
+            "ebiuratake",
+            "Gloeoporus dichrous"
+        ],
+        "normalized_terms": [
+            "エビウラタケ",
+            "えびうらたけ",
+            "ebiuratake",
+            "gloeoporusdichrous"
+        ]
+    },
+    {
+        "id": "mushroom_0471",
+        "category": "きのこ",
+        "name": "アミヒカリタケ",
+        "kana": "アミヒカリタケ",
+        "aliases": [
+            "アミヒカリタケ"
+        ],
+        "romaji": [
+            "amihikaritake"
+        ],
+        "scientific": "Favolaschia manipularis",
+        "search_terms": [
+            "アミヒカリタケ",
+            "あみひかりたけ",
+            "amihikaritake",
+            "Favolaschia manipularis"
+        ],
+        "normalized_terms": [
+            "アミヒカリタケ",
+            "あみひかりたけ",
+            "amihikaritake",
+            "favolaschiamanipularis"
+        ]
+    },
+    {
+        "id": "mushroom_0472",
+        "category": "きのこ",
+        "name": "アオキ星型すす病菌",
+        "kana": "アオキホシガタススビョウキン",
+        "aliases": [
+            "アオキ星型すす病菌"
+        ],
+        "romaji": [
+            "aokihoshigatasusubyoukin"
+        ],
+        "scientific": "Asterina aucubae",
+        "search_terms": [
+            "アオキ星型すす病菌",
+            "アオキホシガタススビョウキン",
+            "あおきほしがたすすびょうきん",
+            "あおき星型すす病菌",
+            "aokihoshigatasusubyoukin",
+            "Asterina aucubae"
+        ],
+        "normalized_terms": [
+            "アオキ星型すす病菌",
+            "アオキホシガタススビョウキン",
+            "あおきほしがたすすびょうきん",
+            "あおき星型すす病菌",
+            "aokihoshigatasusubyoukin",
+            "asterinaaucubae"
+        ]
+    },
+    {
+        "id": "mushroom_0473",
+        "category": "きのこ",
+        "name": "ウスバタケ",
+        "kana": "ウスバタケ",
+        "aliases": [
+            "ウスバタケ"
+        ],
+        "romaji": [
+            "usubatake"
+        ],
+        "scientific": "Irpex lacteus",
+        "search_terms": [
+            "ウスバタケ",
+            "うすばたけ",
+            "usubatake",
+            "Irpex lacteus"
+        ],
+        "normalized_terms": [
+            "ウスバタケ",
+            "うすばたけ",
+            "usubatake",
+            "irpexlacteus"
+        ]
+    },
+    {
+        "id": "mushroom_0474",
+        "category": "きのこ",
+        "name": "クスノアザコブタケ",
+        "kana": "クスノアザコブタケ",
+        "aliases": [
+            "クスノアザコブタケ"
+        ],
+        "romaji": [
+            "kusunoazakobutake"
+        ],
+        "scientific": "Whalleya microplaca",
+        "search_terms": [
+            "クスノアザコブタケ",
+            "くすのあざこぶたけ",
+            "kusunoazakobutake",
+            "Whalleya microplaca"
+        ],
+        "normalized_terms": [
+            "クスノアザコブタケ",
+            "くすのあざこぶたけ",
+            "kusunoazakobutake",
+            "whalleyamicroplaca"
+        ]
+    },
+    {
+        "id": "mushroom_0475",
+        "category": "きのこ",
+        "name": "コメハリタケ",
+        "kana": "コメハリタケ",
+        "aliases": [
+            "コメハリタケ"
+        ],
+        "romaji": [
+            "komeharitake"
+        ],
+        "scientific": "Mucronella calva",
+        "search_terms": [
+            "コメハリタケ",
+            "こめはりたけ",
+            "komeharitake",
+            "Mucronella calva"
+        ],
+        "normalized_terms": [
+            "コメハリタケ",
+            "こめはりたけ",
+            "komeharitake",
+            "mucronellacalva"
+        ]
+    },
+    {
+        "id": "mushroom_0476",
+        "category": "きのこ",
+        "name": "クチベニタケ",
+        "kana": "クチベニタケ",
+        "aliases": [
+            "クチベニタケ"
+        ],
+        "romaji": [
+            "kuchibenitake"
+        ],
+        "scientific": "Calostoma japonicum",
+        "search_terms": [
+            "クチベニタケ",
+            "くちべにたけ",
+            "kuchibenitake",
+            "Calostoma japonicum"
+        ],
+        "normalized_terms": [
+            "クチベニタケ",
+            "くちべにたけ",
+            "kuchibenitake",
+            "calostomajaponicum"
+        ]
+    },
+    {
+        "id": "mushroom_0477",
+        "category": "きのこ",
+        "name": "ナガエノチャワンタケ",
+        "kana": "ナガエノチャワンタケ",
+        "aliases": [
+            "ナガエノチャワンタケ"
+        ],
+        "romaji": [
+            "nagaenochawantake"
+        ],
+        "scientific": "Helvella macropus",
+        "search_terms": [
+            "ナガエノチャワンタケ",
+            "ながえのちゃわんたけ",
+            "nagaenochawantake",
+            "Helvella macropus"
+        ],
+        "normalized_terms": [
+            "ナガエノチャワンタケ",
+            "ながえのちゃわんたけ",
+            "nagaenochawantake",
+            "helvellamacropus"
+        ]
+    },
+    {
+        "id": "mushroom_0478",
+        "category": "きのこ",
+        "name": "オオボタンタケ",
+        "kana": "オオボタンタケ",
+        "aliases": [
+            "オオボタンタケ"
+        ],
+        "romaji": [
+            "oobotantake"
+        ],
+        "scientific": "Trichoderma peltatum",
+        "search_terms": [
+            "オオボタンタケ",
+            "おおぼたんたけ",
+            "oobotantake",
+            "Trichoderma peltatum"
+        ],
+        "normalized_terms": [
+            "オオボタンタケ",
+            "おおぼたんたけ",
+            "oobotantake",
+            "trichodermapeltatum"
+        ]
+    },
+    {
+        "id": "mushroom_0479",
+        "category": "きのこ",
+        "name": "ヒメジョウゴゴケ",
+        "kana": "ヒメジョウゴゴケ",
+        "aliases": [
+            "ヒメジョウゴゴケ"
+        ],
+        "romaji": [
+            "himejougogoke"
+        ],
+        "scientific": "Cladonia kurokawae",
+        "search_terms": [
+            "ヒメジョウゴゴケ",
+            "ひめじょうごごけ",
+            "himejougogoke",
+            "Cladonia kurokawae"
+        ],
+        "normalized_terms": [
+            "ヒメジョウゴゴケ",
+            "ひめじょうごごけ",
+            "himejougogoke",
+            "cladoniakurokawae"
+        ]
+    },
+    {
+        "id": "mushroom_0480",
+        "category": "きのこ",
+        "name": "ニクイロアナタケ",
+        "kana": "ニクイロアナタケ",
+        "aliases": [
+            "ニクイロアナタケ"
+        ],
+        "romaji": [
+            "nikuiroanatake"
+        ],
+        "scientific": "Steccherinum nitidum",
+        "search_terms": [
+            "ニクイロアナタケ",
+            "にくいろあなたけ",
+            "nikuiroanatake",
+            "Steccherinum nitidum"
+        ],
+        "normalized_terms": [
+            "ニクイロアナタケ",
+            "にくいろあなたけ",
+            "nikuiroanatake",
+            "steccherinumnitidum"
+        ]
+    },
+    {
+        "id": "mushroom_0481",
+        "category": "きのこ",
+        "name": "カバノアナタケ",
+        "kana": "カバノアナタケ",
+        "aliases": [
+            "カバノアナタケ"
+        ],
+        "romaji": [
+            "kabanoanatake"
+        ],
+        "scientific": "Inonotus obliquus",
+        "search_terms": [
+            "カバノアナタケ",
+            "かばのあなたけ",
+            "kabanoanatake",
+            "Inonotus obliquus"
+        ],
+        "normalized_terms": [
+            "カバノアナタケ",
+            "かばのあなたけ",
+            "kabanoanatake",
+            "inonotusobliquus"
+        ]
+    },
+    {
+        "id": "mushroom_0482",
+        "category": "きのこ",
+        "name": "コアカミゴケ",
+        "kana": "コアカミゴケ",
+        "aliases": [
+            "コアカミゴケ"
+        ],
+        "romaji": [
+            "koakamigoke"
+        ],
+        "scientific": "Cladonia macilenta",
+        "search_terms": [
+            "コアカミゴケ",
+            "こあかみごけ",
+            "koakamigoke",
+            "Cladonia macilenta"
+        ],
+        "normalized_terms": [
+            "コアカミゴケ",
+            "こあかみごけ",
+            "koakamigoke",
+            "cladoniamacilenta"
+        ]
+    },
+    {
+        "id": "mushroom_0483",
+        "category": "きのこ",
+        "name": "クリゲノチャヒラタケ",
+        "kana": "クリゲノチャヒラタケ",
+        "aliases": [
+            "クリゲノチャヒラタケ"
+        ],
+        "romaji": [
+            "kurigenochahiratake"
+        ],
+        "scientific": "Crepidotus crocophyllus",
+        "search_terms": [
+            "クリゲノチャヒラタケ",
+            "くりげのちゃひらたけ",
+            "kurigenochahiratake",
+            "Crepidotus crocophyllus"
+        ],
+        "normalized_terms": [
+            "クリゲノチャヒラタケ",
+            "くりげのちゃひらたけ",
+            "kurigenochahiratake",
+            "crepidotuscrocophyllus"
+        ]
+    },
+    {
+        "id": "mushroom_0484",
+        "category": "きのこ",
+        "name": "メダケ赤衣病菌",
+        "kana": "メダケアカゴロモビョウキン",
+        "aliases": [
+            "メダケ赤衣病菌"
+        ],
+        "romaji": [
+            "medakeakagoromobyoukin"
+        ],
+        "scientific": "Stereostratum corticioides",
+        "search_terms": [
+            "メダケ赤衣病菌",
+            "メダケアカゴロモビョウキン",
+            "めだけあかごろもびょうきん",
+            "めだけ赤衣病菌",
+            "medakeakagoromobyoukin",
+            "Stereostratum corticioides"
+        ],
+        "normalized_terms": [
+            "メダケ赤衣病菌",
+            "メダケアカゴロモビョウキン",
+            "めだけあかごろもびょうきん",
+            "めだけ赤衣病菌",
+            "medakeakagoromobyoukin",
+            "stereostratumcorticioides"
+        ]
+    },
+    {
+        "id": "mushroom_0485",
+        "category": "きのこ",
+        "name": "エビウロコタケ",
+        "kana": "エビウロコタケ",
+        "aliases": [
+            "エビウロコタケ"
+        ],
+        "romaji": [
+            "ebiurokotake"
+        ],
+        "scientific": "Hymenochaete rubiginosa",
+        "search_terms": [
+            "エビウロコタケ",
+            "えびうろこたけ",
+            "ebiurokotake",
+            "Hymenochaete rubiginosa"
+        ],
+        "normalized_terms": [
+            "エビウロコタケ",
+            "えびうろこたけ",
+            "ebiurokotake",
+            "hymenochaeterubiginosa"
+        ]
+    },
+    {
+        "id": "mushroom_0486",
+        "category": "きのこ",
+        "name": "ビョウタケ",
+        "kana": "ビョウタケ",
+        "aliases": [
+            "ビョウタケ"
+        ],
+        "romaji": [
+            "byoutake"
+        ],
+        "scientific": "Calycina citrina",
+        "search_terms": [
+            "ビョウタケ",
+            "びょうたけ",
+            "byoutake",
+            "Calycina citrina"
+        ],
+        "normalized_terms": [
+            "ビョウタケ",
+            "びょうたけ",
+            "byoutake",
+            "calycinacitrina"
+        ]
+    },
+    {
+        "id": "mushroom_0487",
+        "category": "きのこ",
+        "name": "白きょう病菌",
+        "kana": "ハッキョウビョウキン",
+        "aliases": [
+            "白きょう病菌"
+        ],
+        "romaji": [
+            "hakkyoubyoukin"
+        ],
+        "scientific": "Beauveria bassiana",
+        "search_terms": [
+            "白きょう病菌",
+            "ハッキョウビョウキン",
+            "はっきょうびょうきん",
+            "hakkyoubyoukin",
+            "Beauveria bassiana"
+        ],
+        "normalized_terms": [
+            "白きょう病菌",
+            "ハッキョウビョウキン",
+            "はっきょうびょうきん",
+            "hakkyoubyoukin",
+            "beauveriabassiana"
+        ]
+    },
+    {
+        "id": "mushroom_0488",
+        "category": "きのこ",
+        "name": "ハタケチャダイゴケ",
+        "kana": "ハタケチャダイゴケ",
+        "aliases": [
+            "ハタケチャダイゴケ"
+        ],
+        "romaji": [
+            "hatakechadaigoke"
+        ],
+        "scientific": "Cyathus stercoreus",
+        "search_terms": [
+            "ハタケチャダイゴケ",
+            "はたけちゃだいごけ",
+            "hatakechadaigoke",
+            "Cyathus stercoreus"
+        ],
+        "normalized_terms": [
+            "ハタケチャダイゴケ",
+            "はたけちゃだいごけ",
+            "hatakechadaigoke",
+            "cyathusstercoreus"
+        ]
+    },
+    {
+        "id": "mushroom_0489",
+        "category": "きのこ",
+        "name": "サトタマゴタケ",
+        "kana": "サトタマゴタケ",
+        "aliases": [
+            "サトタマゴタケ"
+        ],
+        "romaji": [
+            "satotamagotake"
+        ],
+        "scientific": "Amanita satotamagotake",
+        "search_terms": [
+            "サトタマゴタケ",
+            "さとたまごたけ",
+            "satotamagotake",
+            "Amanita satotamagotake"
+        ],
+        "normalized_terms": [
+            "サトタマゴタケ",
+            "さとたまごたけ",
+            "satotamagotake",
+            "amanitasatotamagotake"
+        ]
+    },
+    {
+        "id": "mushroom_0490",
+        "category": "きのこ",
+        "name": "キクバナイグチ",
+        "kana": "キクバナイグチ",
+        "aliases": [
+            "キクバナイグチ"
+        ],
+        "romaji": [
+            "kikubanaiguchi"
+        ],
+        "scientific": "Boletellus emodensis",
+        "search_terms": [
+            "キクバナイグチ",
+            "きくばないぐち",
+            "kikubanaiguchi",
+            "Boletellus emodensis"
+        ],
+        "normalized_terms": [
+            "キクバナイグチ",
+            "きくばないぐち",
+            "kikubanaiguchi",
+            "boletellusemodensis"
+        ]
+    },
+    {
+        "id": "mushroom_0491",
+        "category": "きのこ",
+        "name": "ミヤマタマゴタケ",
+        "kana": "ミヤマタマゴタケ",
+        "aliases": [
+            "ミヤマタマゴタケ"
+        ],
+        "romaji": [
+            "miyamatamagotake"
+        ],
+        "scientific": "Amanita imazekii",
+        "search_terms": [
+            "ミヤマタマゴタケ",
+            "みやまたまごたけ",
+            "miyamatamagotake",
+            "Amanita imazekii"
+        ],
+        "normalized_terms": [
+            "ミヤマタマゴタケ",
+            "みやまたまごたけ",
+            "miyamatamagotake",
+            "amanitaimazekii"
+        ]
+    },
+    {
+        "id": "mushroom_0492",
+        "category": "きのこ",
+        "name": "スミレホコリタケ",
+        "kana": "スミレホコリタケ",
+        "aliases": [
+            "スミレホコリタケ"
+        ],
+        "romaji": [
+            "sumirehokoritake"
+        ],
+        "scientific": "Calvatia cyathiformis",
+        "search_terms": [
+            "スミレホコリタケ",
+            "すみれほこりたけ",
+            "sumirehokoritake",
+            "Calvatia cyathiformis"
+        ],
+        "normalized_terms": [
+            "スミレホコリタケ",
+            "すみれほこりたけ",
+            "sumirehokoritake",
+            "calvatiacyathiformis"
+        ]
+    },
+    {
+        "id": "mushroom_0493",
+        "category": "きのこ",
+        "name": "シラゲタケ",
+        "kana": "シラゲタケ",
+        "aliases": [
+            "シラゲタケ"
+        ],
+        "romaji": [
+            "shiragetake"
+        ],
+        "scientific": "Trichaptum byssogenum",
+        "search_terms": [
+            "シラゲタケ",
+            "しらげたけ",
+            "shiragetake",
+            "Trichaptum byssogenum"
+        ],
+        "normalized_terms": [
+            "シラゲタケ",
+            "しらげたけ",
+            "shiragetake",
+            "trichaptumbyssogenum"
+        ]
+    },
+    {
+        "id": "mushroom_0494",
+        "category": "きのこ",
+        "name": "カサヒダタケ",
+        "kana": "カサヒダタケ",
+        "aliases": [
+            "カサヒダタケ"
+        ],
+        "romaji": [
+            "kasahidatake"
+        ],
+        "scientific": "Pluteus thomsonii",
+        "search_terms": [
+            "カサヒダタケ",
+            "かさひだたけ",
+            "kasahidatake",
+            "Pluteus thomsonii"
+        ],
+        "normalized_terms": [
+            "カサヒダタケ",
+            "かさひだたけ",
+            "kasahidatake",
+            "pluteusthomsonii"
+        ]
+    },
+    {
+        "id": "mushroom_0495",
+        "category": "きのこ",
+        "name": "ヒメスギタケ",
+        "kana": "ヒメスギタケ",
+        "aliases": [
+            "ヒメスギタケ"
+        ],
+        "romaji": [
+            "himesugitake"
+        ],
+        "scientific": "Flammulaster erinaceellus",
+        "search_terms": [
+            "ヒメスギタケ",
+            "ひめすぎたけ",
+            "himesugitake",
+            "Flammulaster erinaceellus"
+        ],
+        "normalized_terms": [
+            "ヒメスギタケ",
+            "ひめすぎたけ",
+            "himesugitake",
+            "flammulastererinaceellus"
+        ]
+    },
+    {
+        "id": "mushroom_0496",
+        "category": "きのこ",
+        "name": "ミノタケ",
+        "kana": "ミノタケ",
+        "aliases": [
+            "ミノタケ"
+        ],
+        "romaji": [
+            "minotake"
+        ],
+        "scientific": "Trametopsis cervina",
+        "search_terms": [
+            "ミノタケ",
+            "みのたけ",
+            "minotake",
+            "Trametopsis cervina"
+        ],
+        "normalized_terms": [
+            "ミノタケ",
+            "みのたけ",
+            "minotake",
+            "trametopsiscervina"
+        ]
+    },
+    {
+        "id": "mushroom_0497",
+        "category": "きのこ",
+        "name": "コガネカワラタケ",
+        "kana": "コガネカワラタケ",
+        "aliases": [
+            "コガネカワラタケ"
+        ],
+        "romaji": [
+            "koganekawaratake"
+        ],
+        "scientific": "Coriolopsis glabrorigens",
+        "search_terms": [
+            "コガネカワラタケ",
+            "こがねかわらたけ",
+            "koganekawaratake",
+            "Coriolopsis glabrorigens"
+        ],
+        "normalized_terms": [
+            "コガネカワラタケ",
+            "こがねかわらたけ",
+            "koganekawaratake",
+            "coriolopsisglabrorigens"
+        ]
+    },
+    {
+        "id": "mushroom_0498",
+        "category": "きのこ",
+        "name": "アケボノオシロイタケ",
+        "kana": "アケボノオシロイタケ",
+        "aliases": [
+            "アケボノオシロイタケ"
+        ],
+        "romaji": [
+            "akebonooshiroitake"
+        ],
+        "scientific": "Tyromyces incarnatus",
+        "search_terms": [
+            "アケボノオシロイタケ",
+            "あけぼのおしろいたけ",
+            "akebonooshiroitake",
+            "Tyromyces incarnatus"
+        ],
+        "normalized_terms": [
+            "アケボノオシロイタケ",
+            "あけぼのおしろいたけ",
+            "akebonooshiroitake",
+            "tyromycesincarnatus"
+        ]
+    },
+    {
+        "id": "mushroom_0499",
+        "category": "きのこ",
+        "name": "ワタゲナラタケ",
+        "kana": "ワタゲナラタケ",
+        "aliases": [
+            "ワタゲナラタケ"
+        ],
+        "romaji": [
+            "watagenaratake"
+        ],
+        "scientific": "Armillaria gallica",
+        "search_terms": [
+            "ワタゲナラタケ",
+            "わたげならたけ",
+            "watagenaratake",
+            "Armillaria gallica"
+        ],
+        "normalized_terms": [
+            "ワタゲナラタケ",
+            "わたげならたけ",
+            "watagenaratake",
+            "armillariagallica"
+        ]
+    },
+    {
+        "id": "mushroom_0500",
+        "category": "きのこ",
+        "name": "チヂレタケ",
+        "kana": "チヂレタケ",
+        "aliases": [
+            "チヂレタケ"
+        ],
+        "romaji": [
+            "chijiretake"
+        ],
+        "scientific": "Plicatura crispa",
+        "search_terms": [
+            "チヂレタケ",
+            "ちぢれたけ",
+            "chijiretake",
+            "Plicatura crispa"
+        ],
+        "normalized_terms": [
+            "チヂレタケ",
+            "ちぢれたけ",
+            "chijiretake",
+            "plicaturacrispa"
+        ]
+    },
+    {
+        "id": "sansai_0001",
+        "category": "山菜",
+        "name": "ワラビ",
+        "kana": "ワラビ",
+        "aliases": [
+            "ワラビ"
+        ],
+        "romaji": [
+            "warabi"
+        ],
+        "scientific": "Pteridium latiusculum subsp. japonicum",
+        "search_terms": [
+            "ワラビ",
+            "わらび",
+            "warabi",
+            "Pteridium latiusculum subsp. japonicum"
+        ],
+        "normalized_terms": [
+            "ワラビ",
+            "わらび",
+            "warabi",
+            "pteridiumlatiusculumsubspjaponicum"
+        ]
+    },
+    {
+        "id": "sansai_0002",
+        "category": "山菜",
+        "name": "フキ",
+        "kana": "フキ",
+        "aliases": [
+            "フキ"
+        ],
+        "romaji": [
+            "fuki"
+        ],
+        "scientific": "Petasites japonicus",
+        "search_terms": [
+            "フキ",
+            "ふき",
+            "fuki",
+            "Petasites japonicus"
+        ],
+        "normalized_terms": [
+            "フキ",
+            "ふき",
+            "fuki",
+            "petasitesjaponicus"
+        ]
+    },
+    {
+        "id": "sansai_0003",
+        "category": "山菜",
+        "name": "セリ",
+        "kana": "セリ",
+        "aliases": [
+            "セリ"
+        ],
+        "romaji": [
+            "seri"
+        ],
+        "scientific": "Oenanthe javanica",
+        "search_terms": [
+            "セリ",
+            "せり",
+            "seri",
+            "Oenanthe javanica"
+        ],
+        "normalized_terms": [
+            "セリ",
+            "せり",
+            "seri",
+            "oenanthejavanica"
+        ]
+    },
+    {
+        "id": "sansai_0004",
+        "category": "山菜",
+        "name": "ギョウジャニンニク",
+        "kana": "ギョウジャニンニク",
+        "aliases": [
+            "ギョウジャニンニク"
+        ],
+        "romaji": [
+            "gyoujaninniku"
+        ],
+        "scientific": "Allium ochotense",
+        "search_terms": [
+            "ギョウジャニンニク",
+            "ぎょうじゃにんにく",
+            "gyoujaninniku",
+            "Allium ochotense"
+        ],
+        "normalized_terms": [
+            "ギョウジャニンニク",
+            "ぎょうじゃにんにく",
+            "gyoujaninniku",
+            "alliumochotense"
+        ]
+    },
+    {
+        "id": "sansai_0005",
+        "category": "山菜",
+        "name": "ヤマブキショウマ",
+        "kana": "ヤマブキショウマ",
+        "aliases": [
+            "ヤマブキショウマ"
+        ],
+        "romaji": [
+            "yamabukishouma"
+        ],
+        "scientific": "Aruncus dioicus",
+        "search_terms": [
+            "ヤマブキショウマ",
+            "やまぶきしょうま",
+            "yamabukishouma",
+            "Aruncus dioicus"
+        ],
+        "normalized_terms": [
+            "ヤマブキショウマ",
+            "やまぶきしょうま",
+            "yamabukishouma",
+            "aruncusdioicus"
+        ]
+    },
+    {
+        "id": "sansai_0006",
+        "category": "山菜",
+        "name": "ミヤマイラクサ",
+        "kana": "ミヤマイラクサ",
+        "aliases": [
+            "ミヤマイラクサ"
+        ],
+        "romaji": [
+            "miyamairakusa"
+        ],
+        "scientific": "Laportea cuspidata",
+        "search_terms": [
+            "ミヤマイラクサ",
+            "みやまいらくさ",
+            "miyamairakusa",
+            "Laportea cuspidata"
+        ],
+        "normalized_terms": [
+            "ミヤマイラクサ",
+            "みやまいらくさ",
+            "miyamairakusa",
+            "laporteacuspidata"
+        ]
+    },
+    {
+        "id": "sansai_0007",
+        "category": "山菜",
+        "name": "ノカンゾウ",
+        "kana": "ノカンゾウ",
+        "aliases": [
+            "ノカンゾウ"
+        ],
+        "romaji": [
+            "nokanzou"
+        ],
+        "scientific": "Hemerocallis fulva var. disticha",
+        "search_terms": [
+            "ノカンゾウ",
+            "のかんぞう",
+            "nokanzou",
+            "Hemerocallis fulva var. disticha"
+        ],
+        "normalized_terms": [
+            "ノカンゾウ",
+            "のかんぞう",
+            "nokanzou",
+            "hemerocallisfulvavardisticha"
+        ]
+    },
+    {
+        "id": "sansai_0008",
+        "category": "山菜",
+        "name": "ハマボウフウ",
+        "kana": "ハマボウフウ",
+        "aliases": [
+            "ハマボウフウ"
+        ],
+        "romaji": [
+            "hamaboufuu"
+        ],
+        "scientific": "Glehnia littoralis",
+        "search_terms": [
+            "ハマボウフウ",
+            "はまぼうふう",
+            "hamaboufuu",
+            "Glehnia littoralis"
+        ],
+        "normalized_terms": [
+            "ハマボウフウ",
+            "はまぼうふう",
+            "hamaboufuu",
+            "glehnialittoralis"
+        ]
+    },
+    {
+        "id": "sansai_0009",
+        "category": "山菜",
+        "name": "カキドオシ",
+        "kana": "カキドオシ",
+        "aliases": [
+            "カキドオシ"
+        ],
+        "romaji": [
+            "kakidooshi"
+        ],
+        "scientific": "Glechoma grandis",
+        "search_terms": [
+            "カキドオシ",
+            "かきどおし",
+            "kakidooshi",
+            "Glechoma grandis"
+        ],
+        "normalized_terms": [
+            "カキドオシ",
+            "かきどおし",
+            "kakidooshi",
+            "glechomagrandis"
+        ]
+    },
+    {
+        "id": "sansai_0010",
+        "category": "山菜",
+        "name": "ヤマグワ",
+        "kana": "ヤマグワ",
+        "aliases": [
+            "ヤマグワ"
+        ],
+        "romaji": [
+            "yamaguwa"
+        ],
+        "scientific": "Morus indica",
+        "search_terms": [
+            "ヤマグワ",
+            "やまぐわ",
+            "yamaguwa",
+            "Morus indica"
+        ],
+        "normalized_terms": [
+            "ヤマグワ",
+            "やまぐわ",
+            "yamaguwa",
+            "morusindica"
+        ]
+    },
+    {
+        "id": "sansai_0011",
+        "category": "山菜",
+        "name": "オニグルミ",
+        "kana": "オニグルミ",
+        "aliases": [
+            "オニグルミ"
+        ],
+        "romaji": [
+            "onigurumi"
+        ],
+        "scientific": "Juglans ailantifolia",
+        "search_terms": [
+            "オニグルミ",
+            "おにぐるみ",
+            "onigurumi",
+            "Juglans ailantifolia"
+        ],
+        "normalized_terms": [
+            "オニグルミ",
+            "おにぐるみ",
+            "onigurumi",
+            "juglansailantifolia"
+        ]
+    },
+    {
+        "id": "sansai_0012",
+        "category": "山菜",
+        "name": "リョウブ",
+        "kana": "リョウブ",
+        "aliases": [
+            "リョウブ"
+        ],
+        "romaji": [
+            "ryoubu"
+        ],
+        "scientific": "Clethra barbinervis",
+        "search_terms": [
+            "リョウブ",
+            "りょうぶ",
+            "ryoubu",
+            "Clethra barbinervis"
+        ],
+        "normalized_terms": [
+            "リョウブ",
+            "りょうぶ",
+            "ryoubu",
+            "clethrabarbinervis"
+        ]
+    },
+    {
+        "id": "sansai_0013",
+        "category": "山菜",
+        "name": "オランダガラシ",
+        "kana": "オランダガラシ",
+        "aliases": [
+            "オランダガラシ"
+        ],
+        "romaji": [
+            "orandagarashi"
+        ],
+        "scientific": "Nasturtium officinale",
+        "search_terms": [
+            "オランダガラシ",
+            "おらんだがらし",
+            "orandagarashi",
+            "Nasturtium officinale"
+        ],
+        "normalized_terms": [
+            "オランダガラシ",
+            "おらんだがらし",
+            "orandagarashi",
+            "nasturtiumofficinale"
+        ]
+    },
+    {
+        "id": "sansai_0014",
+        "category": "山菜",
+        "name": "ハマエンドウ",
+        "kana": "ハマエンドウ",
+        "aliases": [
+            "ハマエンドウ"
+        ],
+        "romaji": [
+            "hamaendou"
+        ],
+        "scientific": "Lathyrus japonicus",
+        "search_terms": [
+            "ハマエンドウ",
+            "はまえんどう",
+            "hamaendou",
+            "Lathyrus japonicus"
+        ],
+        "normalized_terms": [
+            "ハマエンドウ",
+            "はまえんどう",
+            "hamaendou",
+            "lathyrusjaponicus"
+        ]
+    },
+    {
+        "id": "sansai_0015",
+        "category": "山菜",
+        "name": "ラッキョウ",
+        "kana": "ラッキョウ",
+        "aliases": [
+            "ラッキョウ"
+        ],
+        "romaji": [
+            "rakkyou"
+        ],
+        "scientific": "Allium chinense",
+        "search_terms": [
+            "ラッキョウ",
+            "らっきょう",
+            "rakkyou",
+            "Allium chinense"
+        ],
+        "normalized_terms": [
+            "ラッキョウ",
+            "らっきょう",
+            "rakkyou",
+            "alliumchinense"
+        ]
+    },
+    {
+        "id": "sansai_0016",
+        "category": "山菜",
+        "name": "クロマメノキ",
+        "kana": "クロマメノキ",
+        "aliases": [
+            "クロマメノキ"
+        ],
+        "romaji": [
+            "kuromamenoki"
+        ],
+        "scientific": "Vaccinium uliginosum var. japonicum",
+        "search_terms": [
+            "クロマメノキ",
+            "くろまめのき",
+            "kuromamenoki",
+            "Vaccinium uliginosum var. japonicum"
+        ],
+        "normalized_terms": [
+            "クロマメノキ",
+            "くろまめのき",
+            "kuromamenoki",
+            "vacciniumuliginosumvarjaponicum"
+        ]
+    },
+    {
+        "id": "sansai_0017",
+        "category": "山菜",
+        "name": "バライチゴ",
+        "kana": "バライチゴ",
+        "aliases": [
+            "バライチゴ"
+        ],
+        "romaji": [
+            "baraichigo"
+        ],
+        "scientific": "Rubus illecebrosus",
+        "search_terms": [
+            "バライチゴ",
+            "ばらいちご",
+            "baraichigo",
+            "Rubus illecebrosus"
+        ],
+        "normalized_terms": [
+            "バライチゴ",
+            "ばらいちご",
+            "baraichigo",
+            "rubusillecebrosus"
+        ]
+    },
+    {
+        "id": "sansai_0018",
+        "category": "山菜",
+        "name": "ユキノシタ",
+        "kana": "ユキノシタ",
+        "aliases": [
+            "ユキノシタ"
+        ],
+        "romaji": [
+            "yukinoshita"
+        ],
+        "scientific": "Saxifraga stolonifera",
+        "search_terms": [
+            "ユキノシタ",
+            "ゆきのした",
+            "yukinoshita",
+            "Saxifraga stolonifera"
+        ],
+        "normalized_terms": [
+            "ユキノシタ",
+            "ゆきのした",
+            "yukinoshita",
+            "saxifragastolonifera"
+        ]
+    },
+    {
+        "id": "sansai_0019",
+        "category": "山菜",
+        "name": "ミョウガ",
+        "kana": "ミョウガ",
+        "aliases": [
+            "ミョウガ"
+        ],
+        "romaji": [
+            "myouga"
+        ],
+        "scientific": "Zingiber mioga",
+        "search_terms": [
+            "ミョウガ",
+            "みょうが",
+            "myouga",
+            "Zingiber mioga"
+        ],
+        "normalized_terms": [
+            "ミョウガ",
+            "みょうが",
+            "myouga",
+            "zingibermioga"
+        ]
+    },
+    {
+        "id": "sansai_0020",
+        "category": "山菜",
+        "name": "エゴマ",
+        "kana": "エゴマ",
+        "aliases": [
+            "エゴマ"
+        ],
+        "romaji": [
+            "egoma"
+        ],
+        "scientific": "Perilla frutescens var. frutescens",
+        "search_terms": [
+            "エゴマ",
+            "えごま",
+            "egoma",
+            "Perilla frutescens var. frutescens"
+        ],
+        "normalized_terms": [
+            "エゴマ",
+            "えごま",
+            "egoma",
+            "perillafrutescensvarfrutescens"
+        ]
+    },
+    {
+        "id": "sansai_0021",
+        "category": "山菜",
+        "name": "オオバショウマ",
+        "kana": "オオバショウマ",
+        "aliases": [
+            "オオバショウマ"
+        ],
+        "romaji": [
+            "oobashouma"
+        ],
+        "scientific": "Actaea japonica",
+        "search_terms": [
+            "オオバショウマ",
+            "おおばしょうま",
+            "oobashouma",
+            "Actaea japonica"
+        ],
+        "normalized_terms": [
+            "オオバショウマ",
+            "おおばしょうま",
+            "oobashouma",
+            "actaeajaponica"
+        ]
+    },
+    {
+        "id": "sansai_0022",
+        "category": "山菜",
+        "name": "ノダケ",
+        "kana": "ノダケ",
+        "aliases": [
+            "ノダケ"
+        ],
+        "romaji": [
+            "nodake"
+        ],
+        "scientific": "Angelica decursiva",
+        "search_terms": [
+            "ノダケ",
+            "のだけ",
+            "nodake",
+            "Angelica decursiva"
+        ],
+        "normalized_terms": [
+            "ノダケ",
+            "のだけ",
+            "nodake",
+            "angelicadecursiva"
+        ]
+    },
+    {
+        "id": "sansai_0023",
+        "category": "山菜",
+        "name": "ヤブタビラコ",
+        "kana": "ヤブタビラコ",
+        "aliases": [
+            "ヤブタビラコ"
+        ],
+        "romaji": [
+            "yabutabirako"
+        ],
+        "scientific": "Lapsanastrum humile",
+        "search_terms": [
+            "ヤブタビラコ",
+            "やぶたびらこ",
+            "yabutabirako",
+            "Lapsanastrum humile"
+        ],
+        "normalized_terms": [
+            "ヤブタビラコ",
+            "やぶたびらこ",
+            "yabutabirako",
+            "lapsanastrumhumile"
+        ]
+    },
+    {
+        "id": "sansai_0024",
+        "category": "山菜",
+        "name": "サワハコベ",
+        "kana": "サワハコベ",
+        "aliases": [
+            "サワハコベ"
+        ],
+        "romaji": [
+            "sawahakobe"
+        ],
+        "scientific": "Nubelaria diversiflora",
+        "search_terms": [
+            "サワハコベ",
+            "さわはこべ",
+            "sawahakobe",
+            "Nubelaria diversiflora"
+        ],
+        "normalized_terms": [
+            "サワハコベ",
+            "さわはこべ",
+            "sawahakobe",
+            "nubelariadiversiflora"
+        ]
+    },
+    {
+        "id": "sansai_0025",
+        "category": "山菜",
+        "name": "ウワミズザクラ",
+        "kana": "ウワミズザクラ",
+        "aliases": [
+            "ウワミズザクラ"
+        ],
+        "romaji": [
+            "uwamizuzakura"
+        ],
+        "scientific": "Prunus grayana",
+        "search_terms": [
+            "ウワミズザクラ",
+            "うわみずざくら",
+            "uwamizuzakura",
+            "Prunus grayana"
+        ],
+        "normalized_terms": [
+            "ウワミズザクラ",
+            "うわみずざくら",
+            "uwamizuzakura",
+            "prunusgrayana"
+        ]
+    },
+    {
+        "id": "sansai_0026",
+        "category": "山菜",
+        "name": "ミヤママタタビ",
+        "kana": "ミヤママタタビ",
+        "aliases": [
+            "ミヤママタタビ"
+        ],
+        "romaji": [
+            "miyamamatatabi"
+        ],
+        "scientific": "Actinidia kolomikta",
+        "search_terms": [
+            "ミヤママタタビ",
+            "みやままたたび",
+            "miyamamatatabi",
+            "Actinidia kolomikta"
+        ],
+        "normalized_terms": [
+            "ミヤママタタビ",
+            "みやままたたび",
+            "miyamamatatabi",
+            "actinidiakolomikta"
+        ]
+    },
+    {
+        "id": "sansai_0027",
+        "category": "山菜",
+        "name": "ゼンマイ",
+        "kana": "ゼンマイ",
+        "aliases": [
+            "ゼンマイ"
+        ],
+        "romaji": [
+            "zenmai"
+        ],
+        "scientific": "Osmunda japonica",
+        "search_terms": [
+            "ゼンマイ",
+            "ぜんまい",
+            "zenmai",
+            "Osmunda japonica"
+        ],
+        "normalized_terms": [
+            "ゼンマイ",
+            "ぜんまい",
+            "zenmai",
+            "osmundajaponica"
+        ]
+    },
+    {
+        "id": "sansai_0028",
+        "category": "山菜",
+        "name": "クサソテツ",
+        "kana": "クサソテツ",
+        "aliases": [
+            "クサソテツ"
+        ],
+        "romaji": [
+            "kusasotetsu"
+        ],
+        "scientific": "Matteuccia struthiopteris",
+        "search_terms": [
+            "クサソテツ",
+            "くさそてつ",
+            "kusasotetsu",
+            "Matteuccia struthiopteris"
+        ],
+        "normalized_terms": [
+            "クサソテツ",
+            "くさそてつ",
+            "kusasotetsu",
+            "matteucciastruthiopteris"
+        ]
+    },
+    {
+        "id": "sansai_0029",
+        "category": "山菜",
+        "name": "タラノキ",
+        "kana": "タラノキ",
+        "aliases": [
+            "タラノキ"
+        ],
+        "romaji": [
+            "taranoki"
+        ],
+        "scientific": "Aralia elata",
+        "search_terms": [
+            "タラノキ",
+            "たらのき",
+            "taranoki",
+            "Aralia elata"
+        ],
+        "normalized_terms": [
+            "タラノキ",
+            "たらのき",
+            "taranoki",
+            "araliaelata"
+        ]
+    },
+    {
+        "id": "sansai_0030",
+        "category": "山菜",
+        "name": "コシアブラ",
+        "kana": "コシアブラ",
+        "aliases": [
+            "コシアブラ"
+        ],
+        "romaji": [
+            "koshiabura"
+        ],
+        "scientific": "Chengiopanax sciadophylloides",
+        "search_terms": [
+            "コシアブラ",
+            "こしあぶら",
+            "koshiabura",
+            "Chengiopanax sciadophylloides"
+        ],
+        "normalized_terms": [
+            "コシアブラ",
+            "こしあぶら",
+            "koshiabura",
+            "chengiopanaxsciadophylloides"
+        ]
+    },
+    {
+        "id": "sansai_0031",
+        "category": "山菜",
+        "name": "ウド",
+        "kana": "ウド",
+        "aliases": [
+            "ウド"
+        ],
+        "romaji": [
+            "udo"
+        ],
+        "scientific": "Aralia cordata",
+        "search_terms": [
+            "ウド",
+            "うど",
+            "udo",
+            "Aralia cordata"
+        ],
+        "normalized_terms": [
+            "ウド",
+            "うど",
+            "udo",
+            "araliacordata"
+        ]
+    },
+    {
+        "id": "sansai_0032",
+        "category": "山菜",
+        "name": "ミツバ",
+        "kana": "ミツバ",
+        "aliases": [
+            "ミツバ"
+        ],
+        "romaji": [
+            "mitsuba"
+        ],
+        "scientific": "Cryptotaenia japonica",
+        "search_terms": [
+            "ミツバ",
+            "みつば",
+            "mitsuba",
+            "Cryptotaenia japonica"
+        ],
+        "normalized_terms": [
+            "ミツバ",
+            "みつば",
+            "mitsuba",
+            "cryptotaeniajaponica"
+        ]
+    },
+    {
+        "id": "sansai_0033",
+        "category": "山菜",
+        "name": "ノビル",
+        "kana": "ノビル",
+        "aliases": [
+            "ノビル"
+        ],
+        "romaji": [
+            "nobiru"
+        ],
+        "scientific": "Allium macrostemon",
+        "search_terms": [
+            "ノビル",
+            "のびる",
+            "nobiru",
+            "Allium macrostemon"
+        ],
+        "normalized_terms": [
+            "ノビル",
+            "のびる",
+            "nobiru",
+            "alliummacrostemon"
+        ]
+    },
+    {
+        "id": "sansai_0034",
+        "category": "山菜",
+        "name": "ヨモギ",
+        "kana": "ヨモギ",
+        "aliases": [
+            "ヨモギ"
+        ],
+        "romaji": [
+            "yomogi"
+        ],
+        "scientific": "Artemisia princeps",
+        "search_terms": [
+            "ヨモギ",
+            "よもぎ",
+            "yomogi",
+            "Artemisia princeps"
+        ],
+        "normalized_terms": [
+            "ヨモギ",
+            "よもぎ",
+            "yomogi",
+            "artemisiaprinceps"
+        ]
+    },
+    {
+        "id": "sansai_0035",
+        "category": "山菜",
+        "name": "イタドリ",
+        "kana": "イタドリ",
+        "aliases": [
+            "イタドリ"
+        ],
+        "romaji": [
+            "itadori"
+        ],
+        "scientific": "Reynoutria japonica",
+        "search_terms": [
+            "イタドリ",
+            "いたどり",
+            "itadori",
+            "Reynoutria japonica"
+        ],
+        "normalized_terms": [
+            "イタドリ",
+            "いたどり",
+            "itadori",
+            "reynoutriajaponica"
+        ]
+    },
+    {
+        "id": "sansai_0036",
+        "category": "山菜",
+        "name": "モミジガサ",
+        "kana": "モミジガサ",
+        "aliases": [
+            "モミジガサ"
+        ],
+        "romaji": [
+            "momijigasa"
+        ],
+        "scientific": "Japonicalia delphiniifolia",
+        "search_terms": [
+            "モミジガサ",
+            "もみじがさ",
+            "momijigasa",
+            "Japonicalia delphiniifolia"
+        ],
+        "normalized_terms": [
+            "モミジガサ",
+            "もみじがさ",
+            "momijigasa",
+            "japonicaliadelphiniifolia"
+        ]
+    },
+    {
+        "id": "sansai_0037",
+        "category": "山菜",
+        "name": "ウワバミソウ",
+        "kana": "ウワバミソウ",
+        "aliases": [
+            "ウワバミソウ"
+        ],
+        "romaji": [
+            "uwabamisou"
+        ],
+        "scientific": "Elatostema involucratum",
+        "search_terms": [
+            "ウワバミソウ",
+            "うわばみそう",
+            "uwabamisou",
+            "Elatostema involucratum"
+        ],
+        "normalized_terms": [
+            "ウワバミソウ",
+            "うわばみそう",
+            "uwabamisou",
+            "elatostemainvolucratum"
+        ]
+    },
+    {
+        "id": "sansai_0038",
+        "category": "山菜",
+        "name": "アケビ",
+        "kana": "アケビ",
+        "aliases": [
+            "アケビ"
+        ],
+        "romaji": [
+            "akebi"
+        ],
+        "scientific": "Akebia quinata",
+        "search_terms": [
+            "アケビ",
+            "あけび",
+            "akebi",
+            "Akebia quinata"
+        ],
+        "normalized_terms": [
+            "アケビ",
+            "あけび",
+            "akebi",
+            "akebiaquinata"
+        ]
+    },
+    {
+        "id": "sansai_0039",
+        "category": "山菜",
+        "name": "ミツバアケビ",
+        "kana": "ミツバアケビ",
+        "aliases": [
+            "ミツバアケビ"
+        ],
+        "romaji": [
+            "mitsubaakebi"
+        ],
+        "scientific": "Akebia trifoliata",
+        "search_terms": [
+            "ミツバアケビ",
+            "みつばあけび",
+            "mitsubaakebi",
+            "Akebia trifoliata"
+        ],
+        "normalized_terms": [
+            "ミツバアケビ",
+            "みつばあけび",
+            "mitsubaakebi",
+            "akebiatrifoliata"
+        ]
+    },
+    {
+        "id": "sansai_0040",
+        "category": "山菜",
+        "name": "サルナシ",
+        "kana": "サルナシ",
+        "aliases": [
+            "サルナシ"
+        ],
+        "romaji": [
+            "sarunashi"
+        ],
+        "scientific": "Actinidia arguta",
+        "search_terms": [
+            "サルナシ",
+            "さるなし",
+            "sarunashi",
+            "Actinidia arguta"
+        ],
+        "normalized_terms": [
+            "サルナシ",
+            "さるなし",
+            "sarunashi",
+            "actinidiaarguta"
+        ]
+    },
+    {
+        "id": "sansai_0041",
+        "category": "山菜",
+        "name": "マタタビ",
+        "kana": "マタタビ",
+        "aliases": [
+            "マタタビ"
+        ],
+        "romaji": [
+            "matatabi"
+        ],
+        "scientific": "Actinidia polygama",
+        "search_terms": [
+            "マタタビ",
+            "またたび",
+            "matatabi",
+            "Actinidia polygama"
+        ],
+        "normalized_terms": [
+            "マタタビ",
+            "またたび",
+            "matatabi",
+            "actinidiapolygama"
+        ]
+    },
+    {
+        "id": "sansai_0042",
+        "category": "山菜",
+        "name": "ヤマノイモ",
+        "kana": "ヤマノイモ",
+        "aliases": [
+            "ヤマノイモ"
+        ],
+        "romaji": [
+            "yamanoimo"
+        ],
+        "scientific": "Dioscorea japonica",
+        "search_terms": [
+            "ヤマノイモ",
+            "やまのいも",
+            "yamanoimo",
+            "Dioscorea japonica"
+        ],
+        "normalized_terms": [
+            "ヤマノイモ",
+            "やまのいも",
+            "yamanoimo",
+            "dioscoreajaponica"
+        ]
+    },
+    {
+        "id": "sansai_0043",
+        "category": "山菜",
+        "name": "オオバギボウシ",
+        "kana": "オオバギボウシ",
+        "aliases": [
+            "オオバギボウシ"
+        ],
+        "romaji": [
+            "oobagiboushi"
+        ],
+        "scientific": "Hosta sieboldiana",
+        "search_terms": [
+            "オオバギボウシ",
+            "おおばぎぼうし",
+            "oobagiboushi",
+            "Hosta sieboldiana"
+        ],
+        "normalized_terms": [
+            "オオバギボウシ",
+            "おおばぎぼうし",
+            "oobagiboushi",
+            "hostasieboldiana"
+        ]
+    },
+    {
+        "id": "sansai_0044",
+        "category": "山菜",
+        "name": "アマドコロ",
+        "kana": "アマドコロ",
+        "aliases": [
+            "アマドコロ"
+        ],
+        "romaji": [
+            "amadokoro"
+        ],
+        "scientific": "Polygonatum odoratum",
+        "search_terms": [
+            "アマドコロ",
+            "あまどころ",
+            "amadokoro",
+            "Polygonatum odoratum"
+        ],
+        "normalized_terms": [
+            "アマドコロ",
+            "あまどころ",
+            "amadokoro",
+            "polygonatumodoratum"
+        ]
+    },
+    {
+        "id": "sansai_0045",
+        "category": "山菜",
+        "name": "ナルコユリ",
+        "kana": "ナルコユリ",
+        "aliases": [
+            "ナルコユリ"
+        ],
+        "romaji": [
+            "narukoyuri"
+        ],
+        "scientific": "Polygonatum falcatum",
+        "search_terms": [
+            "ナルコユリ",
+            "なるこゆり",
+            "narukoyuri",
+            "Polygonatum falcatum"
+        ],
+        "normalized_terms": [
+            "ナルコユリ",
+            "なるこゆり",
+            "narukoyuri",
+            "polygonatumfalcatum"
+        ]
+    },
+    {
+        "id": "sansai_0046",
+        "category": "山菜",
+        "name": "ユキザサ",
+        "kana": "ユキザサ",
+        "aliases": [
+            "ユキザサ"
+        ],
+        "romaji": [
+            "yukizasa"
+        ],
+        "scientific": "Maianthemum japonicum",
+        "search_terms": [
+            "ユキザサ",
+            "ゆきざさ",
+            "yukizasa",
+            "Maianthemum japonicum"
+        ],
+        "normalized_terms": [
+            "ユキザサ",
+            "ゆきざさ",
+            "yukizasa",
+            "maianthemumjaponicum"
+        ]
+    },
+    {
+        "id": "sansai_0047",
+        "category": "山菜",
+        "name": "シオデ",
+        "kana": "シオデ",
+        "aliases": [
+            "シオデ"
+        ],
+        "romaji": [
+            "shiode"
+        ],
+        "scientific": "Smilax riparia",
+        "search_terms": [
+            "シオデ",
+            "しおで",
+            "shiode",
+            "Smilax riparia"
+        ],
+        "normalized_terms": [
+            "シオデ",
+            "しおで",
+            "shiode",
+            "smilaxriparia"
+        ]
+    },
+    {
+        "id": "sansai_0048",
+        "category": "山菜",
+        "name": "タチシオデ",
+        "kana": "タチシオデ",
+        "aliases": [
+            "タチシオデ"
+        ],
+        "romaji": [
+            "tachishiode"
+        ],
+        "scientific": "Smilax nipponica",
+        "search_terms": [
+            "タチシオデ",
+            "たちしおで",
+            "tachishiode",
+            "Smilax nipponica"
+        ],
+        "normalized_terms": [
+            "タチシオデ",
+            "たちしおで",
+            "tachishiode",
+            "smilaxnipponica"
+        ]
+    },
+    {
+        "id": "sansai_0049",
+        "category": "山菜",
+        "name": "ナズナ",
+        "kana": "ナズナ",
+        "aliases": [
+            "ナズナ"
+        ],
+        "romaji": [
+            "nazuna"
+        ],
+        "scientific": "Capsella bursa-pastoris",
+        "search_terms": [
+            "ナズナ",
+            "なずな",
+            "nazuna",
+            "Capsella bursa-pastoris"
+        ],
+        "normalized_terms": [
+            "ナズナ",
+            "なずな",
+            "nazuna",
+            "capsellabursapastoris"
+        ]
+    },
+    {
+        "id": "sansai_0050",
+        "category": "山菜",
+        "name": "コハコベ",
+        "kana": "コハコベ",
+        "aliases": [
+            "コハコベ"
+        ],
+        "romaji": [
+            "kohakobe"
+        ],
+        "scientific": "Stellaria media",
+        "search_terms": [
+            "コハコベ",
+            "こはこべ",
+            "kohakobe",
+            "Stellaria media"
+        ],
+        "normalized_terms": [
+            "コハコベ",
+            "こはこべ",
+            "kohakobe",
+            "stellariamedia"
+        ]
+    },
+    {
+        "id": "sansai_0051",
+        "category": "山菜",
+        "name": "ミドリハコベ",
+        "kana": "ミドリハコベ",
+        "aliases": [
+            "ミドリハコベ"
+        ],
+        "romaji": [
+            "midorihakobe"
+        ],
+        "scientific": "Stellaria neglecta",
+        "search_terms": [
+            "ミドリハコベ",
+            "みどりはこべ",
+            "midorihakobe",
+            "Stellaria neglecta"
+        ],
+        "normalized_terms": [
+            "ミドリハコベ",
+            "みどりはこべ",
+            "midorihakobe",
+            "stellarianeglecta"
+        ]
+    }
+]
 }
