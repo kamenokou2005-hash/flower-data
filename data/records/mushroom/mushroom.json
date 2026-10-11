@@ -17748,7 +17748,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: brown warty young cap and pale stem in grass。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0303",
@@ -17801,7 +17807,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: white caps and dark brown gills。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0304",
@@ -17854,7 +17866,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: brown finely scaled cap held in hand。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0305",
@@ -17907,7 +17925,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: many brown scaled parasol caps in grass。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0306",
@@ -17947,21 +17971,24 @@
                                     "https://mikawanoyasou.org/kinoko/siroooharatake.htm",
                                     "https://www.inaturalist.org/taxa/58699"
                                 ],
-        "image":  {
-                      "author":  "no rights reserved",
-                      "license":  "CC0",
-                      "source_url":  "https://www.inaturalist.org/photos/745164917",
-                      "image_path":  "images/0301_0350/mushroom_0306.jpg"
-                  },
+        "image":  {"author": "no rights reserved", "license": "CC0 1.0", "source_url": "https://www.inaturalist.org/photos/15307467", "image_path": "images/0301_0350/mushroom_0306.jpg", "license_url": "https://creativecommons.org/publicdomain/zero/1.0/", "observation_url": "https://www.inaturalist.org/observations/10894010", "modifications": "Original photograph unchanged; thumbnail resized with preserved aspect ratio to maximum 200px, JPEG quality 90."},
         "content_status":  "完成",
         "needs_ai_summary":  false,
         "needs_manual_content_review":  false,
         "needs_manual_taxon_review":  false,
-        "needs_manual_image_review":  true,
+        "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
         "thumbnail_review_date":  "2026-10-09",
-        "image_review_note":  "白い対象が遠く、子実体全体の形態と種との対応は要確認。"
+        "image_review_note":  "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: white rounded cap and thick pale stem after replacement。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。元写真では白い傘が遠く柄も見えないため、傘と柄が見える近接写真へ変更。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: white rounded cap and thick pale stem after replacement。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。元写真では白い傘が遠く柄も見えないため、傘と柄が見える近接写真へ変更。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。",
+      "image_review_previous_note": "白い対象が遠く、子実体全体の形態と種との対応は要確認。",
+      "image_review_status": "明らかな誤りなし"
     },
     {
         "id":  "mushroom_0307",
@@ -18014,7 +18041,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: pale cap with gray fine markings held in hand。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0308",
@@ -18054,12 +18087,7 @@
                                     "https://en.wikipedia.org/wiki/Leucocoprinus",
                                     "https://www.inaturalist.org/taxa/525049"
                                 ],
-        "image":  {
-                      "author":  "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)",
-                      "license":  "CC-BY",
-                      "source_url":  "https://www.inaturalist.org/photos/745269709",
-                      "image_path":  "images/0301_0350/mushroom_0308.jpg"
-                  },
+        "image":  {"author": "(c) Denis Zabin, some rights reserved (CC BY)", "license": "CC BY 4.0", "source_url": "https://www.inaturalist.org/photos/462226151", "image_path": "images/0301_0350/mushroom_0308.jpg", "license_url": "https://creativecommons.org/licenses/by/4.0/", "observation_url": "https://www.inaturalist.org/observations/257649439", "modifications": "Original photograph unchanged; thumbnail resized with preserved aspect ratio to maximum 200px, JPEG quality 90."},
         "content_status":  "完成",
         "needs_ai_summary":  false,
         "needs_manual_content_review":  true,
@@ -18067,7 +18095,16 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: white floccose cap and slender curved stalk after replacement。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。草に隠れた写真を、白い鱗片状の傘と柄が見える写真へ変更。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。",
+      "image_review_previous_note": "",
+      "image_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: white floccose cap and slender curved stalk after replacement。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。草に隠れた写真を、白い鱗片状の傘と柄が見える写真へ変更。",
+      "image_review_status": "明らかな誤りなし"
     },
     {
         "id":  "mushroom_0309",
@@ -18120,7 +18157,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: pointed gray cap seen from above。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0310",
@@ -18173,7 +18216,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: small orange grooved cap and hair thin stalk on litter。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0311",
@@ -18225,7 +18274,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: small hairy brown cap and pale gills on moss。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0312",
@@ -18278,7 +18333,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: small buff cap and slender stem held in hand。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0313",
@@ -18331,7 +18392,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: violet striate cap on litter。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0314",
@@ -18384,7 +18451,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: purple gills and pale violet cap edge。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0315",
@@ -18437,7 +18510,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: orange brown cap on woody base。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0316",
@@ -18490,7 +18569,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: pale scaled cap with brown center and slender stem。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0317",
@@ -18543,7 +18628,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: tiny orange cap and yellow stalk among moss。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0318",
@@ -18596,7 +18687,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: pale shelf bodies with decurrent gills on trunk。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0319",
@@ -18649,7 +18746,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: yellow brown scaled caps clustered on stump。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0320",
@@ -18702,7 +18805,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: many yellow scaled caps on standing trunk。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0321",
@@ -18755,7 +18864,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: pale tan shelf shaped clustered caps at tree base。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0322",
@@ -18808,7 +18923,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: white cap and short pale stalk emerging from trunk。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0323",
@@ -18861,7 +18982,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: bright yellow young cap emerging from white egg like volva。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0324",
@@ -18914,7 +19041,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: gray pale gills and long white stalk with basal remnants。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0325",
@@ -18954,21 +19087,24 @@
                                     "https://en.wikipedia.org/wiki/Amanita",
                                     "https://www.inaturalist.org/taxa/118400"
                                 ],
-        "image":  {
-                      "author":  "(c) Ondřej Křivan, some rights reserved (CC BY)",
-                      "license":  "CC-BY",
-                      "source_url":  "https://www.inaturalist.org/photos/743899781",
-                      "image_path":  "images/0301_0350/mushroom_0325.jpg"
-                  },
+        "image":  {"author": "(c) mycowalt, some rights reserved (CC BY-SA)", "license": "CC BY-SA 4.0", "source_url": "https://www.inaturalist.org/photos/13075859", "image_path": "images/0301_0350/mushroom_0325.jpg", "license_url": "https://creativecommons.org/licenses/by-sa/4.0/", "observation_url": "https://www.inaturalist.org/observations/9577101", "modifications": "Original photograph unchanged; thumbnail resized with preserved aspect ratio to maximum 200px, JPEG quality 90."},
         "content_status":  "完成",
         "needs_ai_summary":  false,
         "needs_manual_content_review":  true,
         "needs_manual_taxon_review":  false,
-        "needs_manual_image_review":  true,
+        "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
         "thumbnail_review_date":  "2026-10-09",
-        "image_review_note":  "ぼけが強く、形態の識別点は要確認。"
+        "image_review_note":  "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: violet brown cap and slender pale stalk after replacement。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。ぼけて柄が分かりにくい写真を、傘と柄が明瞭な写真へ変更。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: violet brown cap and slender pale stalk after replacement。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。ぼけて柄が分かりにくい写真を、傘と柄が明瞭な写真へ変更。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。",
+      "image_review_previous_note": "ぼけが強く、形態の識別点は要確認。",
+      "image_review_status": "明らかな誤りなし"
     },
     {
         "id":  "mushroom_0326",
@@ -19021,7 +19157,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: yellow bolete cap and yellow stalk。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0327",
@@ -19074,7 +19216,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: yellow pores and reddish mottled stem。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0328",
@@ -19127,7 +19275,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: pinkish cap and stem with bright yellow base。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0329",
@@ -19180,7 +19334,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: small red cap with yellow pores。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0330",
@@ -19233,7 +19393,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: long curved brown stalk with cap on litter。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0331",
@@ -19286,7 +19452,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: rounded tan bolete cap among needles。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0332",
@@ -19339,7 +19511,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: gray brown caps and pale gills。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0333",
@@ -19392,7 +19570,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: buff funnel shaped cap。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0334",
@@ -19442,11 +19626,19 @@
         "needs_ai_summary":  false,
         "needs_manual_content_review":  false,
         "needs_manual_taxon_review":  false,
-        "needs_manual_image_review":  true,
+        "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
         "thumbnail_review_date":  "2026-10-09",
-        "image_review_note":  "暗い標本写真で傘表面・柄の特徴を確認しづらい。"
+        "image_review_note":  "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: tan cap with pale milk droplets and pale gills。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: tan cap with pale milk droplets and pale gills。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。",
+      "image_review_previous_note": "暗い標本写真で傘表面・柄の特徴を確認しづらい。",
+      "image_review_status": "明らかな誤りなし"
     },
     {
         "id":  "mushroom_0335",
@@ -19499,7 +19691,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: red cap with pale patches。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0336",
@@ -19552,7 +19750,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: yellow caps and pale long stalks collected。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0337",
@@ -19605,7 +19809,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: white caps and pale gills on ground。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0338",
@@ -19657,7 +19867,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: gray tan collected cap and stout stem。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0339",
@@ -19710,7 +19926,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: brown collected caps and robust pale stems。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0340",
@@ -19763,7 +19985,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: large pale caps and stout short ringed stalks。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0341",
@@ -19816,7 +20044,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: small tan funnel cap on woodland soil。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0342",
@@ -19869,7 +20103,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: broad beige funnel with irregular edge。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0343",
@@ -19922,7 +20162,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: grouped pale yellow scaled caps on wood。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0344",
@@ -19974,7 +20220,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: orange brown caps among litter。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0345",
@@ -20026,7 +20278,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: cream smooth cap with droplets。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0346",
@@ -20078,7 +20336,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: brown caps and lilac tinted thick stems。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0347",
@@ -20131,7 +20395,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: dark violet gills and violet scaled stem。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0348",
@@ -20171,21 +20441,24 @@
                                     "https://mikawanoyasou.org/kinoko/sasakurehitoyotake.htm",
                                     "https://www.inaturalist.org/taxa/47392"
                                 ],
-        "image":  {
-                      "author":  "no rights reserved",
-                      "license":  "CC0",
-                      "source_url":  "https://www.inaturalist.org/photos/745757815",
-                      "image_path":  "images/0301_0350/mushroom_0348.jpg"
-                  },
+        "image":  {"author": "no rights reserved", "license": "CC0 1.0", "source_url": "https://www.inaturalist.org/photos/333712190", "image_path": "images/0301_0350/mushroom_0348.jpg", "license_url": "https://creativecommons.org/publicdomain/zero/1.0/", "observation_url": "https://www.inaturalist.org/observations/190373229", "modifications": "Original photograph unchanged; thumbnail resized with preserved aspect ratio to maximum 200px, JPEG quality 90."},
         "content_status":  "完成",
         "needs_ai_summary":  false,
         "needs_manual_content_review":  false,
         "needs_manual_taxon_review":  false,
-        "needs_manual_image_review":  true,
+        "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
         "thumbnail_review_date":  "2026-10-09",
-        "image_review_note":  "破損した子実体が主対象で、種固有の識別点は要確認。"
+        "image_review_note":  "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: white shaggy cylindrical caps after replacement。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。破損した子実体の写真を、白いささくれのある円筒形の傘が見える写真へ変更。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: white shaggy cylindrical caps after replacement。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。破損した子実体の写真を、白いささくれのある円筒形の傘が見える写真へ変更。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。",
+      "image_review_previous_note": "破損した子実体が主対象で、種固有の識別点は要確認。",
+      "image_review_status": "明らかな誤りなし"
     },
     {
         "id":  "mushroom_0349",
@@ -20238,7 +20511,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: dense tan bell caps and thin stems。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0350",
@@ -20291,7 +20570,13 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: thin pleated pale cap and fine stalk。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     },
     {
         "id":  "mushroom_0351",
@@ -20344,6 +20629,12 @@
         "needs_manual_image_review":  false,
         "verification_notes":  "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
         "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-09"
+        "thumbnail_review_date":  "2026-10-09",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "2026-10-11、実際の200pxサムネイルを目視確認。写真の観察: pale finely patterned cap with gray center。名前との明らかな食い違いは認めない。写真だけで種を厳密に同定したという意味ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "菌類の子実体・子座・胞子形成部の姿が見え、きのこのジャンルに適合。分類の変更は不要。"
     }
 ]

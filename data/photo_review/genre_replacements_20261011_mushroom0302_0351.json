@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-11",
+  "replacements": [
+    {
+      "id": "mushroom_0306",
+      "name": "シロオオハラタケ",
+      "previous_image": {
+        "author": "no rights reserved",
+        "license": "CC0",
+        "source_url": "https://www.inaturalist.org/photos/745164917",
+        "image_path": "images/0301_0350/mushroom_0306.jpg"
+      },
+      "replacement_image": {
+        "author": "no rights reserved",
+        "license": "CC0 1.0",
+        "source_url": "https://www.inaturalist.org/photos/15307467",
+        "image_path": "images/0301_0350/mushroom_0306.jpg",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "observation_url": "https://www.inaturalist.org/observations/10894010",
+        "modifications": "Original photograph unchanged; thumbnail resized with preserved aspect ratio to maximum 200px, JPEG quality 90."
+      },
+      "reason": "元写真では白い傘が遠く柄も見えないため、傘と柄が見える近接写真へ変更。",
+      "quality_grade": "research",
+      "reference_taxon": "Agaricus arvensis",
+      "original_and_200px_thumbnail_visually_reviewed": true,
+      "image_sha256": "405ad15149b107a8ddaf78972a6bc013346149981749eab751a5cd8ba9b1b2d7"
+    },
+    {
+      "id": "mushroom_0308",
+      "name": "ヒメカラカサタケ",
+      "previous_image": {
+        "author": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/745269709",
+        "image_path": "images/0301_0350/mushroom_0308.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) Denis Zabin, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/462226151",
+        "image_path": "images/0301_0350/mushroom_0308.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/257649439",
+        "modifications": "Original photograph unchanged; thumbnail resized with preserved aspect ratio to maximum 200px, JPEG quality 90."
+      },
+      "reason": "草に隠れた写真を、白い鱗片状の傘と柄が見える写真へ変更。",
+      "quality_grade": "research",
+      "reference_taxon": "Leucocoprinus cretaceus",
+      "original_and_200px_thumbnail_visually_reviewed": true,
+      "image_sha256": "eaaa2a2d53300c91c53a2f2b71538eb110afff2366403e4c11fa75fec880d456"
+    },
+    {
+      "id": "mushroom_0325",
+      "name": "コテングタケ",
+      "previous_image": {
+        "author": "(c) Ondřej Křivan, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/743899781",
+        "image_path": "images/0301_0350/mushroom_0325.jpg"
+      },
+      "replacement_image": {
+        "author": "(c) mycowalt, some rights reserved (CC BY-SA)",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://www.inaturalist.org/photos/13075859",
+        "image_path": "images/0301_0350/mushroom_0325.jpg",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/9577101",
+        "modifications": "Original photograph unchanged; thumbnail resized with preserved aspect ratio to maximum 200px, JPEG quality 90."
+      },
+      "reason": "ぼけて柄が分かりにくい写真を、傘と柄が明瞭な写真へ変更。",
+      "quality_grade": "research",
+      "reference_taxon": "Amanita porphyria",
+      "original_and_200px_thumbnail_visually_reviewed": true,
+      "image_sha256": "daf54ec7af063a2e785b0b88d16788e49309e50777f09a4588174bbe7b1cf6e4"
+    },
+    {
+      "id": "mushroom_0348",
+      "name": "ササクレヒトヨタケ",
+      "previous_image": {
+        "author": "no rights reserved",
+        "license": "CC0",
+        "source_url": "https://www.inaturalist.org/photos/745757815",
+        "image_path": "images/0301_0350/mushroom_0348.jpg"
+      },
+      "replacement_image": {
+        "author": "no rights reserved",
+        "license": "CC0 1.0",
+        "source_url": "https://www.inaturalist.org/photos/333712190",
+        "image_path": "images/0301_0350/mushroom_0348.jpg",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "observation_url": "https://www.inaturalist.org/observations/190373229",
+        "modifications": "Original photograph unchanged; thumbnail resized with preserved aspect ratio to maximum 200px, JPEG quality 90."
+      },
+      "reason": "破損した子実体の写真を、白いささくれのある円筒形の傘が見える写真へ変更。",
+      "quality_grade": "research",
+      "reference_taxon": "Coprinus comatus",
+      "original_and_200px_thumbnail_visually_reviewed": true,
+      "image_sha256": "7e5c25ddc1e815288fb395ac4bfada6f04671d3f5b9e212ca5ebe00892ec4cf7"
+    }
+  ]
+}
