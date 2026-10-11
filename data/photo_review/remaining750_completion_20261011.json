@@ -1,0 +1,57 @@
+{
+  "verified_at": "2026-10-11T23:35:19.055331",
+  "created_count": 750,
+  "total_created": 2800,
+  "adopted_ids_exact_match": true,
+  "existing_records_preserved": 2050,
+  "existing_image_blobs_preserved": 2050,
+  "new_original_images_remote_verified": 750,
+  "batches": [
+    {
+      "batch": 1,
+      "commit": "0143ddeeff6d4da8b5bf5187be6d7e0af994ac95",
+      "expected_files": 205,
+      "verified_files": 205,
+      "new_images_verified": 200
+    },
+    {
+      "batch": 2,
+      "commit": "445a9e2bf4b9f589688ee2c9399b20410cfa70b6",
+      "expected_files": 204,
+      "verified_files": 204,
+      "new_images_verified": 200
+    },
+    {
+      "batch": 3,
+      "commit": "15dd0b2533494218d3a863b6e74fc7a4b87b143c",
+      "expected_files": 204,
+      "verified_files": 204,
+      "new_images_verified": 200
+    },
+    {
+      "batch": 4,
+      "commit": "9eae6299e6072189adbbd7fdca8150898cf87977",
+      "expected_files": 155,
+      "verified_files": 155,
+      "new_images_verified": 150
+    }
+  ],
+  "thumbnail_reviewed": 750,
+  "strict_species_identification": false,
+  "full_size_originals_all_visually_reviewed": false,
+  "image_replacements": 2,
+  "taxon_corrections": 1,
+  "photo_quality_review_ids": [
+    "sansai_0137",
+    "yakuso_0144",
+    "herb_0001",
+    "herb_0053",
+    "rare_fruit_0119",
+    "rare_fruit_0164"
+  ],
+  "manual_content_review_count": 449,
+  "manual_taxon_review_count": 99,
+  "genre_alert_count": 19,
+  "old_genre_unreviewed_count": 1163,
+  "errors": []
+}
