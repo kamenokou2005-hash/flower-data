@@ -1,0 +1,1173 @@
+{
+  "date": "2026-10-11",
+  "scope": "木の花主役写真40件の差替え",
+  "criterion": "樹形・幹・枝葉が主役。小さく副次的に花が写ることは可。",
+  "method": "40件の候補写真、元画像の確認用縮小表示40件、実際の200pxサムネイル40枚をすべて目視。出典・撮影者・ライセンスを記録。",
+  "summary": {
+    "replaced": 40,
+    "accepted_name": 40,
+    "genre_accepted": 40,
+    "pending": 0
+  },
+  "replacements": [
+    {
+      "id": "tree_0001",
+      "name": "レモンバーベナ",
+      "previous_image": {
+        "author": "M a n u e l",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://www.inaturalist.org/photos/2332506",
+        "image_path": "images/0001_0050/tree_0001.jpg"
+      },
+      "replacement_image": {
+        "author": "GERMAN LEONEL SARMIENTO CRUZ",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/272171667",
+        "image_path": "images/0001_0050/tree_0001.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/157416144"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。木質の太い枝と細長い葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Aloysia citrodora。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1536
+      ],
+      "status": "差替え完了",
+      "image_sha256": "6291ce3785f27c067b52dd586ad7c9dbe668ed0ede50e94e05a98b0ee1453475",
+      "thumbnail_sha256": "6227294b94b498056bbe313e09e7043b08a924498e173e6706fac2fb60d12888"
+    },
+    {
+      "id": "tree_0002",
+      "name": "チャノキ",
+      "previous_image": {
+        "author": "Stuart Cable",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/3431826",
+        "image_path": "images/0001_0050/tree_0002.jpeg"
+      },
+      "replacement_image": {
+        "author": "りなべる",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/252096440",
+        "image_path": "images/0001_0050/tree_0002.jpeg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/146609609"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。鋸歯のある光沢葉をつけた小枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Camellia sinensis。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1536
+      ],
+      "status": "差替え完了",
+      "image_sha256": "574a878ad8e4f17d11bfd410de84a6fcfcaf05b528e39538187d1b0853d42e2f",
+      "thumbnail_sha256": "265a635f52aac29c107b0a91cab033309058f995518a8acf91d22cf03bd86520"
+    },
+    {
+      "id": "tree_0003",
+      "name": "リンゴ",
+      "previous_image": {
+        "author": "(c) Alexander Dubynin, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "source_url": "https://www.inaturalist.org/photos/491893168",
+        "image_path": "images/0001_0050/tree_0003.jpg"
+      },
+      "replacement_image": {
+        "author": "zebedeugalinha",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/734590578",
+        "image_path": "images/0001_0050/tree_0003.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/400320485"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。葉が茂る木の全体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Malus domestica。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1536
+      ],
+      "status": "差替え完了",
+      "image_sha256": "ac3e04632227b5ca078eda6689e9027d2bdd6ceb960ed0310e1a474bb62945f2",
+      "thumbnail_sha256": "34dc66b6a83ea657840e65e709a7c941632bd55c38be33c366b1bf2459a61336"
+    },
+    {
+      "id": "tree_0004",
+      "name": "ナシ",
+      "previous_image": {
+        "author": "Didier Descouens",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%28MHNT%29_Pyrus_pyrifolia_flowers.jpg",
+        "image_path": "images/0001_0050/tree_0004.jpg"
+      },
+      "replacement_image": {
+        "author": "Jacy Chen",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/113429670",
+        "image_path": "images/0001_0050/tree_0004.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/69845092"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。幹と枝の分かれ方が見える木。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Pyrus calleryana calleryana。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "cdc0b8f60c846a5b8b309ce77c25bded59d988efe4f8520adc76a6f6475e3635",
+      "thumbnail_sha256": "7e10256b58659a4c344d9b9c248c8f72b8bfcbfece81cb85a0dc2163b19dc55e"
+    },
+    {
+      "id": "tree_0005",
+      "name": "カリン",
+      "previous_image": {
+        "author": "Rorolinus",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pseudocydonia_sinensis_flower.JPG",
+        "image_path": "images/0001_0050/tree_0005.jpg"
+      },
+      "replacement_image": {
+        "author": "Иван Ковтун Ivan Kovtun",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/747783066",
+        "image_path": "images/0001_0050/tree_0005.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/406961612"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。細い幹と多数の葉が見える木。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Pseudocydonia sinensis。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "7056679d446ac4fbd9185087e7219bd8bb6d6aee289d382b7c3d67909acda161",
+      "thumbnail_sha256": "6fa903f0d911c83102dd15be200949439a153d47fbdcfa76a70c72ec152ab5bf"
+    },
+    {
+      "id": "tree_0006",
+      "name": "マルメロ",
+      "previous_image": {
+        "author": "Sten Porse",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Cydonia-oblonga-flower.JPG",
+        "image_path": "images/0001_0050/tree_0006.jpg"
+      },
+      "replacement_image": {
+        "author": "David Whyte",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://www.inaturalist.org/photos/32026737",
+        "image_path": "images/0001_0050/tree_0006.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/20768320"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。太い幹と横に広がる枝の樹形。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Cydonia oblonga。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1536
+      ],
+      "status": "差替え完了",
+      "image_sha256": "b586c7a82a1937e58e91ad5f0a7c91d9d855d98df698e171904b16f46f586322",
+      "thumbnail_sha256": "02ee18f98de3d6d734fcd0cc9820d7ae191c98241c2523cb47e78c136900bb70"
+    },
+    {
+      "id": "tree_0007",
+      "name": "ビワ",
+      "previous_image": {
+        "author": "(c) Neptalí Ramírez Marcial, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "source_url": "https://www.inaturalist.org/photos/133701506",
+        "image_path": "images/0001_0050/tree_0007.jpg"
+      },
+      "replacement_image": {
+        "author": "Marco Mussita",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/70661424",
+        "image_path": "images/0001_0050/tree_0007.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/44567385"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。大きな葉が放射状につく枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Eriobotrya japonica。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1536
+      ],
+      "status": "差替え完了",
+      "image_sha256": "076a56e5b11c3e25de0ca261d9e9e33dde9b966503411a46a8091b9317455466",
+      "thumbnail_sha256": "e10b8dc166e16bd7fcd2271a7faaa2881ef18eae5f732e5e2e27aa85ce543372"
+    },
+    {
+      "id": "tree_0008",
+      "name": "カキ",
+      "previous_image": {
+        "author": "Schurdl",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Diospyros_kaki_male_8944.jpg",
+        "image_path": "images/0001_0050/tree_0008.jpg"
+      },
+      "replacement_image": {
+        "author": "Greg Tasney",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://www.inaturalist.org/photos/251670469",
+        "image_path": "images/0001_0050/tree_0008.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/146393401"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。全縁の大きな葉がついた小枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Diospyros kaki。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1365
+      ],
+      "status": "差替え完了",
+      "image_sha256": "bebd18b5000c6b74a8fd4fba5f90eddee59be013b66173ebf7dc1492ff36f63e",
+      "thumbnail_sha256": "3cfd27643629a261cab7525066e610519b023162f9b97e72bd6e9b9eff3c8b55"
+    },
+    {
+      "id": "tree_0009",
+      "name": "ザクロ",
+      "previous_image": {
+        "author": "(c) Proteros, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "source_url": "https://www.inaturalist.org/photos/246755925",
+        "image_path": "images/0001_0050/tree_0009.jpg"
+      },
+      "replacement_image": {
+        "author": "carnifex",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/419912031",
+        "image_path": "images/0001_0050/tree_0009.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/236057099"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。枝葉が茂る低木の全体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Punica granatum。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "cc833b4925709daba8d81cbec47511f850273a44e8189e13afcd935794c40de4",
+      "thumbnail_sha256": "0873d46b3c850b36ec5a6357f968e95c41248e3e988ee02b7cf68c84dcf7bdf4"
+    },
+    {
+      "id": "tree_0010",
+      "name": "ブルーベリー",
+      "previous_image": {
+        "author": "(c) Tom Scavo, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "source_url": "https://www.inaturalist.org/photos/516107381",
+        "image_path": "images/0001_0050/tree_0010.jpg"
+      },
+      "replacement_image": {
+        "author": "Георгий Виноградов (Georgy Vinogradov)",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/56453170",
+        "image_path": "images/0001_0050/tree_0010.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/35775495"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。葉の多い小枝と青い果実、果実だけの写真ではない。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Vaccinium uliginosum。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        731,
+        548
+      ],
+      "status": "差替え完了",
+      "image_sha256": "be8b293fe977e68e755a47618517e23f6ed8f14c950ae594068ccd5241c975a2",
+      "thumbnail_sha256": "4a5e59a471c812e6d00e3a238a25577e79236474fdf670486fd3bdce873cd796"
+    },
+    {
+      "id": "tree_0011",
+      "name": "ウンシュウミカン",
+      "previous_image": {
+        "author": "KENPEI",
+        "license": "CC BY-SA 2.1 JP",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Citrus_unshiu2.jpg",
+        "image_path": "images/0001_0050/tree_0011.jpg"
+      },
+      "replacement_image": {
+        "author": "Batholith",
+        "license": "Public domain (PD-self)",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Citrus_unshiu_20101127_d.jpg",
+        "image_path": "images/0001_0050/tree_0011.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。橙色の実をつけた木全体と枝葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Citrus unshiu。",
+      "quality_grade": "Wikimedia Commons掲載名",
+      "original_dimensions": [
+        3072,
+        2304
+      ],
+      "status": "差替え完了",
+      "image_sha256": "9ba3113f2f83a26919197e24a7c2bb0b91309ea1821d06b420cb0117af857d06",
+      "thumbnail_sha256": "c1573bdf48884e52b61eee2d3b0d1987e87b00f96b2f60e02497db2cd99611e2"
+    },
+    {
+      "id": "tree_0012",
+      "name": "レモン",
+      "previous_image": {
+        "author": "Julesvernex2",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Citrus_flower_%28Citrus_x_limon%29%2C_Ponte_de_Sor%2C_Portugal_%28approx._GPS_location%29_julesvernex2.jpg",
+        "image_path": "images/0001_0050/tree_0012.jpg"
+      },
+      "replacement_image": {
+        "author": "Niyan Shehan",
+        "license": "CC0 1.0",
+        "source_url": "https://www.inaturalist.org/photos/604228158",
+        "image_path": "images/0001_0050/tree_0012.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "observation_url": "https://www.inaturalist.org/observations/332885727"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。幹と葉のついた枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Citrus × limon。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "70556e94cdef25daa0da209521066016488fd4b10d8e3973b68fa00753b81482",
+      "thumbnail_sha256": "2f44418900e8179efe5441da5a5e0b9f8281bb5db81e93d420c07d2bc4bafa90"
+    },
+    {
+      "id": "tree_0014",
+      "name": "キンカン",
+      "previous_image": {
+        "author": "(c) Gabriel, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/659997709",
+        "image_path": "images/0001_0050/tree_0014.jpg"
+      },
+      "replacement_image": {
+        "author": "Toby Y",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/173273201",
+        "image_path": "images/0001_0050/tree_0014.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/103518378"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。枝葉が茂る木の全体と小さな実。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Citrus japonica。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "4b8ddeac38f3750750c0ae81a8b11a5a799dd00e25f43d39b5f09c6cbdb198a7",
+      "thumbnail_sha256": "7ae4529c3d824c4476d462b6f07c22ae75be50ec2ac998bf8009358fa49130a6"
+    },
+    {
+      "id": "tree_0016",
+      "name": "アーモンド",
+      "previous_image": {
+        "author": "(c) Ryan McMinds, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "source_url": "https://www.inaturalist.org/photos/60723193",
+        "image_path": "images/0001_0050/tree_0016.jpg"
+      },
+      "replacement_image": {
+        "author": "Mirko Ubović",
+        "license": "CC0 1.0",
+        "source_url": "https://www.inaturalist.org/photos/651973132",
+        "image_path": "images/0001_0050/tree_0016.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "observation_url": "https://www.inaturalist.org/observations/264628134"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。細長い葉がついた枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Prunus amygdalus。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "ddbef26563822980eb9405ea42ee68120f69381049013264ca8cd7f0f391f68d",
+      "thumbnail_sha256": "685888df499628bad90b0ed338021c43589b6d36ade941d6edf8b432116d791f"
+    },
+    {
+      "id": "tree_0017",
+      "name": "スモモ",
+      "previous_image": {
+        "author": "Forest and Kim Starr",
+        "license": "CC BY 3.0 US",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Starr-080302-3152-Prunus_salicina-EZ_pick_burgandy_plum_flowers-Olinda-Maui_%2824609626230%29.jpg",
+        "image_path": "images/0001_0050/tree_0017.jpg"
+      },
+      "replacement_image": {
+        "author": "Urgamal Magsar",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/523184233",
+        "image_path": "images/0001_0050/tree_0017.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/290814543"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。葉と若い実をつけた木質の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Prunus salicina。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "fda2324b5f39fe38f25b8753f2138d4c2611b1498557085ee23a2237ad40e68e",
+      "thumbnail_sha256": "a4befa74af644d92d241f14e1b44c428780144f110d1bece1f916b721d85ccc8"
+    },
+    {
+      "id": "tree_0018",
+      "name": "アンズ",
+      "previous_image": {
+        "author": "(c) PROPOLI87, some rights reserved (CC BY-SA)",
+        "license": "CC BY-SA",
+        "source_url": "https://www.inaturalist.org/photos/340357219",
+        "image_path": "images/0001_0050/tree_0018.jpg"
+      },
+      "replacement_image": {
+        "author": "CK2AZ",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/48728909",
+        "image_path": "images/0001_0050/tree_0018.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/31152590"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。幹と枝葉の見える木の全体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Prunus armeniaca。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1535
+      ],
+      "status": "差替え完了",
+      "image_sha256": "c51694e51659027ad94aa9f9696d1cb8a8d9b4012463336e55737f8058fdcb8d",
+      "thumbnail_sha256": "8165c6f4aa77927643159aac4da33f9e0455aaab64c9b1c0ecb60c809973a9bc"
+    },
+    {
+      "id": "tree_0019",
+      "name": "フェイジョア",
+      "previous_image": {
+        "author": "(c) Denis Zabin, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "source_url": "https://www.inaturalist.org/photos/248608693",
+        "image_path": "images/0001_0050/tree_0019.jpg"
+      },
+      "replacement_image": {
+        "author": "funnieanimals",
+        "license": "CC0 1.0",
+        "source_url": "https://www.inaturalist.org/photos/590013879",
+        "image_path": "images/0001_0050/tree_0019.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "observation_url": "https://www.inaturalist.org/observations/325832784"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。厚い対生葉がついた木質の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Feijoa sellowiana。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1542,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "810ac6a2164b82c951042afeadbd3c116ec215c8437d0a1abb1c7b8edcf926e5",
+      "thumbnail_sha256": "d23ac9f50ec13b6ab2f8900291751633549f675be482c5373413e828fba975e6"
+    },
+    {
+      "id": "tree_0020",
+      "name": "ジューンベリー",
+      "previous_image": {
+        "author": "(c) Dominic, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "source_url": "https://www.inaturalist.org/photos/580584250",
+        "image_path": "images/0001_0050/tree_0020.jpg"
+      },
+      "replacement_image": {
+        "author": "Zihao Wang",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/23441574",
+        "image_path": "images/0001_0050/tree_0020.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/15704863"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。鋸歯のある丸みを帯びた葉と小枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Amelanchier sanguinea。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1371
+      ],
+      "status": "差替え完了",
+      "image_sha256": "2a5777767ae83a07ee84e41531f716a8f86aedc268b3c366a9ca4492f250bc92",
+      "thumbnail_sha256": "5c9eceacb5862330479c93a63f6d4df1488b89602681706494bce5284a83aaa5"
+    },
+    {
+      "id": "tree_0021",
+      "name": "ユリノキ",
+      "previous_image": {
+        "author": "no rights reserved",
+        "license": "CC0",
+        "source_url": "https://www.inaturalist.org/photos/138790560",
+        "image_path": "images/0001_0050/tree_0021.jpg"
+      },
+      "replacement_image": {
+        "author": "Michael J. Papay",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/427773301",
+        "image_path": "images/0001_0050/tree_0021.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/240131367"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。太い幹と樹冠の見える木全体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Liriodendron tulipifera。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "39d6ebb1b9079186a26041319344c86bdd26022b862895c1a69bed3a9d6e63f5",
+      "thumbnail_sha256": "09281777cb90736d3c2e93343975e1ae027b4249f9b6ed5948c43b9f347ffc38"
+    },
+    {
+      "id": "tree_0022",
+      "name": "エンジュ",
+      "previous_image": {
+        "author": "(c) Michael Ellis, some rights reserved (CC BY), uploaded by Michael Ellis",
+        "license": "CC BY",
+        "source_url": "https://www.inaturalist.org/photos/21952068",
+        "image_path": "images/0001_0050/tree_0022.jpg"
+      },
+      "replacement_image": {
+        "author": "Tim",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/223992409",
+        "image_path": "images/0001_0050/tree_0022.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/131609257"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。羽状複葉の茂る枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Styphnolobium japonicum。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "811692083cfb72e3a18ffa93cdfedc8f02c673a71cd5f24e76df72274e9db553",
+      "thumbnail_sha256": "a1cb8319d225b7cf89d1cf5f06b11a8b0a4e8a1e3f2765b812b523efef1eace3"
+    },
+    {
+      "id": "tree_0023",
+      "name": "シナノキ",
+      "previous_image": {
+        "author": "Alpsdake",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tilia_japonica_%28flower%29.jpg",
+        "image_path": "images/0001_0050/tree_0023.jpg"
+      },
+      "replacement_image": {
+        "author": "Marco Mussita",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/304962225",
+        "image_path": "images/0001_0050/tree_0023.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/175474106"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。幹と広がる枝、緑の葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Tilia japonica。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "c8bf8fe3ef735856ca939ed7188c83f7615c883f9517e7f64dc84533a738fea3",
+      "thumbnail_sha256": "c5e4fa2552fbf9435a5c52ec65ba9bc90682fef8f9b86136d9a415a1b791e4b6"
+    },
+    {
+      "id": "tree_0024",
+      "name": "ニワトコ",
+      "previous_image": {
+        "author": "Qwert1234",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_sieboldiana_6.JPG",
+        "image_path": "images/0001_0050/tree_0024.jpg"
+      },
+      "replacement_image": {
+        "author": "WATANABE Hitoshi 渡辺仁",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/453513039",
+        "image_path": "images/0001_0050/tree_0024.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/253298025"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。鋸歯のある複葉と小枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Sambucus sieboldiana pinnatisecta。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1365
+      ],
+      "status": "差替え完了",
+      "image_sha256": "d8a7de89dfdb1d7b051e7234ec3ed66f8e017d10af3a85671818f7370f7fd991",
+      "thumbnail_sha256": "876c9350ad85b0b40de6d9f808747ef1da8569f323ac70c86796cdf098bdbf13"
+    },
+    {
+      "id": "tree_0025",
+      "name": "ガマズミ",
+      "previous_image": {
+        "author": "no rights reserved",
+        "license": "CC0",
+        "source_url": "https://www.inaturalist.org/photos/41165941",
+        "image_path": "images/0001_0050/tree_0025.jpg"
+      },
+      "replacement_image": {
+        "author": "Erin Lalime",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/194549259",
+        "image_path": "images/0001_0050/tree_0025.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/115254287"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。鋸歯葉が対生する木質の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Viburnum dilatatum。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1152,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "20e747884530af4e3da32fd05d79f3cf8b537094b7252a41c3802ff1e7ef089f",
+      "thumbnail_sha256": "3ec26396393bd1049c871844a7fd687393ebb89a4f16d762be2f6a1f6e9d6e34"
+    },
+    {
+      "id": "tree_0026",
+      "name": "サンゴジュ",
+      "previous_image": {
+        "author": "(c) Toby Y, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "source_url": "https://www.inaturalist.org/photos/118080455",
+        "image_path": "images/0001_0050/tree_0026.jpg"
+      },
+      "replacement_image": {
+        "author": "Greg Tasney",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://www.inaturalist.org/photos/247482212",
+        "image_path": "images/0001_0050/tree_0026.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/144219292"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。光沢のある厚い葉と小枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Viburnum odoratissimum。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1365
+      ],
+      "status": "差替え完了",
+      "image_sha256": "6bd0f244da9c1e1b11a61d8d1defbd9d664bea9321fca4e265f8c764e8801cf7",
+      "thumbnail_sha256": "63235f56f747c7e1576f87a9487ee197828c50220e00ea08e923174152cbccb2"
+    },
+    {
+      "id": "tree_0027",
+      "name": "トベラ",
+      "previous_image": {
+        "author": "no rights reserved, uploaded by 葉子",
+        "license": "CC0",
+        "source_url": "https://www.inaturalist.org/photos/33349195",
+        "image_path": "images/0001_0050/tree_0027.jpeg"
+      },
+      "replacement_image": {
+        "author": "Katrin Simon",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/331913147",
+        "image_path": "images/0001_0050/tree_0027.jpeg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/189463343"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。厚い葉がまとまる枝葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Pittosporum tobira。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1536
+      ],
+      "status": "差替え完了",
+      "image_sha256": "f2966b2bd4be7361d3f668b215245ffaa85b3bf53a33d30bf1254dae2e68b080",
+      "thumbnail_sha256": "49d1eea094f5831b64619a1f3f49051bfb1f121efa4775c38bbec4e40c01184b"
+    },
+    {
+      "id": "tree_0028",
+      "name": "カナメモチ",
+      "previous_image": {
+        "author": "KENPEI",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Photinia_glabra5.jpg",
+        "image_path": "images/0001_0050/tree_0028.jpg"
+      },
+      "replacement_image": {
+        "author": "曾昱承 Yu-Cheng Zeng",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/356780223",
+        "image_path": "images/0001_0050/tree_0028.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/202053658"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。葉が茂る枝と幹。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Photinia glabra。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1363
+      ],
+      "status": "差替え完了",
+      "image_sha256": "e6023cc5b9c81a5ae371d002c5fe08e4d349aa892b692aa4c9b7246fc41e9dc3",
+      "thumbnail_sha256": "2c769bba71cc66ee01e2d26134bf320d6e9e46d5fcf62a4428884d5f3e9da967"
+    },
+    {
+      "id": "tree_0029",
+      "name": "ナンテン",
+      "previous_image": {
+        "author": "PQ77wd",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Flowers_for_Nandina_domestica_2.jpg",
+        "image_path": "images/0001_0050/tree_0029.jpg"
+      },
+      "replacement_image": {
+        "author": "Emily Summerbell",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/244923541",
+        "image_path": "images/0001_0050/tree_0029.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/142819492"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。細い幹と複葉のある低木全体、背景の他の幹と区別。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Nandina domestica。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "ded09b8e74fceb226ae241efb9976c8337f83055dca21776005524187fd3d0d0",
+      "thumbnail_sha256": "4c823b6c3408bf89854cdbe22838fe6067fb6ded3aab31ee74be0b10b5931a4c"
+    },
+    {
+      "id": "tree_0031",
+      "name": "ムラサキシキブ",
+      "previous_image": {
+        "author": "(c) Licheng Shih, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "source_url": "https://www.inaturalist.org/photos/101566953",
+        "image_path": "images/0001_0050/tree_0031.jpeg"
+      },
+      "replacement_image": {
+        "author": "葉子",
+        "license": "CC0 1.0",
+        "source_url": "https://www.inaturalist.org/photos/420272393",
+        "image_path": "images/0001_0050/tree_0031.jpeg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "observation_url": "https://www.inaturalist.org/observations/236244618"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。鋸歯のある葉の茂る枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Callicarpa japonica luxurians。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1536
+      ],
+      "status": "差替え完了",
+      "image_sha256": "666063aabbdf49af07d335c4260e54fb0156640dad369be231c11f083a74c505",
+      "thumbnail_sha256": "6b5165076128b37b5cb43aec51d3b0cf30e59f902fdd8b71c0b641385edbc78c"
+    },
+    {
+      "id": "tree_0035",
+      "name": "クロモジ",
+      "previous_image": {
+        "author": "(c) Timur Kalininsky, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "source_url": "https://www.inaturalist.org/photos/644424445",
+        "image_path": "images/0001_0050/tree_0035.jpg"
+      },
+      "replacement_image": {
+        "author": "WATANABE Hitoshi 渡辺仁",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/435387805",
+        "image_path": "images/0001_0050/tree_0035.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/244105361"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。細長い葉と小枝が主役、小さな花は副次的。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Lindera umbellata。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1365
+      ],
+      "status": "差替え完了",
+      "image_sha256": "359f445613980253c62c5c81a8fadfa8c3f69628329d03dcb470e54cc26988eb",
+      "thumbnail_sha256": "38f4b60b7fa7b528535fbdb92e1508cf481d27765a27538ed351f207ef780d2e"
+    },
+    {
+      "id": "tree_0036",
+      "name": "シロモジ",
+      "previous_image": {
+        "author": "Alpsdake",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lindera_triloba_%28flower_female%29.jpg",
+        "image_path": "images/0001_0050/tree_0036.jpg"
+      },
+      "replacement_image": {
+        "author": "りなべる",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/369213825",
+        "image_path": "images/0001_0050/tree_0036.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/208661484"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。裂片のある葉と枝の広がり。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Lindera triloba。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1365
+      ],
+      "status": "差替え完了",
+      "image_sha256": "8cd17b3a31796e11080d89da3027913e5b3893857f17e161f0debdef2a1bb15c",
+      "thumbnail_sha256": "2a977e84af439d4daff1b46391e2422f7381f137bb653767d971edeb80778125"
+    },
+    {
+      "id": "tree_0037",
+      "name": "マユミ",
+      "previous_image": {
+        "author": "(c) Brandon McCracken, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/659346521",
+        "image_path": "images/0001_0050/tree_0037.jpg"
+      },
+      "replacement_image": {
+        "author": "WATANABE Hitoshi 渡辺仁",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/195813006",
+        "image_path": "images/0001_0050/tree_0037.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/116010028"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。幹と枝葉の見える木全体、小花は副次的。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Euonymus hamiltonianus。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "8f402ed5de979776921bbb88fc538418041dddd36d60e240911d520ec228da6e",
+      "thumbnail_sha256": "2bf5c5324761dbaaf0229d0dd23e8c2f3d4ad77ff20fce0d5f4c8c11e622a715"
+    },
+    {
+      "id": "tree_0038",
+      "name": "ニシキギ",
+      "previous_image": {
+        "author": "(c) Jo Roberts, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "source_url": "https://www.inaturalist.org/photos/505347816",
+        "image_path": "images/0001_0050/tree_0038.jpg"
+      },
+      "replacement_image": {
+        "author": "Jeff Davis",
+        "license": "CC0 1.0",
+        "source_url": "https://www.inaturalist.org/photos/327270904",
+        "image_path": "images/0001_0050/tree_0038.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "observation_url": "https://www.inaturalist.org/observations/187173307"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。紅葉した低木の樹形と幹。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Euonymus alatus。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "90539a86e832031ba9e8d025ec58017ddc343cf6d93a0081c755994839b0a5b0",
+      "thumbnail_sha256": "c107a47c5e53b12572ee3604e279bc1fc592f8b2a73c8504d94a62955eba1f8c"
+    },
+    {
+      "id": "tree_0122",
+      "name": "リョウブ",
+      "previous_image": {
+        "author": "(c) ITÔ, Hiroki, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/738725196",
+        "image_path": "images/0101_0150/tree_0122.jpg"
+      },
+      "replacement_image": {
+        "author": "Marco Mussita",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/291124643",
+        "image_path": "images/0101_0150/tree_0122.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/168014136"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。赤褐色の幹と枝分かれ、緑の葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Clethra barbinervis。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "2c22f5eaa8ba914ec16546d64b34885d1cc555a4769897a60ab258b8bed74fbd",
+      "thumbnail_sha256": "fc62b2335e1c32f489ade64fc59daad96b31fac33bad551c68fb2d8c0406673f"
+    },
+    {
+      "id": "tree_0130",
+      "name": "マカダミア",
+      "previous_image": {
+        "author": "(c) Sofia Zvolanek, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/740344590",
+        "image_path": "images/0101_0150/tree_0130.jpg"
+      },
+      "replacement_image": {
+        "author": "Scott W. Gavins",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/321029882",
+        "image_path": "images/0101_0150/tree_0130.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/183958043"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。太い幹の分かれ方と周囲の枝葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Macadamia integrifolia。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "088ff02946775fd83c195bb9f52e399a25bdb2a7be50a3dafb1643d0441a8276",
+      "thumbnail_sha256": "34671751a70e35154e5046f992180d93678378110c647da6ff348b5d39766214"
+    },
+    {
+      "id": "tree_0167",
+      "name": "ウダイカンバ",
+      "previous_image": {
+        "author": "(c) Bob, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/633726254",
+        "image_path": "images/0151_0200/tree_0167.jpg"
+      },
+      "replacement_image": {
+        "author": "Marco Mussita",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/217246526",
+        "image_path": "images/0151_0200/tree_0167.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/127930013"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。淡色の幹と樹冠の見える木全体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Betula maximowicziana。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "f715f46c4e9c13bc5fc0c149619a0ac2e25ed345d867994a426ada98d3861443",
+      "thumbnail_sha256": "9a8a24cd0a26a56d43c59177955cef5980b95885554f41d926df230d13909504"
+    },
+    {
+      "id": "tree_0182",
+      "name": "モチノキ",
+      "previous_image": {
+        "author": "no rights reserved",
+        "license": "CC0",
+        "source_url": "https://www.inaturalist.org/photos/627965803",
+        "image_path": "images/0151_0200/tree_0182.jpg"
+      },
+      "replacement_image": {
+        "author": "Yoshihiro Tokue",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/186375111",
+        "image_path": "images/0151_0200/tree_0182.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/110478483"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。枝葉がまとまった小高木の全体、右の別の太い幹と区別。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Ilex integra。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "status": "差替え完了",
+      "image_sha256": "6aab560a88e4c774ada6b1106df959194c4743b259ca1614d61c095b6b5cfbc4",
+      "thumbnail_sha256": "c7a6d0b702cc540e4b2c4f5e80a6ffcbc8e405bdf5a9c692a121a2ef8ddb0031"
+    },
+    {
+      "id": "tree_0201",
+      "name": "イヌザクラ",
+      "previous_image": {
+        "author": "(c) りなべる, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/503864509",
+        "image_path": "images/0201_0250/tree_0201.jpg"
+      },
+      "replacement_image": {
+        "author": "Jacy Chen",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/198499808",
+        "image_path": "images/0201_0250/tree_0201.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/117538294"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。鋸歯のある葉が並ぶ細い木質の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Prunus buergeriana。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1538
+      ],
+      "status": "差替え完了",
+      "image_sha256": "06d98e660f203dfec042bbf95ed37225a7987aa887be7358eed67f16b5ed2ee0",
+      "thumbnail_sha256": "d37286f6b09802f0c7b4b99414758665a9c0639c76dc3154bae1ed56d4c89a44"
+    },
+    {
+      "id": "tree_0212",
+      "name": "ムベ",
+      "previous_image": {
+        "author": "(c) 謝麗霦, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/672063555",
+        "image_path": "images/0201_0250/tree_0212.jpg"
+      },
+      "replacement_image": {
+        "author": "WATANABE Hitoshi 渡辺仁",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/448871694",
+        "image_path": "images/0201_0250/tree_0212.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/250925739"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。複葉とつる状の木質の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Stauntonia hexaphylla。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1365
+      ],
+      "status": "差替え完了",
+      "image_sha256": "76951ecec33333c978eb18d1dd786317c9a38adec61455c720e99e0de8b073b9",
+      "thumbnail_sha256": "eea66785a3fddb4489f6069945b9eb22fa21f1dd9c483de4b5222bbce96129d9"
+    },
+    {
+      "id": "tree_0282",
+      "name": "ケンポナシ",
+      "previous_image": {
+        "author": "(c) Clive Freedman, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/740305140",
+        "image_path": "images/0251_0300/tree_0282.jpg"
+      },
+      "replacement_image": {
+        "author": "Marco Mussita",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/53779543",
+        "image_path": "images/0251_0300/tree_0282.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/34190531"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。樹冠と葉が茂る木全体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Hovenia dulcis。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1536
+      ],
+      "status": "差替え完了",
+      "image_sha256": "2ec11f8213b74f6d7776e51bb1ab436b567858c205ddfde9e47f43019d4269af",
+      "thumbnail_sha256": "dd9d46108a857029dd6822d15a5f1465f00b755bc9cf2406c331236b5022e03b"
+    },
+    {
+      "id": "tree_0291",
+      "name": "タンナサワフタギ",
+      "previous_image": {
+        "author": "(c) ITÔ, Hiroki, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/661927764",
+        "image_path": "images/0251_0300/tree_0291.jpg"
+      },
+      "replacement_image": {
+        "author": "WATANABE Hitoshi 渡辺仁",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/230361400",
+        "image_path": "images/0251_0300/tree_0291.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/135087570"
+      },
+      "reason": "旧写真は花または花序が主役",
+      "note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。幅広い鋸歯葉がついた枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Symplocos coreana。",
+      "quality_grade": "research",
+      "original_dimensions": [
+        2048,
+        1365
+      ],
+      "status": "差替え完了",
+      "image_sha256": "9839267bad0e40eb5b65dc8d895fe8fda347c537fba723e3e9d1fe7374919089",
+      "thumbnail_sha256": "0c379fad27887c8fe05cee2ebe6b29feb5e746108e5bfbba3aa4cbc1e5aa417e"
+    }
+  ]
+}
