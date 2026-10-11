@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "published_count": 2650,
+  "published_count": 2800,
   "categories": {
     "flower": {
       "category": "花",
@@ -53,11 +53,18 @@
     },
     "herb": {
       "category": "ハーブ",
-      "count": 200,
-      "last_published_id": "herb_0233",
+      "count": 204,
+      "last_published_id": "herb_0238",
       "image_dir": "images/herb",
       "data_file": "data/records/herb/herb.json"
+    },
+    "rare_fruit": {
+      "category": "珍しい果樹",
+      "count": 146,
+      "last_published_id": "rare_fruit_0171",
+      "image_dir": "images/rare_fruit",
+      "data_file": "data/records/rare_fruit/rare_fruit.json"
     }
   },
-  "generated_at": "2026-10-11T23:31:30.313515"
+  "generated_at": "2026-10-11T23:31:51.595319"
 }
