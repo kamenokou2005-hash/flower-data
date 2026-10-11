@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at_utc": "2026-10-11T14:30:50.713590+00:00",
-  "completed_count": 2250,
+  "generated_at_utc": "2026-10-11T14:31:10.916975+00:00",
+  "completed_count": 2450,
   "items": [
     {
       "id": "flower_0001",
@@ -60349,6 +60349,5006 @@
         "よもぎ",
         "yomogi",
         "artemisiaprinceps"
+      ]
+    },
+    {
+      "id": "yakuso_0030",
+      "category": "薬草",
+      "name": "ゲンノショウコ",
+      "kana": "ゲンノショウコ",
+      "aliases": [
+        "ゲンノショウコ"
+      ],
+      "romaji": [
+        "gennoshouko"
+      ],
+      "scientific": "Geranium thunbergii",
+      "search_terms": [
+        "ゲンノショウコ",
+        "げんのしょうこ",
+        "gennoshouko",
+        "Geranium thunbergii"
+      ],
+      "normalized_terms": [
+        "ゲンノショウコ",
+        "げんのしょうこ",
+        "gennoshouko",
+        "geraniumthunbergii"
+      ]
+    },
+    {
+      "id": "yakuso_0031",
+      "category": "薬草",
+      "name": "オウレン",
+      "kana": "オウレン",
+      "aliases": [
+        "オウレン"
+      ],
+      "romaji": [
+        "ouren"
+      ],
+      "scientific": "Coptis japonica",
+      "search_terms": [
+        "オウレン",
+        "おうれん",
+        "ouren",
+        "Coptis japonica"
+      ],
+      "normalized_terms": [
+        "オウレン",
+        "おうれん",
+        "ouren",
+        "coptisjaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0032",
+      "category": "薬草",
+      "name": "キハダ",
+      "kana": "キハダ",
+      "aliases": [
+        "キハダ"
+      ],
+      "romaji": [
+        "kihada"
+      ],
+      "scientific": "Phellodendron amurense",
+      "search_terms": [
+        "キハダ",
+        "きはだ",
+        "kihada",
+        "Phellodendron amurense"
+      ],
+      "normalized_terms": [
+        "キハダ",
+        "きはだ",
+        "kihada",
+        "phellodendronamurense"
+      ]
+    },
+    {
+      "id": "yakuso_0033",
+      "category": "薬草",
+      "name": "クコ",
+      "kana": "クコ",
+      "aliases": [
+        "クコ"
+      ],
+      "romaji": [
+        "kuko"
+      ],
+      "scientific": "Lycium chinense",
+      "search_terms": [
+        "クコ",
+        "くこ",
+        "kuko",
+        "Lycium chinense"
+      ],
+      "normalized_terms": [
+        "クコ",
+        "くこ",
+        "kuko",
+        "lyciumchinense"
+      ]
+    },
+    {
+      "id": "yakuso_0034",
+      "category": "薬草",
+      "name": "シャクヤク",
+      "kana": "シャクヤク",
+      "aliases": [
+        "シャクヤク"
+      ],
+      "romaji": [
+        "shakuyaku"
+      ],
+      "scientific": "Paeonia lactiflora",
+      "search_terms": [
+        "シャクヤク",
+        "しゃくやく",
+        "shakuyaku",
+        "Paeonia lactiflora"
+      ],
+      "normalized_terms": [
+        "シャクヤク",
+        "しゃくやく",
+        "shakuyaku",
+        "paeonialactiflora"
+      ]
+    },
+    {
+      "id": "yakuso_0035",
+      "category": "薬草",
+      "name": "ショウガ",
+      "kana": "しょうが",
+      "aliases": [
+        "ショウガ"
+      ],
+      "romaji": [
+        "shouga"
+      ],
+      "scientific": "Zingiber officinale",
+      "search_terms": [
+        "ショウガ",
+        "しょうが",
+        "shouga",
+        "Zingiber officinale"
+      ],
+      "normalized_terms": [
+        "ショウガ",
+        "しょうが",
+        "shouga",
+        "zingiberofficinale"
+      ]
+    },
+    {
+      "id": "yakuso_0036",
+      "category": "薬草",
+      "name": "サンショウ",
+      "kana": "サンショウ",
+      "aliases": [
+        "サンショウ"
+      ],
+      "romaji": [
+        "sanshou"
+      ],
+      "scientific": "Zanthoxylum piperitum",
+      "search_terms": [
+        "サンショウ",
+        "さんしょう",
+        "sanshou",
+        "Zanthoxylum piperitum"
+      ],
+      "normalized_terms": [
+        "サンショウ",
+        "さんしょう",
+        "sanshou",
+        "zanthoxylumpiperitum"
+      ]
+    },
+    {
+      "id": "yakuso_0037",
+      "category": "薬草",
+      "name": "ナツメ",
+      "kana": "ナツメ",
+      "aliases": [
+        "ナツメ"
+      ],
+      "romaji": [
+        "natsume"
+      ],
+      "scientific": "Ziziphus jujuba",
+      "search_terms": [
+        "ナツメ",
+        "なつめ",
+        "natsume",
+        "Ziziphus jujuba"
+      ],
+      "normalized_terms": [
+        "ナツメ",
+        "なつめ",
+        "natsume",
+        "ziziphusjujuba"
+      ]
+    },
+    {
+      "id": "yakuso_0038",
+      "category": "薬草",
+      "name": "ウツボグサ",
+      "kana": "ウツボグサ",
+      "aliases": [
+        "ウツボグサ"
+      ],
+      "romaji": [
+        "utsubogusa"
+      ],
+      "scientific": "Prunella vulgaris subsp. asiatica",
+      "search_terms": [
+        "ウツボグサ",
+        "うつぼぐさ",
+        "utsubogusa",
+        "Prunella vulgaris subsp. asiatica"
+      ],
+      "normalized_terms": [
+        "ウツボグサ",
+        "うつぼぐさ",
+        "utsubogusa",
+        "prunellavulgarissubspasiatica"
+      ]
+    },
+    {
+      "id": "yakuso_0039",
+      "category": "薬草",
+      "name": "キキョウ",
+      "kana": "キキョウ",
+      "aliases": [
+        "キキョウ"
+      ],
+      "romaji": [
+        "kikyou"
+      ],
+      "scientific": "Platycodon grandiflorus",
+      "search_terms": [
+        "キキョウ",
+        "ききょう",
+        "kikyou",
+        "Platycodon grandiflorus"
+      ],
+      "normalized_terms": [
+        "キキョウ",
+        "ききょう",
+        "kikyou",
+        "platycodongrandiflorus"
+      ]
+    },
+    {
+      "id": "yakuso_0040",
+      "category": "薬草",
+      "name": "オオバコ",
+      "kana": "オオバコ",
+      "aliases": [
+        "オオバコ"
+      ],
+      "romaji": [
+        "oobako"
+      ],
+      "scientific": "Plantago asiatica",
+      "search_terms": [
+        "オオバコ",
+        "おおばこ",
+        "oobako",
+        "Plantago asiatica"
+      ],
+      "normalized_terms": [
+        "オオバコ",
+        "おおばこ",
+        "oobako",
+        "plantagoasiatica"
+      ]
+    },
+    {
+      "id": "yakuso_0041",
+      "category": "薬草",
+      "name": "カキドオシ",
+      "kana": "カキドオシ",
+      "aliases": [
+        "カキドオシ"
+      ],
+      "romaji": [
+        "kakidooshi"
+      ],
+      "scientific": "Glechoma grandis",
+      "search_terms": [
+        "カキドオシ",
+        "かきどおし",
+        "kakidooshi",
+        "Glechoma grandis"
+      ],
+      "normalized_terms": [
+        "カキドオシ",
+        "かきどおし",
+        "kakidooshi",
+        "glechomagrandis"
+      ]
+    },
+    {
+      "id": "yakuso_0042",
+      "category": "薬草",
+      "name": "シソ",
+      "kana": "シソ",
+      "aliases": [
+        "シソ"
+      ],
+      "romaji": [
+        "shiso"
+      ],
+      "scientific": "Perilla frutescens var. crispa",
+      "search_terms": [
+        "シソ",
+        "しそ",
+        "shiso",
+        "Perilla frutescens var. crispa"
+      ],
+      "normalized_terms": [
+        "シソ",
+        "しそ",
+        "shiso",
+        "perillafrutescensvarcrispa"
+      ]
+    },
+    {
+      "id": "yakuso_0043",
+      "category": "薬草",
+      "name": "エゴマ",
+      "kana": "エゴマ",
+      "aliases": [
+        "エゴマ"
+      ],
+      "romaji": [
+        "egoma"
+      ],
+      "scientific": "Perilla frutescens var. frutescens",
+      "search_terms": [
+        "エゴマ",
+        "えごま",
+        "egoma",
+        "Perilla frutescens var. frutescens"
+      ],
+      "normalized_terms": [
+        "エゴマ",
+        "えごま",
+        "egoma",
+        "perillafrutescensvarfrutescens"
+      ]
+    },
+    {
+      "id": "yakuso_0044",
+      "category": "薬草",
+      "name": "チョウセンゴミシ",
+      "kana": "チョウセンゴミシ",
+      "aliases": [
+        "チョウセンゴミシ"
+      ],
+      "romaji": [
+        "chousengomishi"
+      ],
+      "scientific": "Schisandra chinensis",
+      "search_terms": [
+        "チョウセンゴミシ",
+        "ちょうせんごみし",
+        "chousengomishi",
+        "Schisandra chinensis"
+      ],
+      "normalized_terms": [
+        "チョウセンゴミシ",
+        "ちょうせんごみし",
+        "chousengomishi",
+        "schisandrachinensis"
+      ]
+    },
+    {
+      "id": "yakuso_0045",
+      "category": "薬草",
+      "name": "コガネバナ",
+      "kana": "コガネバナ",
+      "aliases": [
+        "コガネバナ"
+      ],
+      "romaji": [
+        "koganebana"
+      ],
+      "scientific": "Scutellaria baicalensis",
+      "search_terms": [
+        "コガネバナ",
+        "こがねばな",
+        "koganebana",
+        "Scutellaria baicalensis"
+      ],
+      "normalized_terms": [
+        "コガネバナ",
+        "こがねばな",
+        "koganebana",
+        "scutellariabaicalensis"
+      ]
+    },
+    {
+      "id": "yakuso_0046",
+      "category": "薬草",
+      "name": "ムラサキ",
+      "kana": "ムラサキ",
+      "aliases": [
+        "ムラサキ"
+      ],
+      "romaji": [
+        "murasaki"
+      ],
+      "scientific": "Lithospermum erythrorhizon",
+      "search_terms": [
+        "ムラサキ",
+        "むらさき",
+        "murasaki",
+        "Lithospermum erythrorhizon"
+      ],
+      "normalized_terms": [
+        "ムラサキ",
+        "むらさき",
+        "murasaki",
+        "lithospermumerythrorhizon"
+      ]
+    },
+    {
+      "id": "yakuso_0047",
+      "category": "薬草",
+      "name": "クララ",
+      "kana": "クララ",
+      "aliases": [
+        "クララ"
+      ],
+      "romaji": [
+        "kurara"
+      ],
+      "scientific": "Sophora flavescens",
+      "search_terms": [
+        "クララ",
+        "くらら",
+        "kurara",
+        "Sophora flavescens"
+      ],
+      "normalized_terms": [
+        "クララ",
+        "くらら",
+        "kurara",
+        "sophoraflavescens"
+      ]
+    },
+    {
+      "id": "yakuso_0048",
+      "category": "薬草",
+      "name": "エンゴサク",
+      "kana": "エンゴサク",
+      "aliases": [
+        "エンゴサク"
+      ],
+      "romaji": [
+        "engosaku"
+      ],
+      "scientific": "Corydalis yanhusuo",
+      "search_terms": [
+        "エンゴサク",
+        "えんごさく",
+        "engosaku",
+        "Corydalis yanhusuo"
+      ],
+      "normalized_terms": [
+        "エンゴサク",
+        "えんごさく",
+        "engosaku",
+        "corydalisyanhusuo"
+      ]
+    },
+    {
+      "id": "yakuso_0049",
+      "category": "薬草",
+      "name": "ヤマノイモ",
+      "kana": "ヤマノイモ",
+      "aliases": [
+        "ヤマノイモ"
+      ],
+      "romaji": [
+        "yamanoimo"
+      ],
+      "scientific": "Dioscorea japonica",
+      "search_terms": [
+        "ヤマノイモ",
+        "やまのいも",
+        "yamanoimo",
+        "Dioscorea japonica"
+      ],
+      "normalized_terms": [
+        "ヤマノイモ",
+        "やまのいも",
+        "yamanoimo",
+        "dioscoreajaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0050",
+      "category": "薬草",
+      "name": "アケビ",
+      "kana": "アケビ",
+      "aliases": [
+        "アケビ"
+      ],
+      "romaji": [
+        "akebi"
+      ],
+      "scientific": "Akebia quinata",
+      "search_terms": [
+        "アケビ",
+        "あけび",
+        "akebi",
+        "Akebia quinata"
+      ],
+      "normalized_terms": [
+        "アケビ",
+        "あけび",
+        "akebi",
+        "akebiaquinata"
+      ]
+    },
+    {
+      "id": "yakuso_0051",
+      "category": "薬草",
+      "name": "ムベ",
+      "kana": "ムベ",
+      "aliases": [
+        "ムベ"
+      ],
+      "romaji": [
+        "mube"
+      ],
+      "scientific": "Stauntonia hexaphylla",
+      "search_terms": [
+        "ムベ",
+        "むべ",
+        "mube",
+        "Stauntonia hexaphylla"
+      ],
+      "normalized_terms": [
+        "ムベ",
+        "むべ",
+        "mube",
+        "stauntoniahexaphylla"
+      ]
+    },
+    {
+      "id": "yakuso_0052",
+      "category": "薬草",
+      "name": "レンギョウ",
+      "kana": "レンギョウ",
+      "aliases": [
+        "レンギョウ"
+      ],
+      "romaji": [
+        "rengyou"
+      ],
+      "scientific": "Forsythia suspensa",
+      "search_terms": [
+        "レンギョウ",
+        "れんぎょう",
+        "rengyou",
+        "Forsythia suspensa"
+      ],
+      "normalized_terms": [
+        "レンギョウ",
+        "れんぎょう",
+        "rengyou",
+        "forsythiasuspensa"
+      ]
+    },
+    {
+      "id": "yakuso_0053",
+      "category": "薬草",
+      "name": "キササゲ",
+      "kana": "キササゲ",
+      "aliases": [
+        "キササゲ"
+      ],
+      "romaji": [
+        "kisasage"
+      ],
+      "scientific": "Catalpa ovata",
+      "search_terms": [
+        "キササゲ",
+        "きささげ",
+        "kisasage",
+        "Catalpa ovata"
+      ],
+      "normalized_terms": [
+        "キササゲ",
+        "きささげ",
+        "kisasage",
+        "catalpaovata"
+      ]
+    },
+    {
+      "id": "yakuso_0054",
+      "category": "薬草",
+      "name": "モモ",
+      "kana": "モモ",
+      "aliases": [
+        "モモ"
+      ],
+      "romaji": [
+        "momo"
+      ],
+      "scientific": "Prunus persica",
+      "search_terms": [
+        "モモ",
+        "もも",
+        "momo",
+        "Prunus persica"
+      ],
+      "normalized_terms": [
+        "モモ",
+        "もも",
+        "momo",
+        "prunuspersica"
+      ]
+    },
+    {
+      "id": "yakuso_0055",
+      "category": "薬草",
+      "name": "ウメ",
+      "kana": "ウメ",
+      "aliases": [
+        "ウメ"
+      ],
+      "romaji": [
+        "ume"
+      ],
+      "scientific": "Prunus mume",
+      "search_terms": [
+        "ウメ",
+        "うめ",
+        "ume",
+        "Prunus mume"
+      ],
+      "normalized_terms": [
+        "ウメ",
+        "うめ",
+        "ume",
+        "prunusmume"
+      ]
+    },
+    {
+      "id": "yakuso_0056",
+      "category": "薬草",
+      "name": "ビワ",
+      "kana": "ビワ",
+      "aliases": [
+        "ビワ"
+      ],
+      "romaji": [
+        "biwa"
+      ],
+      "scientific": "Eriobotrya japonica",
+      "search_terms": [
+        "ビワ",
+        "びわ",
+        "biwa",
+        "Eriobotrya japonica"
+      ],
+      "normalized_terms": [
+        "ビワ",
+        "びわ",
+        "biwa",
+        "eriobotryajaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0057",
+      "category": "薬草",
+      "name": "カリン",
+      "kana": "カリン",
+      "aliases": [
+        "カリン"
+      ],
+      "romaji": [
+        "karin"
+      ],
+      "scientific": "Pseudocydonia sinensis",
+      "search_terms": [
+        "カリン",
+        "かりん",
+        "karin",
+        "Pseudocydonia sinensis"
+      ],
+      "normalized_terms": [
+        "カリン",
+        "かりん",
+        "karin",
+        "pseudocydoniasinensis"
+      ]
+    },
+    {
+      "id": "yakuso_0058",
+      "category": "薬草",
+      "name": "ユキノシタ",
+      "kana": "ユキノシタ",
+      "aliases": [
+        "ユキノシタ"
+      ],
+      "romaji": [
+        "yukinoshita"
+      ],
+      "scientific": "Saxifraga stolonifera",
+      "search_terms": [
+        "ユキノシタ",
+        "ゆきのした",
+        "yukinoshita",
+        "Saxifraga stolonifera"
+      ],
+      "normalized_terms": [
+        "ユキノシタ",
+        "ゆきのした",
+        "yukinoshita",
+        "saxifragastolonifera"
+      ]
+    },
+    {
+      "id": "yakuso_0059",
+      "category": "薬草",
+      "name": "キダチアロエ",
+      "kana": "キダチアロエ",
+      "aliases": [
+        "キダチアロエ"
+      ],
+      "romaji": [
+        "kidachiaroe"
+      ],
+      "scientific": "Aloe arborescens",
+      "search_terms": [
+        "キダチアロエ",
+        "きだちあろえ",
+        "kidachiaroe",
+        "Aloe arborescens"
+      ],
+      "normalized_terms": [
+        "キダチアロエ",
+        "きだちあろえ",
+        "kidachiaroe",
+        "aloearborescens"
+      ]
+    },
+    {
+      "id": "yakuso_0060",
+      "category": "薬草",
+      "name": "スイカズラ",
+      "kana": "スイカズラ",
+      "aliases": [
+        "スイカズラ"
+      ],
+      "romaji": [
+        "suikazura"
+      ],
+      "scientific": "Lonicera japonica",
+      "search_terms": [
+        "スイカズラ",
+        "すいかずら",
+        "suikazura",
+        "Lonicera japonica"
+      ],
+      "normalized_terms": [
+        "スイカズラ",
+        "すいかずら",
+        "suikazura",
+        "lonicerajaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0061",
+      "category": "薬草",
+      "name": "ニワトコ",
+      "kana": "ニワトコ",
+      "aliases": [
+        "ニワトコ"
+      ],
+      "romaji": [
+        "niwatoko"
+      ],
+      "scientific": "Sambucus sieboldiana",
+      "search_terms": [
+        "ニワトコ",
+        "にわとこ",
+        "niwatoko",
+        "Sambucus sieboldiana"
+      ],
+      "normalized_terms": [
+        "ニワトコ",
+        "にわとこ",
+        "niwatoko",
+        "sambucussieboldiana"
+      ]
+    },
+    {
+      "id": "yakuso_0062",
+      "category": "薬草",
+      "name": "セイヨウタンポポ",
+      "kana": "セイヨウタンポポ",
+      "aliases": [
+        "セイヨウタンポポ"
+      ],
+      "romaji": [
+        "seiyoutanpopo"
+      ],
+      "scientific": "Taraxacum officinale",
+      "search_terms": [
+        "セイヨウタンポポ",
+        "せいようたんぽぽ",
+        "seiyoutanpopo",
+        "Taraxacum officinale"
+      ],
+      "normalized_terms": [
+        "セイヨウタンポポ",
+        "せいようたんぽぽ",
+        "seiyoutanpopo",
+        "taraxacumofficinale"
+      ]
+    },
+    {
+      "id": "yakuso_0063",
+      "category": "薬草",
+      "name": "ハハコグサ",
+      "kana": "ハハコグサ",
+      "aliases": [
+        "ハハコグサ"
+      ],
+      "romaji": [
+        "hahakogusa"
+      ],
+      "scientific": "Pseudognaphalium affine",
+      "search_terms": [
+        "ハハコグサ",
+        "ははこぐさ",
+        "hahakogusa",
+        "Pseudognaphalium affine"
+      ],
+      "normalized_terms": [
+        "ハハコグサ",
+        "ははこぐさ",
+        "hahakogusa",
+        "pseudognaphaliumaffine"
+      ]
+    },
+    {
+      "id": "yakuso_0064",
+      "category": "薬草",
+      "name": "ホトケノザ",
+      "kana": "ホトケノザ",
+      "aliases": [
+        "ホトケノザ"
+      ],
+      "romaji": [
+        "hotokenoza"
+      ],
+      "scientific": "Lamium amplexicaule",
+      "search_terms": [
+        "ホトケノザ",
+        "ほとけのざ",
+        "hotokenoza",
+        "Lamium amplexicaule"
+      ],
+      "normalized_terms": [
+        "ホトケノザ",
+        "ほとけのざ",
+        "hotokenoza",
+        "lamiumamplexicaule"
+      ]
+    },
+    {
+      "id": "yakuso_0065",
+      "category": "薬草",
+      "name": "スギナ",
+      "kana": "すぎな",
+      "aliases": [
+        "スギナ"
+      ],
+      "romaji": [
+        "sugina"
+      ],
+      "scientific": "Equisetum arvense",
+      "search_terms": [
+        "スギナ",
+        "すぎな",
+        "sugina",
+        "Equisetum arvense"
+      ],
+      "normalized_terms": [
+        "スギナ",
+        "すぎな",
+        "sugina",
+        "equisetumarvense"
+      ]
+    },
+    {
+      "id": "yakuso_0066",
+      "category": "薬草",
+      "name": "イタドリ",
+      "kana": "イタドリ",
+      "aliases": [
+        "イタドリ"
+      ],
+      "romaji": [
+        "itadori"
+      ],
+      "scientific": "Reynoutria japonica",
+      "search_terms": [
+        "イタドリ",
+        "いたどり",
+        "itadori",
+        "Reynoutria japonica"
+      ],
+      "normalized_terms": [
+        "イタドリ",
+        "いたどり",
+        "itadori",
+        "reynoutriajaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0067",
+      "category": "薬草",
+      "name": "ノゲシ",
+      "kana": "ノゲシ",
+      "aliases": [
+        "ノゲシ"
+      ],
+      "romaji": [
+        "nogeshi"
+      ],
+      "scientific": "Sonchus oleraceus",
+      "search_terms": [
+        "ノゲシ",
+        "のげし",
+        "nogeshi",
+        "Sonchus oleraceus"
+      ],
+      "normalized_terms": [
+        "ノゲシ",
+        "のげし",
+        "nogeshi",
+        "sonchusoleraceus"
+      ]
+    },
+    {
+      "id": "yakuso_0068",
+      "category": "薬草",
+      "name": "オニノゲシ",
+      "kana": "オニノゲシ",
+      "aliases": [
+        "オニノゲシ"
+      ],
+      "romaji": [
+        "oninogeshi"
+      ],
+      "scientific": "Sonchus asper",
+      "search_terms": [
+        "オニノゲシ",
+        "おにのげし",
+        "oninogeshi",
+        "Sonchus asper"
+      ],
+      "normalized_terms": [
+        "オニノゲシ",
+        "おにのげし",
+        "oninogeshi",
+        "sonchusasper"
+      ]
+    },
+    {
+      "id": "yakuso_0069",
+      "category": "薬草",
+      "name": "ヨメナ",
+      "kana": "ヨメナ",
+      "aliases": [
+        "ヨメナ"
+      ],
+      "romaji": [
+        "yomena"
+      ],
+      "scientific": "Aster yomena",
+      "search_terms": [
+        "ヨメナ",
+        "よめな",
+        "yomena",
+        "Aster yomena"
+      ],
+      "normalized_terms": [
+        "ヨメナ",
+        "よめな",
+        "yomena",
+        "asteryomena"
+      ]
+    },
+    {
+      "id": "yakuso_0070",
+      "category": "薬草",
+      "name": "ノコンギク",
+      "kana": "ノコンギク",
+      "aliases": [
+        "ノコンギク"
+      ],
+      "romaji": [
+        "nokongiku"
+      ],
+      "scientific": "Aster microcephalus var. ovatus",
+      "search_terms": [
+        "ノコンギク",
+        "のこんぎく",
+        "nokongiku",
+        "Aster microcephalus var. ovatus"
+      ],
+      "normalized_terms": [
+        "ノコンギク",
+        "のこんぎく",
+        "nokongiku",
+        "astermicrocephalusvarovatus"
+      ]
+    },
+    {
+      "id": "yakuso_0071",
+      "category": "薬草",
+      "name": "ノアザミ",
+      "kana": "ノアザミ",
+      "aliases": [
+        "ノアザミ"
+      ],
+      "romaji": [
+        "noazami"
+      ],
+      "scientific": "Cirsium japonicum",
+      "search_terms": [
+        "ノアザミ",
+        "のあざみ",
+        "noazami",
+        "Cirsium japonicum"
+      ],
+      "normalized_terms": [
+        "ノアザミ",
+        "のあざみ",
+        "noazami",
+        "cirsiumjaponicum"
+      ]
+    },
+    {
+      "id": "yakuso_0072",
+      "category": "薬草",
+      "name": "セリ",
+      "kana": "セリ",
+      "aliases": [
+        "セリ"
+      ],
+      "romaji": [
+        "seri"
+      ],
+      "scientific": "Oenanthe javanica",
+      "search_terms": [
+        "セリ",
+        "せり",
+        "seri",
+        "Oenanthe javanica"
+      ],
+      "normalized_terms": [
+        "セリ",
+        "せり",
+        "seri",
+        "oenanthejavanica"
+      ]
+    },
+    {
+      "id": "yakuso_0073",
+      "category": "薬草",
+      "name": "ミツバ",
+      "kana": "ミツバ",
+      "aliases": [
+        "ミツバ"
+      ],
+      "romaji": [
+        "mitsuba"
+      ],
+      "scientific": "Cryptotaenia japonica",
+      "search_terms": [
+        "ミツバ",
+        "みつば",
+        "mitsuba",
+        "Cryptotaenia japonica"
+      ],
+      "normalized_terms": [
+        "ミツバ",
+        "みつば",
+        "mitsuba",
+        "cryptotaeniajaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0074",
+      "category": "薬草",
+      "name": "ノビル",
+      "kana": "ノビル",
+      "aliases": [
+        "ノビル"
+      ],
+      "romaji": [
+        "nobiru"
+      ],
+      "scientific": "Allium macrostemon",
+      "search_terms": [
+        "ノビル",
+        "のびる",
+        "nobiru",
+        "Allium macrostemon"
+      ],
+      "normalized_terms": [
+        "ノビル",
+        "のびる",
+        "nobiru",
+        "alliummacrostemon"
+      ]
+    },
+    {
+      "id": "yakuso_0075",
+      "category": "薬草",
+      "name": "ギョウジャニンニク",
+      "kana": "ギョウジャニンニク",
+      "aliases": [
+        "ギョウジャニンニク"
+      ],
+      "romaji": [
+        "gyoujaninniku"
+      ],
+      "scientific": "Allium ochotense",
+      "search_terms": [
+        "ギョウジャニンニク",
+        "ぎょうじゃにんにく",
+        "gyoujaninniku",
+        "Allium ochotense"
+      ],
+      "normalized_terms": [
+        "ギョウジャニンニク",
+        "ぎょうじゃにんにく",
+        "gyoujaninniku",
+        "alliumochotense"
+      ]
+    },
+    {
+      "id": "yakuso_0076",
+      "category": "薬草",
+      "name": "ワサビ",
+      "kana": "ワサビ",
+      "aliases": [
+        "ワサビ"
+      ],
+      "romaji": [
+        "wasabi"
+      ],
+      "scientific": "Eutrema japonicum",
+      "search_terms": [
+        "ワサビ",
+        "わさび",
+        "wasabi",
+        "Eutrema japonicum"
+      ],
+      "normalized_terms": [
+        "ワサビ",
+        "わさび",
+        "wasabi",
+        "eutremajaponicum"
+      ]
+    },
+    {
+      "id": "yakuso_0077",
+      "category": "薬草",
+      "name": "アシタバ",
+      "kana": "アシタバ",
+      "aliases": [
+        "アシタバ"
+      ],
+      "romaji": [
+        "ashitaba"
+      ],
+      "scientific": "Angelica keiskei",
+      "search_terms": [
+        "アシタバ",
+        "あしたば",
+        "ashitaba",
+        "Angelica keiskei"
+      ],
+      "normalized_terms": [
+        "アシタバ",
+        "あしたば",
+        "ashitaba",
+        "angelicakeiskei"
+      ]
+    },
+    {
+      "id": "yakuso_0078",
+      "category": "薬草",
+      "name": "ハマボウフウ",
+      "kana": "ハマボウフウ",
+      "aliases": [
+        "ハマボウフウ"
+      ],
+      "romaji": [
+        "hamaboufuu"
+      ],
+      "scientific": "Glehnia littoralis",
+      "search_terms": [
+        "ハマボウフウ",
+        "はまぼうふう",
+        "hamaboufuu",
+        "Glehnia littoralis"
+      ],
+      "normalized_terms": [
+        "ハマボウフウ",
+        "はまぼうふう",
+        "hamaboufuu",
+        "glehnialittoralis"
+      ]
+    },
+    {
+      "id": "yakuso_0079",
+      "category": "薬草",
+      "name": "ヤブカンゾウ",
+      "kana": "ヤブカンゾウ",
+      "aliases": [
+        "ヤブカンゾウ"
+      ],
+      "romaji": [
+        "yabukanzou"
+      ],
+      "scientific": "Hemerocallis fulva var. kwanso",
+      "search_terms": [
+        "ヤブカンゾウ",
+        "やぶかんぞう",
+        "yabukanzou",
+        "Hemerocallis fulva var. kwanso"
+      ],
+      "normalized_terms": [
+        "ヤブカンゾウ",
+        "やぶかんぞう",
+        "yabukanzou",
+        "hemerocallisfulvavarkwanso"
+      ]
+    },
+    {
+      "id": "yakuso_0080",
+      "category": "薬草",
+      "name": "ノカンゾウ",
+      "kana": "ノカンゾウ",
+      "aliases": [
+        "ノカンゾウ"
+      ],
+      "romaji": [
+        "nokanzou"
+      ],
+      "scientific": "Hemerocallis fulva var. disticha",
+      "search_terms": [
+        "ノカンゾウ",
+        "のかんぞう",
+        "nokanzou",
+        "Hemerocallis fulva var. disticha"
+      ],
+      "normalized_terms": [
+        "ノカンゾウ",
+        "のかんぞう",
+        "nokanzou",
+        "hemerocallisfulvavardisticha"
+      ]
+    },
+    {
+      "id": "yakuso_0081",
+      "category": "薬草",
+      "name": "オオバギボウシ",
+      "kana": "オオバギボウシ",
+      "aliases": [
+        "オオバギボウシ"
+      ],
+      "romaji": [
+        "oobagiboushi"
+      ],
+      "scientific": "Hosta sieboldiana",
+      "search_terms": [
+        "オオバギボウシ",
+        "おおばぎぼうし",
+        "oobagiboushi",
+        "Hosta sieboldiana"
+      ],
+      "normalized_terms": [
+        "オオバギボウシ",
+        "おおばぎぼうし",
+        "oobagiboushi",
+        "hostasieboldiana"
+      ]
+    },
+    {
+      "id": "yakuso_0082",
+      "category": "薬草",
+      "name": "ユキザサ",
+      "kana": "ユキザサ",
+      "aliases": [
+        "ユキザサ"
+      ],
+      "romaji": [
+        "yukizasa"
+      ],
+      "scientific": "Maianthemum japonicum",
+      "search_terms": [
+        "ユキザサ",
+        "ゆきざさ",
+        "yukizasa",
+        "Maianthemum japonicum"
+      ],
+      "normalized_terms": [
+        "ユキザサ",
+        "ゆきざさ",
+        "yukizasa",
+        "maianthemumjaponicum"
+      ]
+    },
+    {
+      "id": "yakuso_0083",
+      "category": "薬草",
+      "name": "アマドコロ",
+      "kana": "アマドコロ",
+      "aliases": [
+        "アマドコロ"
+      ],
+      "romaji": [
+        "amadokoro"
+      ],
+      "scientific": "Polygonatum odoratum",
+      "search_terms": [
+        "アマドコロ",
+        "あまどころ",
+        "amadokoro",
+        "Polygonatum odoratum"
+      ],
+      "normalized_terms": [
+        "アマドコロ",
+        "あまどころ",
+        "amadokoro",
+        "polygonatumodoratum"
+      ]
+    },
+    {
+      "id": "yakuso_0084",
+      "category": "薬草",
+      "name": "ナルコユリ",
+      "kana": "ナルコユリ",
+      "aliases": [
+        "ナルコユリ"
+      ],
+      "romaji": [
+        "narukoyuri"
+      ],
+      "scientific": "Polygonatum falcatum",
+      "search_terms": [
+        "ナルコユリ",
+        "なるこゆり",
+        "narukoyuri",
+        "Polygonatum falcatum"
+      ],
+      "normalized_terms": [
+        "ナルコユリ",
+        "なるこゆり",
+        "narukoyuri",
+        "polygonatumfalcatum"
+      ]
+    },
+    {
+      "id": "yakuso_0085",
+      "category": "薬草",
+      "name": "コシアブラ",
+      "kana": "コシアブラ",
+      "aliases": [
+        "コシアブラ"
+      ],
+      "romaji": [
+        "koshiabura"
+      ],
+      "scientific": "Chengiopanax sciadophylloides",
+      "search_terms": [
+        "コシアブラ",
+        "こしあぶら",
+        "koshiabura",
+        "Chengiopanax sciadophylloides"
+      ],
+      "normalized_terms": [
+        "コシアブラ",
+        "こしあぶら",
+        "koshiabura",
+        "chengiopanaxsciadophylloides"
+      ]
+    },
+    {
+      "id": "yakuso_0086",
+      "category": "薬草",
+      "name": "タラノキ",
+      "kana": "タラノキ",
+      "aliases": [
+        "タラノキ"
+      ],
+      "romaji": [
+        "taranoki"
+      ],
+      "scientific": "Aralia elata",
+      "search_terms": [
+        "タラノキ",
+        "たらのき",
+        "taranoki",
+        "Aralia elata"
+      ],
+      "normalized_terms": [
+        "タラノキ",
+        "たらのき",
+        "taranoki",
+        "araliaelata"
+      ]
+    },
+    {
+      "id": "yakuso_0087",
+      "category": "薬草",
+      "name": "ハリギリ",
+      "kana": "ハリギリ",
+      "aliases": [
+        "ハリギリ"
+      ],
+      "romaji": [
+        "harigiri"
+      ],
+      "scientific": "Kalopanax septemlobus",
+      "search_terms": [
+        "ハリギリ",
+        "はりぎり",
+        "harigiri",
+        "Kalopanax septemlobus"
+      ],
+      "normalized_terms": [
+        "ハリギリ",
+        "はりぎり",
+        "harigiri",
+        "kalopanaxseptemlobus"
+      ]
+    },
+    {
+      "id": "yakuso_0088",
+      "category": "薬草",
+      "name": "ヤマウコギ",
+      "kana": "ヤマウコギ",
+      "aliases": [
+        "ヤマウコギ"
+      ],
+      "romaji": [
+        "yamaukogi"
+      ],
+      "scientific": "Eleutherococcus spinosus var. varspinosus",
+      "search_terms": [
+        "ヤマウコギ",
+        "やまうこぎ",
+        "yamaukogi",
+        "Eleutherococcus spinosus var. varspinosus"
+      ],
+      "normalized_terms": [
+        "ヤマウコギ",
+        "やまうこぎ",
+        "yamaukogi",
+        "eleutherococcusspinosusvarvarspinosus"
+      ]
+    },
+    {
+      "id": "yakuso_0089",
+      "category": "薬草",
+      "name": "イチョウ",
+      "kana": "イチョウ",
+      "aliases": [
+        "イチョウ"
+      ],
+      "romaji": [
+        "ichou"
+      ],
+      "scientific": "Ginkgo biloba",
+      "search_terms": [
+        "イチョウ",
+        "いちょう",
+        "ichou",
+        "Ginkgo biloba"
+      ],
+      "normalized_terms": [
+        "イチョウ",
+        "いちょう",
+        "ichou",
+        "ginkgobiloba"
+      ]
+    },
+    {
+      "id": "yakuso_0090",
+      "category": "薬草",
+      "name": "ムクロジ",
+      "kana": "ムクロジ",
+      "aliases": [
+        "ムクロジ"
+      ],
+      "romaji": [
+        "mukuroji"
+      ],
+      "scientific": "Sapindus mukorossi",
+      "search_terms": [
+        "ムクロジ",
+        "むくろじ",
+        "mukuroji",
+        "Sapindus mukorossi"
+      ],
+      "normalized_terms": [
+        "ムクロジ",
+        "むくろじ",
+        "mukuroji",
+        "sapindusmukorossi"
+      ]
+    },
+    {
+      "id": "yakuso_0091",
+      "category": "薬草",
+      "name": "トチノキ",
+      "kana": "トチノキ",
+      "aliases": [
+        "トチノキ"
+      ],
+      "romaji": [
+        "tochinoki"
+      ],
+      "scientific": "Aesculus turbinata",
+      "search_terms": [
+        "トチノキ",
+        "とちのき",
+        "tochinoki",
+        "Aesculus turbinata"
+      ],
+      "normalized_terms": [
+        "トチノキ",
+        "とちのき",
+        "tochinoki",
+        "aesculusturbinata"
+      ]
+    },
+    {
+      "id": "yakuso_0092",
+      "category": "薬草",
+      "name": "ホオノキ",
+      "kana": "ホオノキ",
+      "aliases": [
+        "ホオノキ"
+      ],
+      "romaji": [
+        "hoonoki"
+      ],
+      "scientific": "Magnolia obovata",
+      "search_terms": [
+        "ホオノキ",
+        "ほおのき",
+        "hoonoki",
+        "Magnolia obovata"
+      ],
+      "normalized_terms": [
+        "ホオノキ",
+        "ほおのき",
+        "hoonoki",
+        "magnoliaobovata"
+      ]
+    },
+    {
+      "id": "yakuso_0093",
+      "category": "薬草",
+      "name": "クロモジ",
+      "kana": "クロモジ",
+      "aliases": [
+        "クロモジ"
+      ],
+      "romaji": [
+        "kuromoji"
+      ],
+      "scientific": "Lindera umbellata",
+      "search_terms": [
+        "クロモジ",
+        "くろもじ",
+        "kuromoji",
+        "Lindera umbellata"
+      ],
+      "normalized_terms": [
+        "クロモジ",
+        "くろもじ",
+        "kuromoji",
+        "linderaumbellata"
+      ]
+    },
+    {
+      "id": "yakuso_0094",
+      "category": "薬草",
+      "name": "アブラチャン",
+      "kana": "アブラチャン",
+      "aliases": [
+        "アブラチャン"
+      ],
+      "romaji": [
+        "aburachan"
+      ],
+      "scientific": "Lindera praecox",
+      "search_terms": [
+        "アブラチャン",
+        "あぶらちゃん",
+        "aburachan",
+        "Lindera praecox"
+      ],
+      "normalized_terms": [
+        "アブラチャン",
+        "あぶらちゃん",
+        "aburachan",
+        "linderapraecox"
+      ]
+    },
+    {
+      "id": "yakuso_0095",
+      "category": "薬草",
+      "name": "ヤマモモ",
+      "kana": "ヤマモモ",
+      "aliases": [
+        "ヤマモモ"
+      ],
+      "romaji": [
+        "yamamomo"
+      ],
+      "scientific": "Morella rubra",
+      "search_terms": [
+        "ヤマモモ",
+        "やまもも",
+        "yamamomo",
+        "Morella rubra"
+      ],
+      "normalized_terms": [
+        "ヤマモモ",
+        "やまもも",
+        "yamamomo",
+        "morellarubra"
+      ]
+    },
+    {
+      "id": "yakuso_0096",
+      "category": "薬草",
+      "name": "ヤマグワ",
+      "kana": "ヤマグワ",
+      "aliases": [
+        "ヤマグワ"
+      ],
+      "romaji": [
+        "yamaguwa"
+      ],
+      "scientific": "Morus indica",
+      "search_terms": [
+        "ヤマグワ",
+        "やまぐわ",
+        "yamaguwa",
+        "Morus indica"
+      ],
+      "normalized_terms": [
+        "ヤマグワ",
+        "やまぐわ",
+        "yamaguwa",
+        "morusindica"
+      ]
+    },
+    {
+      "id": "yakuso_0097",
+      "category": "薬草",
+      "name": "カキ",
+      "kana": "カキ",
+      "aliases": [
+        "カキ"
+      ],
+      "romaji": [
+        "kaki"
+      ],
+      "scientific": "Diospyros kaki",
+      "search_terms": [
+        "カキ",
+        "かき",
+        "kaki",
+        "Diospyros kaki"
+      ],
+      "normalized_terms": [
+        "カキ",
+        "かき",
+        "kaki",
+        "diospyroskaki"
+      ]
+    },
+    {
+      "id": "yakuso_0098",
+      "category": "薬草",
+      "name": "クリ",
+      "kana": "クリ",
+      "aliases": [
+        "クリ"
+      ],
+      "romaji": [
+        "kuri"
+      ],
+      "scientific": "Castanea crenata",
+      "search_terms": [
+        "クリ",
+        "くり",
+        "kuri",
+        "Castanea crenata"
+      ],
+      "normalized_terms": [
+        "クリ",
+        "くり",
+        "kuri",
+        "castaneacrenata"
+      ]
+    },
+    {
+      "id": "yakuso_0099",
+      "category": "薬草",
+      "name": "オニグルミ",
+      "kana": "オニグルミ",
+      "aliases": [
+        "オニグルミ"
+      ],
+      "romaji": [
+        "onigurumi"
+      ],
+      "scientific": "Juglans ailantifolia",
+      "search_terms": [
+        "オニグルミ",
+        "おにぐるみ",
+        "onigurumi",
+        "Juglans ailantifolia"
+      ],
+      "normalized_terms": [
+        "オニグルミ",
+        "おにぐるみ",
+        "onigurumi",
+        "juglansailantifolia"
+      ]
+    },
+    {
+      "id": "yakuso_0100",
+      "category": "薬草",
+      "name": "ハシバミ",
+      "kana": "ハシバミ",
+      "aliases": [
+        "ハシバミ"
+      ],
+      "romaji": [
+        "hashibami"
+      ],
+      "scientific": "Corylus heterophylla",
+      "search_terms": [
+        "ハシバミ",
+        "はしばみ",
+        "hashibami",
+        "Corylus heterophylla"
+      ],
+      "normalized_terms": [
+        "ハシバミ",
+        "はしばみ",
+        "hashibami",
+        "corylusheterophylla"
+      ]
+    },
+    {
+      "id": "yakuso_0101",
+      "category": "薬草",
+      "name": "サルナシ",
+      "kana": "サルナシ",
+      "aliases": [
+        "サルナシ"
+      ],
+      "romaji": [
+        "sarunashi"
+      ],
+      "scientific": "Actinidia arguta",
+      "search_terms": [
+        "サルナシ",
+        "さるなし",
+        "sarunashi",
+        "Actinidia arguta"
+      ],
+      "normalized_terms": [
+        "サルナシ",
+        "さるなし",
+        "sarunashi",
+        "actinidiaarguta"
+      ]
+    },
+    {
+      "id": "yakuso_0102",
+      "category": "薬草",
+      "name": "マタタビ",
+      "kana": "マタタビ",
+      "aliases": [
+        "マタタビ"
+      ],
+      "romaji": [
+        "matatabi"
+      ],
+      "scientific": "Actinidia polygama",
+      "search_terms": [
+        "マタタビ",
+        "またたび",
+        "matatabi",
+        "Actinidia polygama"
+      ],
+      "normalized_terms": [
+        "マタタビ",
+        "またたび",
+        "matatabi",
+        "actinidiapolygama"
+      ]
+    },
+    {
+      "id": "yakuso_0103",
+      "category": "薬草",
+      "name": "ヤマブドウ",
+      "kana": "ヤマブドウ",
+      "aliases": [
+        "ヤマブドウ"
+      ],
+      "romaji": [
+        "yamabudou"
+      ],
+      "scientific": "Vitis coignetiae",
+      "search_terms": [
+        "ヤマブドウ",
+        "やまぶどう",
+        "yamabudou",
+        "Vitis coignetiae"
+      ],
+      "normalized_terms": [
+        "ヤマブドウ",
+        "やまぶどう",
+        "yamabudou",
+        "vitiscoignetiae"
+      ]
+    },
+    {
+      "id": "yakuso_0104",
+      "category": "薬草",
+      "name": "エビヅル",
+      "kana": "エビヅル",
+      "aliases": [
+        "エビヅル"
+      ],
+      "romaji": [
+        "ebizuru"
+      ],
+      "scientific": "Vitis ficifolia",
+      "search_terms": [
+        "エビヅル",
+        "えびづる",
+        "ebizuru",
+        "Vitis ficifolia"
+      ],
+      "normalized_terms": [
+        "エビヅル",
+        "えびづる",
+        "ebizuru",
+        "vitisficifolia"
+      ]
+    },
+    {
+      "id": "yakuso_0105",
+      "category": "薬草",
+      "name": "コケモモ",
+      "kana": "コケモモ",
+      "aliases": [
+        "コケモモ"
+      ],
+      "romaji": [
+        "kokemomo"
+      ],
+      "scientific": "Vaccinium vitis-idaea",
+      "search_terms": [
+        "コケモモ",
+        "こけもも",
+        "kokemomo",
+        "Vaccinium vitis-idaea"
+      ],
+      "normalized_terms": [
+        "コケモモ",
+        "こけもも",
+        "kokemomo",
+        "vacciniumvitisidaea"
+      ]
+    },
+    {
+      "id": "yakuso_0106",
+      "category": "薬草",
+      "name": "クロマメノキ",
+      "kana": "クロマメノキ",
+      "aliases": [
+        "クロマメノキ"
+      ],
+      "romaji": [
+        "kuromamenoki"
+      ],
+      "scientific": "Vaccinium uliginosum var. japonicum",
+      "search_terms": [
+        "クロマメノキ",
+        "くろまめのき",
+        "kuromamenoki",
+        "Vaccinium uliginosum var. japonicum"
+      ],
+      "normalized_terms": [
+        "クロマメノキ",
+        "くろまめのき",
+        "kuromamenoki",
+        "vacciniumuliginosumvarjaponicum"
+      ]
+    },
+    {
+      "id": "yakuso_0107",
+      "category": "薬草",
+      "name": "アキグミ",
+      "kana": "アキグミ",
+      "aliases": [
+        "アキグミ"
+      ],
+      "romaji": [
+        "akigumi"
+      ],
+      "scientific": "Elaeagnus umbellata var. umbellata",
+      "search_terms": [
+        "アキグミ",
+        "あきぐみ",
+        "akigumi",
+        "Elaeagnus umbellata var. umbellata"
+      ],
+      "normalized_terms": [
+        "アキグミ",
+        "あきぐみ",
+        "akigumi",
+        "elaeagnusumbellatavarumbellata"
+      ]
+    },
+    {
+      "id": "yakuso_0108",
+      "category": "薬草",
+      "name": "ナツグミ",
+      "kana": "ナツグミ",
+      "aliases": [
+        "ナツグミ"
+      ],
+      "romaji": [
+        "natsugumi"
+      ],
+      "scientific": "Elaeagnus multiflora",
+      "search_terms": [
+        "ナツグミ",
+        "なつぐみ",
+        "natsugumi",
+        "Elaeagnus multiflora"
+      ],
+      "normalized_terms": [
+        "ナツグミ",
+        "なつぐみ",
+        "natsugumi",
+        "elaeagnusmultiflora"
+      ]
+    },
+    {
+      "id": "yakuso_0109",
+      "category": "薬草",
+      "name": "ナワシログミ",
+      "kana": "ナワシログミ",
+      "aliases": [
+        "ナワシログミ"
+      ],
+      "romaji": [
+        "nawashirogumi"
+      ],
+      "scientific": "Elaeagnus pungens",
+      "search_terms": [
+        "ナワシログミ",
+        "なわしろぐみ",
+        "nawashirogumi",
+        "Elaeagnus pungens"
+      ],
+      "normalized_terms": [
+        "ナワシログミ",
+        "なわしろぐみ",
+        "nawashirogumi",
+        "elaeagnuspungens"
+      ]
+    },
+    {
+      "id": "yakuso_0110",
+      "category": "薬草",
+      "name": "リョウブ",
+      "kana": "リョウブ",
+      "aliases": [
+        "リョウブ"
+      ],
+      "romaji": [
+        "ryoubu"
+      ],
+      "scientific": "Clethra barbinervis",
+      "search_terms": [
+        "リョウブ",
+        "りょうぶ",
+        "ryoubu",
+        "Clethra barbinervis"
+      ],
+      "normalized_terms": [
+        "リョウブ",
+        "りょうぶ",
+        "ryoubu",
+        "clethrabarbinervis"
+      ]
+    },
+    {
+      "id": "yakuso_0111",
+      "category": "薬草",
+      "name": "ネムノキ",
+      "kana": "ネムノキ",
+      "aliases": [
+        "ネムノキ"
+      ],
+      "romaji": [
+        "nemunoki"
+      ],
+      "scientific": "Albizia julibrissin",
+      "search_terms": [
+        "ネムノキ",
+        "ねむのき",
+        "nemunoki",
+        "Albizia julibrissin"
+      ],
+      "normalized_terms": [
+        "ネムノキ",
+        "ねむのき",
+        "nemunoki",
+        "albiziajulibrissin"
+      ]
+    },
+    {
+      "id": "yakuso_0112",
+      "category": "薬草",
+      "name": "カラスザンショウ",
+      "kana": "カラスザンショウ",
+      "aliases": [
+        "カラスザンショウ"
+      ],
+      "romaji": [
+        "karasuzanshou"
+      ],
+      "scientific": "Zanthoxylum ailanthoides",
+      "search_terms": [
+        "カラスザンショウ",
+        "からすざんしょう",
+        "karasuzanshou",
+        "Zanthoxylum ailanthoides"
+      ],
+      "normalized_terms": [
+        "カラスザンショウ",
+        "からすざんしょう",
+        "karasuzanshou",
+        "zanthoxylumailanthoides"
+      ]
+    },
+    {
+      "id": "yakuso_0113",
+      "category": "薬草",
+      "name": "ハゼノキ",
+      "kana": "ハゼノキ",
+      "aliases": [
+        "ハゼノキ"
+      ],
+      "romaji": [
+        "hazenoki"
+      ],
+      "scientific": "Toxicodendron succedaneum",
+      "search_terms": [
+        "ハゼノキ",
+        "はぜのき",
+        "hazenoki",
+        "Toxicodendron succedaneum"
+      ],
+      "normalized_terms": [
+        "ハゼノキ",
+        "はぜのき",
+        "hazenoki",
+        "toxicodendronsuccedaneum"
+      ]
+    },
+    {
+      "id": "yakuso_0114",
+      "category": "薬草",
+      "name": "ヌルデ",
+      "kana": "ヌルデ",
+      "aliases": [
+        "ヌルデ"
+      ],
+      "romaji": [
+        "nurude"
+      ],
+      "scientific": "Rhus chinensis",
+      "search_terms": [
+        "ヌルデ",
+        "ぬるで",
+        "nurude",
+        "Rhus chinensis"
+      ],
+      "normalized_terms": [
+        "ヌルデ",
+        "ぬるで",
+        "nurude",
+        "rhuschinensis"
+      ]
+    },
+    {
+      "id": "yakuso_0115",
+      "category": "薬草",
+      "name": "ウルシ",
+      "kana": "ウルシ",
+      "aliases": [
+        "ウルシ"
+      ],
+      "romaji": [
+        "urushi"
+      ],
+      "scientific": "Toxicodendron vernicifluum",
+      "search_terms": [
+        "ウルシ",
+        "うるし",
+        "urushi",
+        "Toxicodendron vernicifluum"
+      ],
+      "normalized_terms": [
+        "ウルシ",
+        "うるし",
+        "urushi",
+        "toxicodendronvernicifluum"
+      ]
+    },
+    {
+      "id": "yakuso_0116",
+      "category": "薬草",
+      "name": "ウワミズザクラ",
+      "kana": "ウワミズザクラ",
+      "aliases": [
+        "ウワミズザクラ"
+      ],
+      "romaji": [
+        "uwamizuzakura"
+      ],
+      "scientific": "Prunus grayana",
+      "search_terms": [
+        "ウワミズザクラ",
+        "うわみずざくら",
+        "uwamizuzakura",
+        "Prunus grayana"
+      ],
+      "normalized_terms": [
+        "ウワミズザクラ",
+        "うわみずざくら",
+        "uwamizuzakura",
+        "prunusgrayana"
+      ]
+    },
+    {
+      "id": "yakuso_0117",
+      "category": "薬草",
+      "name": "イヌザクラ",
+      "kana": "イヌザクラ",
+      "aliases": [
+        "イヌザクラ"
+      ],
+      "romaji": [
+        "inuzakura"
+      ],
+      "scientific": "Prunus buergeriana",
+      "search_terms": [
+        "イヌザクラ",
+        "いぬざくら",
+        "inuzakura",
+        "Prunus buergeriana"
+      ],
+      "normalized_terms": [
+        "イヌザクラ",
+        "いぬざくら",
+        "inuzakura",
+        "prunusbuergeriana"
+      ]
+    },
+    {
+      "id": "yakuso_0118",
+      "category": "薬草",
+      "name": "クサギ",
+      "kana": "クサギ",
+      "aliases": [
+        "クサギ"
+      ],
+      "romaji": [
+        "kusagi"
+      ],
+      "scientific": "Clerodendrum trichotomum",
+      "search_terms": [
+        "クサギ",
+        "くさぎ",
+        "kusagi",
+        "Clerodendrum trichotomum"
+      ],
+      "normalized_terms": [
+        "クサギ",
+        "くさぎ",
+        "kusagi",
+        "clerodendrumtrichotomum"
+      ]
+    },
+    {
+      "id": "yakuso_0119",
+      "category": "薬草",
+      "name": "アオキ",
+      "kana": "アオキ",
+      "aliases": [
+        "アオキ"
+      ],
+      "romaji": [
+        "aoki"
+      ],
+      "scientific": "Aucuba japonica",
+      "search_terms": [
+        "アオキ",
+        "あおき",
+        "aoki",
+        "Aucuba japonica"
+      ],
+      "normalized_terms": [
+        "アオキ",
+        "あおき",
+        "aoki",
+        "aucubajaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0120",
+      "category": "薬草",
+      "name": "ナンテン",
+      "kana": "ナンテン",
+      "aliases": [
+        "ナンテン"
+      ],
+      "romaji": [
+        "nanten"
+      ],
+      "scientific": "Nandina domestica",
+      "search_terms": [
+        "ナンテン",
+        "なんてん",
+        "nanten",
+        "Nandina domestica"
+      ],
+      "normalized_terms": [
+        "ナンテン",
+        "なんてん",
+        "nanten",
+        "nandinadomestica"
+      ]
+    },
+    {
+      "id": "yakuso_0121",
+      "category": "薬草",
+      "name": "アカメガシワ",
+      "kana": "アカメガシワ",
+      "aliases": [
+        "アカメガシワ"
+      ],
+      "romaji": [
+        "akamegashiwa"
+      ],
+      "scientific": "Mallotus japonicus",
+      "search_terms": [
+        "アカメガシワ",
+        "あかめがしわ",
+        "akamegashiwa",
+        "Mallotus japonicus"
+      ],
+      "normalized_terms": [
+        "アカメガシワ",
+        "あかめがしわ",
+        "akamegashiwa",
+        "mallotusjaponicus"
+      ]
+    },
+    {
+      "id": "yakuso_0122",
+      "category": "薬草",
+      "name": "カワラケツメイ",
+      "kana": "カワラケツメイ",
+      "aliases": [
+        "カワラケツメイ"
+      ],
+      "romaji": [
+        "kawaraketsumei"
+      ],
+      "scientific": "Chamaecrista nomame",
+      "search_terms": [
+        "カワラケツメイ",
+        "かわらけつめい",
+        "kawaraketsumei",
+        "Chamaecrista nomame"
+      ],
+      "normalized_terms": [
+        "カワラケツメイ",
+        "かわらけつめい",
+        "kawaraketsumei",
+        "chamaecristanomame"
+      ]
+    },
+    {
+      "id": "yakuso_0123",
+      "category": "薬草",
+      "name": "カワラヨモギ",
+      "kana": "カワラヨモギ",
+      "aliases": [
+        "カワラヨモギ"
+      ],
+      "romaji": [
+        "kawarayomogi"
+      ],
+      "scientific": "Artemisia capillaris",
+      "search_terms": [
+        "カワラヨモギ",
+        "かわらよもぎ",
+        "kawarayomogi",
+        "Artemisia capillaris"
+      ],
+      "normalized_terms": [
+        "カワラヨモギ",
+        "かわらよもぎ",
+        "kawarayomogi",
+        "artemisiacapillaris"
+      ]
+    },
+    {
+      "id": "yakuso_0124",
+      "category": "薬草",
+      "name": "オトコヨモギ",
+      "kana": "オトコヨモギ",
+      "aliases": [
+        "オトコヨモギ"
+      ],
+      "romaji": [
+        "otokoyomogi"
+      ],
+      "scientific": "Artemisia japonica",
+      "search_terms": [
+        "オトコヨモギ",
+        "おとこよもぎ",
+        "otokoyomogi",
+        "Artemisia japonica"
+      ],
+      "normalized_terms": [
+        "オトコヨモギ",
+        "おとこよもぎ",
+        "otokoyomogi",
+        "artemisiajaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0125",
+      "category": "薬草",
+      "name": "オオヨモギ",
+      "kana": "オオヨモギ",
+      "aliases": [
+        "オオヨモギ"
+      ],
+      "romaji": [
+        "ooyomogi"
+      ],
+      "scientific": "Artemisia montana",
+      "search_terms": [
+        "オオヨモギ",
+        "おおよもぎ",
+        "ooyomogi",
+        "Artemisia montana"
+      ],
+      "normalized_terms": [
+        "オオヨモギ",
+        "おおよもぎ",
+        "ooyomogi",
+        "artemisiamontana"
+      ]
+    },
+    {
+      "id": "yakuso_0126",
+      "category": "薬草",
+      "name": "ヤマヨモギ",
+      "kana": "ヤマヨモギ",
+      "aliases": [
+        "ヤマヨモギ"
+      ],
+      "romaji": [
+        "yamayomogi"
+      ],
+      "scientific": "Artemisia tridentata",
+      "search_terms": [
+        "ヤマヨモギ",
+        "やまよもぎ",
+        "yamayomogi",
+        "Artemisia tridentata"
+      ],
+      "normalized_terms": [
+        "ヤマヨモギ",
+        "やまよもぎ",
+        "yamayomogi",
+        "artemisiatridentata"
+      ]
+    },
+    {
+      "id": "yakuso_0127",
+      "category": "薬草",
+      "name": "メハジキ",
+      "kana": "メハジキ",
+      "aliases": [
+        "メハジキ"
+      ],
+      "romaji": [
+        "mehajiki"
+      ],
+      "scientific": "Leonurus japonicus",
+      "search_terms": [
+        "メハジキ",
+        "めはじき",
+        "mehajiki",
+        "Leonurus japonicus"
+      ],
+      "normalized_terms": [
+        "メハジキ",
+        "めはじき",
+        "mehajiki",
+        "leonurusjaponicus"
+      ]
+    },
+    {
+      "id": "yakuso_0128",
+      "category": "薬草",
+      "name": "キランソウ",
+      "kana": "キランソウ",
+      "aliases": [
+        "キランソウ"
+      ],
+      "romaji": [
+        "kiransou"
+      ],
+      "scientific": "Ajuga decumbens",
+      "search_terms": [
+        "キランソウ",
+        "きらんそう",
+        "kiransou",
+        "Ajuga decumbens"
+      ],
+      "normalized_terms": [
+        "キランソウ",
+        "きらんそう",
+        "kiransou",
+        "ajugadecumbens"
+      ]
+    },
+    {
+      "id": "yakuso_0129",
+      "category": "薬草",
+      "name": "ジュウニヒトエ",
+      "kana": "ジュウニヒトエ",
+      "aliases": [
+        "ジュウニヒトエ"
+      ],
+      "romaji": [
+        "juunihitoe"
+      ],
+      "scientific": "Ajuga nipponensis",
+      "search_terms": [
+        "ジュウニヒトエ",
+        "じゅうにひとえ",
+        "juunihitoe",
+        "Ajuga nipponensis"
+      ],
+      "normalized_terms": [
+        "ジュウニヒトエ",
+        "じゅうにひとえ",
+        "juunihitoe",
+        "ajuganipponensis"
+      ]
+    },
+    {
+      "id": "yakuso_0130",
+      "category": "薬草",
+      "name": "タツナミソウ",
+      "kana": "タツナミソウ",
+      "aliases": [
+        "タツナミソウ"
+      ],
+      "romaji": [
+        "tatsunamisou"
+      ],
+      "scientific": "Scutellaria indica",
+      "search_terms": [
+        "タツナミソウ",
+        "たつなみそう",
+        "tatsunamisou",
+        "Scutellaria indica"
+      ],
+      "normalized_terms": [
+        "タツナミソウ",
+        "たつなみそう",
+        "tatsunamisou",
+        "scutellariaindica"
+      ]
+    },
+    {
+      "id": "yakuso_0131",
+      "category": "薬草",
+      "name": "シロネ",
+      "kana": "シロネ",
+      "aliases": [
+        "シロネ"
+      ],
+      "romaji": [
+        "shirone"
+      ],
+      "scientific": "Lycopus lucidus",
+      "search_terms": [
+        "シロネ",
+        "しろね",
+        "shirone",
+        "Lycopus lucidus"
+      ],
+      "normalized_terms": [
+        "シロネ",
+        "しろね",
+        "shirone",
+        "lycopuslucidus"
+      ]
+    },
+    {
+      "id": "yakuso_0132",
+      "category": "薬草",
+      "name": "ヒメジソ",
+      "kana": "ヒメジソ",
+      "aliases": [
+        "ヒメジソ"
+      ],
+      "romaji": [
+        "himejiso"
+      ],
+      "scientific": "Mosla dianthera",
+      "search_terms": [
+        "ヒメジソ",
+        "ひめじそ",
+        "himejiso",
+        "Mosla dianthera"
+      ],
+      "normalized_terms": [
+        "ヒメジソ",
+        "ひめじそ",
+        "himejiso",
+        "mosladianthera"
+      ]
+    },
+    {
+      "id": "yakuso_0133",
+      "category": "薬草",
+      "name": "イヌコウジュ",
+      "kana": "イヌコウジュ",
+      "aliases": [
+        "イヌコウジュ"
+      ],
+      "romaji": [
+        "inukouju"
+      ],
+      "scientific": "Mosla scabra",
+      "search_terms": [
+        "イヌコウジュ",
+        "いぬこうじゅ",
+        "inukouju",
+        "Mosla scabra"
+      ],
+      "normalized_terms": [
+        "イヌコウジュ",
+        "いぬこうじゅ",
+        "inukouju",
+        "moslascabra"
+      ]
+    },
+    {
+      "id": "yakuso_0134",
+      "category": "薬草",
+      "name": "ナギナタコウジュ",
+      "kana": "ナギナタコウジュ",
+      "aliases": [
+        "ナギナタコウジュ"
+      ],
+      "romaji": [
+        "naginatakouju"
+      ],
+      "scientific": "Elsholtzia ciliata",
+      "search_terms": [
+        "ナギナタコウジュ",
+        "なぎなたこうじゅ",
+        "naginatakouju",
+        "Elsholtzia ciliata"
+      ],
+      "normalized_terms": [
+        "ナギナタコウジュ",
+        "なぎなたこうじゅ",
+        "naginatakouju",
+        "elsholtziaciliata"
+      ]
+    },
+    {
+      "id": "yakuso_0135",
+      "category": "薬草",
+      "name": "ヒキオコシ",
+      "kana": "ヒキオコシ",
+      "aliases": [
+        "ヒキオコシ"
+      ],
+      "romaji": [
+        "hikiokoshi"
+      ],
+      "scientific": "Isodon japonicus var. japonicus",
+      "search_terms": [
+        "ヒキオコシ",
+        "ひきおこし",
+        "hikiokoshi",
+        "Isodon japonicus var. japonicus"
+      ],
+      "normalized_terms": [
+        "ヒキオコシ",
+        "ひきおこし",
+        "hikiokoshi",
+        "isodonjaponicusvarjaponicus"
+      ]
+    },
+    {
+      "id": "yakuso_0136",
+      "category": "薬草",
+      "name": "ヤマハッカ",
+      "kana": "ヤマハッカ",
+      "aliases": [
+        "ヤマハッカ"
+      ],
+      "romaji": [
+        "yamahakka"
+      ],
+      "scientific": "Isodon inflexus",
+      "search_terms": [
+        "ヤマハッカ",
+        "やまはっか",
+        "yamahakka",
+        "Isodon inflexus"
+      ],
+      "normalized_terms": [
+        "ヤマハッカ",
+        "やまはっか",
+        "yamahakka",
+        "isodoninflexus"
+      ]
+    },
+    {
+      "id": "yakuso_0137",
+      "category": "薬草",
+      "name": "カワミドリ",
+      "kana": "カワミドリ",
+      "aliases": [
+        "カワミドリ"
+      ],
+      "romaji": [
+        "kawamidori"
+      ],
+      "scientific": "Agastache rugosa",
+      "search_terms": [
+        "カワミドリ",
+        "かわみどり",
+        "kawamidori",
+        "Agastache rugosa"
+      ],
+      "normalized_terms": [
+        "カワミドリ",
+        "かわみどり",
+        "kawamidori",
+        "agastacherugosa"
+      ]
+    },
+    {
+      "id": "yakuso_0138",
+      "category": "薬草",
+      "name": "ワレモコウ",
+      "kana": "ワレモコウ",
+      "aliases": [
+        "ワレモコウ"
+      ],
+      "romaji": [
+        "waremokou"
+      ],
+      "scientific": "Sanguisorba officinalis",
+      "search_terms": [
+        "ワレモコウ",
+        "われもこう",
+        "waremokou",
+        "Sanguisorba officinalis"
+      ],
+      "normalized_terms": [
+        "ワレモコウ",
+        "われもこう",
+        "waremokou",
+        "sanguisorbaofficinalis"
+      ]
+    },
+    {
+      "id": "yakuso_0139",
+      "category": "薬草",
+      "name": "キンミズヒキ",
+      "kana": "キンミズヒキ",
+      "aliases": [
+        "キンミズヒキ"
+      ],
+      "romaji": [
+        "kinmizuhiki"
+      ],
+      "scientific": "Agrimonia pilosa",
+      "search_terms": [
+        "キンミズヒキ",
+        "きんみずひき",
+        "kinmizuhiki",
+        "Agrimonia pilosa"
+      ],
+      "normalized_terms": [
+        "キンミズヒキ",
+        "きんみずひき",
+        "kinmizuhiki",
+        "agrimoniapilosa"
+      ]
+    },
+    {
+      "id": "yakuso_0140",
+      "category": "薬草",
+      "name": "ダイコンソウ",
+      "kana": "ダイコンソウ",
+      "aliases": [
+        "ダイコンソウ"
+      ],
+      "romaji": [
+        "daikonsou"
+      ],
+      "scientific": "Geum japonicum",
+      "search_terms": [
+        "ダイコンソウ",
+        "だいこんそう",
+        "daikonsou",
+        "Geum japonicum"
+      ],
+      "normalized_terms": [
+        "ダイコンソウ",
+        "だいこんそう",
+        "daikonsou",
+        "geumjaponicum"
+      ]
+    },
+    {
+      "id": "yakuso_0141",
+      "category": "薬草",
+      "name": "キジムシロ",
+      "kana": "キジムシロ",
+      "aliases": [
+        "キジムシロ"
+      ],
+      "romaji": [
+        "kijimushiro"
+      ],
+      "scientific": "Potentilla fragarioides var. major",
+      "search_terms": [
+        "キジムシロ",
+        "きじむしろ",
+        "kijimushiro",
+        "Potentilla fragarioides var. major"
+      ],
+      "normalized_terms": [
+        "キジムシロ",
+        "きじむしろ",
+        "kijimushiro",
+        "potentillafragarioidesvarmajor"
+      ]
+    },
+    {
+      "id": "yakuso_0142",
+      "category": "薬草",
+      "name": "ヘビイチゴ",
+      "kana": "ヘビイチゴ",
+      "aliases": [
+        "ヘビイチゴ"
+      ],
+      "romaji": [
+        "hebiichigo"
+      ],
+      "scientific": "Potentilla hebiichigo",
+      "search_terms": [
+        "ヘビイチゴ",
+        "へびいちご",
+        "hebiichigo",
+        "Potentilla hebiichigo"
+      ],
+      "normalized_terms": [
+        "ヘビイチゴ",
+        "へびいちご",
+        "hebiichigo",
+        "potentillahebiichigo"
+      ]
+    },
+    {
+      "id": "yakuso_0143",
+      "category": "薬草",
+      "name": "ミツバツチグリ",
+      "kana": "ミツバツチグリ",
+      "aliases": [
+        "ミツバツチグリ"
+      ],
+      "romaji": [
+        "mitsubatsuchiguri"
+      ],
+      "scientific": "Potentilla freyniana",
+      "search_terms": [
+        "ミツバツチグリ",
+        "みつばつちぐり",
+        "mitsubatsuchiguri",
+        "Potentilla freyniana"
+      ],
+      "normalized_terms": [
+        "ミツバツチグリ",
+        "みつばつちぐり",
+        "mitsubatsuchiguri",
+        "potentillafreyniana"
+      ]
+    },
+    {
+      "id": "yakuso_0144",
+      "category": "薬草",
+      "name": "ベニバナイチヤクソウ",
+      "kana": "ベニバナイチヤクソウ",
+      "aliases": [
+        "ベニバナイチヤクソウ"
+      ],
+      "romaji": [
+        "benibanaichiyakusou"
+      ],
+      "scientific": "Pyrola asarifolia subsp. incarnata",
+      "search_terms": [
+        "ベニバナイチヤクソウ",
+        "べにばないちやくそう",
+        "benibanaichiyakusou",
+        "Pyrola asarifolia subsp. incarnata"
+      ],
+      "normalized_terms": [
+        "ベニバナイチヤクソウ",
+        "べにばないちやくそう",
+        "benibanaichiyakusou",
+        "pyrolaasarifoliasubspincarnata"
+      ]
+    },
+    {
+      "id": "yakuso_0145",
+      "category": "薬草",
+      "name": "ネジキ",
+      "kana": "ネジキ",
+      "aliases": [
+        "ネジキ"
+      ],
+      "romaji": [
+        "nejiki"
+      ],
+      "scientific": "Lyonia ovalifolia var. elliptica",
+      "search_terms": [
+        "ネジキ",
+        "ねじき",
+        "nejiki",
+        "Lyonia ovalifolia var. elliptica"
+      ],
+      "normalized_terms": [
+        "ネジキ",
+        "ねじき",
+        "nejiki",
+        "lyoniaovalifoliavarelliptica"
+      ]
+    },
+    {
+      "id": "yakuso_0146",
+      "category": "薬草",
+      "name": "オタネニンジン",
+      "kana": "オタネニンジン",
+      "aliases": [
+        "オタネニンジン"
+      ],
+      "romaji": [
+        "otaneninjin"
+      ],
+      "scientific": "Panax ginseng",
+      "search_terms": [
+        "オタネニンジン",
+        "おたねにんじん",
+        "otaneninjin",
+        "Panax ginseng"
+      ],
+      "normalized_terms": [
+        "オタネニンジン",
+        "おたねにんじん",
+        "otaneninjin",
+        "panaxginseng"
+      ]
+    },
+    {
+      "id": "yakuso_0147",
+      "category": "薬草",
+      "name": "トチバニンジン",
+      "kana": "トチバニンジン",
+      "aliases": [
+        "トチバニンジン"
+      ],
+      "romaji": [
+        "tochibaninjin"
+      ],
+      "scientific": "Panax japonicus",
+      "search_terms": [
+        "トチバニンジン",
+        "とちばにんじん",
+        "tochibaninjin",
+        "Panax japonicus"
+      ],
+      "normalized_terms": [
+        "トチバニンジン",
+        "とちばにんじん",
+        "tochibaninjin",
+        "panaxjaponicus"
+      ]
+    },
+    {
+      "id": "yakuso_0148",
+      "category": "薬草",
+      "name": "ボウフウ",
+      "kana": "ボウフウ",
+      "aliases": [
+        "ボウフウ"
+      ],
+      "romaji": [
+        "boufuu"
+      ],
+      "scientific": "Saposhnikovia divaricata",
+      "search_terms": [
+        "ボウフウ",
+        "ぼうふう",
+        "boufuu",
+        "Saposhnikovia divaricata"
+      ],
+      "normalized_terms": [
+        "ボウフウ",
+        "ぼうふう",
+        "boufuu",
+        "saposhnikoviadivaricata"
+      ]
+    },
+    {
+      "id": "yakuso_0149",
+      "category": "薬草",
+      "name": "ヨロイグサ",
+      "kana": "ヨロイグサ",
+      "aliases": [
+        "ヨロイグサ"
+      ],
+      "romaji": [
+        "yoroigusa"
+      ],
+      "scientific": "Angelica dahurica",
+      "search_terms": [
+        "ヨロイグサ",
+        "よろいぐさ",
+        "yoroigusa",
+        "Angelica dahurica"
+      ],
+      "normalized_terms": [
+        "ヨロイグサ",
+        "よろいぐさ",
+        "yoroigusa",
+        "angelicadahurica"
+      ]
+    },
+    {
+      "id": "yakuso_0150",
+      "category": "薬草",
+      "name": "オケラ",
+      "kana": "オケラ",
+      "aliases": [
+        "オケラ"
+      ],
+      "romaji": [
+        "okera"
+      ],
+      "scientific": "Atractylodes lancea",
+      "search_terms": [
+        "オケラ",
+        "おけら",
+        "okera",
+        "Atractylodes lancea"
+      ],
+      "normalized_terms": [
+        "オケラ",
+        "おけら",
+        "okera",
+        "atractylodeslancea"
+      ]
+    },
+    {
+      "id": "yakuso_0151",
+      "category": "薬草",
+      "name": "キク",
+      "kana": "キク",
+      "aliases": [
+        "キク"
+      ],
+      "romaji": [
+        "kiku"
+      ],
+      "scientific": "Chrysanthemum × morifolium",
+      "search_terms": [
+        "キク",
+        "きく",
+        "kiku",
+        "Chrysanthemum × morifolium"
+      ],
+      "normalized_terms": [
+        "キク",
+        "きく",
+        "kiku",
+        "chrysanthemummorifolium"
+      ]
+    },
+    {
+      "id": "yakuso_0152",
+      "category": "薬草",
+      "name": "シマカンギク",
+      "kana": "シマカンギク",
+      "aliases": [
+        "シマカンギク"
+      ],
+      "romaji": [
+        "shimakangiku"
+      ],
+      "scientific": "Chrysanthemum indicum",
+      "search_terms": [
+        "シマカンギク",
+        "しまかんぎく",
+        "shimakangiku",
+        "Chrysanthemum indicum"
+      ],
+      "normalized_terms": [
+        "シマカンギク",
+        "しまかんぎく",
+        "shimakangiku",
+        "chrysanthemumindicum"
+      ]
+    },
+    {
+      "id": "yakuso_0153",
+      "category": "薬草",
+      "name": "ダイオウ",
+      "kana": "ダイオウ",
+      "aliases": [
+        "ダイオウ"
+      ],
+      "romaji": [
+        "daiou"
+      ],
+      "scientific": "Rheum rhabarbarum",
+      "search_terms": [
+        "ダイオウ",
+        "だいおう",
+        "daiou",
+        "Rheum rhabarbarum"
+      ],
+      "normalized_terms": [
+        "ダイオウ",
+        "だいおう",
+        "daiou",
+        "rheumrhabarbarum"
+      ]
+    },
+    {
+      "id": "yakuso_0154",
+      "category": "薬草",
+      "name": "ツルドクダミ",
+      "kana": "ツルドクダミ",
+      "aliases": [
+        "ツルドクダミ"
+      ],
+      "romaji": [
+        "tsurudokudami"
+      ],
+      "scientific": "Reynoutria multiflora",
+      "search_terms": [
+        "ツルドクダミ",
+        "つるどくだみ",
+        "tsurudokudami",
+        "Reynoutria multiflora"
+      ],
+      "normalized_terms": [
+        "ツルドクダミ",
+        "つるどくだみ",
+        "tsurudokudami",
+        "reynoutriamultiflora"
+      ]
+    },
+    {
+      "id": "yakuso_0155",
+      "category": "薬草",
+      "name": "ハス",
+      "kana": "ハス",
+      "aliases": [
+        "ハス"
+      ],
+      "romaji": [
+        "hasu"
+      ],
+      "scientific": "Nelumbo nucifera",
+      "search_terms": [
+        "ハス",
+        "はす",
+        "hasu",
+        "Nelumbo nucifera"
+      ],
+      "normalized_terms": [
+        "ハス",
+        "はす",
+        "hasu",
+        "nelumbonucifera"
+      ]
+    },
+    {
+      "id": "yakuso_0156",
+      "category": "薬草",
+      "name": "ハマスゲ",
+      "kana": "はますげ",
+      "aliases": [
+        "ハマスゲ"
+      ],
+      "romaji": [
+        "hamasuge"
+      ],
+      "scientific": "Cyperus rotundus",
+      "search_terms": [
+        "ハマスゲ",
+        "はますげ",
+        "hamasuge",
+        "Cyperus rotundus"
+      ],
+      "normalized_terms": [
+        "ハマスゲ",
+        "はますげ",
+        "hamasuge",
+        "cyperusrotundus"
+      ]
+    },
+    {
+      "id": "yakuso_0157",
+      "category": "薬草",
+      "name": "チガヤ",
+      "kana": "ちがや",
+      "aliases": [
+        "チガヤ"
+      ],
+      "romaji": [
+        "chigaya"
+      ],
+      "scientific": "Imperata cylindrica",
+      "search_terms": [
+        "チガヤ",
+        "ちがや",
+        "chigaya",
+        "Imperata cylindrica"
+      ],
+      "normalized_terms": [
+        "チガヤ",
+        "ちがや",
+        "chigaya",
+        "imperatacylindrica"
+      ]
+    },
+    {
+      "id": "yakuso_0158",
+      "category": "薬草",
+      "name": "ススキ",
+      "kana": "すすき",
+      "aliases": [
+        "ススキ"
+      ],
+      "romaji": [
+        "susuki"
+      ],
+      "scientific": "Miscanthus sinensis",
+      "search_terms": [
+        "ススキ",
+        "すすき",
+        "susuki",
+        "Miscanthus sinensis"
+      ],
+      "normalized_terms": [
+        "ススキ",
+        "すすき",
+        "susuki",
+        "miscanthussinensis"
+      ]
+    },
+    {
+      "id": "yakuso_0159",
+      "category": "薬草",
+      "name": "ヨシ",
+      "kana": "よし",
+      "aliases": [
+        "ヨシ"
+      ],
+      "romaji": [
+        "yoshi"
+      ],
+      "scientific": "Phragmites australis",
+      "search_terms": [
+        "ヨシ",
+        "よし",
+        "yoshi",
+        "Phragmites australis"
+      ],
+      "normalized_terms": [
+        "ヨシ",
+        "よし",
+        "yoshi",
+        "phragmitesaustralis"
+      ]
+    },
+    {
+      "id": "yakuso_0160",
+      "category": "薬草",
+      "name": "マコモ",
+      "kana": "まこも",
+      "aliases": [
+        "マコモ"
+      ],
+      "romaji": [
+        "makomo"
+      ],
+      "scientific": "Zizania latifolia",
+      "search_terms": [
+        "マコモ",
+        "まこも",
+        "makomo",
+        "Zizania latifolia"
+      ],
+      "normalized_terms": [
+        "マコモ",
+        "まこも",
+        "makomo",
+        "zizanialatifolia"
+      ]
+    },
+    {
+      "id": "yakuso_0161",
+      "category": "薬草",
+      "name": "サルトリイバラ",
+      "kana": "サルトリイバラ",
+      "aliases": [
+        "サルトリイバラ"
+      ],
+      "romaji": [
+        "sarutoriibara"
+      ],
+      "scientific": "Smilax china",
+      "search_terms": [
+        "サルトリイバラ",
+        "さるとりいばら",
+        "sarutoriibara",
+        "Smilax china"
+      ],
+      "normalized_terms": [
+        "サルトリイバラ",
+        "さるとりいばら",
+        "sarutoriibara",
+        "smilaxchina"
+      ]
+    },
+    {
+      "id": "yakuso_0162",
+      "category": "薬草",
+      "name": "アマチャヅル",
+      "kana": "あまちゃづる",
+      "aliases": [
+        "アマチャヅル"
+      ],
+      "romaji": [
+        "amachazuru"
+      ],
+      "scientific": "Gynostemma pentaphyllum",
+      "search_terms": [
+        "アマチャヅル",
+        "あまちゃづる",
+        "amachazuru",
+        "Gynostemma pentaphyllum"
+      ],
+      "normalized_terms": [
+        "アマチャヅル",
+        "あまちゃづる",
+        "amachazuru",
+        "gynostemmapentaphyllum"
+      ]
+    },
+    {
+      "id": "yakuso_0163",
+      "category": "薬草",
+      "name": "ツルニンジン",
+      "kana": "ツルニンジン",
+      "aliases": [
+        "ツルニンジン"
+      ],
+      "romaji": [
+        "tsuruninjin"
+      ],
+      "scientific": "Codonopsis lanceolata",
+      "search_terms": [
+        "ツルニンジン",
+        "つるにんじん",
+        "tsuruninjin",
+        "Codonopsis lanceolata"
+      ],
+      "normalized_terms": [
+        "ツルニンジン",
+        "つるにんじん",
+        "tsuruninjin",
+        "codonopsislanceolata"
+      ]
+    },
+    {
+      "id": "yakuso_0164",
+      "category": "薬草",
+      "name": "ホタルブクロ",
+      "kana": "ホタルブクロ",
+      "aliases": [
+        "ホタルブクロ"
+      ],
+      "romaji": [
+        "hotarubukuro"
+      ],
+      "scientific": "Campanula punctata var. punctata",
+      "search_terms": [
+        "ホタルブクロ",
+        "ほたるぶくろ",
+        "hotarubukuro",
+        "Campanula punctata var. punctata"
+      ],
+      "normalized_terms": [
+        "ホタルブクロ",
+        "ほたるぶくろ",
+        "hotarubukuro",
+        "campanulapunctatavarpunctata"
+      ]
+    },
+    {
+      "id": "yakuso_0165",
+      "category": "薬草",
+      "name": "オオナルコユリ",
+      "kana": "オオナルコユリ",
+      "aliases": [
+        "オオナルコユリ"
+      ],
+      "romaji": [
+        "oonarukoyuri"
+      ],
+      "scientific": "Polygonatum macranthum",
+      "search_terms": [
+        "オオナルコユリ",
+        "おおなるこゆり",
+        "oonarukoyuri",
+        "Polygonatum macranthum"
+      ],
+      "normalized_terms": [
+        "オオナルコユリ",
+        "おおなるこゆり",
+        "oonarukoyuri",
+        "polygonatummacranthum"
+      ]
+    },
+    {
+      "id": "yakuso_0166",
+      "category": "薬草",
+      "name": "シオデ",
+      "kana": "シオデ",
+      "aliases": [
+        "シオデ"
+      ],
+      "romaji": [
+        "shiode"
+      ],
+      "scientific": "Smilax riparia",
+      "search_terms": [
+        "シオデ",
+        "しおで",
+        "shiode",
+        "Smilax riparia"
+      ],
+      "normalized_terms": [
+        "シオデ",
+        "しおで",
+        "shiode",
+        "smilaxriparia"
+      ]
+    },
+    {
+      "id": "yakuso_0167",
+      "category": "薬草",
+      "name": "タチシオデ",
+      "kana": "タチシオデ",
+      "aliases": [
+        "タチシオデ"
+      ],
+      "romaji": [
+        "tachishiode"
+      ],
+      "scientific": "Smilax nipponica",
+      "search_terms": [
+        "タチシオデ",
+        "たちしおで",
+        "tachishiode",
+        "Smilax nipponica"
+      ],
+      "normalized_terms": [
+        "タチシオデ",
+        "たちしおで",
+        "tachishiode",
+        "smilaxnipponica"
+      ]
+    },
+    {
+      "id": "yakuso_0168",
+      "category": "薬草",
+      "name": "ツリガネニンジン",
+      "kana": "ツリガネニンジン",
+      "aliases": [
+        "ツリガネニンジン"
+      ],
+      "romaji": [
+        "tsuriganeninjin"
+      ],
+      "scientific": "Adenophora triphylla var. japonica",
+      "search_terms": [
+        "ツリガネニンジン",
+        "つりがねにんじん",
+        "tsuriganeninjin",
+        "Adenophora triphylla var. japonica"
+      ],
+      "normalized_terms": [
+        "ツリガネニンジン",
+        "つりがねにんじん",
+        "tsuriganeninjin",
+        "adenophoratriphyllavarjaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0169",
+      "category": "薬草",
+      "name": "キバナアキギリ",
+      "kana": "キバナアキギリ",
+      "aliases": [
+        "キバナアキギリ"
+      ],
+      "romaji": [
+        "kibanaakigiri"
+      ],
+      "scientific": "Salvia nipponica",
+      "search_terms": [
+        "キバナアキギリ",
+        "きばなあきぎり",
+        "kibanaakigiri",
+        "Salvia nipponica"
+      ],
+      "normalized_terms": [
+        "キバナアキギリ",
+        "きばなあきぎり",
+        "kibanaakigiri",
+        "salvianipponica"
+      ]
+    },
+    {
+      "id": "yakuso_0170",
+      "category": "薬草",
+      "name": "ハマゴウ",
+      "kana": "ハマゴウ",
+      "aliases": [
+        "ハマゴウ"
+      ],
+      "romaji": [
+        "hamagou"
+      ],
+      "scientific": "Vitex rotundifolia",
+      "search_terms": [
+        "ハマゴウ",
+        "はまごう",
+        "hamagou",
+        "Vitex rotundifolia"
+      ],
+      "normalized_terms": [
+        "ハマゴウ",
+        "はまごう",
+        "hamagou",
+        "vitexrotundifolia"
+      ]
+    },
+    {
+      "id": "yakuso_0171",
+      "category": "薬草",
+      "name": "ボタンボウフウ",
+      "kana": "ボタンボウフウ",
+      "aliases": [
+        "ボタンボウフウ"
+      ],
+      "romaji": [
+        "botanboufuu"
+      ],
+      "scientific": "Peucedanum japonicum",
+      "search_terms": [
+        "ボタンボウフウ",
+        "ぼたんぼうふう",
+        "botanboufuu",
+        "Peucedanum japonicum"
+      ],
+      "normalized_terms": [
+        "ボタンボウフウ",
+        "ぼたんぼうふう",
+        "botanboufuu",
+        "peucedanumjaponicum"
+      ]
+    },
+    {
+      "id": "yakuso_0172",
+      "category": "薬草",
+      "name": "ハマナス",
+      "kana": "ハマナス",
+      "aliases": [
+        "ハマナス"
+      ],
+      "romaji": [
+        "hamanasu"
+      ],
+      "scientific": "Rosa rugosa",
+      "search_terms": [
+        "ハマナス",
+        "はまなす",
+        "hamanasu",
+        "Rosa rugosa"
+      ],
+      "normalized_terms": [
+        "ハマナス",
+        "はまなす",
+        "hamanasu",
+        "rosarugosa"
+      ]
+    },
+    {
+      "id": "yakuso_0173",
+      "category": "薬草",
+      "name": "ヤマハゼ",
+      "kana": "ヤマハゼ",
+      "aliases": [
+        "ヤマハゼ"
+      ],
+      "romaji": [
+        "yamahaze"
+      ],
+      "scientific": "Toxicodendron sylvestre",
+      "search_terms": [
+        "ヤマハゼ",
+        "やまはぜ",
+        "yamahaze",
+        "Toxicodendron sylvestre"
+      ],
+      "normalized_terms": [
+        "ヤマハゼ",
+        "やまはぜ",
+        "yamahaze",
+        "toxicodendronsylvestre"
+      ]
+    },
+    {
+      "id": "yakuso_0174",
+      "category": "薬草",
+      "name": "シラキ",
+      "kana": "シラキ",
+      "aliases": [
+        "シラキ"
+      ],
+      "romaji": [
+        "shiraki"
+      ],
+      "scientific": "Neoshirakia japonica",
+      "search_terms": [
+        "シラキ",
+        "しらき",
+        "shiraki",
+        "Neoshirakia japonica"
+      ],
+      "normalized_terms": [
+        "シラキ",
+        "しらき",
+        "shiraki",
+        "neoshirakiajaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0175",
+      "category": "薬草",
+      "name": "カクレミノ",
+      "kana": "カクレミノ",
+      "aliases": [
+        "カクレミノ"
+      ],
+      "romaji": [
+        "kakuremino"
+      ],
+      "scientific": "Dendropanax trifidus",
+      "search_terms": [
+        "カクレミノ",
+        "かくれみの",
+        "kakuremino",
+        "Dendropanax trifidus"
+      ],
+      "normalized_terms": [
+        "カクレミノ",
+        "かくれみの",
+        "kakuremino",
+        "dendropanaxtrifidus"
+      ]
+    },
+    {
+      "id": "yakuso_0176",
+      "category": "薬草",
+      "name": "シロダモ",
+      "kana": "シロダモ",
+      "aliases": [
+        "シロダモ"
+      ],
+      "romaji": [
+        "shirodamo"
+      ],
+      "scientific": "Neolitsea sericea",
+      "search_terms": [
+        "シロダモ",
+        "しろだも",
+        "shirodamo",
+        "Neolitsea sericea"
+      ],
+      "normalized_terms": [
+        "シロダモ",
+        "しろだも",
+        "shirodamo",
+        "neolitseasericea"
+      ]
+    },
+    {
+      "id": "yakuso_0177",
+      "category": "薬草",
+      "name": "ヤブニッケイ",
+      "kana": "ヤブニッケイ",
+      "aliases": [
+        "ヤブニッケイ"
+      ],
+      "romaji": [
+        "yabunikkei"
+      ],
+      "scientific": "Cinnamomum yabunikkei",
+      "search_terms": [
+        "ヤブニッケイ",
+        "やぶにっけい",
+        "yabunikkei",
+        "Cinnamomum yabunikkei"
+      ],
+      "normalized_terms": [
+        "ヤブニッケイ",
+        "やぶにっけい",
+        "yabunikkei",
+        "cinnamomumyabunikkei"
+      ]
+    },
+    {
+      "id": "yakuso_0178",
+      "category": "薬草",
+      "name": "カゴノキ",
+      "kana": "カゴノキ",
+      "aliases": [
+        "カゴノキ"
+      ],
+      "romaji": [
+        "kagonoki"
+      ],
+      "scientific": "Litsea coreana",
+      "search_terms": [
+        "カゴノキ",
+        "かごのき",
+        "kagonoki",
+        "Litsea coreana"
+      ],
+      "normalized_terms": [
+        "カゴノキ",
+        "かごのき",
+        "kagonoki",
+        "litseacoreana"
+      ]
+    },
+    {
+      "id": "yakuso_0179",
+      "category": "薬草",
+      "name": "イヌガシ",
+      "kana": "イヌガシ",
+      "aliases": [
+        "イヌガシ"
+      ],
+      "romaji": [
+        "inugashi"
+      ],
+      "scientific": "Neolitsea aciculata",
+      "search_terms": [
+        "イヌガシ",
+        "いぬがし",
+        "inugashi",
+        "Neolitsea aciculata"
+      ],
+      "normalized_terms": [
+        "イヌガシ",
+        "いぬがし",
+        "inugashi",
+        "neolitseaaciculata"
+      ]
+    },
+    {
+      "id": "yakuso_0180",
+      "category": "薬草",
+      "name": "サカキ",
+      "kana": "サカキ",
+      "aliases": [
+        "サカキ"
+      ],
+      "romaji": [
+        "sakaki"
+      ],
+      "scientific": "Cleyera japonica",
+      "search_terms": [
+        "サカキ",
+        "さかき",
+        "sakaki",
+        "Cleyera japonica"
+      ],
+      "normalized_terms": [
+        "サカキ",
+        "さかき",
+        "sakaki",
+        "cleyerajaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0181",
+      "category": "薬草",
+      "name": "ヒサカキ",
+      "kana": "ヒサカキ",
+      "aliases": [
+        "ヒサカキ"
+      ],
+      "romaji": [
+        "hisakaki"
+      ],
+      "scientific": "Eurya japonica",
+      "search_terms": [
+        "ヒサカキ",
+        "ひさかき",
+        "hisakaki",
+        "Eurya japonica"
+      ],
+      "normalized_terms": [
+        "ヒサカキ",
+        "ひさかき",
+        "hisakaki",
+        "euryajaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0182",
+      "category": "薬草",
+      "name": "モッコク",
+      "kana": "モッコク",
+      "aliases": [
+        "モッコク"
+      ],
+      "romaji": [
+        "mokkoku"
+      ],
+      "scientific": "Ternstroemia gymnanthera",
+      "search_terms": [
+        "モッコク",
+        "もっこく",
+        "mokkoku",
+        "Ternstroemia gymnanthera"
+      ],
+      "normalized_terms": [
+        "モッコク",
+        "もっこく",
+        "mokkoku",
+        "ternstroemiagymnanthera"
+      ]
+    },
+    {
+      "id": "yakuso_0183",
+      "category": "薬草",
+      "name": "イスノキ",
+      "kana": "イスノキ",
+      "aliases": [
+        "イスノキ"
+      ],
+      "romaji": [
+        "isunoki"
+      ],
+      "scientific": "Distylium racemosum",
+      "search_terms": [
+        "イスノキ",
+        "いすのき",
+        "isunoki",
+        "Distylium racemosum"
+      ],
+      "normalized_terms": [
+        "イスノキ",
+        "いすのき",
+        "isunoki",
+        "distyliumracemosum"
+      ]
+    },
+    {
+      "id": "yakuso_0184",
+      "category": "薬草",
+      "name": "ユズリハ",
+      "kana": "ユズリハ",
+      "aliases": [
+        "ユズリハ"
+      ],
+      "romaji": [
+        "yuzuriha"
+      ],
+      "scientific": "Daphniphyllum macropodum",
+      "search_terms": [
+        "ユズリハ",
+        "ゆずりは",
+        "yuzuriha",
+        "Daphniphyllum macropodum"
+      ],
+      "normalized_terms": [
+        "ユズリハ",
+        "ゆずりは",
+        "yuzuriha",
+        "daphniphyllummacropodum"
+      ]
+    },
+    {
+      "id": "yakuso_0185",
+      "category": "薬草",
+      "name": "ヒメユズリハ",
+      "kana": "ヒメユズリハ",
+      "aliases": [
+        "ヒメユズリハ"
+      ],
+      "romaji": [
+        "himeyuzuriha"
+      ],
+      "scientific": "Daphniphyllum teijsmannii",
+      "search_terms": [
+        "ヒメユズリハ",
+        "ひめゆずりは",
+        "himeyuzuriha",
+        "Daphniphyllum teijsmannii"
+      ],
+      "normalized_terms": [
+        "ヒメユズリハ",
+        "ひめゆずりは",
+        "himeyuzuriha",
+        "daphniphyllumteijsmannii"
+      ]
+    },
+    {
+      "id": "yakuso_0186",
+      "category": "薬草",
+      "name": "ヤマグルマ",
+      "kana": "ヤマグルマ",
+      "aliases": [
+        "ヤマグルマ"
+      ],
+      "romaji": [
+        "yamaguruma"
+      ],
+      "scientific": "Trochodendron aralioides",
+      "search_terms": [
+        "ヤマグルマ",
+        "やまぐるま",
+        "yamaguruma",
+        "Trochodendron aralioides"
+      ],
+      "normalized_terms": [
+        "ヤマグルマ",
+        "やまぐるま",
+        "yamaguruma",
+        "trochodendronaralioides"
+      ]
+    },
+    {
+      "id": "yakuso_0187",
+      "category": "薬草",
+      "name": "アオハダ",
+      "kana": "アオハダ",
+      "aliases": [
+        "アオハダ"
+      ],
+      "romaji": [
+        "aohada"
+      ],
+      "scientific": "Ilex macropoda",
+      "search_terms": [
+        "アオハダ",
+        "あおはだ",
+        "aohada",
+        "Ilex macropoda"
+      ],
+      "normalized_terms": [
+        "アオハダ",
+        "あおはだ",
+        "aohada",
+        "ilexmacropoda"
+      ]
+    },
+    {
+      "id": "yakuso_0188",
+      "category": "薬草",
+      "name": "ウメモドキ",
+      "kana": "ウメモドキ",
+      "aliases": [
+        "ウメモドキ"
+      ],
+      "romaji": [
+        "umemodoki"
+      ],
+      "scientific": "Ilex serrata",
+      "search_terms": [
+        "ウメモドキ",
+        "うめもどき",
+        "umemodoki",
+        "Ilex serrata"
+      ],
+      "normalized_terms": [
+        "ウメモドキ",
+        "うめもどき",
+        "umemodoki",
+        "ilexserrata"
+      ]
+    },
+    {
+      "id": "yakuso_0189",
+      "category": "薬草",
+      "name": "イヌツゲ",
+      "kana": "イヌツゲ",
+      "aliases": [
+        "イヌツゲ"
+      ],
+      "romaji": [
+        "inutsuge"
+      ],
+      "scientific": "Ilex crenata var. crenata",
+      "search_terms": [
+        "イヌツゲ",
+        "いぬつげ",
+        "inutsuge",
+        "Ilex crenata var. crenata"
+      ],
+      "normalized_terms": [
+        "イヌツゲ",
+        "いぬつげ",
+        "inutsuge",
+        "ilexcrenatavarcrenata"
+      ]
+    },
+    {
+      "id": "yakuso_0190",
+      "category": "薬草",
+      "name": "タマミズキ",
+      "kana": "タマミズキ",
+      "aliases": [
+        "タマミズキ"
+      ],
+      "romaji": [
+        "tamamizuki"
+      ],
+      "scientific": "Ilex micrococca",
+      "search_terms": [
+        "タマミズキ",
+        "たまみずき",
+        "tamamizuki",
+        "Ilex micrococca"
+      ],
+      "normalized_terms": [
+        "タマミズキ",
+        "たまみずき",
+        "tamamizuki",
+        "ilexmicrococca"
+      ]
+    },
+    {
+      "id": "yakuso_0191",
+      "category": "薬草",
+      "name": "エゴノキ",
+      "kana": "エゴノキ",
+      "aliases": [
+        "エゴノキ"
+      ],
+      "romaji": [
+        "egonoki"
+      ],
+      "scientific": "Styrax japonicus",
+      "search_terms": [
+        "エゴノキ",
+        "えごのき",
+        "egonoki",
+        "Styrax japonicus"
+      ],
+      "normalized_terms": [
+        "エゴノキ",
+        "えごのき",
+        "egonoki",
+        "styraxjaponicus"
+      ]
+    },
+    {
+      "id": "yakuso_0192",
+      "category": "薬草",
+      "name": "ハクウンボク",
+      "kana": "ハクウンボク",
+      "aliases": [
+        "ハクウンボク"
+      ],
+      "romaji": [
+        "hakuunboku"
+      ],
+      "scientific": "Styrax obassia",
+      "search_terms": [
+        "ハクウンボク",
+        "はくうんぼく",
+        "hakuunboku",
+        "Styrax obassia"
+      ],
+      "normalized_terms": [
+        "ハクウンボク",
+        "はくうんぼく",
+        "hakuunboku",
+        "styraxobassia"
+      ]
+    },
+    {
+      "id": "yakuso_0193",
+      "category": "薬草",
+      "name": "ナツツバキ",
+      "kana": "ナツツバキ",
+      "aliases": [
+        "ナツツバキ"
+      ],
+      "romaji": [
+        "natsutsubaki"
+      ],
+      "scientific": "Stewartia pseudocamellia",
+      "search_terms": [
+        "ナツツバキ",
+        "なつつばき",
+        "natsutsubaki",
+        "Stewartia pseudocamellia"
+      ],
+      "normalized_terms": [
+        "ナツツバキ",
+        "なつつばき",
+        "natsutsubaki",
+        "stewartiapseudocamellia"
+      ]
+    },
+    {
+      "id": "yakuso_0194",
+      "category": "薬草",
+      "name": "ヒメシャラ",
+      "kana": "ヒメシャラ",
+      "aliases": [
+        "ヒメシャラ"
+      ],
+      "romaji": [
+        "himeshara"
+      ],
+      "scientific": "Stewartia monadelpha",
+      "search_terms": [
+        "ヒメシャラ",
+        "ひめしゃら",
+        "himeshara",
+        "Stewartia monadelpha"
+      ],
+      "normalized_terms": [
+        "ヒメシャラ",
+        "ひめしゃら",
+        "himeshara",
+        "stewartiamonadelpha"
+      ]
+    },
+    {
+      "id": "yakuso_0195",
+      "category": "薬草",
+      "name": "シナノキ",
+      "kana": "シナノキ",
+      "aliases": [
+        "シナノキ"
+      ],
+      "romaji": [
+        "shinanoki"
+      ],
+      "scientific": "Tilia japonica",
+      "search_terms": [
+        "シナノキ",
+        "しなのき",
+        "shinanoki",
+        "Tilia japonica"
+      ],
+      "normalized_terms": [
+        "シナノキ",
+        "しなのき",
+        "shinanoki",
+        "tiliajaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0196",
+      "category": "薬草",
+      "name": "ムラサキケマン",
+      "kana": "ムラサキケマン",
+      "aliases": [
+        "ムラサキケマン"
+      ],
+      "romaji": [
+        "murasakikeman"
+      ],
+      "scientific": "Corydalis incisa",
+      "search_terms": [
+        "ムラサキケマン",
+        "むらさきけまん",
+        "murasakikeman",
+        "Corydalis incisa"
+      ],
+      "normalized_terms": [
+        "ムラサキケマン",
+        "むらさきけまん",
+        "murasakikeman",
+        "corydalisincisa"
+      ]
+    },
+    {
+      "id": "yakuso_0197",
+      "category": "薬草",
+      "name": "ヤマエンゴサク",
+      "kana": "ヤマエンゴサク",
+      "aliases": [
+        "ヤマエンゴサク"
+      ],
+      "romaji": [
+        "yamaengosaku"
+      ],
+      "scientific": "Corydalis lineariloba",
+      "search_terms": [
+        "ヤマエンゴサク",
+        "やまえんごさく",
+        "yamaengosaku",
+        "Corydalis lineariloba"
+      ],
+      "normalized_terms": [
+        "ヤマエンゴサク",
+        "やまえんごさく",
+        "yamaengosaku",
+        "corydalislineariloba"
+      ]
+    },
+    {
+      "id": "yakuso_0198",
+      "category": "薬草",
+      "name": "キケマン",
+      "kana": "キケマン",
+      "aliases": [
+        "キケマン"
+      ],
+      "romaji": [
+        "kikeman"
+      ],
+      "scientific": "Corydalis heterocarpa var. japonica",
+      "search_terms": [
+        "キケマン",
+        "きけまん",
+        "kikeman",
+        "Corydalis heterocarpa var. japonica"
+      ],
+      "normalized_terms": [
+        "キケマン",
+        "きけまん",
+        "kikeman",
+        "corydalisheterocarpavarjaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0199",
+      "category": "薬草",
+      "name": "ジロボウエンゴサク",
+      "kana": "ジロボウエンゴサク",
+      "aliases": [
+        "ジロボウエンゴサク"
+      ],
+      "romaji": [
+        "jirobouengosaku"
+      ],
+      "scientific": "Corydalis decumbens",
+      "search_terms": [
+        "ジロボウエンゴサク",
+        "じろぼうえんごさく",
+        "jirobouengosaku",
+        "Corydalis decumbens"
+      ],
+      "normalized_terms": [
+        "ジロボウエンゴサク",
+        "じろぼうえんごさく",
+        "jirobouengosaku",
+        "corydalisdecumbens"
+      ]
+    },
+    {
+      "id": "yakuso_0200",
+      "category": "薬草",
+      "name": "イヌショウマ",
+      "kana": "イヌショウマ",
+      "aliases": [
+        "イヌショウマ"
+      ],
+      "romaji": [
+        "inushouma"
+      ],
+      "scientific": "Actaea biternata",
+      "search_terms": [
+        "イヌショウマ",
+        "いぬしょうま",
+        "inushouma",
+        "Actaea biternata"
+      ],
+      "normalized_terms": [
+        "イヌショウマ",
+        "いぬしょうま",
+        "inushouma",
+        "actaeabiternata"
+      ]
+    },
+    {
+      "id": "yakuso_0201",
+      "category": "薬草",
+      "name": "ミヤマキケマン",
+      "kana": "ミヤマキケマン",
+      "aliases": [
+        "ミヤマキケマン"
+      ],
+      "romaji": [
+        "miyamakikeman"
+      ],
+      "scientific": "Corydalis pallida var. tenuis",
+      "search_terms": [
+        "ミヤマキケマン",
+        "みやまきけまん",
+        "miyamakikeman",
+        "Corydalis pallida var. tenuis"
+      ],
+      "normalized_terms": [
+        "ミヤマキケマン",
+        "みやまきけまん",
+        "miyamakikeman",
+        "corydalispallidavartenuis"
+      ]
+    },
+    {
+      "id": "yakuso_0202",
+      "category": "薬草",
+      "name": "オオバショウマ",
+      "kana": "オオバショウマ",
+      "aliases": [
+        "オオバショウマ"
+      ],
+      "romaji": [
+        "oobashouma"
+      ],
+      "scientific": "Actaea japonica",
+      "search_terms": [
+        "オオバショウマ",
+        "おおばしょうま",
+        "oobashouma",
+        "Actaea japonica"
+      ],
+      "normalized_terms": [
+        "オオバショウマ",
+        "おおばしょうま",
+        "oobashouma",
+        "actaeajaponica"
+      ]
+    },
+    {
+      "id": "yakuso_0203",
+      "category": "薬草",
+      "name": "サラシナショウマ",
+      "kana": "サラシナショウマ",
+      "aliases": [
+        "サラシナショウマ"
+      ],
+      "romaji": [
+        "sarashinashouma"
+      ],
+      "scientific": "Actaea simplex",
+      "search_terms": [
+        "サラシナショウマ",
+        "さらしなしょうま",
+        "sarashinashouma",
+        "Actaea simplex"
+      ],
+      "normalized_terms": [
+        "サラシナショウマ",
+        "さらしなしょうま",
+        "sarashinashouma",
+        "actaeasimplex"
+      ]
+    },
+    {
+      "id": "yakuso_0204",
+      "category": "薬草",
+      "name": "トリアシショウマ",
+      "kana": "トリアシショウマ",
+      "aliases": [
+        "トリアシショウマ"
+      ],
+      "romaji": [
+        "toriashishouma"
+      ],
+      "scientific": "Astilbe rubra",
+      "search_terms": [
+        "トリアシショウマ",
+        "とりあししょうま",
+        "toriashishouma",
+        "Astilbe rubra"
+      ],
+      "normalized_terms": [
+        "トリアシショウマ",
+        "とりあししょうま",
+        "toriashishouma",
+        "astilberubra"
+      ]
+    },
+    {
+      "id": "yakuso_0205",
+      "category": "薬草",
+      "name": "アカショウマ",
+      "kana": "アカショウマ",
+      "aliases": [
+        "アカショウマ"
+      ],
+      "romaji": [
+        "akashouma"
+      ],
+      "scientific": "Astilbe thunbergii",
+      "search_terms": [
+        "アカショウマ",
+        "あかしょうま",
+        "akashouma",
+        "Astilbe thunbergii"
+      ],
+      "normalized_terms": [
+        "アカショウマ",
+        "あかしょうま",
+        "akashouma",
+        "astilbethunbergii"
+      ]
+    },
+    {
+      "id": "yakuso_0206",
+      "category": "薬草",
+      "name": "ノダケ",
+      "kana": "ノダケ",
+      "aliases": [
+        "ノダケ"
+      ],
+      "romaji": [
+        "nodake"
+      ],
+      "scientific": "Angelica decursiva",
+      "search_terms": [
+        "ノダケ",
+        "のだけ",
+        "nodake",
+        "Angelica decursiva"
+      ],
+      "normalized_terms": [
+        "ノダケ",
+        "のだけ",
+        "nodake",
+        "angelicadecursiva"
+      ]
+    },
+    {
+      "id": "yakuso_0207",
+      "category": "薬草",
+      "name": "シシウド",
+      "kana": "シシウド",
+      "aliases": [
+        "シシウド"
+      ],
+      "romaji": [
+        "shishiudo"
+      ],
+      "scientific": "Angelica pubescens",
+      "search_terms": [
+        "シシウド",
+        "ししうど",
+        "shishiudo",
+        "Angelica pubescens"
+      ],
+      "normalized_terms": [
+        "シシウド",
+        "ししうど",
+        "shishiudo",
+        "angelicapubescens"
+      ]
+    },
+    {
+      "id": "yakuso_0208",
+      "category": "薬草",
+      "name": "オオハナウド",
+      "kana": "オオハナウド",
+      "aliases": [
+        "オオハナウド"
+      ],
+      "romaji": [
+        "oohanaudo"
+      ],
+      "scientific": "Heracleum maximum",
+      "search_terms": [
+        "オオハナウド",
+        "おおはなうど",
+        "oohanaudo",
+        "Heracleum maximum"
+      ],
+      "normalized_terms": [
+        "オオハナウド",
+        "おおはなうど",
+        "oohanaudo",
+        "heracleummaximum"
+      ]
+    },
+    {
+      "id": "yakuso_0209",
+      "category": "薬草",
+      "name": "ヤマゼリ",
+      "kana": "ヤマゼリ",
+      "aliases": [
+        "ヤマゼリ"
+      ],
+      "romaji": [
+        "yamazeri"
+      ],
+      "scientific": "Ostericum sieboldii",
+      "search_terms": [
+        "ヤマゼリ",
+        "やまぜり",
+        "yamazeri",
+        "Ostericum sieboldii"
+      ],
+      "normalized_terms": [
+        "ヤマゼリ",
+        "やまぜり",
+        "yamazeri",
+        "ostericumsieboldii"
+      ]
+    },
+    {
+      "id": "yakuso_0210",
+      "category": "薬草",
+      "name": "オオバセンキュウ",
+      "kana": "オオバセンキュウ",
+      "aliases": [
+        "オオバセンキュウ"
+      ],
+      "romaji": [
+        "oobasenkyuu"
+      ],
+      "scientific": "Angelica genuflexa",
+      "search_terms": [
+        "オオバセンキュウ",
+        "おおばせんきゅう",
+        "oobasenkyuu",
+        "Angelica genuflexa"
+      ],
+      "normalized_terms": [
+        "オオバセンキュウ",
+        "おおばせんきゅう",
+        "oobasenkyuu",
+        "angelicagenuflexa"
+      ]
+    },
+    {
+      "id": "yakuso_0211",
+      "category": "薬草",
+      "name": "ハマカンゾウ",
+      "kana": "ハマカンゾウ",
+      "aliases": [
+        "ハマカンゾウ"
+      ],
+      "romaji": [
+        "hamakanzou"
+      ],
+      "scientific": "Hemerocallis fulva var. littorea",
+      "search_terms": [
+        "ハマカンゾウ",
+        "はまかんぞう",
+        "hamakanzou",
+        "Hemerocallis fulva var. littorea"
+      ],
+      "normalized_terms": [
+        "ハマカンゾウ",
+        "はまかんぞう",
+        "hamakanzou",
+        "hemerocallisfulvavarlittorea"
+      ]
+    },
+    {
+      "id": "yakuso_0212",
+      "category": "薬草",
+      "name": "ゼンテイカ",
+      "kana": "ゼンテイカ",
+      "aliases": [
+        "ゼンテイカ"
+      ],
+      "romaji": [
+        "zenteika"
+      ],
+      "scientific": "Hemerocallis middendorffii var. esculenta",
+      "search_terms": [
+        "ゼンテイカ",
+        "ぜんていか",
+        "zenteika",
+        "Hemerocallis middendorffii var. esculenta"
+      ],
+      "normalized_terms": [
+        "ゼンテイカ",
+        "ぜんていか",
+        "zenteika",
+        "hemerocallismiddendorffiivaresculenta"
+      ]
+    },
+    {
+      "id": "yakuso_0213",
+      "category": "薬草",
+      "name": "フクジュソウ",
+      "kana": "フクジュソウ",
+      "aliases": [
+        "フクジュソウ"
+      ],
+      "romaji": [
+        "fukujusou"
+      ],
+      "scientific": "Adonis ramosa",
+      "search_terms": [
+        "フクジュソウ",
+        "ふくじゅそう",
+        "fukujusou",
+        "Adonis ramosa"
+      ],
+      "normalized_terms": [
+        "フクジュソウ",
+        "ふくじゅそう",
+        "fukujusou",
+        "adonisramosa"
+      ]
+    },
+    {
+      "id": "yakuso_0214",
+      "category": "薬草",
+      "name": "エゾニュウ",
+      "kana": "エゾニュウ",
+      "aliases": [
+        "エゾニュウ"
+      ],
+      "romaji": [
+        "ezonyuu"
+      ],
+      "scientific": "Angelica ursina",
+      "search_terms": [
+        "エゾニュウ",
+        "えぞにゅう",
+        "ezonyuu",
+        "Angelica ursina"
+      ],
+      "normalized_terms": [
+        "エゾニュウ",
+        "えぞにゅう",
+        "ezonyuu",
+        "angelicaursina"
+      ]
+    },
+    {
+      "id": "yakuso_0215",
+      "category": "薬草",
+      "name": "ヘラオオバコ",
+      "kana": "ヘラオオバコ",
+      "aliases": [
+        "ヘラオオバコ"
+      ],
+      "romaji": [
+        "heraoobako"
+      ],
+      "scientific": "Plantago lanceolata",
+      "search_terms": [
+        "ヘラオオバコ",
+        "へらおおばこ",
+        "heraoobako",
+        "Plantago lanceolata"
+      ],
+      "normalized_terms": [
+        "ヘラオオバコ",
+        "へらおおばこ",
+        "heraoobako",
+        "plantagolanceolata"
+      ]
+    },
+    {
+      "id": "yakuso_0216",
+      "category": "薬草",
+      "name": "スイバ",
+      "kana": "すいば",
+      "aliases": [
+        "スイバ"
+      ],
+      "romaji": [
+        "suiba"
+      ],
+      "scientific": "Rumex acetosa",
+      "search_terms": [
+        "スイバ",
+        "すいば",
+        "suiba",
+        "Rumex acetosa"
+      ],
+      "normalized_terms": [
+        "スイバ",
+        "すいば",
+        "suiba",
+        "rumexacetosa"
+      ]
+    },
+    {
+      "id": "yakuso_0217",
+      "category": "薬草",
+      "name": "ギシギシ",
+      "kana": "ぎしぎし",
+      "aliases": [
+        "ギシギシ"
+      ],
+      "romaji": [
+        "gishigishi"
+      ],
+      "scientific": "Rumex japonicus",
+      "search_terms": [
+        "ギシギシ",
+        "ぎしぎし",
+        "gishigishi",
+        "Rumex japonicus"
+      ],
+      "normalized_terms": [
+        "ギシギシ",
+        "ぎしぎし",
+        "gishigishi",
+        "rumexjaponicus"
+      ]
+    },
+    {
+      "id": "yakuso_0218",
+      "category": "薬草",
+      "name": "ミヤママタタビ",
+      "kana": "ミヤママタタビ",
+      "aliases": [
+        "ミヤママタタビ"
+      ],
+      "romaji": [
+        "miyamamatatabi"
+      ],
+      "scientific": "Actinidia kolomikta",
+      "search_terms": [
+        "ミヤママタタビ",
+        "みやままたたび",
+        "miyamamatatabi",
+        "Actinidia kolomikta"
+      ],
+      "normalized_terms": [
+        "ミヤママタタビ",
+        "みやままたたび",
+        "miyamamatatabi",
+        "actinidiakolomikta"
+      ]
+    },
+    {
+      "id": "yakuso_0219",
+      "category": "薬草",
+      "name": "ミツバアケビ",
+      "kana": "ミツバアケビ",
+      "aliases": [
+        "ミツバアケビ"
+      ],
+      "romaji": [
+        "mitsubaakebi"
+      ],
+      "scientific": "Akebia trifoliata",
+      "search_terms": [
+        "ミツバアケビ",
+        "みつばあけび",
+        "mitsubaakebi",
+        "Akebia trifoliata"
+      ],
+      "normalized_terms": [
+        "ミツバアケビ",
+        "みつばあけび",
+        "mitsubaakebi",
+        "akebiatrifoliata"
+      ]
+    },
+    {
+      "id": "yakuso_0220",
+      "category": "薬草",
+      "name": "ツルコケモモ",
+      "kana": "ツルコケモモ",
+      "aliases": [
+        "ツルコケモモ"
+      ],
+      "romaji": [
+        "tsurukokemomo"
+      ],
+      "scientific": "Vaccinium oxycoccos",
+      "search_terms": [
+        "ツルコケモモ",
+        "つるこけもも",
+        "tsurukokemomo",
+        "Vaccinium oxycoccos"
+      ],
+      "normalized_terms": [
+        "ツルコケモモ",
+        "つるこけもも",
+        "tsurukokemomo",
+        "vacciniumoxycoccos"
+      ]
+    },
+    {
+      "id": "yakuso_0221",
+      "category": "薬草",
+      "name": "ガンコウラン",
+      "kana": "ガンコウラン",
+      "aliases": [
+        "ガンコウラン"
+      ],
+      "romaji": [
+        "gankouran"
+      ],
+      "scientific": "Empetrum nigrum subsp. asiaticum",
+      "search_terms": [
+        "ガンコウラン",
+        "がんこうらん",
+        "gankouran",
+        "Empetrum nigrum subsp. asiaticum"
+      ],
+      "normalized_terms": [
+        "ガンコウラン",
+        "がんこうらん",
+        "gankouran",
+        "empetrumnigrumsubspasiaticum"
+      ]
+    },
+    {
+      "id": "yakuso_0222",
+      "category": "薬草",
+      "name": "マルバグミ",
+      "kana": "マルバグミ",
+      "aliases": [
+        "マルバグミ"
+      ],
+      "romaji": [
+        "marubagumi"
+      ],
+      "scientific": "Elaeagnus macrophylla",
+      "search_terms": [
+        "マルバグミ",
+        "まるばぐみ",
+        "marubagumi",
+        "Elaeagnus macrophylla"
+      ],
+      "normalized_terms": [
+        "マルバグミ",
+        "まるばぐみ",
+        "marubagumi",
+        "elaeagnusmacrophylla"
+      ]
+    },
+    {
+      "id": "yakuso_0223",
+      "category": "薬草",
+      "name": "クマイチゴ",
+      "kana": "クマイチゴ",
+      "aliases": [
+        "クマイチゴ"
+      ],
+      "romaji": [
+        "kumaichigo"
+      ],
+      "scientific": "Rubus crataegifolius",
+      "search_terms": [
+        "クマイチゴ",
+        "くまいちご",
+        "kumaichigo",
+        "Rubus crataegifolius"
+      ],
+      "normalized_terms": [
+        "クマイチゴ",
+        "くまいちご",
+        "kumaichigo",
+        "rubuscrataegifolius"
+      ]
+    },
+    {
+      "id": "yakuso_0224",
+      "category": "薬草",
+      "name": "モミジイチゴ",
+      "kana": "モミジイチゴ",
+      "aliases": [
+        "モミジイチゴ"
+      ],
+      "romaji": [
+        "momijiichigo"
+      ],
+      "scientific": "Rubus palmatus var. coptophyllus",
+      "search_terms": [
+        "モミジイチゴ",
+        "もみじいちご",
+        "momijiichigo",
+        "Rubus palmatus var. coptophyllus"
+      ],
+      "normalized_terms": [
+        "モミジイチゴ",
+        "もみじいちご",
+        "momijiichigo",
+        "rubuspalmatusvarcoptophyllus"
+      ]
+    },
+    {
+      "id": "yakuso_0225",
+      "category": "薬草",
+      "name": "ナワシロイチゴ",
+      "kana": "ナワシロイチゴ",
+      "aliases": [
+        "ナワシロイチゴ"
+      ],
+      "romaji": [
+        "nawashiroichigo"
+      ],
+      "scientific": "Rubus parvifolius",
+      "search_terms": [
+        "ナワシロイチゴ",
+        "なわしろいちご",
+        "nawashiroichigo",
+        "Rubus parvifolius"
+      ],
+      "normalized_terms": [
+        "ナワシロイチゴ",
+        "なわしろいちご",
+        "nawashiroichigo",
+        "rubusparvifolius"
+      ]
+    },
+    {
+      "id": "yakuso_0226",
+      "category": "薬草",
+      "name": "フユイチゴ",
+      "kana": "フユイチゴ",
+      "aliases": [
+        "フユイチゴ"
+      ],
+      "romaji": [
+        "fuyuichigo"
+      ],
+      "scientific": "Rubus buergeri",
+      "search_terms": [
+        "フユイチゴ",
+        "ふゆいちご",
+        "fuyuichigo",
+        "Rubus buergeri"
+      ],
+      "normalized_terms": [
+        "フユイチゴ",
+        "ふゆいちご",
+        "fuyuichigo",
+        "rubusbuergeri"
+      ]
+    },
+    {
+      "id": "yakuso_0227",
+      "category": "薬草",
+      "name": "ニガイチゴ",
+      "kana": "ニガイチゴ",
+      "aliases": [
+        "ニガイチゴ"
+      ],
+      "romaji": [
+        "nigaichigo"
+      ],
+      "scientific": "Rubus microphyllus",
+      "search_terms": [
+        "ニガイチゴ",
+        "にがいちご",
+        "nigaichigo",
+        "Rubus microphyllus"
+      ],
+      "normalized_terms": [
+        "ニガイチゴ",
+        "にがいちご",
+        "nigaichigo",
+        "rubusmicrophyllus"
+      ]
+    },
+    {
+      "id": "yakuso_0228",
+      "category": "薬草",
+      "name": "クロイチゴ",
+      "kana": "クロイチゴ",
+      "aliases": [
+        "クロイチゴ"
+      ],
+      "romaji": [
+        "kuroichigo"
+      ],
+      "scientific": "Rubus mesogaeus",
+      "search_terms": [
+        "クロイチゴ",
+        "くろいちご",
+        "kuroichigo",
+        "Rubus mesogaeus"
+      ],
+      "normalized_terms": [
+        "クロイチゴ",
+        "くろいちご",
+        "kuroichigo",
+        "rubusmesogaeus"
+      ]
+    },
+    {
+      "id": "yakuso_0229",
+      "category": "薬草",
+      "name": "エゾイチゴ",
+      "kana": "エゾイチゴ",
+      "aliases": [
+        "エゾイチゴ"
+      ],
+      "romaji": [
+        "ezoichigo"
+      ],
+      "scientific": "Rubus idaeus subsp. strigosus",
+      "search_terms": [
+        "エゾイチゴ",
+        "えぞいちご",
+        "ezoichigo",
+        "Rubus idaeus subsp. strigosus"
+      ],
+      "normalized_terms": [
+        "エゾイチゴ",
+        "えぞいちご",
+        "ezoichigo",
+        "rubusidaeussubspstrigosus"
       ]
     }
   ]

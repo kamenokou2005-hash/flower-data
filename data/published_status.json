@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "published_count": 2250,
+  "published_count": 2450,
   "categories": {
     "flower": {
       "category": "花",
@@ -46,11 +46,11 @@
     },
     "yakuso": {
       "category": "薬草",
-      "count": 29,
-      "last_published_id": "yakuso_0029",
+      "count": 229,
+      "last_published_id": "yakuso_0229",
       "image_dir": "images/yakuso",
       "data_file": "data/records/yakuso/yakuso.json"
     }
   },
-  "generated_at": "2026-10-11T23:30:50.834887"
+  "generated_at": "2026-10-11T23:31:11.037555"
 }
