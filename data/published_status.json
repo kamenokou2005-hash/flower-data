@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "published_count": 2450,
+  "published_count": 2650,
   "categories": {
     "flower": {
       "category": "花",
@@ -50,7 +50,14 @@
       "last_published_id": "yakuso_0229",
       "image_dir": "images/yakuso",
       "data_file": "data/records/yakuso/yakuso.json"
+    },
+    "herb": {
+      "category": "ハーブ",
+      "count": 200,
+      "last_published_id": "herb_0233",
+      "image_dir": "images/herb",
+      "data_file": "data/records/herb/herb.json"
     }
   },
-  "generated_at": "2026-10-11T23:31:11.037555"
+  "generated_at": "2026-10-11T23:31:30.313515"
 }
