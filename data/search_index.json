@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at_utc": "2026-10-11T14:34:23.217304+00:00",
+  "generated_at_utc": "2026-10-12T09:16:52.566887+00:00",
   "completed_count": 2800,
   "items": [
     {
       "id": "flower_0001",
-      "category": "花",
+      "category": "花の木",
       "name": "フジ",
       "kana": "フジ",
       "aliases": [],
@@ -28,7 +28,7 @@
     },
     {
       "id": "flower_0002",
-      "category": "花",
+      "category": "花の木",
       "name": "ノウゼンカズラ",
       "kana": "ノウゼンカズラ",
       "aliases": [],
@@ -2883,7 +2883,7 @@
     },
     {
       "id": "flower_0121",
-      "category": "花",
+      "category": "草",
       "name": "ハゲイトウ",
       "kana": "ハゲイトウ",
       "aliases": [
@@ -3100,7 +3100,7 @@
     },
     {
       "id": "flower_0128",
-      "category": "花",
+      "category": "花の木",
       "name": "ブーゲンビリア",
       "kana": "ブーゲンビリア",
       "aliases": [],
@@ -6783,7 +6783,7 @@
     },
     {
       "id": "flower_0239",
-      "category": "花",
+      "category": "花の木",
       "name": "センニンソウ",
       "kana": "センニンソウ",
       "aliases": [
@@ -6810,7 +6810,7 @@
     },
     {
       "id": "flower_0240",
-      "category": "花",
+      "category": "花の木",
       "name": "ボタンヅル",
       "kana": "ボタンヅル",
       "aliases": [
@@ -9894,7 +9894,7 @@
     },
     {
       "id": "flower_0343",
-      "category": "花",
+      "category": "花の木",
       "name": "テイカカズラ",
       "kana": "テイカカズラ",
       "aliases": [
@@ -9929,7 +9929,7 @@
     },
     {
       "id": "flower_0344",
-      "category": "花",
+      "category": "木",
       "name": "ハツユキカズラ",
       "kana": "ハツユキカズラ",
       "aliases": [
@@ -9956,7 +9956,7 @@
     },
     {
       "id": "flower_0345",
-      "category": "花",
+      "category": "花の木",
       "name": "スイカズラ",
       "kana": "スイカズラ",
       "aliases": [
@@ -33447,7 +33447,7 @@
     },
     {
       "id": "grass_0489",
-      "category": "草",
+      "category": "木",
       "name": "エビヅル",
       "kana": "エビヅル",
       "aliases": [
@@ -33746,7 +33746,7 @@
     },
     {
       "id": "grass_0500",
-      "category": "草",
+      "category": "木",
       "name": "ノブドウ",
       "kana": "ノブドウ",
       "aliases": [
@@ -56952,18 +56952,18 @@
       "romaji": [
         "yamaukogi"
       ],
-      "scientific": "Eleutherococcus spinosus var. varspinosus",
+      "scientific": "Eleutherococcus spinosus var. spinosus",
       "search_terms": [
         "ヤマウコギ",
         "やまうこぎ",
         "yamaukogi",
-        "Eleutherococcus spinosus var. varspinosus"
+        "Eleutherococcus spinosus var. spinosus"
       ],
       "normalized_terms": [
         "ヤマウコギ",
         "やまうこぎ",
         "yamaukogi",
-        "eleutherococcusspinosusvarvarspinosus"
+        "eleutherococcusspinosusvarspinosus"
       ]
     },
     {
@@ -70562,18 +70562,18 @@
       "romaji": [
         "yamaukogi"
       ],
-      "scientific": "Eleutherococcus spinosus var. varspinosus",
+      "scientific": "Eleutherococcus spinosus var. spinosus",
       "search_terms": [
         "ヤマウコギ",
         "やまうこぎ",
         "yamaukogi",
-        "Eleutherococcus spinosus var. varspinosus"
+        "Eleutherococcus spinosus var. spinosus"
       ],
       "normalized_terms": [
         "ヤマウコギ",
         "やまうこぎ",
         "yamaukogi",
-        "eleutherococcusspinosusvarvarspinosus"
+        "eleutherococcusspinosusvarspinosus"
       ]
     },
     {

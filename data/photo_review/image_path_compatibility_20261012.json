@@ -1,0 +1,60 @@
+{
+  "aliases": [
+    {
+      "id": "flower_0001",
+      "old_url_path": "images/flower/flower_0001.jpg",
+      "canonical_path": "images/flower_tree/flower_0001.jpg"
+    },
+    {
+      "id": "flower_0002",
+      "old_url_path": "images/flower/flower_0002.jpg",
+      "canonical_path": "images/flower_tree/flower_0002.jpg"
+    },
+    {
+      "id": "flower_0121",
+      "old_url_path": "images/flower/flower_0121.jpg",
+      "canonical_path": "images/grass/flower_0121.jpg"
+    },
+    {
+      "id": "flower_0128",
+      "old_url_path": "images/flower/flower_0128.jpg",
+      "canonical_path": "images/flower_tree/flower_0128.jpg"
+    },
+    {
+      "id": "flower_0239",
+      "old_url_path": "images/flower/flower_0239.jpg",
+      "canonical_path": "images/flower_tree/flower_0239.jpg"
+    },
+    {
+      "id": "flower_0240",
+      "old_url_path": "images/flower/flower_0240.jpg",
+      "canonical_path": "images/flower_tree/flower_0240.jpg"
+    },
+    {
+      "id": "flower_0343",
+      "old_url_path": "images/flower/flower_0343.jpg",
+      "canonical_path": "images/flower_tree/flower_0343.jpg"
+    },
+    {
+      "id": "flower_0344",
+      "old_url_path": "images/flower/flower_0344.jpg",
+      "canonical_path": "images/tree/flower_0344.jpg"
+    },
+    {
+      "id": "flower_0345",
+      "old_url_path": "images/flower/flower_0345.jpg",
+      "canonical_path": "images/flower_tree/flower_0345.jpg"
+    },
+    {
+      "id": "grass_0489",
+      "old_url_path": "images/grass/grass_0489.jpg",
+      "canonical_path": "images/tree/grass_0489.jpg"
+    },
+    {
+      "id": "grass_0500",
+      "old_url_path": "images/grass/grass_0500.jpg",
+      "canonical_path": "images/tree/grass_0500.jpg"
+    }
+  ],
+  "note": "ジャンル変更前の画像URLも同じ更新画像で維持。データの登録件数は2,800件のまま。"
+}

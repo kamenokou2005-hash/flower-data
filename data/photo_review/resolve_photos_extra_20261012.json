@@ -1,0 +1,40 @@
+{
+  "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\resolve_photos_20261012_181332",
+  "replaced": [
+    {
+      "id": "grass_0007",
+      "category": "草",
+      "photo_id": 606766599,
+      "sha256": "b375ddb6b42a98a4598e8c39eac89c448e13ecfe243c504ca98101099cd281c8",
+      "note": "細い茎と葉と枝分かれした穂が見える。"
+    },
+    {
+      "id": "grass_0034",
+      "category": "草",
+      "photo_id": 736289075,
+      "sha256": "63db6deca2c17434a8b407476fc50ed67e72972181bc5834c524e7ff270a6998",
+      "note": "茎と広がった穂が見える。"
+    },
+    {
+      "id": "grass_0361",
+      "category": "草",
+      "photo_id": 432244356,
+      "sha256": "d91872e149ac967a623b17da7214955f03cf2923af0c8d2b4877437c26c3f068",
+      "note": "砂地に生える草の葉と穂が見える。"
+    },
+    {
+      "id": "grass_0463",
+      "category": "草",
+      "photo_id": 50090130,
+      "sha256": "284a32f936523e7758c5db4e5df7fb034df4f59e752abad26a08881df1f04da6",
+      "note": "細い葉をつけた直立する茎が見える。"
+    }
+  ],
+  "closed_genre_ids": [
+    "grass_0007",
+    "grass_0034",
+    "grass_0361",
+    "grass_0463"
+  ],
+  "strict_species_identification": false
+}

@@ -4,28 +4,28 @@
   "categories": {
     "flower": {
       "category": "花",
-      "count": 500,
+      "count": 491,
       "last_published_id": "flower_0500",
       "image_dir": "images/flower",
       "data_file": "data/records/flower/flower.json"
     },
     "grass": {
       "category": "草",
-      "count": 500,
+      "count": 499,
       "last_published_id": "grass_0500",
       "image_dir": "images/grass",
       "data_file": "data/records/grass/grass.json"
     },
     "tree": {
       "category": "木",
-      "count": 300,
+      "count": 303,
       "last_published_id": "tree_0300",
       "image_dir": "images/tree",
       "data_file": "data/records/tree/tree.json"
     },
     "flower_tree": {
       "category": "花の木",
-      "count": 199,
+      "count": 206,
       "last_published_id": "flower_tree_0200",
       "image_dir": "images/flower_tree",
       "data_file": "data/records/flower_tree/flower_tree.json"
@@ -66,5 +66,15 @@
       "data_file": "data/records/rare_fruit/rare_fruit.json"
     }
   },
-  "generated_at": "2026-10-11T23:31:51.595319"
+  "generated_at": "2026-10-11T23:31:51.595319",
+  "remaining_resolution_summary": {
+    "photo_replacements": 37,
+    "genre_candidates_resolved": 142,
+    "genre_moves": 11,
+    "content_reviewed": 449,
+    "basic_verified": 344,
+    "partially_enriched": 9,
+    "reviewed_with_limits": 96,
+    "still_needs_research": 105
+  }
 }

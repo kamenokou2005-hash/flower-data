@@ -1,0 +1,271 @@
+{
+  "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\resolve_photos_20261012_171236",
+  "replaced": [
+    {
+      "id": "flower_0132",
+      "category": "花",
+      "photo_id": 382873591,
+      "sha256": "dbceb572ad187e26428f79a18308af54fa94034b17c1615e9c5501221777af27",
+      "note": "白い小さな苞と花序が見える。"
+    },
+    {
+      "id": "flower_0149",
+      "category": "花",
+      "photo_id": 21669241,
+      "sha256": "9aaa7a1d3f5bfa370a447a148572ec93baad77fd78a60ec3b7f81ce7439cdbc6",
+      "note": "白い細長い花穂が見える。"
+    },
+    {
+      "id": "flower_0240",
+      "category": "花",
+      "photo_id": 556444098,
+      "sha256": "73f38697d5cdecb8f536c320f2efcf98bace9e628062ab21588f58fb36e3ba7a",
+      "note": "白い花と葉が見える。"
+    },
+    {
+      "id": "flower_0337",
+      "category": "花",
+      "photo_id": 299764154,
+      "sha256": "5f512030f1f3b57770da4cbd9bb4848309299a29afbdbdac3e1c0ae4f7a420ea",
+      "note": "白い花を拡大して見せる。"
+    },
+    {
+      "id": "flower_0338",
+      "category": "花",
+      "photo_id": 28382311,
+      "sha256": "e3e571f78675c2188183c5054ca2480330ffd504282df22d93459fe7a0419680",
+      "note": "桃色の小花が見える。"
+    },
+    {
+      "id": "flower_0339",
+      "category": "花",
+      "photo_id": 536172483,
+      "sha256": "616a20e6c06f80c95758e8efea67d118ca9b49e50b6207b9caa3956be85e5670",
+      "note": "白い花と赤みのある葉が見える。"
+    },
+    {
+      "id": "flower_0444",
+      "category": "花",
+      "photo_id": 56207509,
+      "sha256": "7dcea7a1f3cf9911272aa153307bc33837273995843f550394b0d67ddd7d322e",
+      "note": "紫色の花がまとまって見える。"
+    },
+    {
+      "id": "grass_0013",
+      "category": "草",
+      "photo_id": 382997061,
+      "sha256": "ae0f6b0d18fcff25b362e803ac75cf85989c192492a2bc80755abdfad13b881d",
+      "note": "長い芒を持つ垂れた穂が見える。"
+    },
+    {
+      "id": "grass_0028",
+      "category": "草",
+      "photo_id": 448858596,
+      "sha256": "e37f87e369cd8be3497d6277b7aa1adeb3cf4c2962eecd37162aa1a51a046c74",
+      "note": "細い茎と枝分かれした穂が見える。"
+    },
+    {
+      "id": "grass_0053",
+      "category": "草",
+      "photo_id": 12561716,
+      "sha256": "5a26b4116eddb9b3e46a0215060b917a9b8c4cc9b39ad73dfbe65d987adf8bdf",
+      "note": "麦の穂と長い芒が見える。"
+    },
+    {
+      "id": "grass_0065",
+      "category": "草",
+      "photo_id": 250832514,
+      "sha256": "91c192a0cab3bd8b62967ab9f5da32e28ddc8f707b8409ea24fa641cb04687cc",
+      "note": "枝分かれした穂が見える。"
+    },
+    {
+      "id": "grass_0107",
+      "category": "草",
+      "photo_id": 304416602,
+      "sha256": "bc93baa1f71ac587d549191a50df492d1ccbb56d54be1160876f39fa06c69e59",
+      "note": "輪生する細い葉が見える。"
+    },
+    {
+      "id": "grass_0218",
+      "category": "草",
+      "photo_id": 640687730,
+      "sha256": "2b09f14e1179bd6fdc4e7910ef3a7b55872e3ac0c8e28e3256df06a47568393c",
+      "note": "切れ込みの深い葉を持つ株が見える。"
+    },
+    {
+      "id": "grass_0272",
+      "category": "草",
+      "photo_id": 293281182,
+      "sha256": "eb5005f240fdbbddc8e1d5794d56f742a91596a0c50ad0f8f5a372fa1de130e6",
+      "note": "細い茎葉の株が見える。"
+    },
+    {
+      "id": "grass_0294",
+      "category": "草",
+      "photo_id": 309307983,
+      "sha256": "ec95ad960b9b6c4924488c4cd0301d2a19319dc9ea4b8e91912a6fdce17dd9d4",
+      "note": "細長い穂が見える。"
+    },
+    {
+      "id": "grass_0464",
+      "category": "草",
+      "photo_id": 95973211,
+      "sha256": "fc26eff7bdef03d48f8a71e5c6a8a67ccb3cb9db5539960aee71741ca1df8471",
+      "note": "水面に浮かぶ葉が見える。"
+    },
+    {
+      "id": "tree_0055",
+      "category": "木",
+      "photo_id": 112393244,
+      "sha256": "7be2cfe99f7362d6eb78bcd1fe6613155ab99cc53db3fb774825aa57408178a3",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0067",
+      "category": "木",
+      "photo_id": 475236124,
+      "sha256": "e2a482259c9c3ced2fbb2dfcf544c0cca282fcc7650794a27a62b998df6005a2",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0068",
+      "category": "木",
+      "photo_id": 98587913,
+      "sha256": "024a330cc39122ca9c68ebfaa49aa5620d53ec86d6daae4686366c237bfea1ad",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0080",
+      "category": "木",
+      "photo_id": 328114910,
+      "sha256": "f8c7fce02a4db37c62b0e23ba3a1254ac428dd0be5d0bd477bbfc3106301f74d",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0082",
+      "category": "木",
+      "photo_id": 656474535,
+      "sha256": "65065576459d31a30211ef12f04a8ad29a138d1a0c6a9c4739664c60eb5bbe21",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0095",
+      "category": "木",
+      "photo_id": 733416831,
+      "sha256": "d4250034d8f82214bde9ac6ed5a4b9834773da73cb88b8b12a7c3d79ec3c1722",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0099",
+      "category": "木",
+      "photo_id": 157716857,
+      "sha256": "a26aec84c14423f708b6e03ba067e52beb68b776cafe193941775ed0b09a73db",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0101",
+      "category": "木",
+      "photo_id": 67426322,
+      "sha256": "0c50fbde1719949aaf50f95a380431c894884c654619f3ec87709f01947be65a",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0129",
+      "category": "木",
+      "photo_id": 24059601,
+      "sha256": "6d247cee285b75a41f089313b1252a37ce7c09fdb96ba61aec6d5dc6acec6901",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0151",
+      "category": "木",
+      "photo_id": 1509479,
+      "sha256": "ce276477e88336da12b406fa95c5375356c962f5a720540eff18b8608326f3aa",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0156",
+      "category": "木",
+      "photo_id": 261302725,
+      "sha256": "9cd2a50b0a70976ba42db8f9925d92000158bb44093eb0035191c085cc75aa1b",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0164",
+      "category": "木",
+      "photo_id": 4331140,
+      "sha256": "e18bb363be730379e0cfe3f2b3f6bd01b2a1810945759c2df8f0204f70a7c16c",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0176",
+      "category": "木",
+      "photo_id": 236769480,
+      "sha256": "59d84838121d501e8b92bc9ba013fd023932b41fea4a3536cd96a7b3cf36bfe2",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0177",
+      "category": "木",
+      "photo_id": 381303154,
+      "sha256": "820d68bf19745fa5090dc60f19c1c2d2287e9dce5879b73b3dfe9debe3c7867b",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0178",
+      "category": "木",
+      "photo_id": 48147751,
+      "sha256": "64313072a2e769ea8cd5e9a8458ca18dba5ea88e4e9eb091db39c6c72b54eca8",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0192",
+      "category": "木",
+      "photo_id": 129822950,
+      "sha256": "ee68bd6be4c3cde362a3da8c16d24ccd940aac33003ed4f70a8513361899d285",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    },
+    {
+      "id": "tree_0199",
+      "category": "木",
+      "photo_id": 55527677,
+      "sha256": "30d7265deec44c65fc1cf55264e631748c457f7fbfea2f43b93161c2969ee6c8",
+      "note": "幹・枝・葉が見える写真を選定。実や花だけの写真から変更。"
+    }
+  ],
+  "closed_genre_ids": [
+    "flower_0132",
+    "flower_0149",
+    "flower_0337",
+    "flower_0338",
+    "flower_0339",
+    "flower_0444",
+    "grass_0013",
+    "grass_0028",
+    "grass_0053",
+    "grass_0065",
+    "grass_0107",
+    "grass_0218",
+    "grass_0272",
+    "grass_0294",
+    "grass_0464",
+    "tree_0055",
+    "tree_0067",
+    "tree_0068",
+    "tree_0080",
+    "tree_0082",
+    "tree_0095",
+    "tree_0099",
+    "tree_0101",
+    "tree_0129",
+    "tree_0151",
+    "tree_0156",
+    "tree_0164",
+    "tree_0176",
+    "tree_0177",
+    "tree_0178",
+    "tree_0192",
+    "tree_0199"
+  ],
+  "strict_species_identification": false
+}
