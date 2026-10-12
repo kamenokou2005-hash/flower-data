@@ -1307,11 +1307,11 @@
     "reference_taxon_id": 701722,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "常緑の多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "日本・朝鮮半島・台湾・中国北東部に分布。",
+    "habitat": "林の床に生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "ツツジ科のPyrola属に分類される植物。形態の詳しい説明は要確認。",
     "trivia": "採用分類ではツツジ科のPyrola属に属する。学名はPyrola japonica。",
@@ -1327,9 +1327,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/701722",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/701722",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60463201-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60463201-2",
+      "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/wintergreen/pyrola/jap.html"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -1339,7 +1340,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -1354,9 +1355,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Pyrola japonica Alef. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60463201-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "北海道大学の同学名の基本情報を確認。近縁種の説明は転用していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "北海道大学の同学名の基本情報を確認。近縁種の説明は転用していない。"
   },
   {
     "id": "yakuso_0020",
@@ -8952,7 +8956,7 @@
   {
     "id": "yakuso_0126",
     "category": "薬草",
-    "display_name": "ヤマヨモギ",
+    "display_name": "ヤマヨモギ（セージブラッシュ）",
     "kana": "ヤマヨモギ",
     "search_aliases": [
       "ヤマヨモギ"
@@ -8964,13 +8968,13 @@
     "reference_taxon_id": 75598,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "低木（木本）",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：西部 Canadaからメキシコ (Baja California Norte)。",
-    "habitat": "生育環境は要確認",
+    "distribution": "採用学名 Artemisia tridentata は北アメリカ西部の植物。ここでは資料で確認できたアメリカ西部の分布を記載する。その他の詳しい範囲は要確認。",
+    "habitat": "乾燥した平原や山地の斜面に生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "キク科のArtemisia属に分類される植物。形態の詳しい説明は要確認。",
+    "feature_summary": "ここではセージブラッシュ（Artemisia tridentata）を扱う。銀灰色の葉には先端に3つの歯があり、丈夫な木質の茎をもつ。日本のオオヨモギ（別名ヤマヨモギ、A. montana）とは別の植物。",
     "trivia": "自然分布と日本での栽培・観察場所は別に扱います。",
     "classification": {
       "kingdom": "植物界",
@@ -8984,9 +8988,11 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/75598",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/75598",
-      "https://powo.science.kew.org/taxon/20780-2"
+      "https://powo.science.kew.org/taxon/20780-2",
+      "https://www.botanic.jp/plants-ya/yayomo.htm",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004558.php"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Matt Berger, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -8996,7 +9002,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -9011,8 +9017,8 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Artemisia tridentata Nutt. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/20780-2",
-    "content_basic_ecology_verified": false,
-    "content_followup_review_status": "確認できた項目を補完・残りは要確認",
+    "content_basic_ecology_verified": true,
+    "content_followup_review_status": "基本情報の出典確認済み",
     "ecology_source_details": {
       "source_url": "https://powo.science.kew.org/taxon/20780-2",
       "life_form_original": "",
@@ -9020,7 +9026,9 @@
       "biome_original": ""
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "登録学名の植物と国内の同名別種を区別し、表示名にセージブラッシュを付記。後者の分布・生活型・薬用の説明を前者へ転用しない。写真の再同定を実施したという意味ではない。",
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "登録学名の植物と国内の同名別種を区別し、表示名にセージブラッシュを付記。後者の分布・生活型・薬用の説明を前者へ転用しない。写真の再同定を実施したという意味ではない。"
   },
   {
     "id": "yakuso_0127",
@@ -9037,13 +9045,13 @@
     "reference_taxon_id": 61479,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
-    "flowering_season": "要確認",
+    "life_form": "一年草または二年草",
+    "flowering_season": "7〜9月（地域や気候によって前後する）。",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "本州から琉球諸島、および台湾・朝鮮半島・中国などに分布。",
+    "habitat": "温帯から亜熱帯の、日当たりのよい原野や道端に生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "Lamiaceae科のLeonurus属に分類される植物。形態の詳しい説明は要確認。",
+    "feature_summary": "葉には深い切れ込みがあり、上部の葉の付け根に紅紫色の花がまとまってつく。",
     "trivia": "採用分類ではLamiaceae科のLeonurus属に属する。学名はLeonurus japonicus。",
     "classification": {
       "kingdom": "植物界",
@@ -9057,9 +9065,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/61479",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/61479",
-      "https://powo.science.kew.org/taxon/449195-1"
+      "https://powo.science.kew.org/taxon/449195-1",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003437.php"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Yi CHEN, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -9069,7 +9078,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -9084,9 +9093,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Leonurus japonicus Houtt. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/449195-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "熊本大学の同学名の植物解説から基本情報のみを確認。薬効・処方・食用の安全性は転用していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "熊本大学の同学名の植物解説から基本情報のみを確認。薬効・処方・食用の安全性は転用していない。"
   },
   {
     "id": "yakuso_0128",
@@ -9469,13 +9481,13 @@
     "reference_taxon_id": 447036,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
-    "flowering_season": "要確認",
+    "life_form": "一年草",
+    "flowering_season": "9〜10月（富山県自然博物園の記載。地域差あり）。",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "日本各地に分布。国外の分布範囲は要確認。",
+    "habitat": "山野の道端などに生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "Lamiaceae科のMosla属に分類される植物。形態の詳しい説明は要確認。",
+    "feature_summary": "葉は対生し、浅い鋸歯がある。茎には毛が多く、小さな淡紅色の花を多数つける。",
     "trivia": "採用分類ではLamiaceae科のMosla属に属する。学名はMosla scabra。",
     "classification": {
       "kingdom": "植物界",
@@ -9490,9 +9502,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Mosla",
       "https://www.inaturalist.org/taxa/447036",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A452218-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A452218-1",
+      "https://toyamap.or.jp/shizen/search/%E3%82%A4%E3%83%8C%E3%82%B3%E3%82%A6%E3%82%B8%E3%83%A5/"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) ITÔ, Hiroki, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -9502,7 +9515,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -9517,9 +9530,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Mosla scabra C.Y.Wu & H.W.Li | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A452218-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "自然博物園の採用学名 Mosla scabra の観察・解説を確認。別学名を用いる資料からは情報を借用していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "自然博物園の採用学名 Mosla scabra の観察・解説を確認。別学名を用いる資料からは情報を借用していない。"
   },
   {
     "id": "yakuso_0134",
@@ -9609,11 +9625,11 @@
     "reference_taxon_id": 1055298,
     "taxon_rank": "variety",
     "entity_type": "変種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草（種 Isodon japonicus の資料による。変種に限定した確認は未完了）。",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "種としては北海道南部から九州・朝鮮半島に分布とされる。登録変種に限定した分布は要確認。",
+    "habitat": "種の資料では、やや乾いた山地に生育。登録変種に限定した確認は未完了。",
     "common_place": "生育環境は要確認",
     "feature_summary": "Lamiaceae科のIsodon属に分類される植物。形態の詳しい説明は要確認。",
     "trivia": "採用分類ではLamiaceae科のIsodon属に属する。学名はIsodon japonicus var. japonicus。",
@@ -9625,12 +9641,13 @@
       "genus": "Isodon属",
       "species": "Isodon japonicus var. japonicus"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n追加調査：登録は Isodon japonicus var. japonicus。大学の解説は種 Isodon japonicus の範囲であり、基準変種に限定した分布等の照合が未完了。種としての基本情報は参考として確認できた。",
     "plant_source_url": "https://www.inaturalist.org/taxa/1055298",
     "content_source_urls": [
-      "https://www.inaturalist.org/taxa/1055298"
+      "https://www.inaturalist.org/taxa/1055298",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003549.php"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "unresolved_taxon_scope",
     "image": {
       "author": "(c) 大澤風季 ohsawa_Fuki, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -9653,9 +9670,12 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [],
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "分類範囲の再照合が必要",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "登録は Isodon japonicus var. japonicus。大学の解説は種 Isodon japonicus の範囲であり、基準変種に限定した分布等の照合が未完了。種としての基本情報は参考として確認できた。",
+    "content_basic_ecology_verified": false,
+    "remaining105_review_status": "要確認",
+    "remaining105_review_note": "登録は Isodon japonicus var. japonicus。大学の解説は種 Isodon japonicus の範囲であり、基準変種に限定した分布等の照合が未完了。種としての基本情報は参考として確認できた。"
   },
   {
     "id": "yakuso_0136",
@@ -10244,13 +10264,13 @@
     "reference_taxon_id": 900719,
     "taxon_rank": "subspecies",
     "entity_type": "亜種",
-    "life_form": "生活型は要確認",
+    "life_form": "常緑の多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "北海道・本州中部以北、および朝鮮半島・中国・シベリアなどに分布。",
+    "habitat": "林床に生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "ツツジ科のPyrola属に分類される植物。形態の詳しい説明は要確認。",
+    "feature_summary": "根元から長い柄のある円形〜楕円形の葉を出し、桃色の花を下向きにつける。",
     "trivia": "採用分類ではツツジ科のPyrola属に属する。学名はPyrola asarifolia subsp. incarnata。",
     "classification": {
       "kingdom": "植物界",
@@ -10264,9 +10284,11 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/900719",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/900719",
-      "https://powo.science.kew.org/taxon/954919-1"
+      "https://powo.science.kew.org/taxon/954919-1",
+      "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/wintergreen/pyrola/inc.html",
+      "https://www.pref.kyoto.jp/kankyo/rdb/bio/db/flo0583.html"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) ivansemenkov, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -10276,7 +10298,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": true,
     "thumbnail_visually_reviewed": true,
@@ -10291,9 +10313,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Pyrola asarifolia subsp. incarnata (DC.) Haber & Hideki Takah. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/954919-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "大学の Pyrola incarnata の解説が採用亜種名を同物異名に挙げ、京都府の資料でも対応を確認。北米を含む分布の扱いには種群の差があるため北米の詳細は追加しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "大学の Pyrola incarnata の解説が採用亜種名を同物異名に挙げ、京都府の資料でも対応を確認。北米を含む分布の扱いには種群の差があるため北米の詳細は追加しない。"
   },
   {
     "id": "yakuso_0145",
@@ -10966,13 +10991,13 @@
     "reference_taxon_id": 914501,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "つる性の多年草（地下部が肥大する）",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "中国からインドシナ北部・台湾に自然分布。日本では帰化・野生化している。",
+    "habitat": "主に温帯の生育帯に生育（Kewの世界全体の記載）。日本での詳しい生育場所は要確認。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "タデ科のイタドリ属に分類される植物。形態の詳しい説明は要確認。",
+    "feature_summary": "葉は卵形〜心形で互生する。白い小花を多数つけ、地下部は太く肥大することがある。",
     "trivia": "採用分類ではタデ科のイタドリ属に属する。学名はReynoutria multiflora。",
     "classification": {
       "kingdom": "植物界",
@@ -10986,9 +11011,11 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/914501",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/914501",
-      "https://powo.science.kew.org/taxon/696695-1"
+      "https://powo.science.kew.org/taxon/696695-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A695253-1",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003401.php"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) vrxz, some rights reserved (CC BY-SA)",
       "license": "CC-BY-SA",
@@ -10998,7 +11025,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -11013,9 +11040,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Reynoutria multiflora (Thunb.) Moldenke | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/696695-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "Kewは採用学名 Reynoutria multiflora と大学資料の Fallopia multiflora をともに Pleuropterus multiflorus の異名に挙げる。同じ植物の基本情報のみを確認し、薬効や食用は転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "Kewは採用学名 Reynoutria multiflora と大学資料の Fallopia multiflora をともに Pleuropterus multiflorus の異名に挙げる。同じ植物の基本情報のみを確認し、薬効や食用は転用しない。"
   },
   {
     "id": "yakuso_0155",
@@ -11967,13 +11997,13 @@
     "reference_taxon_id": 980664,
     "taxon_rank": "variety",
     "entity_type": "変種",
-    "life_form": "生活型は要確認",
-    "flowering_season": "要確認",
+    "life_form": "多年草",
+    "flowering_season": "初秋頃（地域や気候によって前後する）。",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "国内では北海道から九州に分布。国外の分布範囲は要確認。",
+    "habitat": "山野や山地の草原など、日当たりのよい場所に生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、輪生する細長い葉と垂れた花。",
+    "feature_summary": "淡い紫色の釣鐘形の花を、茎の上部につける。",
     "trivia": "採用分類ではCampanulaceae科のAdenophora属に属する。学名はAdenophora triphylla var. japonica。",
     "classification": {
       "kingdom": "植物界",
@@ -11988,9 +12018,10 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AA%E3%82%AC%E3%83%8D%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%B3",
       "https://www.inaturalist.org/taxa/980664",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A360541-4"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A360541-4",
+      "https://www.u-toyama.plant-database.jp/plants/detail/08e2c98c97dc496de22a805566b47051"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Timur Kalininsky, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -12000,7 +12031,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -12015,9 +12046,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Adenophora triphylla var. japonica (Regel) H.Hara | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A360541-4",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。"
   },
   {
     "id": "yakuso_0169",
@@ -14320,13 +14354,13 @@
     "reference_taxon_id": 461683,
     "taxon_rank": "variety",
     "entity_type": "変種",
-    "life_form": "生活型は要確認",
+    "life_form": "越年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "本州の山地に分布。主な分布は近畿地方以東で、広島県・山口県にも分布する。",
+    "habitat": "温帯〜暖帯の林内や林縁に生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "Papaveraceae科のCorydalis属に分類される植物。形態の詳しい説明は要確認。",
+    "feature_summary": "柔らかく毛のない草で、細かく分かれた葉と黄色い花をつける。果実には数珠状の深いくびれがある。",
     "trivia": "採用分類ではPapaveraceae科のCorydalis属に属する。学名はCorydalis pallida var. tenuis。",
     "classification": {
       "kingdom": "植物界",
@@ -14340,9 +14374,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/461683",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/461683",
-      "https://powo.science.kew.org/results?q=Corydalis+pallida+var.+tenuis"
+      "https://powo.science.kew.org/results?q=Corydalis+pallida+var.+tenuis",
+      "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/53759.pdf#page=199"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) りなべる, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -14352,7 +14387,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -14367,9 +14402,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Corydalis pallida var. tenuis | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/results?q=Corydalis+pallida+var.+tenuis",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "山口県の資料のミヤマキケマン（var. tenuis）本文を確認。近畿以東だけでなく中国地方の記録も反映。古いレッドリストのランクは追加していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "山口県の資料のミヤマキケマン（var. tenuis）本文を確認。近畿以東だけでなく中国地方の記録も反映。古いレッドリストのランクは追加していない。"
   },
   {
     "id": "yakuso_0202",

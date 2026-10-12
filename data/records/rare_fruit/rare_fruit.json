@@ -1597,13 +1597,13 @@
     "reference_taxon_id": 705024,
     "taxon_rank": "variety",
     "entity_type": "変種",
-    "life_form": "生活型は要確認",
+    "life_form": "落葉低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "本州から九州の主に太平洋側に分布。",
+    "habitat": "日当たりのよい場所に生育。庭木としても植えられる（広義の種の記載）。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、赤い果実と鋸歯の葉。",
+    "feature_summary": "葉や枝に毛がない。淡い紅色の花が早春から春に咲き、果実は赤く熟す。",
     "trivia": "採用分類ではCaprifoliaceae科のLonicera属に属する。学名はLonicera gracilipes var. glabra。",
     "classification": {
       "kingdom": "植物界",
@@ -1617,9 +1617,11 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/705024",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/705024",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77315007-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77315007-1",
+      "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/caprifoliaceae/uguisukagura/uguisukagura.htm",
+      "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/honeysuckle/lonicera/gra.html"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Kristof Zyskowski, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -1629,7 +1631,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -1644,9 +1646,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Lonicera gracilipes var. glabra Miq. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77315007-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "変種 glabra の分布・生活型・形態は岡山理科大学で確認。日当たりと庭木利用は広義の種の説明として明記。毛のある別変種の分布は転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "変種 glabra の分布・生活型・形態は岡山理科大学で確認。日当たりと庭木利用は広義の種の説明として明記。毛のある別変種の分布は転用しない。"
   },
   {
     "id": "rare_fruit_0024",
@@ -2821,13 +2826,13 @@
     "reference_taxon_id": 238962,
     "taxon_rank": "subspecies",
     "entity_type": "亜種",
-    "life_form": "生活型は要確認",
+    "life_form": "常緑の低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "北アメリカに自生。ニューイングランドのコネチカット・メイン・マサチューセッツ・ニューハンプシャー・バーモントなどで記録がある。世界全体の分布範囲は要確認。",
+    "habitat": "資料が扱うニューイングランドでは、中〜高標高の開けた尾根や岩棚、山頂などに生育。北方の沿岸泥炭地や湖岸などにも記録がある。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、赤い果実と厚い葉。",
+    "feature_summary": "小さい葉は冬も緑色を保つ。釣鐘形の桃白色の花と、赤い果実をつける。",
     "trivia": "採用分類ではツツジ科のスノキ属に属する。学名はVaccinium vitis-idaea subsp. minus。",
     "classification": {
       "kingdom": "植物界",
@@ -2842,9 +2847,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Vaccinium",
       "https://www.inaturalist.org/taxa/238962",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A262103-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A262103-2",
+      "https://gobotany.nativeplanttrust.org/species/vaccinium/vitis-idaea/?key=dichotomous"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -2854,7 +2860,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -2869,9 +2875,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Vaccinium vitis-idaea subsp. minus (G.Lodd.) Hultén | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A262103-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "Native Plant Trustの地域植物誌が扱う亜種は採用学名と同じ subsp. minus と明示されている。地域の生育記録を世界全域の分布・環境には拡張しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "Native Plant Trustの地域植物誌が扱う亜種は採用学名と同じ subsp. minus と明示されている。地域の生育記録を世界全域の分布・環境には拡張しない。"
   },
   {
     "id": "rare_fruit_0041",
@@ -4145,13 +4154,13 @@
     "reference_taxon_id": 61223,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "落葉小高木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "ヨーロッパ・トルコに分布。",
+    "habitat": "日なた〜半日陰の湿り気があり水はけのよい土で栽培。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、枝につく楕円形の葉。",
+    "feature_summary": "丸みのある樹形になり、桃色を帯びた白い花をつける。小さな果実は黄緑色で、一部が赤みを帯びることがある。",
     "trivia": "採用分類ではバラ科のリンゴ属に属する。学名はMalus sylvestris。",
     "classification": {
       "kingdom": "植物界",
@@ -4166,9 +4175,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Malus",
       "https://www.inaturalist.org/taxa/61223",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A726415-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A726415-1",
+      "https://www.rhs.org.uk/plants/42329/malus-sylvestris/details"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) naturalist_ua_97, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -4178,7 +4188,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -4193,9 +4203,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Malus sylvestris (L.) Mill. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A726415-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名 Malus sylvestris の解説を確認。クラブアップルという園芸上の広い呼称に含まれる他種・交雑品種の性質は転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名 Malus sylvestris の解説を確認。クラブアップルという園芸上の広い呼称に含まれる他種・交雑品種の性質は転用しない。"
   },
   {
     "id": "rare_fruit_0063",
@@ -4212,13 +4225,13 @@
     "reference_taxon_id": 54835,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "落葉低木〜小高木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "北アメリカ原産。",
+    "habitat": "林内、谷、斜面、低木の茂み、開けた草地などに生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、楕円形の葉と枝。",
+    "feature_summary": "地下を伸びる根から新しい株を出して茂みをつくる。白い花を総状につけ、果実は赤色から黒色に熟す。",
     "trivia": "採用分類ではバラ科のサクラ属に属する。学名はPrunus virginiana。",
     "classification": {
       "kingdom": "植物界",
@@ -4232,9 +4245,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/54835",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/54835",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30003056-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30003056-2",
+      "https://plants.ces.ncsu.edu/plants/prunus-virginiana/common-name/choke-cherry/"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -4244,7 +4258,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -4259,9 +4273,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Prunus virginiana L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30003056-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "ノースカロライナ州立大学の種全体の解説を確認。掲載写真の個別品種の葉色を種全体の特徴にはしていない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "ノースカロライナ州立大学の種全体の解説を確認。掲載写真の個別品種の葉色を種全体の特徴にはしていない。"
   },
   {
     "id": "rare_fruit_0065",
@@ -4349,11 +4366,11 @@
     "reference_taxon_id": 57824,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "北アメリカ、およびヨーロッパからコーカサス北部に自然分布。",
+    "habitat": "主に温帯の生育帯に生育（Kewの種全体の記載）。日本での具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、複葉と枝。",
     "trivia": "採用分類ではガマズミ科のニワトコ属に属する。学名はSambucus racemosa。",
@@ -4372,7 +4389,7 @@
       "https://www.inaturalist.org/taxa/57824",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30056767-2"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -4382,7 +4399,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -4397,9 +4414,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Sambucus racemosa L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30056767-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "種全体のKewの生活型・分布・生育帯を確認。北米の亜種 pubens のみの記載を種全体には転用していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "種全体のKewの生活型・分布・生育帯を確認。北米の亜種 pubens のみの記載を種全体には転用していない。"
   },
   {
     "id": "rare_fruit_0068",
@@ -4859,13 +4879,13 @@
     "reference_taxon_id": 1449401,
     "taxon_rank": "hybrid",
     "entity_type": "交雑種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年生の木本（長い枝を伸ばす低木状）",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "園芸で栽培されるラズベリーとブラックベリーの交雑系。野生の自然分布は要確認。",
+    "habitat": "日当たりがよく、肥沃で水はけのよい場所で栽培。長い枝は支柱や棚で支える。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、鋸歯のある複葉。",
+    "feature_summary": "枝が長く伸び、暗い赤褐色の集合果をつける。とげなし系統でも有刺の枝が出る場合がある。",
     "trivia": "採用分類ではバラ科のRubus属に属する。学名はRubus ursinus × idaeus。",
     "classification": {
       "kingdom": "植物界",
@@ -4879,9 +4899,11 @@
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%A4%E3%82%BB%E3%83%B3%E3%83%99%E3%83%AA%E3%83%BC",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%A4%E3%82%BB%E3%83%B3%E3%83%99%E3%83%AA%E3%83%BC",
-      "https://www.inaturalist.org/taxa/1449401"
+      "https://www.inaturalist.org/taxa/1449401",
+      "https://extension.oregonstate.edu/es/catalog/ec-1303-growing-blackberries-your-home-garden",
+      "https://postharvest.ucdavis.edu/publication/cell-wall-disassembly-events-boysenberry-rubus-idaeus-l-x-rubus-ursinus-cham-schldl"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Liadan Dickie, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -4891,7 +4913,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -4904,9 +4926,12 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [],
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "大学のボイセンベリーの記載と交配表記を照合。栽培環境は同資料が明示的にボイセンベリーを含める栽培群の共通条件。個別クローンの性質を全株に断定しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "大学のボイセンベリーの記載と交配表記を照合。栽培環境は同資料が明示的にボイセンベリーを含める栽培群の共通条件。個別クローンの性質を全株に断定しない。"
   },
   {
     "id": "rare_fruit_0076",
@@ -7054,11 +7079,11 @@
     "reference_taxon_id": 122958,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "高木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "コロンビアからチリ北部に自然分布。",
+    "habitat": "主に季節的に乾燥する熱帯の生育帯に生育。コロンビアではアンデスの標高1,500〜3,000mの記録がある。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、丸い褐色の果実。",
     "trivia": "採用分類ではSapotaceae科のPouteria属に属する。学名はPouteria lucuma。",
@@ -7074,9 +7099,10 @@
     "plant_source_url": "https://en.wikipedia.org/wiki/Pouteria_lucuma",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Pouteria_lucuma",
-      "https://www.inaturalist.org/taxa/122958"
+      "https://www.inaturalist.org/taxa/122958",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A787229-1/general-information"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Bharat Godambe, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -7086,7 +7112,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -7099,9 +7125,12 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [],
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "Kewが採用学名 Pouteria lucuma を Lucuma bifera の異名として明示する資料で基本情報を確認。属名の更新だけで別植物として扱わない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "Kewが採用学名 Pouteria lucuma を Lucuma bifera の異名として明示する資料で基本情報を確認。属名の更新だけで別植物として扱わない。"
   },
   {
     "id": "rare_fruit_0110",
@@ -7118,13 +7147,13 @@
     "reference_taxon_id": 48876,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "高木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "西インド諸島・中央アメリカ原産。カリブ地域、南アメリカ北部、オーストラリア、東南アジアやアフリカの一部にも導入されている。",
+    "habitat": "暖かい低地の熱帯環境に適する。日当たりがよく、肥沃で水はけのよい場所で栽培。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、大きく茂る樹冠。",
+    "feature_summary": "葉の表面は光沢のある緑色で、裏面は黄金褐色。果実を横に切ると、種子の部屋が星形に並ぶ。",
     "trivia": "採用分類ではSapotaceae科のChrysophyllum属に属する。学名はChrysophyllum cainito。",
     "classification": {
       "kingdom": "植物界",
@@ -7139,9 +7168,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Chrysophyllum_cainito",
       "https://www.inaturalist.org/taxa/48876",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A304384-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A304384-2",
+      "https://edis.ifas.ufl.edu/publication/HS309/pdf"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Yu-Huang Wang, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -7151,7 +7181,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -7166,9 +7196,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Chrysophyllum cainito L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A304384-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "フロリダ大学の同学名の資料で原産地・導入先・樹木の性質・栽培環境を区別して確認。フロリダの開花月を日本の時期には転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "フロリダ大学の同学名の資料で原産地・導入先・樹木の性質・栽培環境を区別して確認。フロリダの開花月を日本の時期には転用しない。"
   },
   {
     "id": "rare_fruit_0111",
@@ -7185,13 +7218,13 @@
     "reference_taxon_id": 126850,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年生の低木状植物（茎は成長すると木質化する）",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：コスタリカからベネズエラ・ペルー、ガラパゴス諸島。",
-    "habitat": "主に季節的に乾燥する熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+    "distribution": "コロンビア・エクアドル・ペルーなどのアンデス地域に分布。自然分布の詳しい全範囲は要確認。",
+    "habitat": "アンデスの亜熱帯の林の下層に生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、枝から下がる毛のある果実。",
+    "feature_summary": "大きな葉に細かな毛があり、果実は熟すと鮮やかな橙色になる。とげの量は品種によって異なる。",
     "trivia": "主な生育帯は季節的に乾燥する熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
     "classification": {
       "kingdom": "植物界",
@@ -7206,9 +7239,11 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Solanum",
       "https://www.inaturalist.org/taxa/126850",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A820696-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A820696-1",
+      "https://as.vanderbilt.edu/clacx/garden/plant-database/solanum-quitoense/",
+      "https://experts.umn.edu/en/publications/characterization-of-a-new-tymovirus-causing-stunting-and-chloroti"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Luis G Restrepo, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -7218,7 +7253,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -7233,8 +7268,8 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Solanum quitoense Lam. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A820696-1",
-    "content_basic_ecology_verified": false,
-    "content_followup_review_status": "確認できた項目を補完・残りは要確認",
+    "content_basic_ecology_verified": true,
+    "content_followup_review_status": "基本情報の出典確認済み",
     "ecology_source_details": {
       "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A820696-1",
       "life_form_original": "",
@@ -7242,7 +7277,9 @@
       "biome_original": "seasonally dry tropical"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "大学の同学名の記載で生活型とアンデスの生育環境を確認。Kewとの原産地範囲の違いがあるため、自然分布の全範囲は確定していない。",
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "大学の同学名の記載で生活型とアンデスの生育環境を確認。Kewとの原産地範囲の違いがあるため、自然分布の全範囲は確定していない。"
   },
   {
     "id": "rare_fruit_0112",
@@ -7336,8 +7373,8 @@
     "life_form": "生活型は要確認",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "要確認（ロンコンと登録学名の対応を再照合中）。",
+    "habitat": "要確認（対象とする植物の確認後に記載）。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、厚みのある光沢の葉。",
     "trivia": "採用分類ではMeliaceae科のLansium属に属する。学名はLansium parasiticum。",
@@ -7349,13 +7386,16 @@
       "genus": "Lansium属",
       "species": "Lansium parasiticum"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n追加調査：ロンコンの和名と登録学名の対応は要確認。Kewは Lansium parasiticum を Epicharis parasitica の異名として扱い、果樹として知られる Lansium domesticum を別種として扱う。既存の分類・画像の採用対象を再照合する必要がある。",
     "plant_source_url": "https://www.inaturalist.org/taxa/552950",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/552950",
-      "https://powo.science.kew.org/taxon/578885-1"
+      "https://powo.science.kew.org/taxon/578885-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A578885-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77222489-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A578879-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "unresolved_taxon_scope",
     "image": {
       "author": "(c) Vreni Gem O. Caasi, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -7380,9 +7420,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Lansium parasiticum (Osbeck) K.C.Sahni & Bennet | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/578885-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "分類範囲の再照合が必要",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "ロンコンの和名と登録学名の対応は要確認。Kewは Lansium parasiticum を Epicharis parasitica の異名として扱い、果樹として知られる Lansium domesticum を別種として扱う。既存の分類・画像の採用対象を再照合する必要がある。",
+    "content_basic_ecology_verified": false,
+    "remaining105_review_status": "要確認",
+    "remaining105_review_note": "ロンコンの和名と登録学名の対応は要確認。Kewは Lansium parasiticum を Epicharis parasitica の異名として扱い、果樹として知られる Lansium domesticum を別種として扱う。既存の分類・画像の採用対象を再照合する必要がある。"
   },
   {
     "id": "rare_fruit_0114",

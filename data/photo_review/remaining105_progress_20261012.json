@@ -1,52 +1,11 @@
 {
   "initial": 105,
-  "updated": 60,
-  "remaining": 45,
+  "updated": 101,
+  "remaining": 4,
   "remaining_ids": [
-    "sansai_0116",
-    "sansai_0119",
-    "sansai_0131",
     "sansai_0153",
-    "sansai_0154",
-    "sansai_0156",
-    "sansai_0160",
-    "sansai_0168",
-    "sansai_0171",
-    "sansai_0172",
-    "sansai_0178",
-    "sansai_0179",
-    "sansai_0180",
-    "sansai_0191",
-    "sansai_0208",
-    "sansai_0222",
-    "yakuso_0019",
-    "yakuso_0126",
-    "yakuso_0127",
-    "yakuso_0133",
     "yakuso_0135",
-    "yakuso_0144",
-    "yakuso_0154",
-    "yakuso_0168",
-    "yakuso_0201",
-    "herb_0013",
-    "herb_0015",
-    "herb_0037",
     "herb_0043",
-    "herb_0112",
-    "herb_0113",
-    "herb_0127",
-    "herb_0147",
-    "herb_0197",
-    "herb_0235",
-    "rare_fruit_0023",
-    "rare_fruit_0040",
-    "rare_fruit_0061",
-    "rare_fruit_0063",
-    "rare_fruit_0067",
-    "rare_fruit_0075",
-    "rare_fruit_0109",
-    "rare_fruit_0110",
-    "rare_fruit_0111",
     "rare_fruit_0113"
   ],
   "items": [
@@ -870,7 +829,697 @@
         "https://plants.ces.ncsu.edu/plants/artemisia-vulgaris/"
       ],
       "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0116",
+      "name": "ヒメウワバミソウ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/nettle/elatostema/jap.html"
+      ],
+      "scope_note": "北海道大学の同名・同学名の生活型と生育環境を確認。分布は資料が扱う国内範囲に限定し、日本固有との断定はしていない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0131",
+      "name": "ツリガネニンジン",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary",
+        "flowering_season"
+      ],
+      "sources": [
+        "https://www.u-toyama.plant-database.jp/plants/detail/08e2c98c97dc496de22a805566b47051"
+      ],
+      "scope_note": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "yakuso_0168",
+      "name": "ツリガネニンジン",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary",
+        "flowering_season"
+      ],
+      "sources": [
+        "https://www.u-toyama.plant-database.jp/plants/detail/08e2c98c97dc496de22a805566b47051"
+      ],
+      "scope_note": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "yakuso_0127",
+      "name": "メハジキ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary",
+        "flowering_season"
+      ],
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003437.php"
+      ],
+      "scope_note": "熊本大学の同学名の植物解説から基本情報のみを確認。薬効・処方・食用の安全性は転用していない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "yakuso_0133",
+      "name": "イヌコウジュ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary",
+        "flowering_season"
+      ],
+      "sources": [
+        "https://toyamap.or.jp/shizen/search/%E3%82%A4%E3%83%8C%E3%82%B3%E3%82%A6%E3%82%B8%E3%83%A5/"
+      ],
+      "scope_note": "自然博物園の採用学名 Mosla scabra の観察・解説を確認。別学名を用いる資料からは情報を借用していない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "yakuso_0019",
+      "name": "イチヤクソウ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/wintergreen/pyrola/jap.html"
+      ],
+      "scope_note": "北海道大学の同学名の基本情報を確認。近縁種の説明は転用していない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "yakuso_0201",
+      "name": "ミヤマキケマン",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/53759.pdf#page=199"
+      ],
+      "scope_note": "山口県の資料のミヤマキケマン（var. tenuis）本文を確認。近畿以東だけでなく中国地方の記録も反映。古いレッドリストのランクは追加していない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0180",
+      "name": "コウゾリナ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/aster/picris/hie.html"
+      ],
+      "scope_note": "北海道大学は Picris hieracioides subsp. japonica として扱い、採用学名 P. japonica を基礎異名に挙げる。同じ分類群の基本情報として照合。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0222",
+      "name": "トネアザミ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary",
+        "flowering_season"
+      ],
+      "sources": [
+        "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/toneazami.html"
+      ],
+      "scope_note": "森林総合研究所の採用学名と一致する変種の解説を確認。詳しい分布境界まで確定したものではない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "rare_fruit_0063",
+      "name": "チョークチェリー",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/prunus-virginiana/common-name/choke-cherry/"
+      ],
+      "scope_note": "ノースカロライナ州立大学の種全体の解説を確認。掲載写真の個別品種の葉色を種全体の特徴にはしていない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "rare_fruit_0061",
+      "name": "クラブアップル",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://www.rhs.org.uk/plants/42329/malus-sylvestris/details"
+      ],
+      "scope_note": "採用学名 Malus sylvestris の解説を確認。クラブアップルという園芸上の広い呼称に含まれる他種・交雑品種の性質は転用しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "rare_fruit_0110",
+      "name": "スターアップル",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://edis.ifas.ufl.edu/publication/HS309/pdf"
+      ],
+      "scope_note": "フロリダ大学の同学名の資料で原産地・導入先・樹木の性質・栽培環境を区別して確認。フロリダの開花月を日本の時期には転用しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "herb_0147",
+      "name": "ミルクシスル",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A249211-1"
+      ],
+      "scope_note": "採用学名と一致するKewの掲載本文で生活型・自然分布・生育帯を確認。用途は転用しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "herb_0127",
+      "name": "ホワイトマスタード",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:288952-1/general-information"
+      ],
+      "scope_note": "採用学名と一致するKew本文を確認。別資料の花色や英国自生の説明に不整合があるため、それらの性質は追加していない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "herb_0235",
+      "name": "アルファルファ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30234961-2/images",
+        "https://www.rhs.org.uk/plants/83281/medicago-sativa/details"
+      ],
+      "scope_note": "種全体のKewの記載とRHSの具体的な栽培解説を照合。亜種 sativa の分布に種全体を置き換えない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "rare_fruit_0109",
+      "name": "ルクマ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A787229-1/general-information"
+      ],
+      "scope_note": "Kewが採用学名 Pouteria lucuma を Lucuma bifera の異名として明示する資料で基本情報を確認。属名の更新だけで別植物として扱わない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "rare_fruit_0111",
+      "name": "ナランジラ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://as.vanderbilt.edu/clacx/garden/plant-database/solanum-quitoense/",
+        "https://experts.umn.edu/en/publications/characterization-of-a-new-tymovirus-causing-stunting-and-chloroti"
+      ],
+      "scope_note": "大学の同学名の記載で生活型とアンデスの生育環境を確認。Kewとの原産地範囲の違いがあるため、自然分布の全範囲は確定していない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "herb_0112",
+      "name": "ダマスクローズ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://www.rhs.org.uk/plants/33926/rosa-%C3%97-damascena-d/details"
+      ],
+      "scope_note": "RHSのダマスクローズの解説を確認。野生の分布や日本での開花月は確定していない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "herb_0113",
+      "name": "ローズドメイ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/rosa-x-centifolia/",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A324763-2"
+      ],
+      "scope_note": "採用学名の交雑種を扱う大学とKew資料で確認。葉の常緑・落葉の扱いや開花期には資料・栽培地の差があるため断定していない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "rare_fruit_0067",
+      "name": "レッドエルダー",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30056767-2"
+      ],
+      "scope_note": "種全体のKewの生活型・分布・生育帯を確認。北米の亜種 pubens のみの記載を種全体には転用していない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "herb_0037",
+      "name": "アーティチョーク",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://www.rhs.org.uk/plants/56390/cynara-cardunculus-scolymus-group/details"
+      ],
+      "scope_note": "RHSでは亜種名の代わりに栽培群 Scolymus Group として扱うアーティチョークの基本情報を確認。カルドンや個別品種の性質は転用しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "rare_fruit_0075",
+      "name": "ボイセンベリー",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://extension.oregonstate.edu/es/catalog/ec-1303-growing-blackberries-your-home-garden",
+        "https://postharvest.ucdavis.edu/publication/cell-wall-disassembly-events-boysenberry-rubus-idaeus-l-x-rubus-ursinus-cham-schldl"
+      ],
+      "scope_note": "大学のボイセンベリーの記載と交配表記を照合。栽培環境は同資料が明示的にボイセンベリーを含める栽培群の共通条件。個別クローンの性質を全株に断定しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "rare_fruit_0023",
+      "name": "ウグイスカグラ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/caprifoliaceae/uguisukagura/uguisukagura.htm",
+        "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/honeysuckle/lonicera/gra.html"
+      ],
+      "scope_note": "変種 glabra の分布・生活型・形態は岡山理科大学で確認。日当たりと庭木利用は広義の種の説明として明記。毛のある別変種の分布は転用しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0119",
+      "name": "ヨブスマソウ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://www.botanic.jp/plants-ya/yobusu.htm"
+      ],
+      "scope_note": "採用学名 subsp. orientalis を用いた観察・解説資料を確認。別資料は Parasenecio robustus として扱うため、学名の扱いには差がある。説明は国内のヨブスマソウの範囲に限定。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0156",
+      "name": "ニガナ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary",
+        "flowering_season"
+      ],
+      "sources": [
+        "https://mikawanoyasou.org/data/nigana.htm",
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/compositae/nigana/nigana.htm"
+      ],
+      "scope_note": "採用亜種の観察資料と大学のニガナの解説を照合。花の数が多いハナニガナなどの説明は転用していない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0160",
+      "name": "エゾネギ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/lily/allium/veg.html",
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/monocotyledoneae/liliaceae/ezonegi/ezonegi.htm"
+      ],
+      "scope_note": "大学の基準変種 var. schoenoprasum の生活型・分布・生育環境を確認。別変種アサツキや高山性のシロウマアサツキの説明は転用しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0154",
+      "name": "ユウガギク",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://mikawanoyasou.org/data/yuugagiku.htm",
+        "https://www.si.gunma-u.ac.jp/t/ishikawa/bachlers2007/yoshioka/table20.html"
+      ],
+      "scope_note": "採用学名の観察資料と群馬大学の現地調査で多年草・山地の草原を照合。分布範囲が資料で異なるため、日本固有とは断定せず国外は要確認。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0172",
+      "name": "ヒメスミレ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://mikawanoyasou.org/data/himesumire.htm",
+        "https://www.kahaku.go.jp/research/db/botany/wild_p100/spring/11_sumire.html"
+      ],
+      "scope_note": "採用亜種の観察資料の国内分布・生活型・環境を確認。葉柄に翼がない点は国立科学博物館の近縁種との比較でも照合。広義の種のアジア全域の分布は転用しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0208",
+      "name": "ヤマニガナ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://mikawanoyasou.org/data/yamanigana.htm",
+        "https://tsukuba.repo.nii.ac.jp/record/22568/files/5.pdf"
+      ],
+      "scope_note": "採用変種の観察資料で基本情報を確認。筑波大学の植物相資料にも同学名で記録がある。資料によって Pterocypsela elata や広義の Lactuca raddeana として扱われる。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "herb_0197",
+      "name": "ローマンワームウッド",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://www.rhs.org.uk/plants/1641/artemisia-pontica/details"
+      ],
+      "scope_note": "RHSの採用学名の具体的な解説を確認。ヨモギ属全体の生活型や別種の用途は転用しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0191",
+      "name": "チチコグサ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/205302-1",
+        "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/chichikogusa.html"
+      ],
+      "scope_note": "Kewの採用学名の自然分布と森林総合研究所のチチコグサの解説を照合。後者は旧属名 Gnaphalium japonicum を用いる。外来のチチコグサモドキ類とは区別。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "herb_0015",
+      "name": "ゼラニウム",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/pelargonium-x-hybridum/",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A376335-1"
+      ],
+      "scope_note": "採用交雑種の大学・Kew資料を照合。交配親の原産地と交雑種の栽培を区別。一年草扱いの栽培でも生活型は多年草。香料向けセンテッドゼラニウムの説明は転用しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "rare_fruit_0040",
+      "name": "リンゴンベリー",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://gobotany.nativeplanttrust.org/species/vaccinium/vitis-idaea/?key=dichotomous"
+      ],
+      "scope_note": "Native Plant Trustの地域植物誌が扱う亜種は採用学名と同じ subsp. minus と明示されている。地域の生育記録を世界全域の分布・環境には拡張しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "yakuso_0154",
+      "name": "ツルドクダミ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A695253-1",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003401.php"
+      ],
+      "scope_note": "Kewは採用学名 Reynoutria multiflora と大学資料の Fallopia multiflora をともに Pleuropterus multiflorus の異名に挙げる。同じ植物の基本情報のみを確認し、薬効や食用は転用しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "yakuso_0144",
+      "name": "ベニバナイチヤクソウ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/wintergreen/pyrola/inc.html",
+        "https://www.pref.kyoto.jp/kankyo/rdb/bio/db/flo0583.html"
+      ],
+      "scope_note": "大学の Pyrola incarnata の解説が採用亜種名を同物異名に挙げ、京都府の資料でも対応を確認。北米を含む分布の扱いには種群の差があるため北米の詳細は追加しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0179",
+      "name": "ゴマナ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/aster/aster/gle.html",
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/compositae/gomana/gomana.htm"
+      ],
+      "scope_note": "登録は種レベルの学名なので種全体の分布と国内の変種の環境を分けて記載。写真がどの変種かを確定したものではない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "herb_0013",
+      "name": "ホップ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006377",
+        "https://www.ars.usda.gov/pacific-west-area/corvallis-or/national-clonal-germplasm-repository/docs/ncgr-corvallis-humulus-germplasm/",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A303502-2"
+      ],
+      "scope_note": "変種 lupulus の分布は Flora of China が明示する範囲で確認。生活型と地下茎はUSDAの種の記載、生育帯はKewの種の記載。日本の変種 cordifolius や北米の変種の分布は転用しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0178",
+      "name": "ヤマシロギク",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://mikawanoyasou.org/data/inakagiku.htm",
+        "https://www.jstage.jst.go.jp/browse/bunruichiri/44/1/_contents/-char/ja"
+      ],
+      "scope_note": "採用学名 Aster semiamplexicaulis の観察資料と分類研究を確認。同じ別名ヤマシロギクで呼ばれるシロヨメナとは区別し、イナカギクを扱う。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0168",
+      "name": "ヤエムグラ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/rubiaceae/yaemugura/yaemugura.htm",
+        "https://mikawanoyasou.org/data/yaemugura.htm"
+      ],
+      "scope_note": "大学のヤエムグラの基本情報と観察資料を照合。変種名 echinospermon / echinospermum や亜種の扱いが資料で異なる。三河資料の掲載写真自体には別種の可能性が注記されているため、花の色・果実サイズや厳密な同定には転用しない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "yakuso_0126",
+      "name": "ヤマヨモギ（セージブラッシュ）",
+      "fields": [
+        "display_name",
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary"
+      ],
+      "sources": [
+        "https://www.botanic.jp/plants-ya/yayomo.htm",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004558.php"
+      ],
+      "scope_note": "登録学名の植物と国内の同名別種を区別し、表示名にセージブラッシュを付記。後者の分布・生活型・薬用の説明を前者へ転用しない。写真の再同定を実施したという意味ではない。",
+      "source_type": "reviewed_botanical_sources"
+    },
+    {
+      "id": "sansai_0171",
+      "name": "ツボスミレ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat",
+        "feature_summary",
+        "flowering_season"
+      ],
+      "sources": [
+        "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/tsubosumire.html",
+        "https://efloras.org/florataxon.aspx?flora_id=2&taxon_id=242354516",
+        "https://tbg.kahaku.go.jp/recommend/illustrated/result.php?mode=easy&name=%E3%83%84%E3%83%9C%E3%82%B9%E3%83%9F%E3%83%AC%EF%BC%88%E3%83%8B%E3%83%A7%E3%82%A4%E3%82%B9%E3%83%9F%E3%83%AC%EF%BC%89&order=ruby&p=4&season=4a"
+      ],
+      "scope_note": "Flora of Chinaは採用学名 Viola arcuata に V. verecunda を同物異名として挙げる。国内のツボスミレの生活型・生育環境は森林総合研究所、国内分布は筑波実験植物園で照合。広義の V. arcuata 全域の分布を確定したものではない。",
+      "source_type": "reviewed_botanical_sources"
     }
   ],
-  "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\resolve105_b02_20261012_204246"
+  "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\resolve105_b07_20261012_224850",
+  "limited_review_items": [
+    {
+      "id": "sansai_0153",
+      "reason": "シロヨメナの和名と登録学名 Aster ageratoides var. ageratoides の対応は要確認。分類研究では Aster leiophyllus var. leiophyllus とされる資料があり、登録した変種の説明をそのまま当てはめられない。",
+      "fields": {
+        "distribution": "要確認（和名と学名の分類範囲を再照合中）。",
+        "habitat": "要確認（対象とする分類群の確認後に記載）。"
+      },
+      "source_urls": [
+        "https://www.jstage.jst.go.jp/browse/bunruichiri/44/1/_contents/-char/ja",
+        "https://tsukuba.repo.nii.ac.jp/record/22568/files/5.pdf",
+        "https://mikawanoyasou.org/data/siroyomena.htm"
+      ]
+    },
+    {
+      "id": "yakuso_0135",
+      "reason": "登録は Isodon japonicus var. japonicus。大学の解説は種 Isodon japonicus の範囲であり、基準変種に限定した分布等の照合が未完了。種としての基本情報は参考として確認できた。",
+      "fields": {
+        "life_form": "多年草（種 Isodon japonicus の資料による。変種に限定した確認は未完了）。",
+        "distribution": "種としては北海道南部から九州・朝鮮半島に分布とされる。登録変種に限定した分布は要確認。",
+        "habitat": "種の資料では、やや乾いた山地に生育。登録変種に限定した確認は未完了。"
+      },
+      "source_urls": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003549.php"
+      ]
+    },
+    {
+      "id": "herb_0043",
+      "reason": "カシアの学名対応は要確認。Flora of Chinaでは Cinnamomum cassia の説明に C. aromaticum を含める一方、Kewは C. cassia (L.) J.Presl を Neolitsea cassia の異名として扱う。学名の著者と採用対象を再照合する必要がある。",
+      "fields": {
+        "distribution": "要確認（香辛料のカシアと登録学名の対応を再照合中）。",
+        "habitat": "要確認（対象とする植物の確認後に記載）。"
+      },
+      "source_urls": [
+        "https://efloras.org/florataxon.aspx?flora_id=3&taxon_id=200008698",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77109079-1",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A463288-1"
+      ]
+    },
+    {
+      "id": "rare_fruit_0113",
+      "reason": "ロンコンの和名と登録学名の対応は要確認。Kewは Lansium parasiticum を Epicharis parasitica の異名として扱い、果樹として知られる Lansium domesticum を別種として扱う。既存の分類・画像の採用対象を再照合する必要がある。",
+      "fields": {
+        "distribution": "要確認（ロンコンと登録学名の対応を再照合中）。",
+        "habitat": "要確認（対象とする植物の確認後に記載）。"
+      },
+      "source_urls": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A578885-1",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77222489-1",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A578879-1"
+      ]
+    }
+  ],
+  "reviewed_total": 105
 }

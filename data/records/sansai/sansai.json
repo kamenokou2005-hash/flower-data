@@ -8083,11 +8083,11 @@
     "reference_taxon_id": 896450,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "日本の関東地方以南に分布（北海道大学の資料による）。国外の分布範囲は要確認。",
+    "habitat": "湿った林内や林縁に生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、鋸歯の強い葉。",
     "trivia": "採用分類ではイラクサ科のElatostema属に属する。学名はElatostema japonicum。",
@@ -8104,9 +8104,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Elatostema",
       "https://www.inaturalist.org/taxa/896450",
-      "https://powo.science.kew.org/taxon/851944-1"
+      "https://powo.science.kew.org/taxon/851944-1",
+      "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/nettle/elatostema/jap.html"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) W Rao, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -8116,7 +8117,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -8132,9 +8133,12 @@
     "food_use_status": "第1群確認済み",
     "content_followup_source_title": "Elatostema japonicum Wedd. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/851944-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "北海道大学の同名・同学名の生活型と生育環境を確認。分布は資料が扱う国内範囲に限定し、日本固有との断定はしていない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "北海道大学の同名・同学名の生活型と生育環境を確認。分布は資料が扱う国内範囲に限定し、日本固有との断定はしていない。"
   },
   {
     "id": "sansai_0117",
@@ -8301,13 +8305,13 @@
     "reference_taxon_id": 551514,
     "taxon_rank": "subspecies",
     "entity_type": "亜種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "本州の関東地方以北から北海道に分布（国内の記載）。国外の分布は要確認。",
+    "habitat": "山地の、やや湿った林内に生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、大きな裂けた葉。",
+    "feature_summary": "大きな三角状の葉と、広い翼のある葉柄が特徴。茎の先に小さな筒状花の集まりをつける。",
     "trivia": "採用分類ではキク科のParasenecio属に属する。学名はParasenecio hastatus subsp. orientalis。",
     "classification": {
       "kingdom": "植物界",
@@ -8321,9 +8325,10 @@
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%96%E3%82%B9%E3%83%9E%E3%82%BD%E3%82%A6",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%96%E3%82%B9%E3%83%9E%E3%82%BD%E3%82%A6",
-      "https://www.inaturalist.org/taxa/551514"
+      "https://www.inaturalist.org/taxa/551514",
+      "https://www.botanic.jp/plants-ya/yobusu.htm"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Илья Руденко, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -8333,7 +8338,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -8347,9 +8352,12 @@
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [],
     "food_use_status": "第1群確認済み",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名 subsp. orientalis を用いた観察・解説資料を確認。別資料は Parasenecio robustus として扱うため、学名の扱いには差がある。説明は国内のヨブスマソウの範囲に限定。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名 subsp. orientalis を用いた観察・解説資料を確認。別資料は Parasenecio robustus として扱うため、学名の扱いには差がある。説明は国内のヨブスマソウの範囲に限定。"
   },
   {
     "id": "sansai_0120",
@@ -9167,13 +9175,13 @@
     "reference_taxon_id": 980664,
     "taxon_rank": "variety",
     "entity_type": "変種",
-    "life_form": "生活型は要確認",
-    "flowering_season": "要確認",
+    "life_form": "多年草",
+    "flowering_season": "初秋頃（地域や気候によって前後する）。",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "国内では北海道から九州に分布。国外の分布範囲は要確認。",
+    "habitat": "山野や山地の草原など、日当たりのよい場所に生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、輪生する細長い葉と垂れた花。",
+    "feature_summary": "淡い紫色の釣鐘形の花を、茎の上部につける。",
     "trivia": "採用分類ではCampanulaceae科のAdenophora属に属する。学名はAdenophora triphylla var. japonica。",
     "classification": {
       "kingdom": "植物界",
@@ -9188,9 +9196,10 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AA%E3%82%AC%E3%83%8D%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%B3",
       "https://www.inaturalist.org/taxa/980664",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A360541-4"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A360541-4",
+      "https://www.u-toyama.plant-database.jp/plants/detail/08e2c98c97dc496de22a805566b47051"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Timur Kalininsky, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -9200,7 +9209,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -9216,9 +9225,12 @@
     "food_use_status": "第1群確認済み",
     "content_followup_source_title": "Adenophora triphylla var. japonica (Regel) H.Hara | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A360541-4",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。"
   },
   {
     "id": "sansai_0132",
@@ -10795,8 +10807,8 @@
     "life_form": "生活型は要確認",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：シッキムから温帯の 東部 アジア。",
-    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+    "distribution": "要確認（和名と学名の分類範囲を再照合中）。",
+    "habitat": "要確認（対象とする分類群の確認後に記載）。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、地面近くの幅広い葉。",
     "trivia": "主な生育帯は温帯です。自然分布と日本での栽培・観察場所は別に扱います。",
@@ -10808,13 +10820,16 @@
       "genus": "Aster属",
       "species": "Aster ageratoides var. ageratoides"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n追加調査：シロヨメナの和名と登録学名 Aster ageratoides var. ageratoides の対応は要確認。分類研究では Aster leiophyllus var. leiophyllus とされる資料があり、登録した変種の説明をそのまま当てはめられない。",
     "plant_source_url": "https://www.inaturalist.org/taxa/511158",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/511158",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77232739-1/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77232739-1/general-information",
+      "https://www.jstage.jst.go.jp/browse/bunruichiri/44/1/_contents/-char/ja",
+      "https://tsukuba.repo.nii.ac.jp/record/22568/files/5.pdf",
+      "https://mikawanoyasou.org/data/siroyomena.htm"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "unresolved_taxon_scope",
     "image": {
       "author": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -10841,7 +10856,7 @@
     "content_followup_source_title": "Aster ageratoides var. ageratoides | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77232739-1/general-information",
     "content_basic_ecology_verified": false,
-    "content_followup_review_status": "確認できた項目を補完・残りは要確認",
+    "content_followup_review_status": "分類範囲の再照合が必要",
     "ecology_source_details": {
       "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77232739-1/general-information",
       "life_form_original": "",
@@ -10849,7 +10864,9 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "シロヨメナの和名と登録学名 Aster ageratoides var. ageratoides の対応は要確認。分類研究では Aster leiophyllus var. leiophyllus とされる資料があり、登録した変種の説明をそのまま当てはめられない。",
+    "remaining105_review_status": "要確認",
+    "remaining105_review_note": "シロヨメナの和名と登録学名 Aster ageratoides var. ageratoides の対応は要確認。分類研究では Aster leiophyllus var. leiophyllus とされる資料があり、登録した変種の説明をそのまま当てはめられない。"
   },
   {
     "id": "sansai_0154",
@@ -10866,13 +10883,13 @@
     "reference_taxon_id": 1600581,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：朝鮮半島、日本 (本州)。",
-    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+    "distribution": "本州の近畿地方以北に分布（国内の野生株の記載）。国外の分布範囲は要確認。",
+    "habitat": "山地の草地や道端などに生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、淡色の舌状花が群れて咲く。",
+    "feature_summary": "地下茎を長く伸ばす。葉には切れ込みがあり、白色〜淡紫色の頭花をつける。",
     "trivia": "主な生育帯は温帯です。自然分布と日本での栽培・観察場所は別に扱います。",
     "classification": {
       "kingdom": "植物界",
@@ -10887,9 +10904,11 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Aster_iinumae",
       "https://www.inaturalist.org/taxa/1600581",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A181460-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A181460-1",
+      "https://mikawanoyasou.org/data/yuugagiku.htm",
+      "https://www.si.gunma-u.ac.jp/t/ishikawa/bachlers2007/yoshioka/table20.html"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Jiro Iguchi, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -10899,7 +10918,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -10915,8 +10934,8 @@
     "food_use_status": "第1群確認済み",
     "content_followup_source_title": "Aster iinumae Kitam. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A181460-1",
-    "content_basic_ecology_verified": false,
-    "content_followup_review_status": "確認できた項目を補完・残りは要確認",
+    "content_basic_ecology_verified": true,
+    "content_followup_review_status": "基本情報の出典確認済み",
     "ecology_source_details": {
       "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A181460-1",
       "life_form_original": "",
@@ -10924,7 +10943,9 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名の観察資料と群馬大学の現地調査で多年草・山地の草原を照合。分布範囲が資料で異なるため、日本固有とは断定せず国外は要確認。",
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名の観察資料と群馬大学の現地調査で多年草・山地の草原を照合。分布範囲が資料で異なるため、日本固有とは断定せず国外は要確認。"
   },
   {
     "id": "sansai_0155",
@@ -11016,13 +11037,13 @@
     "reference_taxon_id": 1036489,
     "taxon_rank": "subspecies",
     "entity_type": "亜種",
-    "life_form": "生活型は要確認",
-    "flowering_season": "要確認",
+    "life_form": "多年草",
+    "flowering_season": "5〜7月（地域や気候によって前後する）。",
     "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：中国からベトナム、朝鮮半島から南部 千島列島・日本。",
-    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+    "distribution": "日本・朝鮮半島・中国・ロシアに分布。",
+    "habitat": "日当たりのよい草地や道端などに生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、細い黄色の舌状花。",
+    "feature_summary": "細い茎が分枝し、少数の黄色い舌状花からなる小さな頭花をつける。茎の葉の付け根は茎を抱く。",
     "trivia": "主な生育帯は温帯です。自然分布と日本での栽培・観察場所は別に扱います。",
     "classification": {
       "kingdom": "植物界",
@@ -11037,9 +11058,11 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AC%E3%83%8A",
       "https://www.inaturalist.org/taxa/1036489",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77180432-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77180432-1",
+      "https://mikawanoyasou.org/data/nigana.htm",
+      "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/compositae/nigana/nigana.htm"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) WATANABE Hitoshi 渡辺仁, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -11049,7 +11072,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -11065,8 +11088,8 @@
     "food_use_status": "第1群確認済み",
     "content_followup_source_title": "Ixeridium dentatum subsp. dentatum | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77180432-1",
-    "content_basic_ecology_verified": false,
-    "content_followup_review_status": "確認できた項目を補完・残りは要確認",
+    "content_basic_ecology_verified": true,
+    "content_followup_review_status": "基本情報の出典確認済み",
     "ecology_source_details": {
       "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77180432-1",
       "life_form_original": "",
@@ -11074,7 +11097,9 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用亜種の観察資料と大学のニガナの解説を照合。花の数が多いハナニガナなどの説明は転用していない。",
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用亜種の観察資料と大学のニガナの解説を照合。花の数が多いハナニガナなどの説明は転用していない。"
   },
   {
     "id": "sansai_0157",
@@ -11313,11 +11338,11 @@
     "reference_taxon_id": 82898,
     "taxon_rank": "variety",
     "entity_type": "変種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "国内では北海道・本州北部。国外ではシベリア・ヨーロッパなどに分布。",
+    "habitat": "日当たりがよく適度に湿った草地や、湿原の周辺などに生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、細長い葉の株。",
     "trivia": "採用分類ではヒガンバナ科のネギ属に属する。学名はAllium schoenoprasum var. schoenoprasum。",
@@ -11333,9 +11358,11 @@
     "plant_source_url": "https://en.wikipedia.org/wiki/Allium",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Allium",
-      "https://www.inaturalist.org/taxa/82898"
+      "https://www.inaturalist.org/taxa/82898",
+      "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/lily/allium/veg.html",
+      "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/monocotyledoneae/liliaceae/ezonegi/ezonegi.htm"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -11345,7 +11372,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -11359,9 +11386,12 @@
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [],
     "food_use_status": "確認済み",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "大学の基準変種 var. schoenoprasum の生活型・分布・生育環境を確認。別変種アサツキや高山性のシロウマアサツキの説明は転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "大学の基準変種 var. schoenoprasum の生活型・分布・生育環境を確認。別変種アサツキや高山性のシロウマアサツキの説明は転用しない。"
   },
   {
     "id": "sansai_0161",
@@ -11887,13 +11917,13 @@
     "reference_taxon_id": 701763,
     "taxon_rank": "variety",
     "entity_type": "変種",
-    "life_form": "生活型は要確認",
+    "life_form": "一年草〜越年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "日本各地、東アジア・ヨーロッパ・アフリカなどに分布（岡山理科大学のヤエムグラの記載）。",
+    "habitat": "道端、林と畑の境目、畑など、適度な水分と養分がある場所に生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、細い茎に小さな葉が並ぶ。",
+    "feature_summary": "葉状の部分が一か所に6〜8枚並ぶ。茎の逆向きの小さなとげで、周囲の植物に寄りかかって伸びる。",
     "trivia": "採用分類ではアカネ科のヤエムグラ属に属する。学名はGalium spurium var. echinospermum。",
     "classification": {
       "kingdom": "植物界",
@@ -11907,9 +11937,10 @@
     "plant_source_url": "https://mikawanoyasou.org/data/yaemugura.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/yaemugura.htm",
-      "https://www.inaturalist.org/taxa/701763"
+      "https://www.inaturalist.org/taxa/701763",
+      "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/rubiaceae/yaemugura/yaemugura.htm"
     ],
-    "content_source_scope": "existing_curated_record",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Алёна Осипова, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -11919,7 +11950,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -11933,9 +11964,12 @@
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [],
     "food_use_status": "第2群確認済み",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "大学のヤエムグラの基本情報と観察資料を照合。変種名 echinospermon / echinospermum や亜種の扱いが資料で異なる。三河資料の掲載写真自体には別種の可能性が注記されているため、花の色・果実サイズや厳密な同定には転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "大学のヤエムグラの基本情報と観察資料を照合。変種名 echinospermon / echinospermum や亜種の扱いが資料で異なる。三河資料の掲載写真自体には別種の可能性が注記されているため、花の色・果実サイズや厳密な同定には転用しない。"
   },
   {
     "id": "sansai_0169",
@@ -12102,13 +12136,13 @@
     "reference_taxon_id": 496520,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
-    "flowering_season": "要確認",
+    "life_form": "多年草",
+    "flowering_season": "4〜6月（国内資料。地域や気候によって前後する）。",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "国内では北海道・本州・四国・九州に分布。南千島・サハリン・朝鮮半島・中国などにも分布（日本でツボスミレとされる分類群の記載）。",
+    "habitat": "湿った場所に生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、小さな白紫色の花。",
+    "feature_summary": "伸びる茎に小型の葉を多数つけ、小さな白い花を咲かせる。季節が進むと開かずに結実する閉鎖花もつける。",
     "trivia": "採用分類ではスミレ科のスミレ属に属する。学名はViola arcuata。",
     "classification": {
       "kingdom": "植物界",
@@ -12123,9 +12157,12 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%9C%E3%82%B9%E3%83%9F%E3%83%AC",
       "https://www.inaturalist.org/taxa/496520",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A867651-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A867651-1",
+      "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/tsubosumire.html",
+      "https://efloras.org/florataxon.aspx?flora_id=2&taxon_id=242354516",
+      "https://tbg.kahaku.go.jp/recommend/illustrated/result.php?mode=easy&name=%E3%83%84%E3%83%9C%E3%82%B9%E3%83%9F%E3%83%AC%EF%BC%88%E3%83%8B%E3%83%A7%E3%82%A4%E3%82%B9%E3%83%9F%E3%83%AC%EF%BC%89&order=ruby&p=4&season=4a"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) 大澤風季 ohsawa_Fuki, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -12135,7 +12172,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -12151,9 +12188,12 @@
     "food_use_status": "第2群確認済み",
     "content_followup_source_title": "Viola arcuata Blume | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A867651-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "Flora of Chinaは採用学名 Viola arcuata に V. verecunda を同物異名として挙げる。国内のツボスミレの生活型・生育環境は森林総合研究所、国内分布は筑波実験植物園で照合。広義の V. arcuata 全域の分布を確定したものではない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "Flora of Chinaは採用学名 Viola arcuata に V. verecunda を同物異名として挙げる。国内のツボスミレの生活型・生育環境は森林総合研究所、国内分布は筑波実験植物園で照合。広義の V. arcuata 全域の分布を確定したものではない。"
   },
   {
     "id": "sansai_0172",
@@ -12170,13 +12210,13 @@
     "reference_taxon_id": 448247,
     "taxon_rank": "subspecies",
     "entity_type": "亜種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "本州・四国・九州・台湾に分布。",
+    "habitat": "人家の周囲や道端などに生育。アスファルトのすき間のような乾いた場所にも生える。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、紫色の小花。",
+    "feature_summary": "小型のスミレで、葉柄には翼がない。葉の裏面が紫色を帯びることが多く、紫色の花をつける。",
     "trivia": "採用分類ではスミレ科のスミレ属に属する。学名はViola inconspicua subsp. nagasakiensis。",
     "classification": {
       "kingdom": "植物界",
@@ -12191,9 +12231,11 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%82%B9%E3%83%9F%E3%83%AC",
       "https://www.inaturalist.org/taxa/448247",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A966547-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A966547-1",
+      "https://mikawanoyasou.org/data/himesumire.htm",
+      "https://www.kahaku.go.jp/research/db/botany/wild_p100/spring/11_sumire.html"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) WATANABE Hitoshi 渡辺仁, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -12203,7 +12245,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -12219,9 +12261,12 @@
     "food_use_status": "第2群確認済み",
     "content_followup_source_title": "Viola inconspicua subsp. nagasakiensis (W.Becker) J.C.Wang & T.C.Huang | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A966547-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用亜種の観察資料の国内分布・生活型・環境を確認。葉柄に翼がない点は国立科学博物館の近縁種との比較でも照合。広義の種のアジア全域の分布は転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用亜種の観察資料の国内分布・生活型・環境を確認。葉柄に翼がない点は国立科学博物館の近縁種との比較でも照合。広義の種のアジア全域の分布は転用しない。"
   },
   {
     "id": "sansai_0173",
@@ -12610,13 +12655,13 @@
     "reference_taxon_id": 933678,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "本州の東海地方以西・四国・九州に分布。",
+    "habitat": "日当たりのよい山野や山地の道端に生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、白い舌状花と黄色い中心。",
+    "feature_summary": "茎や葉には白い軟毛がある。葉の付け根はやや茎を抱き、白い舌状花のある頭花をつける。",
     "trivia": "採用分類ではキク科のAster属に属する。学名はAster semiamplexicaulis。",
     "classification": {
       "kingdom": "植物界",
@@ -12629,9 +12674,11 @@
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
     "plant_source_url": "https://www.inaturalist.org/taxa/933678",
     "content_source_urls": [
-      "https://www.inaturalist.org/taxa/933678"
+      "https://www.inaturalist.org/taxa/933678",
+      "https://mikawanoyasou.org/data/inakagiku.htm",
+      "https://www.jstage.jst.go.jp/browse/bunruichiri/44/1/_contents/-char/ja"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) りなべる, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -12641,7 +12688,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -12655,9 +12702,12 @@
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [],
     "food_use_status": "第2群確認済み",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名 Aster semiamplexicaulis の観察資料と分類研究を確認。同じ別名ヤマシロギクで呼ばれるシロヨメナとは区別し、イナカギクを扱う。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名 Aster semiamplexicaulis の観察資料と分類研究を確認。同じ別名ヤマシロギクで呼ばれるシロヨメナとは区別し、イナカギクを扱う。"
   },
   {
     "id": "sansai_0179",
@@ -12674,13 +12724,13 @@
     "reference_taxon_id": 543750,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：南部 朝鮮半島、サハリンから日本 (北海道、本州)。",
-    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+    "distribution": "種 Aster glehnii としては日本・朝鮮半島・ロシア極東・サハリン・千島など温帯アジアに分布。国内でゴマナと呼ばれる変種 hondoensis は本州に分布。",
+    "habitat": "国内のゴマナ（変種 hondoensis）は、草地、道端、林縁や、湿った明るい渓流沿いなどに生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、鋸歯のある葉。",
+    "feature_summary": "地下茎から直立する茎を出し、白い小さな頭花を多数つける。種内にはゴマナやエゾゴマナなどの変種がある。",
     "trivia": "主な生育帯は温帯です。自然分布と日本での栽培・観察場所は別に扱います。",
     "classification": {
       "kingdom": "植物界",
@@ -12695,9 +12745,11 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Aster_glehnii",
       "https://www.inaturalist.org/taxa/543750",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A181315-1/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A181315-1/general-information",
+      "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/aster/aster/gle.html",
+      "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/compositae/gomana/gomana.htm"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) W Rao, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -12707,7 +12759,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -12723,8 +12775,8 @@
     "food_use_status": "第2群確認済み",
     "content_followup_source_title": "Aster glehnii F.Schmidt | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A181315-1/general-information",
-    "content_basic_ecology_verified": false,
-    "content_followup_review_status": "確認できた項目を補完・残りは要確認",
+    "content_basic_ecology_verified": true,
+    "content_followup_review_status": "基本情報の出典確認済み",
     "ecology_source_details": {
       "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A181315-1/general-information",
       "life_form_original": "",
@@ -12732,7 +12784,9 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "登録は種レベルの学名なので種全体の分布と国内の変種の環境を分けて記載。写真がどの変種かを確定したものではない。",
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "登録は種レベルの学名なので種全体の分布と国内の変種の環境を分けて記載。写真がどの変種かを確定したものではない。"
   },
   {
     "id": "sansai_0180",
@@ -12749,11 +12803,11 @@
     "reference_taxon_id": 1133827,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：Mongoliaから日本・ベトナム。",
-    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+    "distribution": "日本・朝鮮半島・中国・モンゴル・シベリア・サハリンなど温帯アジアに分布。",
+    "habitat": "草地や低木の茂る場所に生育。土地が攪乱された後に生えることも多い。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、黄色い頭花と裂けた葉。",
     "trivia": "主な生育帯は温帯です。自然分布と日本での栽培・観察場所は別に扱います。",
@@ -12770,9 +12824,10 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A6%E3%82%BE%E3%83%AA%E3%83%8A",
       "https://www.inaturalist.org/taxa/1133827",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A927426-1/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A927426-1/general-information",
+      "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/aster/picris/hie.html"
     ],
-    "content_source_scope": "existing_curated_record",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Tatyana Petrenko, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -12782,7 +12837,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -12798,8 +12853,8 @@
     "food_use_status": "第2群確認済み",
     "content_followup_source_title": "Picris japonica Thunb. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A927426-1/general-information",
-    "content_basic_ecology_verified": false,
-    "content_followup_review_status": "確認できた項目を補完・残りは要確認",
+    "content_basic_ecology_verified": true,
+    "content_followup_review_status": "基本情報の出典確認済み",
     "ecology_source_details": {
       "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A927426-1/general-information",
       "life_form_original": "",
@@ -12807,7 +12862,9 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "北海道大学は Picris hieracioides subsp. japonica として扱い、採用学名 P. japonica を基礎異名に挙げる。同じ分類群の基本情報として照合。",
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "北海道大学は Picris hieracioides subsp. japonica として扱い、採用学名 P. japonica を基礎異名に挙げる。同じ分類群の基本情報として照合。"
   },
   {
     "id": "sansai_0181",
@@ -13561,13 +13618,13 @@
     "reference_taxon_id": 162769,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：熱帯の・亜熱帯アジアからニューカレドニア。",
-    "habitat": "主に亜熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+    "distribution": "自然分布は熱帯・亜熱帯アジアからニューカレドニア（Kewの記載）。日本にも分布する。",
+    "habitat": "道端や荒れ地など、明るい場所に生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、地面近くに広がる葉。",
+    "feature_summary": "ほふくする枝で広がる。細い根元の葉は裏側に白い綿毛が多く、表側は緑色に見える。",
     "trivia": "主な生育帯は亜熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
     "classification": {
       "kingdom": "植物界",
@@ -13582,9 +13639,10 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%81%E3%82%B3%E3%82%B0%E3%82%B5",
       "https://www.inaturalist.org/taxa/162769",
-      "https://powo.science.kew.org/taxon/205302-1"
+      "https://powo.science.kew.org/taxon/205302-1",
+      "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/chichikogusa.html"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -13594,7 +13652,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -13610,8 +13668,8 @@
     "food_use_status": "第2群確認済み",
     "content_followup_source_title": "Euchiton japonicus (Thunb.) Holub | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/205302-1",
-    "content_basic_ecology_verified": false,
-    "content_followup_review_status": "確認できた項目を補完・残りは要確認",
+    "content_basic_ecology_verified": true,
+    "content_followup_review_status": "基本情報の出典確認済み",
     "ecology_source_details": {
       "source_url": "https://powo.science.kew.org/taxon/205302-1",
       "life_form_original": "",
@@ -13619,7 +13677,9 @@
       "biome_original": "subtropical"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "Kewの採用学名の自然分布と森林総合研究所のチチコグサの解説を照合。後者は旧属名 Gnaphalium japonicum を用いる。外来のチチコグサモドキ類とは区別。",
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "Kewの採用学名の自然分布と森林総合研究所のチチコグサの解説を照合。後者は旧属名 Gnaphalium japonicum を用いる。外来のチチコグサモドキ類とは区別。"
   },
   {
     "id": "sansai_0192",
@@ -14796,13 +14856,13 @@
     "reference_taxon_id": 1403398,
     "taxon_rank": "variety",
     "entity_type": "変種",
-    "life_form": "生活型は要確認",
+    "life_form": "二年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "北海道・本州・四国・九州、および朝鮮半島・中国・ロシア・ベトナムに分布（採用変種を扱う資料による）。",
+    "habitat": "山地の林縁に生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、黄色い頭花。",
+    "feature_summary": "背が高く、茎は直立する。下部の葉は羽状に裂け、黄色い小さな頭花がまばらにつく。",
     "trivia": "採用分類ではキク科のLactuca属に属する。学名はLactuca raddeana var. elata。",
     "classification": {
       "kingdom": "植物界",
@@ -14815,9 +14875,11 @@
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
     "plant_source_url": "https://www.inaturalist.org/taxa/1403398",
     "content_source_urls": [
-      "https://www.inaturalist.org/taxa/1403398"
+      "https://www.inaturalist.org/taxa/1403398",
+      "https://mikawanoyasou.org/data/yamanigana.htm",
+      "https://tsukuba.repo.nii.ac.jp/record/22568/files/5.pdf"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) mami_t_t, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -14827,7 +14889,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -14841,9 +14903,12 @@
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [],
     "food_use_status": "第2群確認済み",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用変種の観察資料で基本情報を確認。筑波大学の植物相資料にも同学名で記録がある。資料によって Pterocypsela elata や広義の Lactuca raddeana として扱われる。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用変種の観察資料で基本情報を確認。筑波大学の植物相資料にも同学名で記録がある。資料によって Pterocypsela elata や広義の Lactuca raddeana として扱われる。"
   },
   {
     "id": "sansai_0209",
@@ -15813,13 +15878,13 @@
     "reference_taxon_id": 452090,
     "taxon_rank": "variety",
     "entity_type": "変種",
-    "life_form": "生活型は要確認",
-    "flowering_season": "要確認",
+    "life_form": "多年草",
+    "flowering_season": "9〜11月（地域や気候によって前後する）。",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "関東地方でよく見られる。国内の詳しい分布境界は要確認。",
+    "habitat": "明るい草原に生育。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、紫色の頭花ととげのある総苞。",
+    "feature_summary": "葉には長く太いとげがある。頭花は横向きに咲き、その基部の総苞片が長く反り返る。",
     "trivia": "採用分類ではキク科のCirsium属に属する。学名はCirsium nipponicum var. incomptum。",
     "classification": {
       "kingdom": "植物界",
@@ -15834,9 +15899,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Cirsium",
       "https://www.inaturalist.org/taxa/452090",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A983010-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A983010-1",
+      "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/toneazami.html"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -15846,7 +15912,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -15862,8 +15928,11 @@
     "food_use_status": "第2群確認済み",
     "content_followup_source_title": "Cirsium nipponicum var. incomptum (Maxim.) Kadota | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A983010-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "森林総合研究所の採用学名と一致する変種の解説を確認。詳しい分布境界まで確定したものではない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "森林総合研究所の採用学名と一致する変種の解説を確認。詳しい分布境界まで確定したものではない。"
   }
 ]

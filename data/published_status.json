@@ -75,11 +75,14 @@
     "basic_verified": 344,
     "partially_enriched": 9,
     "reviewed_with_limits": 96,
-    "still_needs_research": 45
+    "still_needs_research": 4
   },
   "remaining105_summary": {
     "initial": 105,
-    "resolved": 60,
-    "remaining": 45
+    "resolved": 101,
+    "remaining": 4,
+    "reviewed_total": 105,
+    "limited_review": 4,
+    "latest_report": "data/photo_review/remaining105_latest_20261012.txt"
   }
 }

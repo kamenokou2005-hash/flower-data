@@ -1,0 +1,53 @@
+[
+  {
+    "id": "sansai_0153",
+    "reason": "シロヨメナの和名と登録学名 Aster ageratoides var. ageratoides の対応は要確認。分類研究では Aster leiophyllus var. leiophyllus とされる資料があり、登録した変種の説明をそのまま当てはめられない。",
+    "fields": {
+      "distribution": "要確認（和名と学名の分類範囲を再照合中）。",
+      "habitat": "要確認（対象とする分類群の確認後に記載）。"
+    },
+    "source_urls": [
+      "https://www.jstage.jst.go.jp/browse/bunruichiri/44/1/_contents/-char/ja",
+      "https://tsukuba.repo.nii.ac.jp/record/22568/files/5.pdf",
+      "https://mikawanoyasou.org/data/siroyomena.htm"
+    ]
+  },
+  {
+    "id": "yakuso_0135",
+    "reason": "登録は Isodon japonicus var. japonicus。大学の解説は種 Isodon japonicus の範囲であり、基準変種に限定した分布等の照合が未完了。種としての基本情報は参考として確認できた。",
+    "fields": {
+      "life_form": "多年草（種 Isodon japonicus の資料による。変種に限定した確認は未完了）。",
+      "distribution": "種としては北海道南部から九州・朝鮮半島に分布とされる。登録変種に限定した分布は要確認。",
+      "habitat": "種の資料では、やや乾いた山地に生育。登録変種に限定した確認は未完了。"
+    },
+    "source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003549.php"
+    ]
+  },
+  {
+    "id": "herb_0043",
+    "reason": "カシアの学名対応は要確認。Flora of Chinaでは Cinnamomum cassia の説明に C. aromaticum を含める一方、Kewは C. cassia (L.) J.Presl を Neolitsea cassia の異名として扱う。学名の著者と採用対象を再照合する必要がある。",
+    "fields": {
+      "distribution": "要確認（香辛料のカシアと登録学名の対応を再照合中）。",
+      "habitat": "要確認（対象とする植物の確認後に記載）。"
+    },
+    "source_urls": [
+      "https://efloras.org/florataxon.aspx?flora_id=3&taxon_id=200008698",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77109079-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A463288-1"
+    ]
+  },
+  {
+    "id": "rare_fruit_0113",
+    "reason": "ロンコンの和名と登録学名の対応は要確認。Kewは Lansium parasiticum を Epicharis parasitica の異名として扱い、果樹として知られる Lansium domesticum を別種として扱う。既存の分類・画像の採用対象を再照合する必要がある。",
+    "fields": {
+      "distribution": "要確認（ロンコンと登録学名の対応を再照合中）。",
+      "habitat": "要確認（対象とする植物の確認後に記載）。"
+    },
+    "source_urls": [
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A578885-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77222489-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A578879-1"
+    ]
+  }
+]

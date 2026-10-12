@@ -880,11 +880,11 @@
     "reference_taxon_id": 241080,
     "taxon_rank": "variety",
     "entity_type": "変種",
-    "life_form": "生活型は要確認",
+    "life_form": "つる性の多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "変種 lupulus は主にヨーロッパから中央アジア・西南アジアに分布。各地で作物として栽培される。",
+    "habitat": "温帯の環境に生育・栽培される。地下茎から毎年新しいつるを伸ばす。日本での具体的な野生の生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、掌状に裂けた葉。",
     "trivia": "採用分類ではアサ科のHumulus属に属する。学名はHumulus lupulus var. lupulus。",
@@ -900,9 +900,12 @@
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%83%E3%83%97",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%83%E3%83%97",
-      "https://www.inaturalist.org/taxa/241080"
+      "https://www.inaturalist.org/taxa/241080",
+      "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006377",
+      "https://www.ars.usda.gov/pacific-west-area/corvallis-or/national-clonal-germplasm-repository/docs/ncgr-corvallis-humulus-germplasm/",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A303502-2"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -912,7 +915,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -925,9 +928,12 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [],
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "変種 lupulus の分布は Flora of China が明示する範囲で確認。生活型と地下茎はUSDAの種の記載、生育帯はKewの種の記載。日本の変種 cordifolius や北米の変種の分布は転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "変種 lupulus の分布は Flora of China が明示する範囲で確認。生活型と地下茎はUSDAの種の記載、生育帯はKewの種の記載。日本の変種 cordifolius や北米の変種の分布は転用しない。"
   },
   {
     "id": "herb_0014",
@@ -1017,13 +1023,13 @@
     "reference_taxon_id": 181543,
     "taxon_rank": "hybrid",
     "entity_type": "交雑種",
-    "life_form": "生活型は要確認",
+    "life_form": "非耐寒性の多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "園芸で栽培される交雑種。交配親の Pelargonium zonale と P. inquinans は南アフリカのケープ地域原産。",
+    "habitat": "日当たりがよく、水はけのよい土で栽培。花壇、鉢植え、ハンギングなどに用いられる。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、淡桃色の花の集まり。",
+    "feature_summary": "丸みのある葉には暗い帯模様があることが多い。赤・桃色・白色などの花がまとまって咲き、重なり方は品種によって異なる。",
     "trivia": "採用分類ではGeraniaceae科のPelargonium属に属する。学名はPelargonium × hybridum。",
     "classification": {
       "kingdom": "植物界",
@@ -1038,9 +1044,11 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%A9%E3%83%8B%E3%82%A6%E3%83%A0",
       "https://www.inaturalist.org/taxa/181543",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A376335-1/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A376335-1/general-information",
+      "https://plants.ces.ncsu.edu/plants/pelargonium-x-hybridum/",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A376335-1"
     ],
-    "content_source_scope": "existing_curated_record",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Nico Hernandez, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -1050,7 +1058,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -1067,9 +1075,12 @@
     "thumbnail_genre_review_issue_type": "resolved",
     "content_followup_source_title": "Pelargonium × hybridum (L.) L'Hér. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A376335-1/general-information",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用交雑種の大学・Kew資料を照合。交配親の原産地と交雑種の栽培を区別。一年草扱いの栽培でも生活型は多年草。香料向けセンテッドゼラニウムの説明は転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用交雑種の大学・Kew資料を照合。交配親の原産地と交雑種の栽培を区別。一年草扱いの栽培でも生活型は多年草。香料向けセンテッドゼラニウムの説明は転用しない。"
   },
   {
     "id": "herb_0016",
@@ -2616,13 +2627,13 @@
     "reference_taxon_id": 861815,
     "taxon_rank": "subspecies",
     "entity_type": "亜種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "園芸・作物として栽培されるアーティチョーク。自然分布の詳しい範囲は要確認。",
+    "habitat": "日当たりがよく、肥沃で水はけのよい、強風を避けた場所で栽培。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、紫色の頭花と大きな総苞。",
+    "feature_summary": "大きな銀灰緑色の葉をもつ。鱗状の苞に包まれたつぼみから、アザミに似た紫色の花が開く。",
     "trivia": "採用分類ではキク科のCynara属に属する。学名はCynara cardunculus subsp. scolymus。",
     "classification": {
       "kingdom": "植物界",
@@ -2637,9 +2648,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Artichoke",
       "https://www.inaturalist.org/taxa/861815",
-      "https://powo.science.kew.org/taxon/77122427-1"
+      "https://powo.science.kew.org/taxon/77122427-1",
+      "https://www.rhs.org.uk/plants/56390/cynara-cardunculus-scolymus-group/details"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Luke Padon, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -2649,7 +2661,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -2664,9 +2676,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Cynara cardunculus subsp. scolymus (L.) Hegi | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/77122427-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "RHSでは亜種名の代わりに栽培群 Scolymus Group として扱うアーティチョークの基本情報を確認。カルドンや個別品種の性質は転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "RHSでは亜種名の代わりに栽培群 Scolymus Group として扱うアーティチョークの基本情報を確認。カルドンや個別品種の性質は転用しない。"
   },
   {
     "id": "herb_0038",
@@ -3049,8 +3064,8 @@
     "life_form": "生活型は要確認",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "要確認（香辛料のカシアと登録学名の対応を再照合中）。",
+    "habitat": "要確認（対象とする植物の確認後に記載）。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、細長い葉。",
     "trivia": "採用分類ではクスノキ科のニッケイ属に属する。学名はCinnamomum cassia。",
@@ -3062,14 +3077,17 @@
       "genus": "ニッケイ属",
       "species": "Cinnamomum cassia"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n追加調査：カシアの学名対応は要確認。Flora of Chinaでは Cinnamomum cassia の説明に C. aromaticum を含める一方、Kewは C. cassia (L.) J.Presl を Neolitsea cassia の異名として扱う。学名の著者と採用対象を再照合する必要がある。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B7%E3%82%A2",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B7%E3%82%A2",
       "https://www.inaturalist.org/taxa/774822",
-      "https://powo.science.kew.org/taxon/77109079-1"
+      "https://powo.science.kew.org/taxon/77109079-1",
+      "https://efloras.org/florataxon.aspx?flora_id=3&taxon_id=200008698",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77109079-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A463288-1"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "unresolved_taxon_scope",
     "image": {
       "author": "(c) Pranav Chandra Bose, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -3094,9 +3112,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Cinnamomum cassia (L.) J.Presl | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/77109079-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "分類範囲の再照合が必要",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "カシアの学名対応は要確認。Flora of Chinaでは Cinnamomum cassia の説明に C. aromaticum を含める一方、Kewは C. cassia (L.) J.Presl を Neolitsea cassia の異名として扱う。学名の著者と採用対象を再照合する必要がある。",
+    "content_basic_ecology_verified": false,
+    "remaining105_review_status": "要確認",
+    "remaining105_review_note": "カシアの学名対応は要確認。Flora of Chinaでは Cinnamomum cassia の説明に C. aromaticum を含める一方、Kewは C. cassia (L.) J.Presl を Neolitsea cassia の異名として扱う。学名の著者と採用対象を再照合する必要がある。"
   },
   {
     "id": "herb_0044",
@@ -7634,13 +7655,13 @@
     "reference_taxon_id": 1455863,
     "taxon_rank": "hybrid",
     "entity_type": "交雑種",
-    "life_form": "生活型は要確認",
+    "life_form": "落葉低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "園芸で栽培される交雑系のバラ。野生の自然分布は要確認。",
+    "habitat": "日なた〜半日陰の、肥沃で湿り気があり水はけのよい場所で栽培。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、桃色の重なった花弁。",
+    "feature_summary": "とげのある枝が弓状に伸び、香りの強い桃色の花を房状につける。花の重なり方は品種によって異なる。",
     "trivia": "採用分類ではバラ科のバラ属に属する。学名はRosa × damascena。",
     "classification": {
       "kingdom": "植物界",
@@ -7654,9 +7675,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/1455863",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/1455863",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77394892-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77394892-1",
+      "https://www.rhs.org.uk/plants/33926/rosa-%C3%97-damascena-d/details"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Oleksandr Shynder, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -7666,7 +7688,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -7681,9 +7703,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Rosa × damascena Herrm. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77394892-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "RHSのダマスクローズの解説を確認。野生の分布や日本での開花月は確定していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "RHSのダマスクローズの解説を確認。野生の分布や日本での開花月は確定していない。"
   },
   {
     "id": "herb_0113",
@@ -7700,13 +7725,13 @@
     "reference_taxon_id": 1599165,
     "taxon_rank": "hybrid",
     "entity_type": "交雑種",
-    "life_form": "生活型は要確認",
+    "life_form": "低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "園芸で栽培される人工交雑種。Kewでは Rosa canina・R. gallica・R. moschata に由来するとされる。",
+    "habitat": "日なた〜半日陰の、湿り気があり水はけのよい場所で栽培。花壇、生け垣、鉢植えなどに利用される。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、桃色の八重の花。",
+    "feature_summary": "とげの多い枝と、大きく丸みのある香りの強い桃色〜淡紫色の花が特徴。",
     "trivia": "採用分類ではバラ科のバラ属に属する。学名はRosa × centifolia。",
     "classification": {
       "kingdom": "植物界",
@@ -7720,9 +7745,11 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/1599165",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/1599165",
-      "https://powo.science.kew.org/taxon/324763-2"
+      "https://powo.science.kew.org/taxon/324763-2",
+      "https://plants.ces.ncsu.edu/plants/rosa-x-centifolia/",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A324763-2"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Oleksandr Shynder, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -7732,7 +7759,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -7747,9 +7774,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Rosa × centifolia L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/324763-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名の交雑種を扱う大学とKew資料で確認。葉の常緑・落葉の扱いや開花期には資料・栽培地の差があるため断定していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名の交雑種を扱う大学とKew資料で確認。葉の常緑・落葉の扱いや開花期には資料・栽培地の差があるため断定していない。"
   },
   {
     "id": "herb_0116",
@@ -8500,11 +8530,11 @@
     "reference_taxon_id": 79123,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "一年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "ヨーロッパから中国に自然分布。",
+    "habitat": "主に温帯の生育帯に生育（Kewの世界全体の記載）。日本での具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、裂けた葉と細長い果実。",
     "trivia": "採用分類ではBrassicaceae科のSinapis属に属する。学名はSinapis alba。",
@@ -8520,9 +8550,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/79123",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/79123",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A288952-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A288952-1",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:288952-1/general-information"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -8532,7 +8563,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -8547,9 +8578,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Sinapis alba L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A288952-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と一致するKew本文を確認。別資料の花色や英国自生の説明に不整合があるため、それらの性質は追加していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と一致するKew本文を確認。別資料の花色や英国自生の説明に不整合があるため、それらの性質は追加していない。"
   },
   {
     "id": "herb_0128",
@@ -9817,11 +9851,11 @@
     "reference_taxon_id": 52586,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "一年草または二年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "マカロネシア、地中海地域から中央アジア・インド、およびエチオピアに自然分布。",
+    "habitat": "主に亜熱帯の生育帯に生育（Kewの世界全体の記載）。日本での具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、白い模様のあるとげの葉。",
     "trivia": "採用分類ではキク科のSilybum属に属する。学名はSilybum marianum。",
@@ -9840,7 +9874,7 @@
       "https://www.inaturalist.org/taxa/52586",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A249211-1"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Kieran Hanrahan, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -9850,7 +9884,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -9865,9 +9899,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Silybum marianum (L.) Gaertn. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A249211-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と一致するKewの掲載本文で生活型・自然分布・生育帯を確認。用途は転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と一致するKewの掲載本文で生活型・自然分布・生育帯を確認。用途は転用しない。"
   },
   {
     "id": "herb_0148",
@@ -12302,13 +12339,13 @@
     "reference_taxon_id": 158717,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "ヨーロッパからシベリア・中国に分布。",
+    "habitat": "日当たりがよく、肥沃で水はけのよい場所で栽培。水はけの悪い重い土は適さない。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、白っぽい細かな裂けた葉。",
+    "feature_summary": "切れ込んだ灰緑色の葉には強い香りがある。直立する茎の先に小さな灰黄色の頭花をつける。",
     "trivia": "採用分類ではキク科のArtemisia属に属する。学名はArtemisia pontica。",
     "classification": {
       "kingdom": "植物界",
@@ -12322,9 +12359,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/158717",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/158717",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A179970-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A179970-1",
+      "https://www.rhs.org.uk/plants/1641/artemisia-pontica/details"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Евгений Маринкин, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -12334,7 +12372,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -12349,9 +12387,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Artemisia pontica L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A179970-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "RHSの採用学名の具体的な解説を確認。ヨモギ属全体の生活型や別種の用途は転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "RHSの採用学名の具体的な解説を確認。ヨモギ属全体の生活型や別種の用途は転用しない。"
   },
   {
     "id": "herb_0198",
@@ -14649,13 +14690,13 @@
     "reference_taxon_id": 1093263,
     "taxon_rank": "complex",
     "entity_type": "complex",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草（Kewでは一年草となる場合も含めて扱う）",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "地中海地域から中央アジア・イランに自然分布。",
+    "habitat": "主に温帯の生育帯に生育。日なた〜半日陰の水はけのよい場所で栽培でき、やせた乾燥土壌にも適応する。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、紫色の小花と三枚の小葉。",
+    "feature_summary": "深く伸びる主根があり、クローバーに似た葉と小さな紫色の花をつける。",
     "trivia": "採用分類ではマメ科のMedicago属に属する。学名はMedicago sativa。",
     "classification": {
       "kingdom": "植物界",
@@ -14669,9 +14710,11 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/1093263",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/1093263",
-      "https://powo.science.kew.org/taxon/30234961-2"
+      "https://powo.science.kew.org/taxon/30234961-2",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30234961-2/images",
+      "https://www.rhs.org.uk/plants/83281/medicago-sativa/details"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "reviewed_taxon_scope",
     "image": {
       "author": "(c) Dylan Wishart, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -14681,7 +14724,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -14696,9 +14739,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Medicago sativa L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/30234961-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "種全体のKewの記載とRHSの具体的な栽培解説を照合。亜種 sativa の分布に種全体を置き換えない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "種全体のKewの記載とRHSの具体的な栽培解説を照合。亜種 sativa の分布に種全体を置き換えない。"
   },
   {
     "id": "herb_0237",
