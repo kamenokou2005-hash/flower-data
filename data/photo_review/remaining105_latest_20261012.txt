@@ -1,0 +1,54 @@
+植物データ追加調査 2026-10-12
+
+全2,800件。前回の未確定105件のうち60件に、生活型・分布・生育帯または栽培環境の出典を追加した。残り45件は要確認を維持する。
+この60件は基本情報の出典を確認した件数で、すべての項目が確定した件数ではない。国内の開花期、詳細な生育場所、用途など、資料で確認できなかった項目は要確認のまま。今回の作業は説明の追加調査で、写真の再審査・差し替えやジャンル変更は行っていない。
+
+追加調査が残る45件
+sansai_0116 ヒメウワバミソウ / Elatostema japonicum
+sansai_0119 ヨブスマソウ / Parasenecio hastatus subsp. orientalis
+sansai_0131 ツリガネニンジン / Adenophora triphylla var. japonica
+sansai_0153 シロヨメナ / Aster ageratoides var. ageratoides
+sansai_0154 ユウガギク / Aster iinumae
+sansai_0156 ニガナ / Ixeridium dentatum subsp. dentatum
+sansai_0160 エゾネギ / Allium schoenoprasum var. schoenoprasum
+sansai_0168 ヤエムグラ / Galium spurium var. echinospermum
+sansai_0171 ツボスミレ / Viola arcuata
+sansai_0172 ヒメスミレ / Viola inconspicua subsp. nagasakiensis
+sansai_0178 ヤマシロギク / Aster semiamplexicaulis
+sansai_0179 ゴマナ / Aster glehnii
+sansai_0180 コウゾリナ / Picris japonica
+sansai_0191 チチコグサ / Euchiton japonicus
+sansai_0208 ヤマニガナ / Lactuca raddeana var. elata
+sansai_0222 トネアザミ / Cirsium nipponicum var. incomptum
+yakuso_0019 イチヤクソウ / Pyrola japonica
+yakuso_0126 ヤマヨモギ / Artemisia tridentata
+yakuso_0127 メハジキ / Leonurus japonicus
+yakuso_0133 イヌコウジュ / Mosla scabra
+yakuso_0135 ヒキオコシ / Isodon japonicus var. japonicus
+yakuso_0144 ベニバナイチヤクソウ / Pyrola asarifolia subsp. incarnata
+yakuso_0154 ツルドクダミ / Reynoutria multiflora
+yakuso_0168 ツリガネニンジン / Adenophora triphylla var. japonica
+yakuso_0201 ミヤマキケマン / Corydalis pallida var. tenuis
+herb_0013 ホップ / Humulus lupulus var. lupulus
+herb_0015 ゼラニウム / Pelargonium × hybridum
+herb_0037 アーティチョーク / Cynara cardunculus subsp. scolymus
+herb_0043 カシア / Cinnamomum cassia
+herb_0112 ダマスクローズ / Rosa × damascena
+herb_0113 ローズドメイ / Rosa × centifolia
+herb_0127 ホワイトマスタード / Sinapis alba
+herb_0147 ミルクシスル / Silybum marianum
+herb_0197 ローマンワームウッド / Artemisia pontica
+herb_0235 アルファルファ / Medicago sativa
+rare_fruit_0023 ウグイスカグラ / Lonicera gracilipes var. glabra
+rare_fruit_0040 リンゴンベリー / Vaccinium vitis-idaea subsp. minus
+rare_fruit_0061 クラブアップル / Malus sylvestris
+rare_fruit_0063 チョークチェリー / Prunus virginiana
+rare_fruit_0067 レッドエルダー / Sambucus racemosa
+rare_fruit_0075 ボイセンベリー / Rubus ursinus × idaeus
+rare_fruit_0109 ルクマ / Pouteria lucuma
+rare_fruit_0110 スターアップル / Chrysophyllum cainito
+rare_fruit_0111 ナランジラ / Solanum quitoense
+rare_fruit_0113 ロンコン / Lansium parasiticum
+
+確認した60件の出典と変更項目：remaining105_progress_20261012.json
+整合性検証：remaining105_local_validation_20261012.json

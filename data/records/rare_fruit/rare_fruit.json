@@ -156,11 +156,11 @@
     "reference_taxon_id": 133382,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：東部 カナダから東部 アメリカ合衆国。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、枝につく楕円形の葉。",
     "trivia": "採用分類ではバラ科のAmelanchier属に属する。学名はAmelanchier canadensis。",
@@ -177,9 +177,10 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%99%E3%83%AA%E3%83%BC",
       "https://www.inaturalist.org/taxa/133382",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A721188-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A721188-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A721188-1/general-information"
     ],
-    "content_source_scope": "existing_curated_record",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Mary E. Macaulay, P.Eng., some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -189,7 +190,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -204,9 +205,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Amelanchier canadensis (L.) Medik. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A721188-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A721188-1/general-information",
+      "life_form_original": "tree",
+      "native_range_original": "E. Canada to E. U.S.A",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "rare_fruit_0004",
@@ -3170,11 +3180,11 @@
     "reference_taxon_id": 126925,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：メキシコから中央アメリカ。",
+    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、地面に落ちた切断果実。",
     "trivia": "採用分類ではSapotaceae科のPouteria属に属する。学名はPouteria sapota。",
@@ -3191,9 +3201,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Pouteria",
       "https://www.inaturalist.org/taxa/126925",
-      "https://powo.science.kew.org/taxon/1110421-2"
+      "https://powo.science.kew.org/taxon/1110421-2",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A1110421-2"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) jlsnaddon, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -3203,7 +3214,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -3218,9 +3229,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Pouteria sapota (Jacq.) H.E.Moore & Stearn | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/1110421-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A1110421-2",
+      "life_form_original": "tree",
+      "native_range_original": "Mexico to Central America",
+      "biome_original": "wet tropical"
+    }
   },
   {
     "id": "rare_fruit_0046",
@@ -3750,11 +3770,11 @@
     "reference_taxon_id": 365244,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：トリニダード島から南部 熱帯アメリカ。",
+    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、羽状に分かれる大きな葉。",
     "trivia": "採用分類ではArecaceae科のEuterpe属に属する。学名はEuterpe oleracea。",
@@ -3771,9 +3791,10 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B5%E3%82%A4%E3%83%BC",
       "https://www.inaturalist.org/taxa/365244",
-      "https://powo.science.kew.org/taxon/666941-1"
+      "https://powo.science.kew.org/taxon/666941-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A666941-1"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Guillaume Delaitre, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -3783,7 +3804,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -3798,9 +3819,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Euterpe oleracea Mart. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/666941-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A666941-1",
+      "life_form_original": "tree",
+      "native_range_original": "Trinidad to S. Tropical America",
+      "biome_original": "wet tropical"
+    }
   },
   {
     "id": "rare_fruit_0054",
@@ -3891,11 +3921,11 @@
     "reference_taxon_id": 164761,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：温帯の ユーラシア、西部・中部 カナダから西部 アメリカ合衆国。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、枝につく黒紫色の果実。",
     "trivia": "採用分類ではCaprifoliaceae科のLonicera属に属する。学名はLonicera caerulea。",
@@ -3914,7 +3944,7 @@
       "https://www.inaturalist.org/taxa/164761",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A148657-1"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Michal Honskus, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -3924,7 +3954,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -3939,9 +3969,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Lonicera caerulea L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A148657-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A148657-1",
+      "life_form_original": "shrub",
+      "native_range_original": "Temp. Eurasia, W. & Central Canada to W. U.S.A",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "rare_fruit_0056",
@@ -4239,13 +4278,13 @@
     "reference_taxon_id": 1665961,
     "taxon_rank": "complex",
     "entity_type": "complex",
-    "life_form": "生活型は要確認",
+    "life_form": "落葉低木〜小高木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "ヨーロッパ原産。",
+    "habitat": "日なた〜半日陰の、湿り気があり肥沃で水はけのよい土で栽培。庭や生け垣などに植えられる。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、白い花序と複葉。",
+    "feature_summary": "葉は複数の小葉に分かれ、白い花がまとまって咲く。果実は黒く熟す。",
     "trivia": "採用分類ではガマズミ科のニワトコ属に属する。学名はSambucus nigra。",
     "classification": {
       "kingdom": "植物界",
@@ -4260,9 +4299,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Sambucus",
       "https://www.inaturalist.org/taxa/1665961",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30122169-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30122169-2",
+      "https://plants.ces.ncsu.edu/plants/sambucus-nigra/common-name/black-elder/"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Matteo Bellucci, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -4272,7 +4312,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -4287,9 +4327,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Sambucus nigra L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30122169-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "Sambucus nigra の解説を確認。アメリカ原産の S. canadensis の分布や性質と混同しない。果実等の食用・薬用の安全性は補完しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "Sambucus nigra の解説を確認。アメリカ原産の S. canadensis の分布や性質と混同しない。果実等の食用・薬用の安全性は補完しない。"
   },
   {
     "id": "rare_fruit_0067",
@@ -4373,11 +4416,11 @@
     "reference_taxon_id": 1437600,
     "taxon_rank": "complex",
     "entity_type": "complex",
-    "life_form": "生活型は要確認",
+    "life_form": "樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：ヨーロッパからコーカサス、北部 アフリカからイラク。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、赤い果実と裂けた葉。",
     "trivia": "採用分類ではバラ科のサンザシ属に属する。学名はCrataegus monogyna。",
@@ -4394,9 +4437,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Crataegus",
       "https://www.inaturalist.org/taxa/1437600",
-      "https://powo.science.kew.org/taxon/723820-1"
+      "https://powo.science.kew.org/taxon/723820-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A723820-1"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -4406,7 +4450,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -4421,9 +4465,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Crataegus monogyna Jacq. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/723820-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A723820-1",
+      "life_form_original": "tree",
+      "native_range_original": "Europe to Caucasus, N. Africa to Iraq",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "rare_fruit_0069",
@@ -4735,13 +4788,13 @@
     "reference_taxon_id": 1028040,
     "taxon_rank": "hybrid",
     "entity_type": "交雑種",
-    "life_form": "生活型は要確認",
+    "life_form": "落葉低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "園芸で栽培される交雑種。野生の自然分布は要確認。",
+    "habitat": "日なた〜半日陰の、湿り気があり水はけのよい土で栽培。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、葉の茂る低木。",
+    "feature_summary": "グーズベリーとブラックカラントに由来する交雑種。生育が旺盛で、とげのない枝をもつ。",
     "trivia": "採用分類ではGrossulariaceae科のRibes属に属する。学名はRibes × nidigrolaria。",
     "classification": {
       "kingdom": "植物界",
@@ -4756,9 +4809,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Ribes",
       "https://www.inaturalist.org/taxa/1028040",
-      "https://powo.science.kew.org/taxon/939018-1"
+      "https://powo.science.kew.org/taxon/939018-1",
+      "https://www.rhs.org.uk/plants/297045/ribes-%C3%97-nidigrolaria-f/details"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Maksymilian Bobko, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -4768,7 +4822,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -4783,9 +4837,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Ribes × nidigrolaria Rud.Bauer & A.Bauer | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/939018-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "英国王立園芸協会のジョスタベリーの具体的な解説を確認。英国での結実月は日本の時期には転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "英国王立園芸協会のジョスタベリーの具体的な解説を確認。英国での結実月は日本の時期には転用しない。"
   },
   {
     "id": "rare_fruit_0075",
@@ -4866,13 +4923,13 @@
     "reference_taxon_id": 417619,
     "taxon_rank": "hybrid",
     "entity_type": "交雑種",
-    "life_form": "生活型は要確認",
+    "life_form": "落葉低木（つる状に長い枝を伸ばす）",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "園芸で栽培される交雑種。野生の自然分布は要確認。",
+    "habitat": "日なた〜半日陰の、肥沃で湿り気があり水はけのよい土で栽培。長い枝をフェンスなどに誘引する。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、赤い房状の果実。",
+    "feature_summary": "ラズベリーとアメリカのブラックベリーに由来する交雑種。長い有刺の枝と細長い暗い桃色の果実が特徴。",
     "trivia": "採用分類ではバラ科のRubus属に属する。学名はRubus × loganobaccus。",
     "classification": {
       "kingdom": "植物界",
@@ -4887,9 +4944,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Rubus",
       "https://www.inaturalist.org/taxa/417619",
-      "https://powo.science.kew.org/taxon/223266-2"
+      "https://powo.science.kew.org/taxon/223266-2",
+      "https://www.rhs.org.uk/plants/112476/rubus-%C3%97-loganobaccus-f/details"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -4899,7 +4957,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -4914,9 +4972,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Rubus × loganobaccus L.H.Bailey | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/223266-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "英国王立園芸協会のローガンベリーの解説を確認。とげなし品種の性質を全体には当てはめず、英国の結実時期は転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "英国王立園芸協会のローガンベリーの解説を確認。とげなし品種の性質を全体には当てはめず、英国の結実時期は転用しない。"
   },
   {
     "id": "rare_fruit_0077",
@@ -6035,11 +6096,11 @@
     "reference_taxon_id": 160965,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：南東部 アメリカ合衆国。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、横に広がる木の姿。",
     "trivia": "採用分類ではバラ科のサンザシ属に属する。学名はCrataegus aestivalis。",
@@ -6058,7 +6119,7 @@
       "https://www.inaturalist.org/taxa/160965",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A294558-2"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) lejones417, some rights reserved (CC BY-SA)",
       "license": "CC-BY-SA",
@@ -6068,7 +6129,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -6083,9 +6144,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Crataegus aestivalis (Walter) Torr. & A.Gray | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A294558-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A294558-2",
+      "life_form_original": "tree",
+      "native_range_original": "SE. U.S.A",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "rare_fruit_0097",
@@ -6835,11 +6905,11 @@
     "reference_taxon_id": 563896,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "低木または樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：南部 熱帯アメリカ。",
+    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、小さな赤い果実と枝。",
     "trivia": "採用分類ではフトモモ科のMyrciaria属に属する。学名はMyrciaria dubia。",
@@ -6855,9 +6925,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/563896",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/563896",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A166146-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A166146-2",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A166146-2/general-information"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Enrique Salazar, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -6867,7 +6938,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -6882,9 +6953,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Myrciaria dubia (Kunth) McVaugh | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A166146-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A166146-2/general-information",
+      "life_form_original": "shrub or tree",
+      "native_range_original": "S. Tropical America",
+      "biome_original": "wet tropical"
+    }
   },
   {
     "id": "rare_fruit_0108",
@@ -7683,11 +7763,11 @@
     "reference_taxon_id": 345967,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：東部 マレシア地域からサンタクルーズ諸島。",
+    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、枝を茂らせた木。",
     "trivia": "採用分類ではウルシ科のSpondias属に属する。学名はSpondias dulcis。",
@@ -7703,9 +7783,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/345967",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/345967",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A71455-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A71455-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A71455-1/general-information"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Wallace Carneiro Almeida, some rights reserved (CC BY-SA)",
       "license": "CC-BY-SA",
@@ -7715,7 +7796,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": true,
     "thumbnail_visually_reviewed": true,
@@ -7730,9 +7811,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Spondias dulcis Parkinson | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A71455-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A71455-1/general-information",
+      "life_form_original": "tree",
+      "native_range_original": "E. Malesia to Santa Cruz Islands",
+      "biome_original": "wet tropical"
+    }
   },
   {
     "id": "rare_fruit_0120",
@@ -8189,11 +8279,11 @@
     "reference_taxon_id": 123697,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：カーボベルデ、African サハラ砂漠からサヘルからタンザニア、南部 イランからオーストラリア。",
+    "habitat": "主に季節的に乾燥する熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、光沢のある楕円形の葉。",
     "trivia": "採用分類ではクロウメモドキ科のナツメ属に属する。学名はZiziphus mauritiana。",
@@ -8209,9 +8299,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/123697",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/123697",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A719349-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A719349-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A719349-1/general-information"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Yu-Huang Wang, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -8221,7 +8312,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -8236,9 +8327,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Ziziphus mauritiana Lam. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A719349-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A719349-1/general-information",
+      "life_form_original": "tree",
+      "native_range_original": "Cape Verde, African Sahara to Sahel to Tanzania, S. Iran to Australia",
+      "biome_original": "seasonally dry tropical"
+    }
   },
   {
     "id": "rare_fruit_0129",
@@ -8767,11 +8867,11 @@
     "reference_taxon_id": 130215,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "低木または樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：ケニアから南東部 ケープ地方。",
+    "habitat": "主に砂漠または乾燥した低木地に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、白い星形の花と丸い葉。",
     "trivia": "採用分類ではApocynaceae科のCarissa属に属する。学名はCarissa macrocarpa。",
@@ -8789,7 +8889,7 @@
       "https://www.inaturalist.org/taxa/130215",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77727-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -8799,7 +8899,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -8814,9 +8914,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Carissa macrocarpa (Eckl.) A.DC. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77727-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77727-1",
+      "life_form_original": "shrub or tree",
+      "native_range_original": "Kenya to SE. Cape Prov",
+      "biome_original": "desert or dry shrubland"
+    }
   },
   {
     "id": "rare_fruit_0137",
@@ -9052,11 +9161,11 @@
     "reference_taxon_id": 743229,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "低木または樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：中国からベトナム、南部 朝鮮半島。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、枝と厚い葉。",
     "trivia": "採用分類ではクワ科のMaclura属に属する。学名はMaclura tricuspidata。",
@@ -9074,7 +9183,7 @@
       "https://www.inaturalist.org/taxa/743229",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A854453-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Max, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -9084,7 +9193,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -9099,9 +9208,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Maclura tricuspidata Carrière | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A854453-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A854453-1",
+      "life_form_original": "shrub or tree",
+      "native_range_original": "China to Vietnam, S. Korea",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "rare_fruit_0146",
@@ -9265,11 +9383,11 @@
     "reference_taxon_id": 82742,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "低木または樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：地中海地域からイラン。",
+    "habitat": "主に亜熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、湾曲した褐色の莢。",
     "trivia": "採用分類ではマメ科のCeratonia属に属する。学名はCeratonia siliqua。",
@@ -9285,9 +9403,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/82742",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/82742",
-      "https://powo.science.kew.org/taxon/485647-1"
+      "https://powo.science.kew.org/taxon/485647-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A485647-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -9297,7 +9416,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -9312,9 +9431,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Ceratonia siliqua L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/485647-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A485647-1",
+      "life_form_original": "shrub or tree",
+      "native_range_original": "Medit. to Iran",
+      "biome_original": "subtropical"
+    }
   },
   {
     "id": "rare_fruit_0152",
@@ -10138,11 +10266,11 @@
     "reference_taxon_id": 342713,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：アフリカ、イスラエルからアラビア半島。",
+    "habitat": "主に砂漠または乾燥した低木地に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、草地の遠景。",
     "trivia": "採用分類ではZygophyllaceae科のBalanites属に属する。学名はBalanites aegyptiaca。",
@@ -10158,9 +10286,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/342713",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/342713",
-      "https://powo.science.kew.org/taxon/813589-1"
+      "https://powo.science.kew.org/taxon/813589-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A813589-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Suvarna Parbhoo Mohan, some rights reserved (CC BY-SA)",
       "license": "CC-BY-SA",
@@ -10170,7 +10299,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": true,
     "thumbnail_visually_reviewed": true,
@@ -10185,9 +10314,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Balanites aegyptiaca (L.) Delile | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/813589-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A813589-1",
+      "life_form_original": "tree",
+      "native_range_original": "Africa, Israel to Arabian Peninsula",
+      "biome_original": "desert or dry shrubland"
+    }
   },
   {
     "id": "rare_fruit_0166",
@@ -10351,11 +10489,11 @@
     "reference_taxon_id": 165239,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：コロンビアから北部 南アメリカ。",
+    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、緑色の果皮と白い果肉。",
     "trivia": "採用分類ではムクロジ科のMelicoccus属に属する。学名はMelicoccus bijugatus。",
@@ -10373,7 +10511,7 @@
       "https://www.inaturalist.org/taxa/165239",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A783682-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Laurimar Sepulveda, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -10383,7 +10521,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -10398,9 +10536,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Melicoccus bijugatus Jacq. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A783682-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A783682-1",
+      "life_form_original": "tree",
+      "native_range_original": "Colombia to N. South America",
+      "biome_original": "wet tropical"
+    }
   },
   {
     "id": "rare_fruit_0171",

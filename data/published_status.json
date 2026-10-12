@@ -75,6 +75,11 @@
     "basic_verified": 344,
     "partially_enriched": 9,
     "reviewed_with_limits": 96,
-    "still_needs_research": 105
+    "still_needs_research": 45
+  },
+  "remaining105_summary": {
+    "initial": 105,
+    "resolved": 60,
+    "remaining": 45
   }
 }

@@ -1882,11 +1882,11 @@
     "reference_taxon_id": 133395,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "半低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：北東部 スペインからイタリア。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、細長い葉を茂らせた株。",
     "trivia": "採用分類ではLamiaceae科のLavandula属に属する。学名はLavandula angustifolia。",
@@ -1905,7 +1905,7 @@
       "https://www.inaturalist.org/taxa/133395",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A449008-1"
     ],
-    "content_source_scope": "existing_curated_record",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Vladislav Isaev, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -1915,7 +1915,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -1930,9 +1930,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Lavandula angustifolia Mill. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A449008-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A449008-1",
+      "life_form_original": "subshrub",
+      "native_range_original": "NE. Spain to Italy",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "herb_0028",
@@ -1949,11 +1958,11 @@
     "reference_taxon_id": 61904,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "半低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：地中海地域。",
+    "habitat": "主に亜熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、褐色の細長い花序。",
     "trivia": "採用分類ではLamiaceae科のLavandula属に属する。学名はLavandula stoechas。",
@@ -1969,9 +1978,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/61904",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/61904",
-      "https://powo.science.kew.org/taxon/449089-1"
+      "https://powo.science.kew.org/taxon/449089-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A449089-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Duarte Frade, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -1981,7 +1991,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -1996,9 +2006,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Lavandula stoechas L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/449089-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A449089-1",
+      "life_form_original": "subshrub",
+      "native_range_original": "Medit",
+      "biome_original": "subtropical"
+    }
   },
   {
     "id": "herb_0029",
@@ -3528,11 +3547,11 @@
     "reference_taxon_id": 326761,
     "taxon_rank": "hybrid",
     "entity_type": "交雑種",
-    "life_form": "生活型は要確認",
+    "life_form": "半低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：南西部 ヨーロッパ。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、小さい葉を茂らせた株。",
     "trivia": "採用分類ではLamiaceae科のThymus属に属する。学名はThymus × citriodorus。",
@@ -3550,7 +3569,7 @@
       "https://www.inaturalist.org/taxa/326761",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A461041-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Nico Hernandez, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -3560,7 +3579,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -3575,9 +3594,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Thymus × citriodorus (Pers.) Schreb. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A461041-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A461041-1",
+      "life_form_original": "subshrub",
+      "native_range_original": "SW. Europe",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "herb_0052",
@@ -3665,13 +3693,13 @@
     "reference_taxon_id": 158434,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "一年草（温暖な地域では二年草となることがある）",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "中東・ロシア・コーカサス原産。世界各地で栽培・帰化している。",
+    "habitat": "涼しい環境を好み、日なた〜半日陰の湿り気があり水はけのよい土で栽培。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、細かく裂けた小さな葉。",
+    "feature_summary": "細かく分かれた明るい緑色の葉をもち、小さな白い5弁の花が傘状に集まる。",
     "trivia": "採用分類ではセリ科のAnthriscus属に属する。学名はAnthriscus cerefolium。",
     "classification": {
       "kingdom": "植物界",
@@ -3685,9 +3713,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/158434",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/158434",
-      "https://powo.science.kew.org/taxon/837913-1"
+      "https://powo.science.kew.org/taxon/837913-1",
+      "https://plants.ces.ncsu.edu/plants/anthriscus-cerefolium/"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Мар'яна Лебедєва, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -3697,7 +3726,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": true,
     "thumbnail_visually_reviewed": true,
@@ -3712,9 +3741,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Anthriscus cerefolium (L.) Hoffm. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/837913-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名の植物の解説で生活型・分布・生育または栽培環境を確認。海外での開花月や薬効・食用の安全性は補完しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名の植物の解説で生活型・分布・生育または栽培環境を確認。海外での開花月や薬効・食用の安全性は補完しない。"
   },
   {
     "id": "herb_0054",
@@ -4166,11 +4198,11 @@
     "reference_taxon_id": 77058,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "一年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：スペイン、モロッコからアルジェリア。",
+    "habitat": "主に亜熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、淡色の花と果実。",
     "trivia": "採用分類ではBrassicaceae科のEruca属に属する。学名はEruca vesicaria。",
@@ -4189,7 +4221,7 @@
       "https://www.inaturalist.org/taxa/77058",
       "https://powo.science.kew.org/taxon/1137625-2"
     ],
-    "content_source_scope": "existing_curated_record",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Therese Phillips, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -4199,7 +4231,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -4214,9 +4246,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Eruca vesicaria (L.) Cav. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/1137625-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/1137625-2",
+      "life_form_original": "annual",
+      "native_range_original": "Spain, Morocco to Algeria",
+      "biome_original": "subtropical"
+    }
   },
   {
     "id": "herb_0061",
@@ -4588,11 +4629,11 @@
     "reference_taxon_id": 57116,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：マカロネシア、ヨーロッパ、地中海地域から北部 イラン・北部 エチオピア。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、淡紫色の細かな花序。",
     "trivia": "採用分類ではLamiaceae科のMentha属に属する。学名はMentha pulegium。",
@@ -4611,7 +4652,7 @@
       "https://www.inaturalist.org/taxa/57116",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A451022-1"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Наталья Пикалова, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -4621,7 +4662,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -4636,9 +4677,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Mentha pulegium L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A451022-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A451022-1",
+      "life_form_original": "perennial",
+      "native_range_original": "Macaronesia, Europe, Medit. to N. Iran and N. Ethiopia",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "herb_0067",
@@ -5307,13 +5357,13 @@
     "reference_taxon_id": 320730,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "非耐寒性の多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：ブラジル (Minas Gerais、Mato Grosso do Sul)からパラグアイ。",
-    "habitat": "生育環境は要確認",
+    "distribution": "ブラジルからパラグアイに分布。",
+    "habitat": "暖かい環境を好み、日なた〜半日陰の湿り気がある水はけのよい土で栽培。ハーブ園や鉢植えに用いられる。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、鋸歯のある葉。",
+    "feature_summary": "楕円形の葉には浅い鋸歯があり、小さな白い筒状の花がまとまって咲く。",
     "trivia": "自然分布と日本での栽培・観察場所は別に扱います。",
     "classification": {
       "kingdom": "植物界",
@@ -5328,9 +5378,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Stevia",
       "https://www.inaturalist.org/taxa/320730",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A245468-2/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A245468-2/general-information",
+      "https://plants.ces.ncsu.edu/plants/stevia-rebaudiana/common-name/sugarleaf/"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Sarah Culliton, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -5340,7 +5391,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -5355,8 +5406,8 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Stevia rebaudiana (Bertoni) Bertoni | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A245468-2/general-information",
-    "content_basic_ecology_verified": false,
-    "content_followup_review_status": "確認できた項目を補完・残りは要確認",
+    "content_basic_ecology_verified": true,
+    "content_followup_review_status": "基本情報の出典確認済み",
     "ecology_source_details": {
       "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A245468-2/general-information",
       "life_form_original": "",
@@ -5364,7 +5415,9 @@
       "biome_original": ""
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "ノースカロライナ州立大学で生活型・分布・栽培環境を確認。当地では一年草扱いでも本来の生活型は多年草。健康効果や食用の安全性は補完しない。",
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "ノースカロライナ州立大学で生活型・分布・栽培環境を確認。当地では一年草扱いでも本来の生活型は多年草。健康効果や食用の安全性は補完しない。"
   },
   {
     "id": "herb_0080",
@@ -5381,11 +5434,11 @@
     "reference_taxon_id": 164233,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "枝が他の植物に寄りかかる低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：南コーカサスから南部 中部 中国。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、白い星形の花。",
     "trivia": "採用分類ではモクセイ科のJasminum属に属する。学名はJasminum officinale。",
@@ -5402,9 +5455,10 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%9F%E3%83%B3",
       "https://www.inaturalist.org/taxa/164233",
-      "https://powo.science.kew.org/taxon/609672-1"
+      "https://powo.science.kew.org/taxon/609672-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A609672-1"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -5414,7 +5468,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -5429,9 +5483,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Jasminum officinale L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/609672-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A609672-1",
+      "life_form_original": "scrambling shrub",
+      "native_range_original": "Transcaucasus to S. Central China",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "herb_0081",
@@ -5448,11 +5511,11 @@
     "reference_taxon_id": 56162,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "二年草または多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：マカロネシア、ヨーロッパから中央アジア・西部 ヒマラヤ。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、紫色の花と丸い葉。",
     "trivia": "採用分類ではアオイ科のMalva属に属する。学名はMalva sylvestris。",
@@ -5468,9 +5531,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/56162",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/56162",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A561932-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A561932-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A561932-1/general-information"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Joss Carr, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -5480,7 +5544,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -5495,9 +5559,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Malva sylvestris L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A561932-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A561932-1/general-information",
+      "life_form_original": "biennial or perennial",
+      "native_range_original": "Macaronesia, Europe to Central Asia and W. Himalaya",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "herb_0082",
@@ -5514,13 +5587,13 @@
     "reference_taxon_id": 52565,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "ヨーロッパに分布。英国・アイルランドにも自生する。その他の自然分布の範囲は要確認。",
+    "habitat": "日なた〜半日陰で栽培。肥沃で湿り気のある土を好み、庭などに植えられる。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、切れ込む葉。",
+    "feature_summary": "葉と茎が柔らかい毛に覆われ、灰緑色に見える。淡い紫桃色の浅い皿状の花が小さな集まりで咲く。",
     "trivia": "採用分類ではアオイ科のAlthaea属に属する。学名はAlthaea officinalis。",
     "classification": {
       "kingdom": "植物界",
@@ -5534,9 +5607,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/52565",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/52565",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A558872-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A558872-1",
+      "https://www.rhs.org.uk/plants/1024/althaea-officinalis/details"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Jose Gutierrez Higa, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -5546,7 +5620,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -5561,9 +5635,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Althaea officinalis L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A558872-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名の植物の解説で生活型・分布・生育または栽培環境を確認。海外での開花月や薬効・食用の安全性は補完しない。分布はRHSに記載された欧州と英国・アイルランドの範囲のみ。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名の植物の解説で生活型・分布・生育または栽培環境を確認。海外での開花月や薬効・食用の安全性は補完しない。分布はRHSに記載された欧州と英国・アイルランドの範囲のみ。"
   },
   {
     "id": "herb_0083",
@@ -5726,11 +5803,11 @@
     "reference_taxon_id": 1504192,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "半低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：地中海地域。",
+    "habitat": "主に亜熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、銀灰色の細長い葉。",
     "trivia": "採用分類ではキク科のHelichrysum属に属する。学名はHelichrysum italicum。",
@@ -5749,7 +5826,7 @@
       "https://www.inaturalist.org/taxa/1504192",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A212898-1"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Daniel Cahen, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -5759,7 +5836,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -5774,9 +5851,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Helichrysum italicum (Roth) G.Don | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A212898-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A212898-1",
+      "life_form_original": "subshrub",
+      "native_range_original": "Medit",
+      "biome_original": "subtropical"
+    }
   },
   {
     "id": "herb_0086",
@@ -5935,11 +6021,11 @@
     "reference_taxon_id": 67715,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "半低木または低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：地中海地域からMongolia・インド亜大陸、フィリピンから西部・南部 太平洋。",
+    "habitat": "主に亜熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、紫色の花と長い雄しべ。",
     "trivia": "採用分類ではCapparaceae科のCapparis属に属する。学名はCapparis spinosa。",
@@ -5957,7 +6043,7 @@
       "https://www.inaturalist.org/taxa/67715",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A146789-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -5967,7 +6053,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -5982,9 +6068,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Capparis spinosa L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A146789-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A146789-1",
+      "life_form_original": "subshrub or shrub",
+      "native_range_original": "Medit. to Mongolia and Indian Subcontinent, Philippines to W. & S. Pacific",
+      "biome_original": "subtropical"
+    }
   },
   {
     "id": "herb_0090",
@@ -6148,11 +6243,11 @@
     "reference_taxon_id": 162702,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "二年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：メキシコから熱帯アメリカ。",
+    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、細長く鋸歯の強い葉。",
     "trivia": "採用分類ではセリ科のEryngium属に属する。学名はEryngium foetidum。",
@@ -6170,7 +6265,7 @@
       "https://www.inaturalist.org/taxa/162702",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A841793-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Maria Janeiro, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -6180,7 +6275,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -6195,9 +6290,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Eryngium foetidum L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A841793-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A841793-1",
+      "life_form_original": "biennial",
+      "native_range_original": "Mexico to Tropical America",
+      "biome_original": "wet tropical"
+    }
   },
   {
     "id": "herb_0093",
@@ -6431,13 +6535,13 @@
     "reference_taxon_id": 1105640,
     "taxon_rank": "complex",
     "entity_type": "complex",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "ヨーロッパ・アジア原産。北米でも帰化している。",
+    "habitat": "涼しく雨の多い環境を好む。日なた〜半日陰の、肥沃で湿り気がある土で栽培。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、白から淡桃色の小花の集まり。",
+    "feature_summary": "地下茎で広がり、羽状に分かれた葉をつける。香りのある白色〜淡い桃色の小花が集まって咲く。",
     "trivia": "採用分類ではCaprifoliaceae科のValeriana属に属する。学名はValeriana officinalis。",
     "classification": {
       "kingdom": "植物界",
@@ -6452,9 +6556,10 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AC%E3%83%AA%E3%82%A2%E3%83%B3",
       "https://www.inaturalist.org/taxa/1105640",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A860012-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A860012-1",
+      "https://plants.ces.ncsu.edu/plants/valeriana-officinalis/"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) considerthelilies, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -6464,7 +6569,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -6479,9 +6584,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Valeriana officinalis L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A860012-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名の植物の解説で生活型・分布・生育または栽培環境を確認。海外での開花月や薬効・食用の安全性は補完しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名の植物の解説で生活型・分布・生育または栽培環境を確認。海外での開花月や薬効・食用の安全性は補完しない。"
   },
   {
     "id": "herb_0097",
@@ -6498,11 +6606,11 @@
     "reference_taxon_id": 54520,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "二年草または多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：南東部 ヨーロッパから西部 ヒマラヤ。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、白い舌状花と黄色い中心。",
     "trivia": "採用分類ではキク科のTanacetum属に属する。学名はTanacetum parthenium。",
@@ -6519,9 +6627,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Tanacetum_parthenium",
       "https://www.inaturalist.org/taxa/54520",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A252460-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A252460-1",
+      "https://powo.science.kew.org/taxon/252460-1"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) guywallbanks, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -6531,7 +6640,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -6546,9 +6655,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Tanacetum parthenium (L.) Sch.Bip. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A252460-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/252460-1",
+      "life_form_original": "biennial or perennial",
+      "native_range_original": "SE. Europe to W. Himalaya",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "herb_0098",
@@ -6712,11 +6830,11 @@
     "reference_taxon_id": 143080,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "半低木または低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：スペインからイタリア。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、細かく分かれる葉。",
     "trivia": "採用分類ではキク科のArtemisia属に属する。学名はArtemisia abrotanum。",
@@ -6732,9 +6850,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/143080",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/143080",
-      "https://powo.science.kew.org/taxon/306365-2"
+      "https://powo.science.kew.org/taxon/306365-2",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A306365-2"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Мирослав Соболев, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -6744,7 +6863,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -6759,9 +6878,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Artemisia abrotanum L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/306365-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A306365-2",
+      "life_form_original": "subshrub or shrub",
+      "native_range_original": "Spain to Italy",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "herb_0101",
@@ -6778,11 +6906,11 @@
     "reference_taxon_id": 56022,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：ルーマニアからコーカサス。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、掌状に裂けた葉と黄色い花序。",
     "trivia": "採用分類ではバラ科のAlchemilla属に属する。学名はAlchemilla mollis。",
@@ -6801,7 +6929,7 @@
       "https://www.inaturalist.org/taxa/56022",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A720776-1"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -6811,7 +6939,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -6826,9 +6954,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Alchemilla mollis (Buser) Rothm. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A720776-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A720776-1",
+      "life_form_original": "perennial",
+      "native_range_original": "Romania to Caucasus",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "herb_0102",
@@ -7061,11 +7198,11 @@
     "reference_taxon_id": 158076,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：カナダから北西部・北部 中部 アメリカ合衆国。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、細長い葉の株。",
     "trivia": "採用分類ではLamiaceae科のAgastache属に属する。学名はAgastache foeniculum。",
@@ -7083,7 +7220,7 @@
       "https://www.inaturalist.org/taxa/158076",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A6304-2"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Jon, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -7093,7 +7230,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -7108,9 +7245,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Agastache foeniculum (Pursh) Kuntze | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A6304-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A6304-2",
+      "life_form_original": "perennial",
+      "native_range_original": "Canada to NW. & N. Central U.S.A",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "herb_0106",
@@ -7200,13 +7346,13 @@
     "reference_taxon_id": 410913,
     "taxon_rank": "hybrid",
     "entity_type": "交雑種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "園芸で栽培される交雑種。資料では欧州由来として扱われ、オランダのナーセリーで栽培された。",
+    "habitat": "日なた〜半日陰の、水はけのよい土で栽培。花壇や鉢植えに用いられる。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、青紫色の花と鋸歯のある葉。",
+    "feature_summary": "香りのある灰緑色の葉と青紫色の花をつける。Nepeta racemosa と N. nepetella に由来する交雑種。",
     "trivia": "採用分類ではLamiaceae科のNepeta属に属する。学名はNepeta × faassenii。",
     "classification": {
       "kingdom": "植物界",
@@ -7220,9 +7366,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/410913",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/410913",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60464967-2/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60464967-2/general-information",
+      "https://plants.ces.ncsu.edu/plants/nepeta-x-faassenii/common-name/faasens-catmint/"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Михаил Языков, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -7232,7 +7379,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -7247,9 +7394,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Nepeta × faassenii Bergmans ex Stearn | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60464967-2/general-information",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "ノースカロライナ州立大学の交雑種全体の解説を確認。個別品種の性質や米国での開花月は転用しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "ノースカロライナ州立大学の交雑種全体の解説を確認。個別品種の性質や米国での開花月は転用しない。"
   },
   {
     "id": "herb_0108",
@@ -7690,11 +7840,11 @@
     "reference_taxon_id": 154842,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：南部 インドシナからクイーンズランド州。",
+    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、黄緑色の細長い花被片。",
     "trivia": "採用分類ではバンレイシ科のCananga属に属する。学名はCananga odorata。",
@@ -7711,9 +7861,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Cananga_odorata",
       "https://www.inaturalist.org/taxa/154842",
-      "https://powo.science.kew.org/taxon/72580-1"
+      "https://powo.science.kew.org/taxon/72580-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A72580-1"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Parsa Fard, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -7723,7 +7874,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -7738,9 +7889,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Cananga odorata (Lam.) Hook.f. & Thomson | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/72580-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A72580-1",
+      "life_form_original": "tree",
+      "native_range_original": "S. Indo-China to Queensland",
+      "biome_original": "wet tropical"
+    }
   },
   {
     "id": "herb_0118",
@@ -9068,11 +9228,11 @@
     "reference_taxon_id": 1437600,
     "taxon_rank": "complex",
     "entity_type": "complex",
-    "life_form": "生活型は要確認",
+    "life_form": "樹木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：ヨーロッパからコーカサス、北部 アフリカからイラク。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、赤い果実と裂けた葉。",
     "trivia": "採用分類ではバラ科のサンザシ属に属する。学名はCrataegus monogyna。",
@@ -9089,9 +9249,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Crataegus",
       "https://www.inaturalist.org/taxa/1437600",
-      "https://powo.science.kew.org/taxon/723820-1"
+      "https://powo.science.kew.org/taxon/723820-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A723820-1"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Serhiy Panchenko, some rights reserved (CC BY-SA)",
       "license": "CC-BY-SA",
@@ -9101,7 +9262,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -9116,9 +9277,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Crataegus monogyna Jacq. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/723820-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A723820-1",
+      "life_form_original": "tree",
+      "native_range_original": "Europe to Caucasus, N. Africa to Iraq",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "herb_0139",
@@ -9135,13 +9305,13 @@
     "reference_taxon_id": 1665961,
     "taxon_rank": "complex",
     "entity_type": "complex",
-    "life_form": "生活型は要確認",
+    "life_form": "落葉低木〜小高木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "ヨーロッパ原産。",
+    "habitat": "日なた〜半日陰の、湿り気があり肥沃で水はけのよい土で栽培。庭や生け垣などに植えられる。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、黒紫色の果実が集まる。",
+    "feature_summary": "葉は複数の小葉に分かれ、白い花がまとまって咲く。果実は黒く熟す。",
     "trivia": "採用分類ではガマズミ科のニワトコ属に属する。学名はSambucus nigra。",
     "classification": {
       "kingdom": "植物界",
@@ -9156,9 +9326,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Sambucus",
       "https://www.inaturalist.org/taxa/1665961",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30122169-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30122169-2",
+      "https://plants.ces.ncsu.edu/plants/sambucus-nigra/common-name/black-elder/"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -9168,7 +9339,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -9183,9 +9354,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Sambucus nigra L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30122169-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "Sambucus nigra の解説を確認。アメリカ原産の S. canadensis の分布や性質と混同しない。果実等の食用・薬用の安全性は補完しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "Sambucus nigra の解説を確認。アメリカ原産の S. canadensis の分布や性質と混同しない。果実等の食用・薬用の安全性は補完しない。"
   },
   {
     "id": "herb_0140",
@@ -9567,11 +9741,11 @@
     "reference_taxon_id": 143423,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "一年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：インド亜大陸。",
+    "habitat": "主に季節的に乾燥する熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、細長い葉をつけた茎。",
     "trivia": "採用分類ではAcanthaceae科のAndrographis属に属する。学名はAndrographis paniculata。",
@@ -9587,9 +9761,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/143423",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/143423",
-      "https://powo.science.kew.org/taxon/45226-1"
+      "https://powo.science.kew.org/taxon/45226-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A45226-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -9599,7 +9774,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -9614,9 +9789,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Andrographis paniculata (Burm.f.) Wall. ex Nees | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/45226-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A45226-1",
+      "life_form_original": "annual",
+      "native_range_original": "Indian Subcontinent",
+      "biome_original": "seasonally dry tropical"
+    }
   },
   {
     "id": "herb_0147",
@@ -10364,11 +10548,11 @@
     "reference_taxon_id": 56158,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：マカロネシア、ヨーロッパから地中海地域・イラン。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、鋸歯のある葉と小花。",
     "trivia": "採用分類ではLamiaceae科のBallota属に属する。学名はBallota nigra。",
@@ -10384,9 +10568,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/56158",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/56158",
-      "https://powo.science.kew.org/taxon/444976-1"
+      "https://powo.science.kew.org/taxon/444976-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A444976-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Wendy Herniman, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -10396,7 +10581,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -10411,9 +10596,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Ballota nigra L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/444976-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A444976-1",
+      "life_form_original": "perennial",
+      "native_range_original": "Macaronesia, Europe to Medit. and Iran",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "herb_0161",
@@ -11743,11 +11937,11 @@
     "reference_taxon_id": 55717,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "半低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：ヨーロッパからイラン。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、鋸歯のある葉。",
     "trivia": "採用分類ではLamiaceae科のTeucrium属に属する。学名はTeucrium chamaedrys。",
@@ -11763,9 +11957,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/55717",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/55717",
-      "https://powo.science.kew.org/taxon/460310-1"
+      "https://powo.science.kew.org/taxon/460310-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A460310-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Ondřej Křivan, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -11775,7 +11970,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -11790,9 +11985,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Teucrium chamaedrys L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/460310-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A460310-1",
+      "life_form_original": "subshrub",
+      "native_range_original": "Europe to Iran",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "herb_0192",
@@ -12028,13 +12232,13 @@
     "reference_taxon_id": 52856,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "温帯のヨーロッパ・アジア・北アフリカ・アラスカに分布。北米の各地で帰化している。",
+    "habitat": "道端、荒れ地、耕作されていない草地などに生育。日当たりがよく、水はけのよい土を好む。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、灰緑色の細長い葉。",
+    "feature_summary": "地下茎で広がる。切れ込んだ葉の裏面には綿毛があり、目立たない小さな頭花を多数つける。",
     "trivia": "採用分類ではキク科のArtemisia属に属する。学名はArtemisia vulgaris。",
     "classification": {
       "kingdom": "植物界",
@@ -12048,9 +12252,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/52856",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/52856",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A20812-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A20812-2",
+      "https://plants.ces.ncsu.edu/plants/artemisia-vulgaris/"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Евгений Маринкин, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -12060,7 +12265,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -12075,9 +12280,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Artemisia vulgaris L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A20812-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名の植物の解説で生活型・分布・生育または栽培環境を確認。海外での開花月や薬効・食用の安全性は補完しない。日本のヨモギの別種の説明とは区別する。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名の植物の解説で生活型・分布・生育または栽培環境を確認。海外での開花月や薬効・食用の安全性は補完しない。日本のヨモギの別種の説明とは区別する。"
   },
   {
     "id": "herb_0197",
@@ -12233,11 +12441,11 @@
     "reference_taxon_id": 118850,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：西部 ヨーロッパから中部 シベリア・フィリピン (ルソン島)。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、黄色い花序。",
     "trivia": "採用分類ではキク科のSolidago属に属する。学名はSolidago virgaurea。",
@@ -12256,7 +12464,7 @@
       "https://www.inaturalist.org/taxa/118850",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A249947-1"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -12266,7 +12474,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -12281,9 +12489,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Solidago virgaurea L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A249947-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A249947-1",
+      "life_form_original": "perennial",
+      "native_range_original": "W. Europe to Central Siberia and Philippines (Luzon)",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "herb_0200",
@@ -12888,11 +13105,11 @@
     "reference_taxon_id": 138362,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：シベリアからロシア極東・西部・北部 中国。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、淡黄色の小花。",
     "trivia": "採用分類ではマメ科のAstragalus属に属する。学名はAstragalus mongholicus。",
@@ -12910,7 +13127,7 @@
       "https://www.inaturalist.org/taxa/138362",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A478720-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Urgamal Magsar, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -12920,7 +13137,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -12935,9 +13152,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Astragalus mongholicus Bunge | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A478720-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A478720-1",
+      "life_form_original": "perennial",
+      "native_range_original": "Siberia to Russian Far East and W. & N. China",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "herb_0209",
@@ -12954,11 +13180,11 @@
     "reference_taxon_id": 170054,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "半低木または低木",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：南部 テキサスから中央アメリカ、カリブ地域、東部 ブラジル。",
+    "habitat": "主に季節的に乾燥する熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、黄色い花。",
     "trivia": "採用分類ではPassifloraceae科のTurnera属に属する。学名はTurnera diffusa。",
@@ -12975,9 +13201,10 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Turnera",
       "https://www.inaturalist.org/taxa/170054",
-      "https://powo.science.kew.org/taxon/836578-1"
+      "https://powo.science.kew.org/taxon/836578-1",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A836578-1"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Abraham Sánchez Romero, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -12987,7 +13214,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -13002,9 +13229,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Turnera diffusa Willd. ex Schult. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/836578-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A836578-1",
+      "life_form_original": "subshrub or shrub",
+      "native_range_original": "S. Texas to Central America, Caribbean, E. Brazil",
+      "biome_original": "seasonally dry tropical"
+    }
   },
   {
     "id": "herb_0210",
@@ -13755,11 +13991,11 @@
     "reference_taxon_id": 119136,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "一年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：南部 ロシア極東からパキスタン。",
+    "habitat": "主に亜熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、葉と褐色の萼。",
     "trivia": "採用分類ではLamiaceae科のPerilla属に属する。学名はPerilla frutescens。",
@@ -13778,7 +14014,7 @@
       "https://www.inaturalist.org/taxa/119136",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A190343-2"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) vrxz, some rights reserved (CC BY-SA)",
       "license": "CC-BY-SA",
@@ -13788,7 +14024,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -13803,9 +14039,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Perilla frutescens (L.) Britton | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A190343-2",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A190343-2",
+      "life_form_original": "annual",
+      "native_range_original": "S. Russian Far East to Pakistan",
+      "biome_original": "subtropical"
+    }
   },
   {
     "id": "herb_0224",
@@ -14543,11 +14788,11 @@
     "reference_taxon_id": 866675,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "半寄生の一年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：フィンランドから西部 シベリア・トルコ。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、白紫色の小花。",
     "trivia": "採用分類ではOrobanchaceae科のEuphrasia属に属する。学名はEuphrasia officinalis。",
@@ -14563,9 +14808,10 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/866675",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/866675",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A802732-1/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A802732-1/general-information",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A802732-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Enrico Tomschke, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -14575,7 +14821,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -14590,8 +14836,17 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Euphrasia officinalis L. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A802732-1/general-information",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A802732-1",
+      "life_form_original": "hemiparasitic annual",
+      "native_range_original": "Finland to W. Siberia and Türkiye",
+      "biome_original": "temperate"
+    }
   }
 ]

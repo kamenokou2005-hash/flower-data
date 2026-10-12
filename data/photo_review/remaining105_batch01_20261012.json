@@ -1,0 +1,703 @@
+{
+  "initial": 105,
+  "updated": 47,
+  "remaining": 58,
+  "remaining_ids": [
+    "sansai_0105",
+    "sansai_0110",
+    "sansai_0116",
+    "sansai_0119",
+    "sansai_0131",
+    "sansai_0153",
+    "sansai_0154",
+    "sansai_0156",
+    "sansai_0160",
+    "sansai_0168",
+    "sansai_0171",
+    "sansai_0172",
+    "sansai_0178",
+    "sansai_0179",
+    "sansai_0180",
+    "sansai_0191",
+    "sansai_0208",
+    "sansai_0222",
+    "yakuso_0019",
+    "yakuso_0126",
+    "yakuso_0127",
+    "yakuso_0133",
+    "yakuso_0135",
+    "yakuso_0144",
+    "yakuso_0154",
+    "yakuso_0168",
+    "yakuso_0201",
+    "yakuso_0224",
+    "herb_0013",
+    "herb_0015",
+    "herb_0037",
+    "herb_0043",
+    "herb_0053",
+    "herb_0079",
+    "herb_0082",
+    "herb_0096",
+    "herb_0107",
+    "herb_0112",
+    "herb_0113",
+    "herb_0127",
+    "herb_0139",
+    "herb_0147",
+    "herb_0196",
+    "herb_0197",
+    "herb_0235",
+    "rare_fruit_0023",
+    "rare_fruit_0040",
+    "rare_fruit_0061",
+    "rare_fruit_0063",
+    "rare_fruit_0065",
+    "rare_fruit_0067",
+    "rare_fruit_0074",
+    "rare_fruit_0075",
+    "rare_fruit_0076",
+    "rare_fruit_0109",
+    "rare_fruit_0110",
+    "rare_fruit_0111",
+    "rare_fruit_0113"
+  ],
+  "items": [
+    {
+      "id": "sansai_0053",
+      "name": "ヤブカンゾウ",
+      "fields": [
+        "life_form",
+        "flowering_season",
+        "distribution",
+        "habitat",
+        "common_place",
+        "feature_summary",
+        "trivia"
+      ],
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003562.php",
+        "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/yabukanzo.html"
+      ],
+      "source_type": "reviewed_japanese_sources"
+    },
+    {
+      "id": "sansai_0072",
+      "name": "ヤマウコギ",
+      "fields": [
+        "life_form",
+        "flowering_season",
+        "distribution",
+        "habitat",
+        "common_place",
+        "feature_summary",
+        "trivia"
+      ],
+      "sources": [
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/araliaceae/yamaukogi/yamaukogi.htm",
+        "https://db.kahaku.go.jp/webmuseum/col_b1_01/TNS-VS_439894"
+      ],
+      "source_type": "reviewed_japanese_sources"
+    },
+    {
+      "id": "sansai_0087",
+      "name": "ハマアザミ",
+      "fields": [
+        "life_form",
+        "flowering_season",
+        "distribution",
+        "habitat",
+        "common_place",
+        "feature_summary",
+        "trivia"
+      ],
+      "sources": [
+        "https://www.pref.ehime.jp/reddatabook2014/detail/09_05_009070_5.html"
+      ],
+      "source_type": "reviewed_japanese_sources"
+    },
+    {
+      "id": "sansai_0113",
+      "name": "アカショウマ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A790323-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "sansai_0188",
+      "name": "イヌビユ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A10619-2"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "yakuso_0079",
+      "name": "ヤブカンゾウ",
+      "fields": [
+        "life_form",
+        "flowering_season",
+        "distribution",
+        "habitat",
+        "common_place",
+        "feature_summary",
+        "trivia"
+      ],
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003562.php",
+        "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/yabukanzo.html"
+      ],
+      "source_type": "reviewed_japanese_sources"
+    },
+    {
+      "id": "yakuso_0088",
+      "name": "ヤマウコギ",
+      "fields": [
+        "life_form",
+        "flowering_season",
+        "distribution",
+        "habitat",
+        "common_place",
+        "feature_summary",
+        "trivia"
+      ],
+      "sources": [
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/araliaceae/yamaukogi/yamaukogi.htm",
+        "https://db.kahaku.go.jp/webmuseum/col_b1_01/TNS-VS_439894"
+      ],
+      "source_type": "reviewed_japanese_sources"
+    },
+    {
+      "id": "yakuso_0124",
+      "name": "オトコヨモギ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A179656-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "yakuso_0205",
+      "name": "アカショウマ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A790323-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0027",
+      "name": "ラベンダー",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A449008-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0028",
+      "name": "フレンチラベンダー",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A449089-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0050",
+      "name": "レモンタイム",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A461041-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0060",
+      "name": "ルッコラ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/1137625-2"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0066",
+      "name": "ペニーロイヤルミント",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A451022-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0080",
+      "name": "ジャスミン",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A609672-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0081",
+      "name": "コモンマロウ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A561932-1/general-information"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0085",
+      "name": "カレープラント",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A212898-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0089",
+      "name": "ケッパー",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A146789-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0092",
+      "name": "ノコギリコリアンダー",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A841793-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0097",
+      "name": "フィーバーフュー",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/252460-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0100",
+      "name": "サザンウッド",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A306365-2"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0101",
+      "name": "レディースマントル",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A720776-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0105",
+      "name": "アニスヒソップ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A6304-2"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0117",
+      "name": "イランイラン",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A72580-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0138",
+      "name": "ホーソン",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A723820-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0146",
+      "name": "アンドログラフィス",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A45226-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0160",
+      "name": "ブラックホアハウンド",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A444976-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0189",
+      "name": "ジャーマンダー",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A460310-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0199",
+      "name": "ゴールデンロッド",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A249947-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0208",
+      "name": "アストラガルス",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A478720-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0209",
+      "name": "ダミアナ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A836578-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0222",
+      "name": "ペリラ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A190343-2"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "herb_0238",
+      "name": "アイブライト",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A802732-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "rare_fruit_0003",
+      "name": "ジューンベリー",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A721188-1/general-information"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "rare_fruit_0045",
+      "name": "マメイサポテ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A1110421-2"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "rare_fruit_0053",
+      "name": "アサイー",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A666941-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "rare_fruit_0055",
+      "name": "ハスカップ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A148657-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "rare_fruit_0068",
+      "name": "ホーソン",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A723820-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "rare_fruit_0096",
+      "name": "メイホー",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A294558-2"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "rare_fruit_0107",
+      "name": "カムカム",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A166146-2/general-information"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "rare_fruit_0119",
+      "name": "アンバレラ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A71455-1/general-information"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "rare_fruit_0128",
+      "name": "インドナツメ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A719349-1/general-information"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "rare_fruit_0136",
+      "name": "ナタールプラム",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77727-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "rare_fruit_0141",
+      "name": "チャイニーズマルベリー",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A854453-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "rare_fruit_0151",
+      "name": "キャロブ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A485647-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "rare_fruit_0164",
+      "name": "デザートデーツ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A813589-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    },
+    {
+      "id": "rare_fruit_0169",
+      "name": "マモンシージョ",
+      "fields": [
+        "life_form",
+        "distribution",
+        "habitat"
+      ],
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A783682-1"
+      ],
+      "source_type": "exact_primary_ecology"
+    }
+  ],
+  "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\resolve105_20261012_202558"
+}

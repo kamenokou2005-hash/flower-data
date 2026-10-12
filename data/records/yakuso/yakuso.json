@@ -5604,14 +5604,14 @@
     "reference_taxon_id": 359318,
     "taxon_rank": "variety",
     "entity_type": "変種",
-    "life_form": "生活型は要確認",
-    "flowering_season": "要確認",
+    "life_form": "多年草",
+    "flowering_season": "6〜7月（地域や環境により前後）",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、橙色の八重の花。",
-    "trivia": "採用分類ではAsphodelaceae科のHemerocallis属に属する。学名はHemerocallis fulva var. kwanso。",
+    "distribution": "北海道から九州、および中国。中国から古く渡来し、各地に広がったと考えられる。",
+    "habitat": "人家の近くなどに生育する。",
+    "common_place": "人家付近の草地など",
+    "feature_summary": "長い葉を株元から伸ばし、大きな八重咲きの花をつける多年草。花の雄しべが花弁状になる。",
+    "trivia": "日本では古くから人里に見られる。八重咲きの株は通常、実を結ばない。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -5625,9 +5625,11 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%96%E3%82%AB%E3%83%B3%E3%82%BE%E3%82%A6",
       "https://www.inaturalist.org/taxa/359318",
-      "https://powo.science.kew.org/taxon/77278923-1"
+      "https://powo.science.kew.org/taxon/77278923-1",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003562.php",
+      "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/yabukanzo.html"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) Timur Kalininsky, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -5637,7 +5639,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -5652,9 +5654,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Hemerocallis fulva var. kwanso Regel | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/77278923-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "熊本大学の変種名の資料と森林総合研究所のヤブカンゾウ解説を照合。効能や食用方法は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "熊本大学の変種名の資料と森林総合研究所のヤブカンゾウ解説を照合。効能や食用方法は補完していない。"
   },
   {
     "id": "yakuso_0080",
@@ -6240,14 +6245,14 @@
     "reference_taxon_id": 1679440,
     "taxon_rank": "variety",
     "entity_type": "変種",
-    "life_form": "生活型は要確認",
-    "flowering_season": "要確認",
+    "life_form": "落葉低木",
+    "flowering_season": "5月（地域や環境により前後）",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、掌状の複葉。",
-    "trivia": "採用分類ではウコギ科のEleutherococcus属に属する。学名はEleutherococcus spinosus var. spinosus。",
+    "distribution": "本州の岩手県以南に分布。",
+    "habitat": "適度に湿った林縁など",
+    "common_place": "林の縁など",
+    "feature_summary": "枝に棘を持つ落葉低木。葉は5枚の小葉からなる掌状複葉で、短い枝と長い枝では葉のつき方が異なる。",
+    "trivia": "雄株と雌株が別の雌雄異株の植物。果実は夏ごろから黒く熟す。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -6262,9 +6267,10 @@
       "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%A6%E3%82%B3%E3%82%AE",
       "https://www.inaturalist.org/taxa/1679440",
       "https://db.kahaku.go.jp/webmuseum/col_b1_01/TNS-VS_439894",
-      "https://nikko-bg.jp/nikko-old/5_jokyo/species/Eleutherococcus_spinosus.html"
+      "https://nikko-bg.jp/nikko-old/5_jokyo/species/Eleutherococcus_spinosus.html",
+      "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/araliaceae/yamaukogi/yamaukogi.htm"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) WATANABE Hitoshi 渡辺仁, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -6274,7 +6280,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -6290,9 +6296,12 @@
     "taxon_original_scientific_name": "Eleutherococcus spinosus var. varspinosus",
     "content_followup_source_title": "国立科学博物館・ヤマウコギ標本資料",
     "content_followup_source_url": "https://db.kahaku.go.jp/webmuseum/col_b1_01/TNS-VS_439894",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "変種名は国立科学博物館のヤマウコギ標本で確認。生態と形態は同じ和名の種レベルの大学資料も参照しており、変種の厳密な同定を意味しない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "変種名は国立科学博物館のヤマウコギ標本で確認。生態と形態は同じ和名の種レベルの大学資料も参照しており、変種の厳密な同定を意味しない。"
   },
   {
     "id": "yakuso_0089",
@@ -8807,11 +8816,11 @@
     "reference_taxon_id": 709032,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：アフガニスタンからロシア極東・フィリピン。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "キク科のArtemisia属に分類される植物。形態の詳しい説明は要確認。",
     "trivia": "採用分類ではキク科のArtemisia属に属する。学名はArtemisia japonica。",
@@ -8829,7 +8838,7 @@
       "https://www.inaturalist.org/taxa/709032",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A179656-1"
     ],
-    "content_source_scope": "taxonomy_only",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -8839,7 +8848,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -8854,9 +8863,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Artemisia japonica Thunb. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A179656-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A179656-1",
+      "life_form_original": "perennial",
+      "native_range_original": "Afghanistan to Russian Far East and Philippines",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "yakuso_0125",
@@ -14584,11 +14602,11 @@
     "reference_taxon_id": 635686,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "生活型は要確認",
+    "life_form": "多年草",
     "flowering_season": "要確認",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "自然分布（Kew）：日本 (南部 中部・南部 本州、四国)。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、細長い淡色の花序。",
     "trivia": "採用分類ではSaxifragaceae科のAstilbe属に属する。学名はAstilbe thunbergii。",
@@ -14607,7 +14625,7 @@
       "https://www.inaturalist.org/taxa/635686",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A790323-1"
     ],
-    "content_source_scope": "species",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "no rights reserved",
       "license": "CC0",
@@ -14617,7 +14635,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -14632,9 +14650,18 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Astilbe thunbergii (Siebold & Zucc.) Miq. | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A790323-1",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A790323-1",
+      "life_form_original": "perennial",
+      "native_range_original": "Japan (S. Central & S. Honshu, Shikoku)",
+      "biome_original": "temperate"
+    }
   },
   {
     "id": "yakuso_0206",
@@ -15965,13 +15992,13 @@
     "reference_taxon_id": 452046,
     "taxon_rank": "variety",
     "entity_type": "変種",
-    "life_form": "生活型は要確認",
-    "flowering_season": "要確認",
+    "life_form": "落葉低木",
+    "flowering_season": "3〜5月（地域や気候によって前後する）。",
     "observation_season": "要確認",
-    "distribution": "分布は要確認",
-    "habitat": "生育環境は要確認",
+    "distribution": "本州中部以北から北海道の一部に分布。",
+    "habitat": "山野や林縁に生育。日光植物園周辺でも野生株が記録されている。",
     "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、裂けた葉と果実。",
+    "feature_summary": "葉は3〜5つに裂け、枝には鉤状のとげがある。白い5弁の花が下向きに咲き、果実は橙黄色になる。",
     "trivia": "採用分類ではバラ科のRubus属に属する。学名はRubus palmatus var. coptophyllus。",
     "classification": {
       "kingdom": "植物界",
@@ -15986,9 +16013,11 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Rubus",
       "https://www.inaturalist.org/taxa/452046",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A2985103-4"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A2985103-4",
+      "https://nikko-bg.jp/nikko-old/5_jokyo/species/Rubus_palmatus.html",
+      "https://www.botanic.jp/plants-ma/moitig.htm"
     ],
-    "content_source_scope": "genus",
+    "content_source_scope": "species_primary",
     "image": {
       "author": "(c) りなべる, some rights reserved (CC BY)",
       "license": "CC-BY",
@@ -15998,7 +16027,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": true,
+    "needs_manual_content_review": false,
     "needs_manual_taxon_review": true,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -16013,9 +16042,12 @@
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Rubus palmatus var. coptophyllus (A.Gray) Kuntze | Plants of the World Online | Kew Science",
     "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A2985103-4",
-    "content_followup_review_status": "追加資料を照合・未確定項目は要確認",
+    "content_followup_review_status": "基本情報の出典確認済み",
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "追加資料の分類範囲を照合。基本情報を十分に確認できなかったため、要確認を維持。別名・属・園芸交雑種の広い説明から種固有の情報を推測しない。"
+    "content_followup_review_note": "採用学名の変種 coptophyllus を扱う日光植物園の記録と植物写真資料を照合。食用・薬用の安全性は補完していない。",
+    "content_basic_ecology_verified": true,
+    "remaining105_review_status": "補完済み",
+    "remaining105_review_note": "採用学名の変種 coptophyllus を扱う日光植物園の記録と植物写真資料を照合。食用・薬用の安全性は補完していない。"
   },
   {
     "id": "yakuso_0225",
