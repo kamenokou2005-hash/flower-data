@@ -1,0 +1,2521 @@
+{
+  "date": "2026-10-13",
+  "baseline_commit": "16a07c04e02b26b80b3522e033c4ed97b09edf8a",
+  "policy": "総数2800件を維持する必要はない。分類困難なものを既存ジャンルへ無理に割り当てない。",
+  "scope": "以前のジャンル確認候補142件のうち、移動済み11件と写真改善対応済み36件を除いた95件、説明未確定4件を再検討。分類の厳密な再同定や全サムネイルの再目視は今回行っていない。",
+  "reviewed_count": 99,
+  "counts": {
+    "exclude_candidates": 77,
+    "bamboo_policy_pending": 14,
+    "ornamental_reorganization_candidates": 2,
+    "broad_name_retention_candidates": 2,
+    "unresolved_content": 4
+  },
+  "records_changed": 0,
+  "records_excluded": 0,
+  "current_total": 2800,
+  "additional_taxon_flags_discovered": 191,
+  "additional_taxon_flags_reviewed": 0,
+  "additional_taxon_flags": [
+    {
+      "id": "flower_0130",
+      "name": "アメリカンブルー",
+      "category": "花",
+      "scientific": "Evolvulus"
+    },
+    {
+      "id": "flower_0140",
+      "name": "アサリナ",
+      "category": "花",
+      "scientific": "Asarina / Maurandya / Lophospermum"
+    },
+    {
+      "id": "flower_tree_0055",
+      "name": "シロハギ",
+      "category": "花の木",
+      "scientific": "Lespedeza spp."
+    },
+    {
+      "id": "flower_tree_0079",
+      "name": "シャリンバイ",
+      "category": "花の木",
+      "scientific": "Rhaphiolepis spp."
+    },
+    {
+      "id": "flower_tree_0093",
+      "name": "レンゲツツジ",
+      "category": "花の木",
+      "scientific": "Rhododendron molle subsp. japonicum"
+    },
+    {
+      "id": "flower_tree_0099",
+      "name": "ニオイバンマツリ",
+      "category": "花の木",
+      "scientific": "Brunfelsia australis"
+    },
+    {
+      "id": "flower_tree_0104",
+      "name": "ギョリュウ",
+      "category": "花の木",
+      "scientific": "Tamarix chinensis"
+    },
+    {
+      "id": "flower_tree_0142",
+      "name": "ヒイラギナンテン",
+      "category": "花の木",
+      "scientific": "Berberis japonica"
+    },
+    {
+      "id": "flower_tree_0156",
+      "name": "アメリカイワナンテン",
+      "category": "花の木",
+      "scientific": "Leucothoe fontanesiana"
+    },
+    {
+      "id": "flower_tree_0171",
+      "name": "テマリシモツケ",
+      "category": "花の木",
+      "scientific": "Physocarpus amurensis"
+    },
+    {
+      "id": "flower_tree_0183",
+      "name": "アオダモ",
+      "category": "花の木",
+      "scientific": "Fraxinus lanuginosa"
+    },
+    {
+      "id": "flower_tree_0191",
+      "name": "カマツカ",
+      "category": "花の木",
+      "scientific": "Pourthiaea villosa"
+    },
+    {
+      "id": "grass_0160",
+      "name": "カラムシ",
+      "category": "草",
+      "scientific": "Boehmeria nivea"
+    },
+    {
+      "id": "grass_0161",
+      "name": "ヤブマオ",
+      "category": "草",
+      "scientific": "Boehmeria japonica"
+    },
+    {
+      "id": "grass_0169",
+      "name": "クズ",
+      "category": "草",
+      "scientific": "Pueraria montana"
+    },
+    {
+      "id": "grass_0196",
+      "name": "コウガイゼキショウ",
+      "category": "草",
+      "scientific": "Juncus prismatocarpus"
+    },
+    {
+      "id": "grass_0198",
+      "name": "マツバイ",
+      "category": "草",
+      "scientific": "Eleocharis acicularis"
+    },
+    {
+      "id": "grass_0204",
+      "name": "ネザサ",
+      "category": "草",
+      "scientific": "Pleioblastus argenteostriatus"
+    },
+    {
+      "id": "grass_0222",
+      "name": "ヤエムグラ",
+      "category": "草",
+      "scientific": "Galium spurium"
+    },
+    {
+      "id": "grass_0231",
+      "name": "コウヤワラビ",
+      "category": "草",
+      "scientific": "Onoclea sensibilis"
+    },
+    {
+      "id": "grass_0292",
+      "name": "カモノハシ",
+      "category": "草",
+      "scientific": "Ischaemum aristatum"
+    },
+    {
+      "id": "grass_0302",
+      "name": "マンネンスギ",
+      "category": "草",
+      "scientific": "Dendrolycopodium dendroideum"
+    },
+    {
+      "id": "grass_0352",
+      "name": "コツブキンエノコロ",
+      "category": "草",
+      "scientific": "Setaria pumila subsp. pallidefusca"
+    },
+    {
+      "id": "grass_0364",
+      "name": "オオウシノケグサ",
+      "category": "草",
+      "scientific": "Festuca rubra subsp. rubra"
+    },
+    {
+      "id": "grass_0388",
+      "name": "ホソバヒカゲスゲ",
+      "category": "草",
+      "scientific": "Carex callitrichos var. nana"
+    },
+    {
+      "id": "grass_0460",
+      "name": "ムラサキミズゴケ",
+      "category": "草",
+      "scientific": "Sphagnum magellanicum"
+    },
+    {
+      "id": "grass_0493",
+      "name": "オオハイゴケ",
+      "category": "草",
+      "scientific": "Stereodon pratensis"
+    },
+    {
+      "id": "grass_0498",
+      "name": "キクバドコロ",
+      "category": "草",
+      "scientific": "Dioscorea septemloba"
+    },
+    {
+      "id": "herb_0002",
+      "name": "エゴマ",
+      "category": "ハーブ",
+      "scientific": "Perilla frutescens var. frutescens"
+    },
+    {
+      "id": "herb_0013",
+      "name": "ホップ",
+      "category": "ハーブ",
+      "scientific": "Humulus lupulus var. lupulus"
+    },
+    {
+      "id": "herb_0015",
+      "name": "ゼラニウム",
+      "category": "ハーブ",
+      "scientific": "Pelargonium × hybridum"
+    },
+    {
+      "id": "herb_0018",
+      "name": "ライム",
+      "category": "ハーブ",
+      "scientific": "Citrus × aurantiifolia"
+    },
+    {
+      "id": "herb_0027",
+      "name": "ラベンダー",
+      "category": "ハーブ",
+      "scientific": "Lavandula angustifolia"
+    },
+    {
+      "id": "herb_0029",
+      "name": "ハイビスカス",
+      "category": "ハーブ",
+      "scientific": "Hibiscus × rosa-sinensis"
+    },
+    {
+      "id": "herb_0033",
+      "name": "シソ",
+      "category": "ハーブ",
+      "scientific": "Perilla frutescens var. crispa"
+    },
+    {
+      "id": "herb_0036",
+      "name": "コンフリー",
+      "category": "ハーブ",
+      "scientific": "Symphytum × uplandicum"
+    },
+    {
+      "id": "herb_0037",
+      "name": "アーティチョーク",
+      "category": "ハーブ",
+      "scientific": "Cynara cardunculus subsp. scolymus"
+    },
+    {
+      "id": "herb_0040",
+      "name": "キンモクセイ",
+      "category": "ハーブ",
+      "scientific": "Osmanthus fragrans var. aurantiacus"
+    },
+    {
+      "id": "herb_0041",
+      "name": "レモン",
+      "category": "ハーブ",
+      "scientific": "Citrus × limon"
+    },
+    {
+      "id": "herb_0050",
+      "name": "レモンタイム",
+      "category": "ハーブ",
+      "scientific": "Thymus × citriodorus"
+    },
+    {
+      "id": "herb_0056",
+      "name": "チャイブ",
+      "category": "ハーブ",
+      "scientific": "Allium schoenoprasum"
+    },
+    {
+      "id": "herb_0060",
+      "name": "ルッコラ",
+      "category": "ハーブ",
+      "scientific": "Eruca vesicaria"
+    },
+    {
+      "id": "herb_0063",
+      "name": "ペパーミント",
+      "category": "ハーブ",
+      "scientific": "Mentha × piperita"
+    },
+    {
+      "id": "herb_0078",
+      "name": "エキナセア",
+      "category": "ハーブ",
+      "scientific": "Echinacea purpurea"
+    },
+    {
+      "id": "herb_0084",
+      "name": "サントリナ",
+      "category": "ハーブ",
+      "scientific": "Santolina chamaecyparissus"
+    },
+    {
+      "id": "herb_0095",
+      "name": "ヤロウ",
+      "category": "ハーブ",
+      "scientific": "Achillea millefolium"
+    },
+    {
+      "id": "herb_0096",
+      "name": "バレリアン",
+      "category": "ハーブ",
+      "scientific": "Valeriana officinalis"
+    },
+    {
+      "id": "herb_0104",
+      "name": "ネトル",
+      "category": "ハーブ",
+      "scientific": "Urtica dioica"
+    },
+    {
+      "id": "herb_0107",
+      "name": "キャットミント",
+      "category": "ハーブ",
+      "scientific": "Nepeta × faassenii"
+    },
+    {
+      "id": "herb_0112",
+      "name": "ダマスクローズ",
+      "category": "ハーブ",
+      "scientific": "Rosa × damascena"
+    },
+    {
+      "id": "herb_0113",
+      "name": "ローズドメイ",
+      "category": "ハーブ",
+      "scientific": "Rosa × centifolia"
+    },
+    {
+      "id": "herb_0118",
+      "name": "ビターオレンジ",
+      "category": "ハーブ",
+      "scientific": "Citrus × aurantium"
+    },
+    {
+      "id": "herb_0138",
+      "name": "ホーソン",
+      "category": "ハーブ",
+      "scientific": "Crataegus monogyna"
+    },
+    {
+      "id": "herb_0139",
+      "name": "エルダーベリー",
+      "category": "ハーブ",
+      "scientific": "Sambucus nigra"
+    },
+    {
+      "id": "herb_0165",
+      "name": "グリークオレガノ",
+      "category": "ハーブ",
+      "scientific": "Origanum vulgare subsp. viridulum"
+    },
+    {
+      "id": "herb_0172",
+      "name": "チェリーセージ",
+      "category": "ハーブ",
+      "scientific": "Salvia greggii"
+    },
+    {
+      "id": "herb_0177",
+      "name": "ラバンディン",
+      "category": "ハーブ",
+      "scientific": "Lavandula × intermedia"
+    },
+    {
+      "id": "herb_0235",
+      "name": "アルファルファ",
+      "category": "ハーブ",
+      "scientific": "Medicago sativa"
+    },
+    {
+      "id": "mushroom_0061",
+      "name": "キクラゲ",
+      "category": "きのこ",
+      "scientific": "Auricularia auricula-judae"
+    },
+    {
+      "id": "mushroom_0062",
+      "name": "アラゲキクラゲ",
+      "category": "きのこ",
+      "scientific": "Auricularia polytricha"
+    },
+    {
+      "id": "mushroom_0067",
+      "name": "ナラタケ",
+      "category": "きのこ",
+      "scientific": "Armillaria mellea"
+    },
+    {
+      "id": "mushroom_0082",
+      "name": "クサウラベニタケ",
+      "category": "きのこ",
+      "scientific": "Entoloma rhodopolium"
+    },
+    {
+      "id": "mushroom_0083",
+      "name": "カキシメジ",
+      "category": "きのこ",
+      "scientific": "Tricholoma ustale"
+    },
+    {
+      "id": "mushroom_0104",
+      "name": "マンネンタケ",
+      "category": "きのこ",
+      "scientific": "Ganoderma lucidum"
+    },
+    {
+      "id": "mushroom_0122",
+      "name": "ツチグリ",
+      "category": "きのこ",
+      "scientific": "Astraeus spp."
+    },
+    {
+      "id": "mushroom_0133",
+      "name": "キヌガサタケ",
+      "category": "きのこ",
+      "scientific": "Phallus spp."
+    },
+    {
+      "id": "mushroom_0153",
+      "name": "クロアワタケ",
+      "category": "きのこ",
+      "scientific": "Retiboletus griseus"
+    },
+    {
+      "id": "mushroom_0154",
+      "name": "ベニイグチ",
+      "category": "きのこ",
+      "scientific": "Heimioporus japonicus"
+    },
+    {
+      "id": "mushroom_0157",
+      "name": "ベニタケ",
+      "category": "きのこ",
+      "scientific": "Russula spp."
+    },
+    {
+      "id": "mushroom_0169",
+      "name": "シロホウライタケ",
+      "category": "きのこ",
+      "scientific": "Marasmiellus candidus"
+    },
+    {
+      "id": "mushroom_0170",
+      "name": "ウスキテングタケ",
+      "category": "きのこ",
+      "scientific": "Amanita orientigemmata"
+    },
+    {
+      "id": "mushroom_0172",
+      "name": "フクロツルタケ",
+      "category": "きのこ",
+      "scientific": "Amanita volvata"
+    },
+    {
+      "id": "mushroom_0176",
+      "name": "アカイボカサタケ",
+      "category": "きのこ",
+      "scientific": "Entoloma kermesinum"
+    },
+    {
+      "id": "mushroom_0202",
+      "name": "トキイロラッパタケ",
+      "category": "きのこ",
+      "scientific": "Craterellus lutescens"
+    },
+    {
+      "id": "mushroom_0224",
+      "name": "トンビマイタケ",
+      "category": "きのこ",
+      "scientific": "Meripilus giganteus"
+    },
+    {
+      "id": "mushroom_0238",
+      "name": "ツチナメコ",
+      "category": "きのこ",
+      "scientific": "Cyclocybe erebia"
+    },
+    {
+      "id": "mushroom_0251",
+      "name": "キイボカサタケ",
+      "category": "きのこ",
+      "scientific": "Entoloma flavescens"
+    },
+    {
+      "id": "mushroom_0253",
+      "name": "キヌハダトマヤタケ",
+      "category": "きのこ",
+      "scientific": "Inosperma cookei"
+    },
+    {
+      "id": "mushroom_0266",
+      "name": "セイタカイグチ",
+      "category": "きのこ",
+      "scientific": "Aureoboletus russellii"
+    },
+    {
+      "id": "mushroom_0270",
+      "name": "ヌメリツバタケ",
+      "category": "きのこ",
+      "scientific": "Oudemansiella mucida"
+    },
+    {
+      "id": "mushroom_0277",
+      "name": "ヒメキシメジ",
+      "category": "きのこ",
+      "scientific": "Callistosporium luteo-olivaceum"
+    },
+    {
+      "id": "mushroom_0284",
+      "name": "ツクツクボウシタケ",
+      "category": "きのこ",
+      "scientific": "Cordyceps cicadae"
+    },
+    {
+      "id": "mushroom_0291",
+      "name": "コガネヤマドリ",
+      "category": "きのこ",
+      "scientific": "Boletus aurantiosplendens"
+    },
+    {
+      "id": "mushroom_0312",
+      "name": "キツネタケ",
+      "category": "きのこ",
+      "scientific": "Laccaria laccata"
+    },
+    {
+      "id": "mushroom_0314",
+      "name": "ムラサキシメジ",
+      "category": "きのこ",
+      "scientific": "Collybia nuda"
+    },
+    {
+      "id": "mushroom_0328",
+      "name": "アケボノアワタケ",
+      "category": "きのこ",
+      "scientific": "Harrya chromipes"
+    },
+    {
+      "id": "mushroom_0329",
+      "name": "ヒメコウジタケ",
+      "category": "きのこ",
+      "scientific": "Parvixerocomus aokii"
+    },
+    {
+      "id": "mushroom_0349",
+      "name": "キララタケ",
+      "category": "きのこ",
+      "scientific": "Coprinellus micaceus"
+    },
+    {
+      "id": "mushroom_0404",
+      "name": "ニクウスバタケ",
+      "category": "きのこ",
+      "scientific": "Irpex consors"
+    },
+    {
+      "id": "mushroom_0428",
+      "name": "サガリハリタケ",
+      "category": "きのこ",
+      "scientific": "Radulomyces copelandii"
+    },
+    {
+      "id": "mushroom_0471",
+      "name": "アミヒカリタケ",
+      "category": "きのこ",
+      "scientific": "Favolaschia manipularis"
+    },
+    {
+      "id": "mushroom_0500",
+      "name": "チヂレタケ",
+      "category": "きのこ",
+      "scientific": "Plicatura crispa"
+    },
+    {
+      "id": "rare_fruit_0003",
+      "name": "ジューンベリー",
+      "category": "珍しい果樹",
+      "scientific": "Amelanchier canadensis"
+    },
+    {
+      "id": "rare_fruit_0009",
+      "name": "クロマメノキ",
+      "category": "珍しい果樹",
+      "scientific": "Vaccinium uliginosum var. japonicum"
+    },
+    {
+      "id": "rare_fruit_0012",
+      "name": "ガンコウラン",
+      "category": "珍しい果樹",
+      "scientific": "Empetrum nigrum subsp. asiaticum"
+    },
+    {
+      "id": "rare_fruit_0013",
+      "name": "アキグミ",
+      "category": "珍しい果樹",
+      "scientific": "Elaeagnus umbellata var. umbellata"
+    },
+    {
+      "id": "rare_fruit_0023",
+      "name": "ウグイスカグラ",
+      "category": "珍しい果樹",
+      "scientific": "Lonicera gracilipes var. glabra"
+    },
+    {
+      "id": "rare_fruit_0040",
+      "name": "リンゴンベリー",
+      "category": "珍しい果樹",
+      "scientific": "Vaccinium vitis-idaea subsp. minus"
+    },
+    {
+      "id": "rare_fruit_0065",
+      "name": "エルダーベリー",
+      "category": "珍しい果樹",
+      "scientific": "Sambucus nigra"
+    },
+    {
+      "id": "rare_fruit_0068",
+      "name": "ホーソン",
+      "category": "珍しい果樹",
+      "scientific": "Crataegus monogyna"
+    },
+    {
+      "id": "rare_fruit_0074",
+      "name": "ジョスタベリー",
+      "category": "珍しい果樹",
+      "scientific": "Ribes × nidigrolaria"
+    },
+    {
+      "id": "rare_fruit_0075",
+      "name": "ボイセンベリー",
+      "category": "珍しい果樹",
+      "scientific": "Rubus ursinus × idaeus"
+    },
+    {
+      "id": "rare_fruit_0076",
+      "name": "ローガンベリー",
+      "category": "珍しい果樹",
+      "scientific": "Rubus × loganobaccus"
+    },
+    {
+      "id": "sansai_0001",
+      "name": "ワラビ",
+      "category": "山菜",
+      "scientific": "Pteridium latiusculum subsp. japonicum"
+    },
+    {
+      "id": "sansai_0005",
+      "name": "ヤマブキショウマ",
+      "category": "山菜",
+      "scientific": "Aruncus dioicus"
+    },
+    {
+      "id": "sansai_0007",
+      "name": "ノカンゾウ",
+      "category": "山菜",
+      "scientific": "Hemerocallis fulva var. disticha"
+    },
+    {
+      "id": "sansai_0010",
+      "name": "ヤマグワ",
+      "category": "山菜",
+      "scientific": "Morus indica"
+    },
+    {
+      "id": "sansai_0011",
+      "name": "オニグルミ",
+      "category": "山菜",
+      "scientific": "Juglans ailantifolia"
+    },
+    {
+      "id": "sansai_0016",
+      "name": "クロマメノキ",
+      "category": "山菜",
+      "scientific": "Vaccinium uliginosum var. japonicum"
+    },
+    {
+      "id": "sansai_0020",
+      "name": "エゴマ",
+      "category": "山菜",
+      "scientific": "Perilla frutescens var. frutescens"
+    },
+    {
+      "id": "sansai_0044",
+      "name": "アマドコロ",
+      "category": "山菜",
+      "scientific": "Polygonatum odoratum"
+    },
+    {
+      "id": "sansai_0053",
+      "name": "ヤブカンゾウ",
+      "category": "山菜",
+      "scientific": "Hemerocallis fulva var. kwanso"
+    },
+    {
+      "id": "sansai_0054",
+      "name": "シャク",
+      "category": "山菜",
+      "scientific": "Anthriscus sylvestris subsp. sylvestris"
+    },
+    {
+      "id": "sansai_0057",
+      "name": "アカザ",
+      "category": "山菜",
+      "scientific": "Chenopodium giganteum"
+    },
+    {
+      "id": "sansai_0072",
+      "name": "ヤマウコギ",
+      "category": "山菜",
+      "scientific": "Eleutherococcus spinosus var. spinosus"
+    },
+    {
+      "id": "sansai_0083",
+      "name": "ハマダイコン",
+      "category": "山菜",
+      "scientific": "Raphanus raphanistrum subsp. sativus"
+    },
+    {
+      "id": "sansai_0092",
+      "name": "コオニユリ",
+      "category": "山菜",
+      "scientific": "Lilium leichtlinii subsp. maximowiczii"
+    },
+    {
+      "id": "sansai_0103",
+      "name": "アキグミ",
+      "category": "山菜",
+      "scientific": "Elaeagnus umbellata var. umbellata"
+    },
+    {
+      "id": "sansai_0105",
+      "name": "モミジイチゴ",
+      "category": "山菜",
+      "scientific": "Rubus palmatus var. coptophyllus"
+    },
+    {
+      "id": "sansai_0119",
+      "name": "ヨブスマソウ",
+      "category": "山菜",
+      "scientific": "Parasenecio hastatus subsp. orientalis"
+    },
+    {
+      "id": "sansai_0126",
+      "name": "ヤマドリゼンマイ",
+      "category": "山菜",
+      "scientific": "Osmundastrum cinnamomeum var. fokiense"
+    },
+    {
+      "id": "sansai_0128",
+      "name": "シソ",
+      "category": "山菜",
+      "scientific": "Perilla frutescens var. crispa"
+    },
+    {
+      "id": "sansai_0131",
+      "name": "ツリガネニンジン",
+      "category": "山菜",
+      "scientific": "Adenophora triphylla var. japonica"
+    },
+    {
+      "id": "sansai_0143",
+      "name": "ゴヨウアケビ",
+      "category": "山菜",
+      "scientific": "Akebia × pentaphylla"
+    },
+    {
+      "id": "sansai_0146",
+      "name": "ハマカンゾウ",
+      "category": "山菜",
+      "scientific": "Hemerocallis fulva var. littorea"
+    },
+    {
+      "id": "sansai_0148",
+      "name": "コウヤワラビ",
+      "category": "山菜",
+      "scientific": "Onoclea sensibilis var. interrupta"
+    },
+    {
+      "id": "sansai_0153",
+      "name": "シロヨメナ",
+      "category": "山菜",
+      "scientific": "Aster ageratoides var. ageratoides"
+    },
+    {
+      "id": "sansai_0156",
+      "name": "ニガナ",
+      "category": "山菜",
+      "scientific": "Ixeridium dentatum subsp. dentatum"
+    },
+    {
+      "id": "sansai_0159",
+      "name": "ゼンテイカ",
+      "category": "山菜",
+      "scientific": "Hemerocallis middendorffii var. esculenta"
+    },
+    {
+      "id": "sansai_0160",
+      "name": "エゾネギ",
+      "category": "山菜",
+      "scientific": "Allium schoenoprasum var. schoenoprasum"
+    },
+    {
+      "id": "sansai_0163",
+      "name": "ノコンギク",
+      "category": "山菜",
+      "scientific": "Aster microcephalus var. ovatus"
+    },
+    {
+      "id": "sansai_0167",
+      "name": "タチツボスミレ",
+      "category": "山菜",
+      "scientific": "Viola grypoceras var. grypoceras"
+    },
+    {
+      "id": "sansai_0168",
+      "name": "ヤエムグラ",
+      "category": "山菜",
+      "scientific": "Galium spurium var. echinospermum"
+    },
+    {
+      "id": "sansai_0172",
+      "name": "ヒメスミレ",
+      "category": "山菜",
+      "scientific": "Viola inconspicua subsp. nagasakiensis"
+    },
+    {
+      "id": "sansai_0174",
+      "name": "ガンコウラン",
+      "category": "山菜",
+      "scientific": "Empetrum nigrum subsp. asiaticum"
+    },
+    {
+      "id": "sansai_0176",
+      "name": "エゾイチゴ",
+      "category": "山菜",
+      "scientific": "Rubus idaeus subsp. strigosus"
+    },
+    {
+      "id": "sansai_0177",
+      "name": "キジムシロ",
+      "category": "山菜",
+      "scientific": "Potentilla fragarioides var. major"
+    },
+    {
+      "id": "sansai_0180",
+      "name": "コウゾリナ",
+      "category": "山菜",
+      "scientific": "Picris japonica"
+    },
+    {
+      "id": "sansai_0181",
+      "name": "カントウタンポポ",
+      "category": "山菜",
+      "scientific": "Taraxacum platycarpum subsp. platycarpum"
+    },
+    {
+      "id": "sansai_0197",
+      "name": "ミズナラ",
+      "category": "山菜",
+      "scientific": "Quercus mongolica var. crispula"
+    },
+    {
+      "id": "sansai_0207",
+      "name": "スミレ",
+      "category": "山菜",
+      "scientific": "Viola mandshurica var. mandshurica"
+    },
+    {
+      "id": "sansai_0208",
+      "name": "ヤマニガナ",
+      "category": "山菜",
+      "scientific": "Lactuca raddeana var. elata"
+    },
+    {
+      "id": "sansai_0213",
+      "name": "アリアケスミレ",
+      "category": "山菜",
+      "scientific": "Viola betonicifolia var. albescens"
+    },
+    {
+      "id": "sansai_0222",
+      "name": "トネアザミ",
+      "category": "山菜",
+      "scientific": "Cirsium nipponicum var. incomptum"
+    },
+    {
+      "id": "tree_0011",
+      "name": "ウンシュウミカン",
+      "category": "木",
+      "scientific": "Citrus unshiu"
+    },
+    {
+      "id": "tree_0026",
+      "name": "サンゴジュ",
+      "category": "木",
+      "scientific": "Viburnum odoratissimum"
+    },
+    {
+      "id": "tree_0037",
+      "name": "マユミ",
+      "category": "木",
+      "scientific": "Euonymus hamiltonianus"
+    },
+    {
+      "id": "tree_0103",
+      "name": "オオバヤナギ",
+      "category": "木",
+      "scientific": "Salix cardiophylla subsp. urbaniana"
+    },
+    {
+      "id": "tree_0108",
+      "name": "ヒメコウゾ",
+      "category": "木",
+      "scientific": "Broussonetia monoica"
+    },
+    {
+      "id": "tree_0110",
+      "name": "イロハモミジ",
+      "category": "木",
+      "scientific": "Acer palmatum"
+    },
+    {
+      "id": "tree_0130",
+      "name": "マカダミア",
+      "category": "木",
+      "scientific": "Macadamia integrifolia"
+    },
+    {
+      "id": "tree_0138",
+      "name": "イタヤカエデ",
+      "category": "木",
+      "scientific": "Acer pictum"
+    },
+    {
+      "id": "tree_0139",
+      "name": "エンコウカエデ",
+      "category": "木",
+      "scientific": "Acer pictum subsp. dissectum"
+    },
+    {
+      "id": "tree_0146",
+      "name": "モミジバスズカケノキ",
+      "category": "木",
+      "scientific": "Platanus × hispanica"
+    },
+    {
+      "id": "tree_0158",
+      "name": "ホルトノキ",
+      "category": "木",
+      "scientific": "Elaeocarpus decipiens"
+    },
+    {
+      "id": "tree_0160",
+      "name": "ヤマハンノキ",
+      "category": "木",
+      "scientific": "Alnus hirsuta var. sibirica"
+    },
+    {
+      "id": "tree_0162",
+      "name": "ケヤマハンノキ",
+      "category": "木",
+      "scientific": "Alnus hirsuta var. hirsuta"
+    },
+    {
+      "id": "tree_0193",
+      "name": "ビロウ",
+      "category": "木",
+      "scientific": "Livistona chinensis var. subglobosa"
+    },
+    {
+      "id": "tree_0195",
+      "name": "シュロ",
+      "category": "木",
+      "scientific": "Trachycarpus fortunei"
+    },
+    {
+      "id": "tree_0199",
+      "name": "ゴンズイ",
+      "category": "木",
+      "scientific": "Staphylea japonica"
+    },
+    {
+      "id": "tree_0206",
+      "name": "キウイフルーツ",
+      "category": "木",
+      "scientific": "Actinidia chinensis var. deliciosa"
+    },
+    {
+      "id": "tree_0216",
+      "name": "バンジロウ",
+      "category": "木",
+      "scientific": "Psidium guajava"
+    },
+    {
+      "id": "tree_0226",
+      "name": "アトラスシーダー",
+      "category": "木",
+      "scientific": "Cedrus atlantica"
+    },
+    {
+      "id": "tree_0231",
+      "name": "ホワイトオーク",
+      "category": "木",
+      "scientific": "Quercus alba"
+    },
+    {
+      "id": "tree_0264",
+      "name": "ハシバミ",
+      "category": "木",
+      "scientific": "Corylus heterophylla"
+    },
+    {
+      "id": "tree_0285",
+      "name": "バッコヤナギ",
+      "category": "木",
+      "scientific": "Salix caprea"
+    },
+    {
+      "id": "yakuso_0004",
+      "name": "サネブトナツメ",
+      "category": "薬草",
+      "scientific": "Ziziphus jujuba subsp. spinosa"
+    },
+    {
+      "id": "yakuso_0038",
+      "name": "ウツボグサ",
+      "category": "薬草",
+      "scientific": "Prunella vulgaris subsp. asiatica"
+    },
+    {
+      "id": "yakuso_0042",
+      "name": "シソ",
+      "category": "薬草",
+      "scientific": "Perilla frutescens var. crispa"
+    },
+    {
+      "id": "yakuso_0043",
+      "name": "エゴマ",
+      "category": "薬草",
+      "scientific": "Perilla frutescens var. frutescens"
+    },
+    {
+      "id": "yakuso_0070",
+      "name": "ノコンギク",
+      "category": "薬草",
+      "scientific": "Aster microcephalus var. ovatus"
+    },
+    {
+      "id": "yakuso_0079",
+      "name": "ヤブカンゾウ",
+      "category": "薬草",
+      "scientific": "Hemerocallis fulva var. kwanso"
+    },
+    {
+      "id": "yakuso_0080",
+      "name": "ノカンゾウ",
+      "category": "薬草",
+      "scientific": "Hemerocallis fulva var. disticha"
+    },
+    {
+      "id": "yakuso_0088",
+      "name": "ヤマウコギ",
+      "category": "薬草",
+      "scientific": "Eleutherococcus spinosus var. spinosus"
+    },
+    {
+      "id": "yakuso_0106",
+      "name": "クロマメノキ",
+      "category": "薬草",
+      "scientific": "Vaccinium uliginosum var. japonicum"
+    },
+    {
+      "id": "yakuso_0107",
+      "name": "アキグミ",
+      "category": "薬草",
+      "scientific": "Elaeagnus umbellata var. umbellata"
+    },
+    {
+      "id": "yakuso_0135",
+      "name": "ヒキオコシ",
+      "category": "薬草",
+      "scientific": "Isodon japonicus var. japonicus"
+    },
+    {
+      "id": "yakuso_0141",
+      "name": "キジムシロ",
+      "category": "薬草",
+      "scientific": "Potentilla fragarioides var. major"
+    },
+    {
+      "id": "yakuso_0144",
+      "name": "ベニバナイチヤクソウ",
+      "category": "薬草",
+      "scientific": "Pyrola asarifolia subsp. incarnata"
+    },
+    {
+      "id": "yakuso_0145",
+      "name": "ネジキ",
+      "category": "薬草",
+      "scientific": "Lyonia ovalifolia var. elliptica"
+    },
+    {
+      "id": "yakuso_0151",
+      "name": "キク",
+      "category": "薬草",
+      "scientific": "Chrysanthemum × morifolium"
+    },
+    {
+      "id": "yakuso_0164",
+      "name": "ホタルブクロ",
+      "category": "薬草",
+      "scientific": "Campanula punctata var. punctata"
+    },
+    {
+      "id": "yakuso_0168",
+      "name": "ツリガネニンジン",
+      "category": "薬草",
+      "scientific": "Adenophora triphylla var. japonica"
+    },
+    {
+      "id": "yakuso_0189",
+      "name": "イヌツゲ",
+      "category": "薬草",
+      "scientific": "Ilex crenata var. crenata"
+    },
+    {
+      "id": "yakuso_0198",
+      "name": "キケマン",
+      "category": "薬草",
+      "scientific": "Corydalis heterocarpa var. japonica"
+    },
+    {
+      "id": "yakuso_0201",
+      "name": "ミヤマキケマン",
+      "category": "薬草",
+      "scientific": "Corydalis pallida var. tenuis"
+    },
+    {
+      "id": "yakuso_0211",
+      "name": "ハマカンゾウ",
+      "category": "薬草",
+      "scientific": "Hemerocallis fulva var. littorea"
+    },
+    {
+      "id": "yakuso_0212",
+      "name": "ゼンテイカ",
+      "category": "薬草",
+      "scientific": "Hemerocallis middendorffii var. esculenta"
+    },
+    {
+      "id": "yakuso_0221",
+      "name": "ガンコウラン",
+      "category": "薬草",
+      "scientific": "Empetrum nigrum subsp. asiaticum"
+    },
+    {
+      "id": "yakuso_0224",
+      "name": "モミジイチゴ",
+      "category": "薬草",
+      "scientific": "Rubus palmatus var. coptophyllus"
+    },
+    {
+      "id": "yakuso_0229",
+      "name": "エゾイチゴ",
+      "category": "薬草",
+      "scientific": "Rubus idaeus subsp. strigosus"
+    }
+  ],
+  "items": [
+    {
+      "id": "grass_0319",
+      "name": "ナガナギゴケ",
+      "category": "草",
+      "scientific_name": "Kindbergia praelonga",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0320",
+      "name": "ゼニゴケ",
+      "category": "草",
+      "scientific_name": "Marchantia polymorpha",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0321",
+      "name": "ジャゴケ",
+      "category": "草",
+      "scientific_name": "Conocephalum conicum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0322",
+      "name": "ハイゴケ",
+      "category": "草",
+      "scientific_name": "Hypnum plumaeforme",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0323",
+      "name": "カラフトキンモウゴケ",
+      "category": "草",
+      "scientific_name": "Ulota crispa",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0324",
+      "name": "エゾスナゴケ",
+      "category": "草",
+      "scientific_name": "Niphotrichum japonicum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0325",
+      "name": "ホソバオキナゴケ",
+      "category": "草",
+      "scientific_name": "Leucobryum juniperoideum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0326",
+      "name": "オオヒモゴケ",
+      "category": "草",
+      "scientific_name": "Aulacomnium palustre",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0327",
+      "name": "ヤマタチヒダゴケ",
+      "category": "草",
+      "scientific_name": "Orthotrichum anomalum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0328",
+      "name": "スギバミズゴケ",
+      "category": "草",
+      "scientific_name": "Sphagnum capillifolium",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0329",
+      "name": "タマゴケ",
+      "category": "草",
+      "scientific_name": "Bartramia pomiformis",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0330",
+      "name": "ヒノキゴケ",
+      "category": "草",
+      "scientific_name": "Pyrrhobryum dozyanum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0331",
+      "name": "コウヤノマンネングサ",
+      "category": "草",
+      "scientific_name": "Climacium japonicum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0332",
+      "name": "コスギゴケ",
+      "category": "草",
+      "scientific_name": "Pogonatum inflexum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0333",
+      "name": "ナミガタタチゴケ",
+      "category": "草",
+      "scientific_name": "Atrichum undulatum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0334",
+      "name": "ギンゴケ",
+      "category": "草",
+      "scientific_name": "Bryum argenteum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0335",
+      "name": "クロカワゴケ",
+      "category": "草",
+      "scientific_name": "Fontinalis antipyretica",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0336",
+      "name": "シッポゴケ",
+      "category": "草",
+      "scientific_name": "Dicranum japonicum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0337",
+      "name": "エゾネジクチゴケ",
+      "category": "草",
+      "scientific_name": "Streblotrichum convolutum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0338",
+      "name": "トヤマシノブゴケ",
+      "category": "草",
+      "scientific_name": "Thuidium kanedae",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0339",
+      "name": "ヨツバゴケ",
+      "category": "草",
+      "scientific_name": "Tetraphis pellucida",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0340",
+      "name": "コバノチョウチンゴケ",
+      "category": "草",
+      "scientific_name": "Trachycystis microphylla",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0341",
+      "name": "アオギヌゴケ",
+      "category": "草",
+      "scientific_name": "Sciuro-hypnum populeum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0342",
+      "name": "ツチノウエノコゴケ",
+      "category": "草",
+      "scientific_name": "Weissia controversa",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0343",
+      "name": "タニゴケ",
+      "category": "草",
+      "scientific_name": "Brachythecium rivulare",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0344",
+      "name": "ネズミノオゴケ",
+      "category": "草",
+      "scientific_name": "Myuroclada maximowiczii",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0345",
+      "name": "ナガバヤナギゴケ",
+      "category": "草",
+      "scientific_name": "Leptodictyum riparium",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0346",
+      "name": "オオミズゴケ",
+      "category": "草",
+      "scientific_name": "Sphagnum palustre",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0347",
+      "name": "イボミズゴケ",
+      "category": "草",
+      "scientific_name": "Sphagnum papillosum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0348",
+      "name": "ホソバミズゴケ",
+      "category": "草",
+      "scientific_name": "Sphagnum girgensohnii",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0349",
+      "name": "コモチイトゴケ",
+      "category": "草",
+      "scientific_name": "Pylaisiadelpha tenuirostris",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0350",
+      "name": "ハリヒノキゴケ",
+      "category": "草",
+      "scientific_name": "Pyrrhobryum spiniforme",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0433",
+      "name": "コウライイチイゴケ",
+      "category": "草",
+      "scientific_name": "Taxiphyllum alternans",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0439",
+      "name": "ヒメミズゴケ",
+      "category": "草",
+      "scientific_name": "Sphagnum fimbriatum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0447",
+      "name": "チャミズゴケ",
+      "category": "草",
+      "scientific_name": "Sphagnum fuscum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0460",
+      "name": "ムラサキミズゴケ",
+      "category": "草",
+      "scientific_name": "Sphagnum magellanicum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0470",
+      "name": "オオスギゴケ",
+      "category": "草",
+      "scientific_name": "Polytrichum formosum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0471",
+      "name": "ウマスギゴケ",
+      "category": "草",
+      "scientific_name": "Polytrichum commune",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0472",
+      "name": "コツボゴケ",
+      "category": "草",
+      "scientific_name": "Plagiomnium acutum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0473",
+      "name": "ウロコミズゴケ",
+      "category": "草",
+      "scientific_name": "Sphagnum squarrosum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0474",
+      "name": "ハリミズゴケ",
+      "category": "草",
+      "scientific_name": "Sphagnum cuspidatum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0475",
+      "name": "ヒロハツヤゴケ",
+      "category": "草",
+      "scientific_name": "Entodon challengeri",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0476",
+      "name": "エゾチョウチンゴケ",
+      "category": "草",
+      "scientific_name": "Trachycystis flagellaris",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0477",
+      "name": "フデゴケ",
+      "category": "草",
+      "scientific_name": "Campylopus umbellatus",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0478",
+      "name": "コセイタカスギゴケ",
+      "category": "草",
+      "scientific_name": "Pogonatum contortum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0479",
+      "name": "ハネヒツジゴケ",
+      "category": "草",
+      "scientific_name": "Sciuro-hypnum plumosum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0480",
+      "name": "フトリュウビゴケ",
+      "category": "草",
+      "scientific_name": "Loeskeobryum cavifolium",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0481",
+      "name": "コムチゴケ",
+      "category": "草",
+      "scientific_name": "Bazzania tridens",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0482",
+      "name": "ケチョウチンゴケ",
+      "category": "草",
+      "scientific_name": "Rhizomnium tuomikoskii",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0483",
+      "name": "オオバチョウチンゴケ",
+      "category": "草",
+      "scientific_name": "Plagiomnium vesicatum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0484",
+      "name": "ヒメシノブゴケ",
+      "category": "草",
+      "scientific_name": "Thuidium cymbifolium",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0485",
+      "name": "オオシノブゴケ",
+      "category": "草",
+      "scientific_name": "Thuidium tamariscinum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0486",
+      "name": "コバノエゾシノブゴケ",
+      "category": "草",
+      "scientific_name": "Thuidium delicatulum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0487",
+      "name": "ホソバミズゼニゴケ",
+      "category": "草",
+      "scientific_name": "Apopellia endiviifolia",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0488",
+      "name": "ミズゼニゴケ",
+      "category": "草",
+      "scientific_name": "Pellia epiphylla",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0490",
+      "name": "ジンガサゴケ",
+      "category": "草",
+      "scientific_name": "Reboulia hemisphaerica subsp. orientalis",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0491",
+      "name": "ヒメジャゴケ",
+      "category": "草",
+      "scientific_name": "Sandea japonica",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0492",
+      "name": "ケゼニゴケ",
+      "category": "草",
+      "scientific_name": "Dumortiera hirsuta",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0493",
+      "name": "オオハイゴケ",
+      "category": "草",
+      "scientific_name": "Stereodon pratensis",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0494",
+      "name": "クサゴケ",
+      "category": "草",
+      "scientific_name": "Callicladium haldaneanum",
+      "group": "moss",
+      "action": "掲載対象から外す候補",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "sources": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ],
+      "previous_note": "コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "applied": false
+    },
+    {
+      "id": "grass_0201",
+      "name": "クマザサ",
+      "category": "草",
+      "scientific_name": "Sasa veitchii",
+      "group": "bamboo",
+      "action": "分類方針の保留",
+      "reason": "竹・笹はイネ科で、草と樹木の両方に似た特徴をもつ。総数を理由に草や木へ移さず、竹・笹の別枠または掲載対象外を検討する。14件は未変更。",
+      "sources": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ],
+      "previous_note": "竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "applied": false
+    },
+    {
+      "id": "grass_0202",
+      "name": "チマキザサ",
+      "category": "草",
+      "scientific_name": "Sasa palmata",
+      "group": "bamboo",
+      "action": "分類方針の保留",
+      "reason": "竹・笹はイネ科で、草と樹木の両方に似た特徴をもつ。総数を理由に草や木へ移さず、竹・笹の別枠または掲載対象外を検討する。14件は未変更。",
+      "sources": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ],
+      "previous_note": "竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "applied": false
+    },
+    {
+      "id": "grass_0203",
+      "name": "ミヤコザサ",
+      "category": "草",
+      "scientific_name": "Sasa nipponica",
+      "group": "bamboo",
+      "action": "分類方針の保留",
+      "reason": "竹・笹はイネ科で、草と樹木の両方に似た特徴をもつ。総数を理由に草や木へ移さず、竹・笹の別枠または掲載対象外を検討する。14件は未変更。",
+      "sources": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ],
+      "previous_note": "竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "applied": false
+    },
+    {
+      "id": "grass_0204",
+      "name": "ネザサ",
+      "category": "草",
+      "scientific_name": "Pleioblastus argenteostriatus",
+      "group": "bamboo",
+      "action": "分類方針の保留",
+      "reason": "竹・笹はイネ科で、草と樹木の両方に似た特徴をもつ。総数を理由に草や木へ移さず、竹・笹の別枠または掲載対象外を検討する。14件は未変更。",
+      "sources": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ],
+      "previous_note": "竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "applied": false
+    },
+    {
+      "id": "grass_0205",
+      "name": "メダケ",
+      "category": "草",
+      "scientific_name": "Pleioblastus simonii",
+      "group": "bamboo",
+      "action": "分類方針の保留",
+      "reason": "竹・笹はイネ科で、草と樹木の両方に似た特徴をもつ。総数を理由に草や木へ移さず、竹・笹の別枠または掲載対象外を検討する。14件は未変更。",
+      "sources": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ],
+      "previous_note": "竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "applied": false
+    },
+    {
+      "id": "grass_0206",
+      "name": "ヤダケ",
+      "category": "草",
+      "scientific_name": "Pseudosasa japonica",
+      "group": "bamboo",
+      "action": "分類方針の保留",
+      "reason": "竹・笹はイネ科で、草と樹木の両方に似た特徴をもつ。総数を理由に草や木へ移さず、竹・笹の別枠または掲載対象外を検討する。14件は未変更。",
+      "sources": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ],
+      "previous_note": "竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "applied": false
+    },
+    {
+      "id": "grass_0207",
+      "name": "オカメザサ",
+      "category": "草",
+      "scientific_name": "Shibataea kumasaca",
+      "group": "bamboo",
+      "action": "分類方針の保留",
+      "reason": "竹・笹はイネ科で、草と樹木の両方に似た特徴をもつ。総数を理由に草や木へ移さず、竹・笹の別枠または掲載対象外を検討する。14件は未変更。",
+      "sources": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ],
+      "previous_note": "竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "applied": false
+    },
+    {
+      "id": "grass_0208",
+      "name": "スズタケ",
+      "category": "草",
+      "scientific_name": "Sasamorpha borealis",
+      "group": "bamboo",
+      "action": "分類方針の保留",
+      "reason": "竹・笹はイネ科で、草と樹木の両方に似た特徴をもつ。総数を理由に草や木へ移さず、竹・笹の別枠または掲載対象外を検討する。14件は未変更。",
+      "sources": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ],
+      "previous_note": "竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "applied": false
+    },
+    {
+      "id": "grass_0209",
+      "name": "カンチク",
+      "category": "草",
+      "scientific_name": "Chimonobambusa marmorea",
+      "group": "bamboo",
+      "action": "分類方針の保留",
+      "reason": "竹・笹はイネ科で、草と樹木の両方に似た特徴をもつ。総数を理由に草や木へ移さず、竹・笹の別枠または掲載対象外を検討する。14件は未変更。",
+      "sources": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ],
+      "previous_note": "竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "applied": false
+    },
+    {
+      "id": "grass_0210",
+      "name": "トウチク",
+      "category": "草",
+      "scientific_name": "Sinobambusa tootsik",
+      "group": "bamboo",
+      "action": "分類方針の保留",
+      "reason": "竹・笹はイネ科で、草と樹木の両方に似た特徴をもつ。総数を理由に草や木へ移さず、竹・笹の別枠または掲載対象外を検討する。14件は未変更。",
+      "sources": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ],
+      "previous_note": "竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "applied": false
+    },
+    {
+      "id": "grass_0373",
+      "name": "クマイザサ",
+      "category": "草",
+      "scientific_name": "Sasa senanensis",
+      "group": "bamboo",
+      "action": "分類方針の保留",
+      "reason": "竹・笹はイネ科で、草と樹木の両方に似た特徴をもつ。総数を理由に草や木へ移さず、竹・笹の別枠または掲載対象外を検討する。14件は未変更。",
+      "sources": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ],
+      "previous_note": "竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "applied": false
+    },
+    {
+      "id": "grass_0380",
+      "name": "チシマザサ",
+      "category": "草",
+      "scientific_name": "Sasa kurilensis",
+      "group": "bamboo",
+      "action": "分類方針の保留",
+      "reason": "竹・笹はイネ科で、草と樹木の両方に似た特徴をもつ。総数を理由に草や木へ移さず、竹・笹の別枠または掲載対象外を検討する。14件は未変更。",
+      "sources": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ],
+      "previous_note": "竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "applied": false
+    },
+    {
+      "id": "grass_0402",
+      "name": "イブキザサ",
+      "category": "草",
+      "scientific_name": "Sasa tsuboiana",
+      "group": "bamboo",
+      "action": "分類方針の保留",
+      "reason": "竹・笹はイネ科で、草と樹木の両方に似た特徴をもつ。総数を理由に草や木へ移さず、竹・笹の別枠または掲載対象外を検討する。14件は未変更。",
+      "sources": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ],
+      "previous_note": "竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "applied": false
+    },
+    {
+      "id": "grass_0403",
+      "name": "ミヤマクマザサ",
+      "category": "草",
+      "scientific_name": "Sasa hayatae",
+      "group": "bamboo",
+      "action": "分類方針の保留",
+      "reason": "竹・笹はイネ科で、草と樹木の両方に似た特徴をもつ。総数を理由に草や木へ移さず、竹・笹の別枠または掲載対象外を検討する。14件は未変更。",
+      "sources": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ],
+      "previous_note": "竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0400",
+      "name": "ウメノキゴケ",
+      "category": "きのこ",
+      "scientific_name": "Parmotrema tinctorum",
+      "group": "lichen",
+      "action": "掲載対象から外す候補",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "sources": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ],
+      "previous_note": "地衣類。菌類と藻類などの共生体で、一般的なきのことは異なる。既存のきのこジャンルで菌類に関連する仲間として扱い、地衣類であることを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0408",
+      "name": "キウメノキゴケ",
+      "category": "きのこ",
+      "scientific_name": "Flavoparmelia caperata",
+      "group": "lichen",
+      "action": "掲載対象から外す候補",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "sources": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ],
+      "previous_note": "地衣類。菌類と藻類などの共生体で、一般的なきのことは異なる。既存のきのこジャンルで菌類に関連する仲間として扱い、地衣類であることを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0414",
+      "name": "ナミガタウメノキゴケ",
+      "category": "きのこ",
+      "scientific_name": "Parmotrema austrosinense",
+      "group": "lichen",
+      "action": "掲載対象から外す候補",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "sources": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ],
+      "previous_note": "地衣類。菌類と藻類などの共生体で、一般的なきのことは異なる。既存のきのこジャンルで菌類に関連する仲間として扱い、地衣類であることを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0437",
+      "name": "コフキメダルチイ",
+      "category": "きのこ",
+      "scientific_name": "Dirinaria applanata",
+      "group": "lichen",
+      "action": "掲載対象から外す候補",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "sources": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ],
+      "previous_note": "地衣類。菌類と藻類などの共生体で、一般的なきのことは異なる。既存のきのこジャンルで菌類に関連する仲間として扱い、地衣類であることを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0445",
+      "name": "ヘリトリゴケ",
+      "category": "きのこ",
+      "scientific_name": "Porpidia albocaerulescens",
+      "group": "lichen",
+      "action": "掲載対象から外す候補",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "sources": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ],
+      "previous_note": "地衣類。菌類と藻類などの共生体で、一般的なきのことは異なる。既存のきのこジャンルで菌類に関連する仲間として扱い、地衣類であることを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0455",
+      "name": "マツゲゴケ",
+      "category": "きのこ",
+      "scientific_name": "Parmotrema clavuliferum",
+      "group": "lichen",
+      "action": "掲載対象から外す候補",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "sources": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ],
+      "previous_note": "地衣類。菌類と藻類などの共生体で、一般的なきのことは異なる。既存のきのこジャンルで菌類に関連する仲間として扱い、地衣類であることを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0457",
+      "name": "ロウソクゴケ（広義）",
+      "category": "きのこ",
+      "scientific_name": "Candelaria concolor",
+      "group": "lichen",
+      "action": "掲載対象から外す候補",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "sources": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ],
+      "previous_note": "地衣類。菌類と藻類などの共生体で、一般的なきのことは異なる。既存のきのこジャンルで菌類に関連する仲間として扱い、地衣類であることを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0464",
+      "name": "ツブダイダイゴケ",
+      "category": "きのこ",
+      "scientific_name": "Gyalolechia flavovirescens",
+      "group": "lichen",
+      "action": "掲載対象から外す候補",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "sources": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ],
+      "previous_note": "地衣類。菌類と藻類などの共生体で、一般的なきのことは異なる。既存のきのこジャンルで菌類に関連する仲間として扱い、地衣類であることを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0468",
+      "name": "ハクテンゴケ",
+      "category": "きのこ",
+      "scientific_name": "Punctelia borreri",
+      "group": "lichen",
+      "action": "掲載対象から外す候補",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "sources": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ],
+      "previous_note": "地衣類。菌類と藻類などの共生体で、一般的なきのことは異なる。既存のきのこジャンルで菌類に関連する仲間として扱い、地衣類であることを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0469",
+      "name": "レプラゴケ",
+      "category": "きのこ",
+      "scientific_name": "Lepraria finkii",
+      "group": "lichen",
+      "action": "掲載対象から外す候補",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "sources": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ],
+      "previous_note": "地衣類。菌類と藻類などの共生体で、一般的なきのことは異なる。既存のきのこジャンルで菌類に関連する仲間として扱い、地衣類であることを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0479",
+      "name": "ヒメジョウゴゴケ",
+      "category": "きのこ",
+      "scientific_name": "Cladonia kurokawae",
+      "group": "lichen",
+      "action": "掲載対象から外す候補",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "sources": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ],
+      "previous_note": "地衣類。菌類と藻類などの共生体で、一般的なきのことは異なる。既存のきのこジャンルで菌類に関連する仲間として扱い、地衣類であることを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0482",
+      "name": "コアカミゴケ",
+      "category": "きのこ",
+      "scientific_name": "Cladonia macilenta",
+      "group": "lichen",
+      "action": "掲載対象から外す候補",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "sources": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ],
+      "previous_note": "地衣類。菌類と藻類などの共生体で、一般的なきのことは異なる。既存のきのこジャンルで菌類に関連する仲間として扱い、地衣類であることを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0447",
+      "name": "カシ類紫かび病菌",
+      "category": "きのこ",
+      "scientific_name": "Cystotheca wrightii",
+      "group": "pathogen",
+      "action": "掲載対象から外す候補",
+      "reason": "病原菌の登録を通常のきのこ一覧に含めると、使う人が探す対象との違いが大きい。現在のきのこ一覧から外す候補。種類の判定は過去の確認記録を参照。",
+      "sources": [],
+      "previous_note": "植物病原菌などの菌類。一般に見られるきのこの子実体を示す分類ではない。既存のきのこジャンルで菌類として扱い、この違いを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0449",
+      "name": "エノキ裏うどんこ病菌",
+      "category": "きのこ",
+      "scientific_name": "Pleochaeta shiraiana",
+      "group": "pathogen",
+      "action": "掲載対象から外す候補",
+      "reason": "病原菌の登録を通常のきのこ一覧に含めると、使う人が探す対象との違いが大きい。現在のきのこ一覧から外す候補。種類の判定は過去の確認記録を参照。",
+      "sources": [],
+      "previous_note": "植物病原菌などの菌類。一般に見られるきのこの子実体を示す分類ではない。既存のきのこジャンルで菌類として扱い、この違いを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0472",
+      "name": "アオキ星型すす病菌",
+      "category": "きのこ",
+      "scientific_name": "Asterina aucubae",
+      "group": "pathogen",
+      "action": "掲載対象から外す候補",
+      "reason": "病原菌の登録を通常のきのこ一覧に含めると、使う人が探す対象との違いが大きい。現在のきのこ一覧から外す候補。種類の判定は過去の確認記録を参照。",
+      "sources": [],
+      "previous_note": "植物病原菌などの菌類。一般に見られるきのこの子実体を示す分類ではない。既存のきのこジャンルで菌類として扱い、この違いを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0484",
+      "name": "メダケ赤衣病菌",
+      "category": "きのこ",
+      "scientific_name": "Stereostratum corticioides",
+      "group": "pathogen",
+      "action": "掲載対象から外す候補",
+      "reason": "病原菌の登録を通常のきのこ一覧に含めると、使う人が探す対象との違いが大きい。現在のきのこ一覧から外す候補。種類の判定は過去の確認記録を参照。",
+      "sources": [],
+      "previous_note": "植物病原菌などの菌類。一般に見られるきのこの子実体を示す分類ではない。既存のきのこジャンルで菌類として扱い、この違いを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "mushroom_0487",
+      "name": "白きょう病菌",
+      "category": "きのこ",
+      "scientific_name": "Beauveria bassiana",
+      "group": "pathogen",
+      "action": "掲載対象から外す候補",
+      "reason": "病原菌の登録を通常のきのこ一覧に含めると、使う人が探す対象との違いが大きい。現在のきのこ一覧から外す候補。種類の判定は過去の確認記録を参照。",
+      "sources": [],
+      "previous_note": "植物病原菌などの菌類。一般に見られるきのこの子実体を示す分類ではない。既存のきのこジャンルで菌類として扱い、この違いを明記。食用を意味しない。",
+      "applied": false
+    },
+    {
+      "id": "herb_0015",
+      "name": "ゼラニウム",
+      "category": "ハーブ",
+      "scientific_name": "Pelargonium × hybridum",
+      "group": "herb",
+      "action": "観賞植物へ整理する候補",
+      "reason": "登録学名は Pelargonium × hybridum。観賞用ゼラニウムであり、ハーブの香りを利用する別種と区別。花 flower_0443（Pelargonium、属の総称）がある。花への移動または総称との整理候補。属と交雑種は同一の分類単位ではないため、単純な重複削除はしない。",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/pelargonium-x-hybridum/"
+      ],
+      "previous_note": "ゼラニウムという名称は広い。主に花を観賞する園芸種と香りを利用するセンテッドゼラニウムを区別。ハーブの用途がすべての種・品種に当てはまるとは扱わない。既存ジャンルは維持。",
+      "applied": false
+    },
+    {
+      "id": "herb_0029",
+      "name": "ハイビスカス",
+      "category": "ハーブ",
+      "scientific_name": "Hibiscus × rosa-sinensis",
+      "group": "herb",
+      "action": "観賞植物へ整理する候補",
+      "reason": "登録学名は Hibiscus × rosa-sinensis。花を観賞する低木で、花の木が適切な候補。flower_tree_0037（Hibiscus spp.、総称）がある。移動または総称との整理候補。属の総称と交雑種を同一と断定して統合しない。",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/hibiscus-rosa-sinensis/common-name/chinese-hibiscus/"
+      ],
+      "previous_note": "ハイビスカス。花の観賞植物と、飲料などに使われるローゼルを区別。この登録種がハイビスカスティーの原料とは扱わない。既存ジャンルは維持。",
+      "applied": false
+    },
+    {
+      "id": "flower_0082",
+      "name": "クレマチス",
+      "category": "花",
+      "scientific_name": "Clematis",
+      "group": "broad",
+      "action": "総称として保持する候補",
+      "reason": "属を示す園芸上の総称として扱うこと自体は可能。厳密な種名や一律の草本・木本の判定はしない。分類先は観賞目的と登録範囲に基づいて判断し、数合わせによる除外はしない。",
+      "sources": [],
+      "previous_note": "属単位の広い園芸名。種・品種による生活型の違いを含むため、花の観賞を目的とする既存ジャンルを維持。木本か草本かを全種類に一律に断定しない。",
+      "applied": false
+    },
+    {
+      "id": "flower_0129",
+      "name": "マンデビラ",
+      "category": "花",
+      "scientific_name": "Mandevilla",
+      "group": "broad",
+      "action": "総称として保持する候補",
+      "reason": "属を示す園芸上の総称として扱うこと自体は可能。厳密な種名や一律の草本・木本の判定はしない。分類先は観賞目的と登録範囲に基づいて判断し、数合わせによる除外はしない。",
+      "sources": [],
+      "previous_note": "属単位の広い園芸名。種・品種による生活型の違いを含むため、花の観賞を目的とする既存ジャンルを維持。木本か草本かを全種類に一律に断定しない。",
+      "applied": false
+    },
+    {
+      "id": "sansai_0153",
+      "name": "シロヨメナ",
+      "category": "山菜",
+      "reason": "和名と登録学名の分類範囲が未確定。要確認を残す。山菜という利用目的まで資料で確認できているかは追加確認が必要。",
+      "group": "unresolved_content",
+      "action": "要確認を維持・掲載保留の候補",
+      "applied": false
+    },
+    {
+      "id": "yakuso_0135",
+      "name": "ヒキオコシ",
+      "category": "薬草",
+      "reason": "種の情報は確認できるが、登録変種に限定した情報との照合が未完了。変種まで未確認というだけで掲載除外と断定しない。",
+      "group": "unresolved_content",
+      "action": "要確認を維持・掲載保留の候補",
+      "applied": false
+    },
+    {
+      "id": "herb_0043",
+      "name": "カシア",
+      "category": "ハーブ",
+      "reason": "登録学名の著者・異名の扱いが資料間で異なる。採用した植物の対応を確定できないため、要確認または掲載保留の候補。",
+      "group": "unresolved_content",
+      "action": "要確認を維持・掲載保留の候補",
+      "applied": false
+    },
+    {
+      "id": "rare_fruit_0113",
+      "name": "ロンコン",
+      "category": "珍しい果樹",
+      "reason": "登録学名と果樹のロンコンの対応が未確定。別種の資料を移し替えず、要確認または掲載保留の候補。",
+      "group": "unresolved_content",
+      "action": "要確認を維持・掲載保留の候補",
+      "applied": false
+    }
+  ]
+}
