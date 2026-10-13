@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-13T10:12:44.043743",
+  "records": 2700,
+  "reviewed": 181,
+  "classification_reference_flags_closed": 104,
+  "remaining_classification_scopes": 77,
+  "source_requests_errors": 0,
+  "image_changes": 0,
+  "genre_changes": 0,
+  "search_index_changes": 0,
+  "excluded_archive_changes": 0,
+  "unrelated_records_changed": 0,
+  "errors": []
+}

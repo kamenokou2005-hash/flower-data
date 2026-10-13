@@ -29,7 +29,7 @@
       "genus": "ワラビ属",
       "species": "Pteridium latiusculum subsp. japonicum"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目grass_0041の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目grass_0041の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%A9%E3%83%93",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%A9%E3%83%93",
@@ -70,7 +70,43 @@
     ],
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/873950?locale=ja",
+      "registered_scientific_name": "Pteridium latiusculum subsp. japonicum",
+      "source_scientific_name": "Pteridium latiusculum japonicum",
+      "source_rank": "subspecies",
+      "source_japanese_name": "ワラビ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Polypodiales",
+        "rank": "order",
+        "preferred_common_name": "ウラボシ目"
+      },
+      {
+        "name": "Dennstaedtiaceae",
+        "rank": "family",
+        "preferred_common_name": "コバノイシカグマ科"
+      },
+      {
+        "name": "Pteridium",
+        "rank": "genus",
+        "preferred_common_name": "ワラビ属"
+      }
+    ]
   },
   {
     "id": "sansai_0002",
@@ -304,7 +340,7 @@
       "genus": "Aruncus属",
       "species": "Aruncus dioicus"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%96%E3%82%AD%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%96%E3%82%AD%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E",
@@ -336,7 +372,43 @@
     "food_use_status": "第1群確認済み",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/75600?locale=ja",
+      "registered_scientific_name": "Aruncus dioicus",
+      "source_scientific_name": "Aruncus dioicus",
+      "source_rank": "species",
+      "source_japanese_name": "ヤマブキショウマ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Rosales",
+        "rank": "order",
+        "preferred_common_name": "バラ目"
+      },
+      {
+        "name": "Rosaceae",
+        "rank": "family",
+        "preferred_common_name": "バラ科"
+      },
+      {
+        "name": "Aruncus",
+        "rank": "genus",
+        "preferred_common_name": "ヤマブキショウマ属"
+      }
+    ]
   },
   {
     "id": "sansai_0006",
@@ -429,7 +501,7 @@
       "genus": "Hemerocallis属",
       "species": "Hemerocallis fulva var. disticha"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
     "plant_source_url": "https://mikawanoyasou.org/data/nokanzou.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/nokanzou.htm",
@@ -461,7 +533,43 @@
     "food_use_status": "第1群確認済み",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/1414562?locale=ja",
+      "registered_scientific_name": "Hemerocallis fulva var. disticha",
+      "source_scientific_name": "Hemerocallis fulva disticha",
+      "source_rank": "variety",
+      "source_japanese_name": "ノカンゾウ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Asparagales",
+        "rank": "order",
+        "preferred_common_name": "キジカクシ目"
+      },
+      {
+        "name": "Asphodelaceae",
+        "rank": "family",
+        "preferred_common_name": "ツルボラン科"
+      },
+      {
+        "name": "Hemerocallis",
+        "rank": "genus",
+        "preferred_common_name": "ワスレグサ属"
+      }
+    ]
   },
   {
     "id": "sansai_0008",
@@ -624,7 +732,7 @@
       "genus": "クワ属",
       "species": "Morus indica"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0107の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0107の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
     "plant_source_url": "https://mikawanoyasou.org/data/yamaguwa.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/yamaguwa.htm",
@@ -665,7 +773,43 @@
     ],
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/773801?locale=ja",
+      "registered_scientific_name": "Morus indica",
+      "source_scientific_name": "Morus indica",
+      "source_rank": "species",
+      "source_japanese_name": "ヤマグワ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Rosales",
+        "rank": "order",
+        "preferred_common_name": "バラ目"
+      },
+      {
+        "name": "Moraceae",
+        "rank": "family",
+        "preferred_common_name": "クワ科"
+      },
+      {
+        "name": "Morus",
+        "rank": "genus",
+        "preferred_common_name": "クワ属"
+      }
+    ]
   },
   {
     "id": "sansai_0011",
@@ -697,7 +841,7 @@
       "genus": "クルミ属",
       "species": "Juglans ailantifolia"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%82%B0%E3%83%AB%E3%83%9F",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%82%B0%E3%83%AB%E3%83%9F",
@@ -739,7 +883,43 @@
     ],
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/122793?locale=ja",
+      "registered_scientific_name": "Juglans ailantifolia",
+      "source_scientific_name": "Juglans ailantifolia",
+      "source_rank": "species",
+      "source_japanese_name": "オニグルミ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Fagales",
+        "rank": "order",
+        "preferred_common_name": "ブナ目"
+      },
+      {
+        "name": "Juglandaceae",
+        "rank": "family",
+        "preferred_common_name": "クルミ科"
+      },
+      {
+        "name": "Juglans",
+        "rank": "genus",
+        "preferred_common_name": "クルミ属"
+      }
+    ]
   },
   {
     "id": "sansai_0012",
@@ -1026,7 +1206,7 @@
       "genus": "スノキ属",
       "species": "Vaccinium uliginosum var. japonicum"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
@@ -1058,7 +1238,43 @@
     "food_use_status": "第1群確認済み",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/857265?locale=ja",
+      "registered_scientific_name": "Vaccinium uliginosum var. japonicum",
+      "source_scientific_name": "Vaccinium uliginosum japonicum",
+      "source_rank": "variety",
+      "source_japanese_name": "クロマメノキ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Ericales",
+        "rank": "order",
+        "preferred_common_name": "ツツジ目"
+      },
+      {
+        "name": "Ericaceae",
+        "rank": "family",
+        "preferred_common_name": "ツツジ科"
+      },
+      {
+        "name": "Vaccinium",
+        "rank": "genus",
+        "preferred_common_name": "スノキ属"
+      }
+    ]
   },
   {
     "id": "sansai_0017",
@@ -1291,7 +1507,7 @@
       "genus": "Perilla属",
       "species": "Perilla frutescens var. frutescens"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Perilla",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Perilla",
@@ -1323,7 +1539,43 @@
     "food_use_status": "第1群確認済み",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/242112?locale=ja",
+      "registered_scientific_name": "Perilla frutescens var. frutescens",
+      "source_scientific_name": "Perilla frutescens frutescens",
+      "source_rank": "variety",
+      "source_japanese_name": "エゴマ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Lamiales",
+        "rank": "order",
+        "preferred_common_name": "シソ目"
+      },
+      {
+        "name": "Lamiaceae",
+        "rank": "family",
+        "preferred_common_name": "シソ科"
+      },
+      {
+        "name": "Perilla",
+        "rank": "genus",
+        "preferred_common_name": "シソ属"
+      }
+    ]
   },
   {
     "id": "sansai_0021",
@@ -2869,7 +3121,7 @@
       "genus": "Polygonatum属",
       "species": "Polygonatum odoratum"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目flower_0484の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目flower_0484の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%89%E3%82%B3%E3%83%AD",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%89%E3%82%B3%E3%83%AD",
@@ -2910,7 +3162,43 @@
     ],
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/61454?locale=ja",
+      "registered_scientific_name": "Polygonatum odoratum",
+      "source_scientific_name": "Polygonatum odoratum",
+      "source_rank": "species",
+      "source_japanese_name": "アマドコロ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Asparagales",
+        "rank": "order",
+        "preferred_common_name": "キジカクシ目"
+      },
+      {
+        "name": "Asparagaceae",
+        "rank": "family",
+        "preferred_common_name": "キジカクシ科"
+      },
+      {
+        "name": "Polygonatum",
+        "rank": "genus",
+        "preferred_common_name": "アマドコロ属"
+      }
+    ]
   },
   {
     "id": "sansai_0045",
@@ -3478,7 +3766,7 @@
       "genus": "Hemerocallis属",
       "species": "Hemerocallis fulva var. kwanso"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%96%E3%82%AB%E3%83%B3%E3%82%BE%E3%82%A6",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%96%E3%82%AB%E3%83%B3%E3%82%BE%E3%82%A6",
@@ -3498,7 +3786,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -3521,7 +3809,43 @@
     "remaining105_review_note": "熊本大学の変種名の資料と森林総合研究所のヤブカンゾウ解説を照合。効能や食用方法は補完していない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/359318?locale=ja",
+      "registered_scientific_name": "Hemerocallis fulva var. kwanso",
+      "source_scientific_name": "Hemerocallis fulva kwanso",
+      "source_rank": "variety",
+      "source_japanese_name": "ヤブカンゾウ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Asparagales",
+        "rank": "order",
+        "preferred_common_name": "キジカクシ目"
+      },
+      {
+        "name": "Asphodelaceae",
+        "rank": "family",
+        "preferred_common_name": "ツルボラン科"
+      },
+      {
+        "name": "Hemerocallis",
+        "rank": "genus",
+        "preferred_common_name": "ワスレグサ属"
+      }
+    ]
   },
   {
     "id": "sansai_0054",
@@ -3554,7 +3878,7 @@
       "genus": "Anthriscus属",
       "species": "Anthriscus sylvestris subsp. sylvestris"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%AF",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%AF",
@@ -3572,7 +3896,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -3599,7 +3923,43 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/546896?locale=ja",
+      "registered_scientific_name": "Anthriscus sylvestris subsp. sylvestris",
+      "source_scientific_name": "Anthriscus sylvestris sylvestris",
+      "source_rank": "subspecies",
+      "source_japanese_name": "シャク",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Apiales",
+        "rank": "order",
+        "preferred_common_name": "セリ目"
+      },
+      {
+        "name": "Apiaceae",
+        "rank": "family",
+        "preferred_common_name": "セリ科"
+      },
+      {
+        "name": "Anthriscus",
+        "rank": "genus",
+        "preferred_common_name": "シャク属"
+      }
+    ]
   },
   {
     "id": "sansai_0055",
@@ -3779,7 +4139,7 @@
       "genus": "アカザ属",
       "species": "Chenopodium giganteum"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。元データの魚Liobagrus reiniiとの同名誤対応を修正。国内資料のChenopodium album var. centrorubrumはKew POWOでChenopodium giganteumの異名とされる。資料間の分類差は要確認。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。元データの魚Liobagrus reiniiとの同名誤対応を修正。国内資料のChenopodium album var. centrorubrumはKew POWOでChenopodium giganteumの異名とされる。資料間の分類差は要確認。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://www.naro.go.jp/laboratory/tarc/weed/oybeanweeds/025473.html",
     "content_source_urls": [
       "https://www.naro.go.jp/laboratory/tarc/weed/oybeanweeds/025473.html",
@@ -3803,7 +4163,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -3834,7 +4194,43 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/208769?locale=ja",
+      "registered_scientific_name": "Chenopodium giganteum",
+      "source_scientific_name": "Chenopodium giganteum",
+      "source_rank": "species",
+      "source_japanese_name": "タカサゴムラサキアカザ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Caryophyllales",
+        "rank": "order",
+        "preferred_common_name": "ナデシコ目"
+      },
+      {
+        "name": "Amaranthaceae",
+        "rank": "family",
+        "preferred_common_name": "ヒユ科"
+      },
+      {
+        "name": "Chenopodium",
+        "rank": "genus",
+        "preferred_common_name": "アカザ属"
+      }
+    ]
   },
   {
     "id": "sansai_0058",
@@ -4881,7 +5277,7 @@
       "genus": "Eleutherococcus属",
       "species": "Eleutherococcus spinosus var. spinosus"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / iNaturalistの不自然なvarspinosus表記を国立科学博物館のヤマウコギ標本資料と照合し、var. spinosusへ修正。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / iNaturalistの不自然なvarspinosus表記を国立科学博物館のヤマウコギ標本資料と照合し、var. spinosusへ修正。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。\n国立科学博物館の標本 TNS-VS-439894 により、ヤマウコギと Eleutherococcus spinosus var. spinosus の対応を再確認。APIの varspinosus という不自然な表記へ戻さない。写真の厳密な変種同定や生態の未確認範囲は別に扱う。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%A6%E3%82%B3%E3%82%AE",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%A6%E3%82%B3%E3%82%AE",
@@ -4901,7 +5297,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -4925,7 +5321,43 @@
     "remaining105_review_note": "変種名は国立科学博物館のヤマウコギ標本で確認。生態と形態は同じ和名の種レベルの大学資料も参照しており、変種の厳密な同定を意味しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/1679440?locale=ja",
+      "registered_scientific_name": "Eleutherococcus spinosus var. spinosus",
+      "source_scientific_name": "Eleutherococcus spinosus varspinosus",
+      "source_rank": "variety",
+      "source_japanese_name": "ヤマウコギ",
+      "relation": "source_spelling_corrected_by_specimen",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Apiales",
+        "rank": "order",
+        "preferred_common_name": "セリ目"
+      },
+      {
+        "name": "Araliaceae",
+        "rank": "family",
+        "preferred_common_name": "ウコギ科"
+      },
+      {
+        "name": "Eleutherococcus",
+        "rank": "genus",
+        "preferred_common_name": "ウコギ属"
+      }
+    ]
   },
   {
     "id": "sansai_0073",
@@ -5699,7 +6131,7 @@
       "genus": "Raphanus属",
       "species": "Raphanus raphanistrum subsp. sativus"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%83%80%E3%82%A4%E3%82%B3%E3%83%B3",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%83%80%E3%82%A4%E3%82%B3%E3%83%B3",
@@ -5717,7 +6149,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -5744,7 +6176,43 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/995125?locale=ja",
+      "registered_scientific_name": "Raphanus raphanistrum subsp. sativus",
+      "source_scientific_name": "Raphanus raphanistrum sativus",
+      "source_rank": "subspecies",
+      "source_japanese_name": "ハマダイコン",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Brassicales",
+        "rank": "order",
+        "preferred_common_name": "アブラナ目"
+      },
+      {
+        "name": "Brassicaceae",
+        "rank": "family",
+        "preferred_common_name": "アブラナ科"
+      },
+      {
+        "name": "Raphanus",
+        "rank": "genus",
+        "preferred_common_name": "ダイコン属"
+      }
+    ]
   },
   {
     "id": "sansai_0084",
@@ -6368,7 +6836,7 @@
       "genus": "ユリ属",
       "species": "Lilium leichtlinii subsp. maximowiczii"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AA%E3%83%8B%E3%83%A6%E3%83%AA",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AA%E3%83%8B%E3%83%A6%E3%83%AA",
@@ -6386,7 +6854,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -6413,7 +6881,43 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/244831?locale=ja",
+      "registered_scientific_name": "Lilium leichtlinii subsp. maximowiczii",
+      "source_scientific_name": "Lilium leichtlinii maximowiczii",
+      "source_rank": "subspecies",
+      "source_japanese_name": "コオニユリ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Liliales",
+        "rank": "order",
+        "preferred_common_name": "ユリ目"
+      },
+      {
+        "name": "Liliaceae",
+        "rank": "family",
+        "preferred_common_name": "ユリ科"
+      },
+      {
+        "name": "Lilium",
+        "rank": "genus",
+        "preferred_common_name": "ユリ属"
+      }
+    ]
   },
   {
     "id": "sansai_0093",
@@ -7175,7 +7679,7 @@
       "genus": "グミ属",
       "species": "Elaeagnus umbellata var. umbellata"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0208の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0208の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://mikawanoyasou.org/data/akigumi.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/akigumi.htm",
@@ -7192,7 +7696,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -7217,7 +7721,43 @@
     ],
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/1059298?locale=ja",
+      "registered_scientific_name": "Elaeagnus umbellata var. umbellata",
+      "source_scientific_name": "Elaeagnus umbellata umbellata",
+      "source_rank": "variety",
+      "source_japanese_name": "アキグミ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Rosales",
+        "rank": "order",
+        "preferred_common_name": "バラ目"
+      },
+      {
+        "name": "Elaeagnaceae",
+        "rank": "family",
+        "preferred_common_name": "グミ科"
+      },
+      {
+        "name": "Elaeagnus",
+        "rank": "genus",
+        "preferred_common_name": "グミ属"
+      }
+    ]
   },
   {
     "id": "sansai_0104",
@@ -7322,7 +7862,7 @@
       "genus": "Rubus属",
       "species": "Rubus palmatus var. coptophyllus"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%9F%E3%82%B8%E3%82%A4%E3%83%81%E3%82%B4",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%9F%E3%82%B8%E3%82%A4%E3%83%81%E3%82%B4",
@@ -7342,7 +7882,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -7365,7 +7905,43 @@
     "remaining105_review_note": "採用学名の変種 coptophyllus を扱う日光植物園の記録と植物写真資料を照合。食用・薬用の安全性は補完していない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/452046?locale=ja",
+      "registered_scientific_name": "Rubus palmatus var. coptophyllus",
+      "source_scientific_name": "Rubus palmatus coptophyllus",
+      "source_rank": "variety",
+      "source_japanese_name": "モミジイチゴ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Rosales",
+        "rank": "order",
+        "preferred_common_name": "バラ目"
+      },
+      {
+        "name": "Rosaceae",
+        "rank": "family",
+        "preferred_common_name": "バラ科"
+      },
+      {
+        "name": "Rubus",
+        "rank": "genus",
+        "preferred_common_name": "キイチゴ属"
+      }
+    ]
   },
   {
     "id": "sansai_0106",
@@ -8369,7 +8945,7 @@
       "genus": "Parasenecio属",
       "species": "Parasenecio hastatus subsp. orientalis"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%96%E3%82%B9%E3%83%9E%E3%82%BD%E3%82%A6",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%96%E3%82%B9%E3%83%9E%E3%82%BD%E3%82%A6",
@@ -8387,7 +8963,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -8408,7 +8984,43 @@
     "remaining105_review_note": "採用学名 subsp. orientalis を用いた観察・解説資料を確認。別資料は Parasenecio robustus として扱うため、学名の扱いには差がある。説明は国内のヨブスマソウの範囲に限定。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/551514?locale=ja",
+      "registered_scientific_name": "Parasenecio hastatus subsp. orientalis",
+      "source_scientific_name": "Parasenecio hastatus orientalis",
+      "source_rank": "subspecies",
+      "source_japanese_name": "ヨブスマソウ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Asterales",
+        "rank": "order",
+        "preferred_common_name": "キク目"
+      },
+      {
+        "name": "Asteraceae",
+        "rank": "family",
+        "preferred_common_name": "キク科"
+      },
+      {
+        "name": "Parasenecio",
+        "rank": "genus",
+        "preferred_common_name": "コウモリソウ属"
+      }
+    ]
   },
   {
     "id": "sansai_0120",
@@ -8879,7 +9491,7 @@
       "genus": "Osmundastrum属",
       "species": "Osmundastrum cinnamomeum var. fokiense"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目grass_0438の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目grass_0438の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://mikawanoyasou.org/sida/yamadorizenmai.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/sida/yamadorizenmai.htm",
@@ -8896,7 +9508,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -8921,7 +9533,43 @@
     ],
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/714113?locale=ja",
+      "registered_scientific_name": "Osmundastrum cinnamomeum var. fokiense",
+      "source_scientific_name": "Osmundastrum cinnamomeum fokiense",
+      "source_rank": "variety",
+      "source_japanese_name": "ヤマドリゼンマイ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Osmundales",
+        "rank": "order",
+        "preferred_common_name": null
+      },
+      {
+        "name": "Osmundaceae",
+        "rank": "family",
+        "preferred_common_name": null
+      },
+      {
+        "name": "Osmundastrum",
+        "rank": "genus",
+        "preferred_common_name": null
+      }
+    ]
   },
   {
     "id": "sansai_0127",
@@ -9026,7 +9674,7 @@
       "genus": "Perilla属",
       "species": "Perilla frutescens var. crispa"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0496の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0496の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%BD",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%BD",
@@ -9043,7 +9691,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -9068,7 +9716,43 @@
     ],
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/242111?locale=ja",
+      "registered_scientific_name": "Perilla frutescens var. crispa",
+      "source_scientific_name": "Perilla frutescens crispa",
+      "source_rank": "variety",
+      "source_japanese_name": "シソ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Lamiales",
+        "rank": "order",
+        "preferred_common_name": "シソ目"
+      },
+      {
+        "name": "Lamiaceae",
+        "rank": "family",
+        "preferred_common_name": "シソ科"
+      },
+      {
+        "name": "Perilla",
+        "rank": "genus",
+        "preferred_common_name": "シソ属"
+      }
+    ]
   },
   {
     "id": "sansai_0129",
@@ -9248,7 +9932,7 @@
       "genus": "Adenophora属",
       "species": "Adenophora triphylla var. japonica"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AA%E3%82%AC%E3%83%8D%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%B3",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AA%E3%82%AC%E3%83%8D%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%B3",
@@ -9267,7 +9951,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -9290,7 +9974,43 @@
     "remaining105_review_note": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/980664?locale=ja",
+      "registered_scientific_name": "Adenophora triphylla var. japonica",
+      "source_scientific_name": "Adenophora triphylla japonica",
+      "source_rank": "variety",
+      "source_japanese_name": "ツリガネニンジン",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Asterales",
+        "rank": "order",
+        "preferred_common_name": "キク目"
+      },
+      {
+        "name": "Campanulaceae",
+        "rank": "family",
+        "preferred_common_name": "キキョウ科"
+      },
+      {
+        "name": "Adenophora",
+        "rank": "genus",
+        "preferred_common_name": "ツリガネニンジン属"
+      }
+    ]
   },
   {
     "id": "sansai_0132",
@@ -10136,7 +10856,7 @@
       "genus": "アケビ属",
       "species": "Akebia × pentaphylla"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%A8%E3%82%A6%E3%82%A2%E3%82%B1%E3%83%93",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%A8%E3%82%A6%E3%82%A2%E3%82%B1%E3%83%93",
@@ -10154,7 +10874,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -10181,7 +10901,43 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/1234856?locale=ja",
+      "registered_scientific_name": "Akebia × pentaphylla",
+      "source_scientific_name": "Akebia × pentaphylla",
+      "source_rank": "hybrid",
+      "source_japanese_name": "ゴヨウアケビ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Ranunculales",
+        "rank": "order",
+        "preferred_common_name": "キンポウゲ目"
+      },
+      {
+        "name": "Lardizabalaceae",
+        "rank": "family",
+        "preferred_common_name": "アケビ科"
+      },
+      {
+        "name": "Akebia",
+        "rank": "genus",
+        "preferred_common_name": "アケビ属"
+      }
+    ]
   },
   {
     "id": "sansai_0144",
@@ -10361,7 +11117,7 @@
       "genus": "Hemerocallis属",
       "species": "Hemerocallis fulva var. littorea"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%82%AB%E3%83%B3%E3%82%BE%E3%82%A6",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%82%AB%E3%83%B3%E3%82%BE%E3%82%A6",
@@ -10379,7 +11135,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -10406,7 +11162,43 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/859241?locale=ja",
+      "registered_scientific_name": "Hemerocallis fulva var. littorea",
+      "source_scientific_name": "Hemerocallis fulva littorea",
+      "source_rank": "variety",
+      "source_japanese_name": "ハマカンゾウ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Asparagales",
+        "rank": "order",
+        "preferred_common_name": "キジカクシ目"
+      },
+      {
+        "name": "Asphodelaceae",
+        "rank": "family",
+        "preferred_common_name": "ツルボラン科"
+      },
+      {
+        "name": "Hemerocallis",
+        "rank": "genus",
+        "preferred_common_name": "ワスレグサ属"
+      }
+    ]
   },
   {
     "id": "sansai_0147",
@@ -10511,7 +11303,7 @@
       "genus": "コウヤワラビ属",
       "species": "Onoclea sensibilis var. interrupta"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://mikawanoyasou.org/sida/kouyawarabi.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/sida/kouyawarabi.htm",
@@ -10529,7 +11321,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -10556,7 +11348,43 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/543463?locale=ja",
+      "registered_scientific_name": "Onoclea sensibilis var. interrupta",
+      "source_scientific_name": "Onoclea sensibilis interrupta",
+      "source_rank": "variety",
+      "source_japanese_name": "コウヤワラビ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Polypodiales",
+        "rank": "order",
+        "preferred_common_name": "ウラボシ目"
+      },
+      {
+        "name": "Onocleaceae",
+        "rank": "family",
+        "preferred_common_name": "コウヤワラビ科"
+      },
+      {
+        "name": "Onoclea",
+        "rank": "genus",
+        "preferred_common_name": "コウヤワラビ属"
+      }
+    ]
   },
   {
     "id": "sansai_0149",
@@ -11043,7 +11871,7 @@
       "genus": "Ixeridium属",
       "species": "Ixeridium dentatum subsp. dentatum"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AC%E3%83%8A",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AC%E3%83%8A",
@@ -11063,7 +11891,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -11092,7 +11920,43 @@
     "remaining105_review_note": "採用亜種の観察資料と大学のニガナの解説を照合。花の数が多いハナニガナなどの説明は転用していない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/1036489?locale=ja",
+      "registered_scientific_name": "Ixeridium dentatum subsp. dentatum",
+      "source_scientific_name": "Ixeridium dentatum dentatum",
+      "source_rank": "subspecies",
+      "source_japanese_name": "ニガナ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Asterales",
+        "rank": "order",
+        "preferred_common_name": "キク目"
+      },
+      {
+        "name": "Asteraceae",
+        "rank": "family",
+        "preferred_common_name": "キク科"
+      },
+      {
+        "name": "Ixeridium",
+        "rank": "genus",
+        "preferred_common_name": "ニガナ属"
+      }
+    ]
   },
   {
     "id": "sansai_0157",
@@ -11272,7 +12136,7 @@
       "genus": "Hemerocallis属",
       "species": "Hemerocallis middendorffii var. esculenta"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%B3%E3%83%86%E3%82%A4%E3%82%AB",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%B3%E3%83%86%E3%82%A4%E3%82%AB",
@@ -11290,7 +12154,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -11317,7 +12181,43 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/1115097?locale=ja",
+      "registered_scientific_name": "Hemerocallis middendorffii var. esculenta",
+      "source_scientific_name": "Hemerocallis middendorffii esculenta",
+      "source_rank": "variety",
+      "source_japanese_name": "ゼンテイカ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Asparagales",
+        "rank": "order",
+        "preferred_common_name": "キジカクシ目"
+      },
+      {
+        "name": "Asphodelaceae",
+        "rank": "family",
+        "preferred_common_name": "ツルボラン科"
+      },
+      {
+        "name": "Hemerocallis",
+        "rank": "genus",
+        "preferred_common_name": "ワスレグサ属"
+      }
+    ]
   },
   {
     "id": "sansai_0160",
@@ -11350,7 +12250,7 @@
       "genus": "ネギ属",
       "species": "Allium schoenoprasum var. schoenoprasum"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Allium",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Allium",
@@ -11369,7 +12269,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -11390,7 +12290,43 @@
     "remaining105_review_note": "大学の基準変種 var. schoenoprasum の生活型・分布・生育環境を確認。別変種アサツキや高山性のシロウマアサツキの説明は転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/82898?locale=ja",
+      "registered_scientific_name": "Allium schoenoprasum var. schoenoprasum",
+      "source_scientific_name": "Allium schoenoprasum schoenoprasum",
+      "source_rank": "variety",
+      "source_japanese_name": "エゾネギ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Asparagales",
+        "rank": "order",
+        "preferred_common_name": "キジカクシ目"
+      },
+      {
+        "name": "Amaryllidaceae",
+        "rank": "family",
+        "preferred_common_name": "ヒガンバナ科"
+      },
+      {
+        "name": "Allium",
+        "rank": "genus",
+        "preferred_common_name": "ネギ属"
+      }
+    ]
   },
   {
     "id": "sansai_0161",
@@ -11570,7 +12506,7 @@
       "genus": "Aster属",
       "species": "Aster microcephalus var. ovatus"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0157の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0157の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B3%E3%83%B3%E3%82%AE%E3%82%AF",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B3%E3%83%B3%E3%82%AE%E3%82%AF",
@@ -11587,7 +12523,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -11612,7 +12548,43 @@
     ],
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/1433114?locale=ja",
+      "registered_scientific_name": "Aster microcephalus var. ovatus",
+      "source_scientific_name": "Aster microcephalus ovatus",
+      "source_rank": "variety",
+      "source_japanese_name": "ノコンギク",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Asterales",
+        "rank": "order",
+        "preferred_common_name": "キク目"
+      },
+      {
+        "name": "Asteraceae",
+        "rank": "family",
+        "preferred_common_name": "キク科"
+      },
+      {
+        "name": "Aster",
+        "rank": "genus",
+        "preferred_common_name": "シオン属"
+      }
+    ]
   },
   {
     "id": "sansai_0164",
@@ -11861,7 +12833,7 @@
       "genus": "スミレ属",
       "species": "Viola grypoceras var. grypoceras"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0047の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0047の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%81%E3%83%84%E3%83%9C%E3%82%B9%E3%83%9F%E3%83%AC",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%81%E3%83%84%E3%83%9C%E3%82%B9%E3%83%9F%E3%83%AC",
@@ -11880,7 +12852,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -11905,7 +12877,43 @@
     ],
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/447564?locale=ja",
+      "registered_scientific_name": "Viola grypoceras var. grypoceras",
+      "source_scientific_name": "Viola grypoceras grypoceras",
+      "source_rank": "variety",
+      "source_japanese_name": "タチツボスミレ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Malpighiales",
+        "rank": "order",
+        "preferred_common_name": "キントラノオ目"
+      },
+      {
+        "name": "Violaceae",
+        "rank": "family",
+        "preferred_common_name": "スミレ科"
+      },
+      {
+        "name": "Viola",
+        "rank": "genus",
+        "preferred_common_name": "スミレ属"
+      }
+    ]
   },
   {
     "id": "sansai_0168",
@@ -11938,7 +12946,7 @@
       "genus": "ヤエムグラ属",
       "species": "Galium spurium var. echinospermum"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://mikawanoyasou.org/data/yaemugura.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/yaemugura.htm",
@@ -11956,7 +12964,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -11977,7 +12985,43 @@
     "remaining105_review_note": "大学のヤエムグラの基本情報と観察資料を照合。変種名 echinospermon / echinospermum や亜種の扱いが資料で異なる。三河資料の掲載写真自体には別種の可能性が注記されているため、花の色・果実サイズや厳密な同定には転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/701763?locale=ja",
+      "registered_scientific_name": "Galium spurium var. echinospermum",
+      "source_scientific_name": "Galium spurium echinospermum",
+      "source_rank": "variety",
+      "source_japanese_name": "ヤエムグラ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Gentianales",
+        "rank": "order",
+        "preferred_common_name": "リンドウ目"
+      },
+      {
+        "name": "Rubiaceae",
+        "rank": "family",
+        "preferred_common_name": "アカネ科"
+      },
+      {
+        "name": "Galium",
+        "rank": "genus",
+        "preferred_common_name": "ヤエムグラ属"
+      }
+    ]
   },
   {
     "id": "sansai_0169",
@@ -12234,7 +13278,7 @@
       "genus": "スミレ属",
       "species": "Viola inconspicua subsp. nagasakiensis"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%82%B9%E3%83%9F%E3%83%AC",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%82%B9%E3%83%9F%E3%83%AC",
@@ -12254,7 +13298,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -12277,7 +13321,43 @@
     "remaining105_review_note": "採用亜種の観察資料の国内分布・生活型・環境を確認。葉柄に翼がない点は国立科学博物館の近縁種との比較でも照合。広義の種のアジア全域の分布は転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/448247?locale=ja",
+      "registered_scientific_name": "Viola inconspicua subsp. nagasakiensis",
+      "source_scientific_name": "Viola inconspicua nagasakiensis",
+      "source_rank": "subspecies",
+      "source_japanese_name": "ヒメスミレ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Malpighiales",
+        "rank": "order",
+        "preferred_common_name": "キントラノオ目"
+      },
+      {
+        "name": "Violaceae",
+        "rank": "family",
+        "preferred_common_name": "スミレ科"
+      },
+      {
+        "name": "Viola",
+        "rank": "genus",
+        "preferred_common_name": "スミレ属"
+      }
+    ]
   },
   {
     "id": "sansai_0173",
@@ -12385,7 +13465,7 @@
       "genus": "Empetrum属",
       "species": "Empetrum nigrum subsp. asiaticum"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%82%B3%E3%82%A6%E3%83%A9%E3%83%B3",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%82%B3%E3%82%A6%E3%83%A9%E3%83%B3",
@@ -12403,7 +13483,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -12430,7 +13510,43 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/1035801?locale=ja",
+      "registered_scientific_name": "Empetrum nigrum subsp. asiaticum",
+      "source_scientific_name": "Empetrum nigrum asiaticum",
+      "source_rank": "subspecies",
+      "source_japanese_name": "ガンコウラン",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Ericales",
+        "rank": "order",
+        "preferred_common_name": "ツツジ目"
+      },
+      {
+        "name": "Ericaceae",
+        "rank": "family",
+        "preferred_common_name": "ツツジ科"
+      },
+      {
+        "name": "Empetrum",
+        "rank": "genus",
+        "preferred_common_name": "ガンコウラン属"
+      }
+    ]
   },
   {
     "id": "sansai_0175",
@@ -12538,7 +13654,7 @@
       "genus": "Rubus属",
       "species": "Rubus idaeus subsp. strigosus"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Rubus",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Rubus",
@@ -12556,7 +13672,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -12583,7 +13699,43 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/125488?locale=ja",
+      "registered_scientific_name": "Rubus idaeus subsp. strigosus",
+      "source_scientific_name": "Rubus idaeus strigosus",
+      "source_rank": "subspecies",
+      "source_japanese_name": "エゾイチゴ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Rosales",
+        "rank": "order",
+        "preferred_common_name": "バラ目"
+      },
+      {
+        "name": "Rosaceae",
+        "rank": "family",
+        "preferred_common_name": "バラ科"
+      },
+      {
+        "name": "Rubus",
+        "rank": "genus",
+        "preferred_common_name": "キイチゴ属"
+      }
+    ]
   },
   {
     "id": "sansai_0177",
@@ -12616,7 +13768,7 @@
       "genus": "Potentilla属",
       "species": "Potentilla fragarioides var. major"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0228の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0228の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B8%E3%83%A0%E3%82%B7%E3%83%AD",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B8%E3%83%A0%E3%82%B7%E3%83%AD",
@@ -12633,7 +13785,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -12658,7 +13810,43 @@
     ],
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/461798?locale=ja",
+      "registered_scientific_name": "Potentilla fragarioides var. major",
+      "source_scientific_name": "Potentilla fragarioides major",
+      "source_rank": "variety",
+      "source_japanese_name": "キジムシロ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Rosales",
+        "rank": "order",
+        "preferred_common_name": "バラ目"
+      },
+      {
+        "name": "Rosaceae",
+        "rank": "family",
+        "preferred_common_name": "バラ科"
+      },
+      {
+        "name": "Potentilla",
+        "rank": "genus",
+        "preferred_common_name": "キジムシロ属"
+      }
+    ]
   },
   {
     "id": "sansai_0178",
@@ -12839,7 +14027,7 @@
       "genus": "Picris属",
       "species": "Picris japonica"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A6%E3%82%BE%E3%83%AA%E3%83%8A",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A6%E3%82%BE%E3%83%AA%E3%83%8A",
@@ -12858,7 +14046,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -12887,7 +14075,43 @@
     "remaining105_review_note": "北海道大学は Picris hieracioides subsp. japonica として扱い、採用学名 P. japonica を基礎異名に挙げる。同じ分類群の基本情報として照合。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/1133827?locale=ja",
+      "registered_scientific_name": "Picris japonica",
+      "source_scientific_name": "Picris japonica",
+      "source_rank": "species",
+      "source_japanese_name": "コウゾリナ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Asterales",
+        "rank": "order",
+        "preferred_common_name": "キク目"
+      },
+      {
+        "name": "Asteraceae",
+        "rank": "family",
+        "preferred_common_name": "キク科"
+      },
+      {
+        "name": "Picris",
+        "rank": "genus",
+        "preferred_common_name": null
+      }
+    ]
   },
   {
     "id": "sansai_0181",
@@ -12920,7 +14144,7 @@
       "genus": "Taraxacum属",
       "species": "Taraxacum platycarpum subsp. platycarpum"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%88%E3%82%A6%E3%82%BF%E3%83%B3%E3%83%9D%E3%83%9D",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%88%E3%82%A6%E3%82%BF%E3%83%B3%E3%83%9D%E3%83%9D",
@@ -12938,7 +14162,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -12965,7 +14189,43 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/1603699?locale=ja",
+      "registered_scientific_name": "Taraxacum platycarpum subsp. platycarpum",
+      "source_scientific_name": "Taraxacum platycarpum platycarpum",
+      "source_rank": "subspecies",
+      "source_japanese_name": "カントウタンポポ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Asterales",
+        "rank": "order",
+        "preferred_common_name": "キク目"
+      },
+      {
+        "name": "Asteraceae",
+        "rank": "family",
+        "preferred_common_name": "キク科"
+      },
+      {
+        "name": "Taraxacum",
+        "rank": "genus",
+        "preferred_common_name": "タンポポ属"
+      }
+    ]
   },
   {
     "id": "sansai_0182",
@@ -14098,7 +15358,7 @@
       "genus": "コナラ属",
       "species": "Quercus mongolica var. crispula"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0077の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0077の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BA%E3%83%8A%E3%83%A9",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BA%E3%83%8A%E3%83%A9",
@@ -14115,7 +15375,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -14140,7 +15400,43 @@
     ],
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/1609986?locale=ja",
+      "registered_scientific_name": "Quercus mongolica var. crispula",
+      "source_scientific_name": "Quercus mongolica crispula",
+      "source_rank": "variety",
+      "source_japanese_name": "ミズナラ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Fagales",
+        "rank": "order",
+        "preferred_common_name": "ブナ目"
+      },
+      {
+        "name": "Fagaceae",
+        "rank": "family",
+        "preferred_common_name": "ブナ科"
+      },
+      {
+        "name": "Quercus",
+        "rank": "genus",
+        "preferred_common_name": "コナラ属"
+      }
+    ]
   },
   {
     "id": "sansai_0198",
@@ -14827,7 +16123,7 @@
       "genus": "スミレ属",
       "species": "Viola mandshurica var. mandshurica"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0046の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0046の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9F%E3%83%AC",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9F%E3%83%AC",
@@ -14846,7 +16142,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -14871,7 +16167,43 @@
     ],
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/424921?locale=ja",
+      "registered_scientific_name": "Viola mandshurica var. mandshurica",
+      "source_scientific_name": "Viola mandshurica mandshurica",
+      "source_rank": "variety",
+      "source_japanese_name": "スミレ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Malpighiales",
+        "rank": "order",
+        "preferred_common_name": "キントラノオ目"
+      },
+      {
+        "name": "Violaceae",
+        "rank": "family",
+        "preferred_common_name": "スミレ科"
+      },
+      {
+        "name": "Viola",
+        "rank": "genus",
+        "preferred_common_name": "スミレ属"
+      }
+    ]
   },
   {
     "id": "sansai_0208",
@@ -14904,7 +16236,7 @@
       "genus": "Lactuca属",
       "species": "Lactuca raddeana var. elata"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://www.inaturalist.org/taxa/1403398",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/1403398",
@@ -14922,7 +16254,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -14943,7 +16275,43 @@
     "remaining105_review_note": "採用変種の観察資料で基本情報を確認。筑波大学の植物相資料にも同学名で記録がある。資料によって Pterocypsela elata や広義の Lactuca raddeana として扱われる。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/1403398?locale=ja",
+      "registered_scientific_name": "Lactuca raddeana var. elata",
+      "source_scientific_name": "Lactuca raddeana elata",
+      "source_rank": "variety",
+      "source_japanese_name": "ヤマニガナ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Asterales",
+        "rank": "order",
+        "preferred_common_name": "キク目"
+      },
+      {
+        "name": "Asteraceae",
+        "rank": "family",
+        "preferred_common_name": "キク科"
+      },
+      {
+        "name": "Lactuca",
+        "rank": "genus",
+        "preferred_common_name": "アキノノゲシ属"
+      }
+    ]
   },
   {
     "id": "sansai_0209",
@@ -15272,7 +16640,7 @@
       "genus": "スミレ属",
       "species": "Viola betonicifolia var. albescens"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%A2%E3%82%B1%E3%82%B9%E3%83%9F%E3%83%AC",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%A2%E3%82%B1%E3%82%B9%E3%83%9F%E3%83%AC",
@@ -15290,7 +16658,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -15317,7 +16685,43 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/1070701?locale=ja",
+      "registered_scientific_name": "Viola betonicifolia var. albescens",
+      "source_scientific_name": "Viola betonicifolia albescens",
+      "source_rank": "variety",
+      "source_japanese_name": "アリアケスミレ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Malpighiales",
+        "rank": "order",
+        "preferred_common_name": "キントラノオ目"
+      },
+      {
+        "name": "Violaceae",
+        "rank": "family",
+        "preferred_common_name": "スミレ科"
+      },
+      {
+        "name": "Viola",
+        "rank": "genus",
+        "preferred_common_name": "スミレ属"
+      }
+    ]
   },
   {
     "id": "sansai_0214",
@@ -15932,7 +17336,7 @@
       "genus": "Cirsium属",
       "species": "Cirsium nipponicum var. incomptum"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Cirsium",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Cirsium",
@@ -15951,7 +17355,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -15974,6 +17378,42 @@
     "remaining105_review_note": "森林総合研究所の採用学名と一致する変種の解説を確認。詳しい分布境界まで確定したものではない。",
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
-    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+    "taxonomy_reference_check": {
+      "date": "2026-10-13",
+      "source_url": "https://api.inaturalist.org/v1/taxa/452090?locale=ja",
+      "registered_scientific_name": "Cirsium nipponicum var. incomptum",
+      "source_scientific_name": "Cirsium nipponicum incomptum",
+      "source_rank": "variety",
+      "source_japanese_name": "トネアザミ",
+      "relation": "same_scientific_name",
+      "registration_reference_reviewed": true,
+      "strict_photo_identification_verified": false,
+      "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+    },
+    "classification_reference_check_complete": true,
+    "classification_reference_review_status": "採用分類の参照対応確認済み",
+    "taxonomy_reference_lineage": [
+      {
+        "name": "Plantae",
+        "rank": "kingdom",
+        "preferred_common_name": "植物界"
+      },
+      {
+        "name": "Asterales",
+        "rank": "order",
+        "preferred_common_name": "キク目"
+      },
+      {
+        "name": "Asteraceae",
+        "rank": "family",
+        "preferred_common_name": "キク科"
+      },
+      {
+        "name": "Cirsium",
+        "rank": "genus",
+        "preferred_common_name": "アザミ属"
+      }
+    ]
   }
 ]

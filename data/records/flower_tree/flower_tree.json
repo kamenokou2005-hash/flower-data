@@ -3388,7 +3388,7 @@
         "genus": "ハギ属",
         "species": "Lespedeza spp."
       },
-      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。白花ハギの園芸名として整理。f. alba、f. albiflora、栽培品種名などの異なる扱いがあり、下位分類は要確認。園芸名の範囲を優先し、属を分類参照として扱う。",
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。白花ハギの園芸名として整理。f. alba、f. albiflora、栽培品種名などの異なる扱いがあり、下位分類は要確認。園芸名の範囲を優先し、属を分類参照として扱う。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
       "plant_source_url": "https://mikawanoyasou.org/data/sirahagi.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/sirahagi.htm",
@@ -3401,7 +3401,7 @@
         "image_path": "images/0051_0100/flower_tree_0055.jpg"
       },
       "needs_ai_summary": false,
-      "needs_manual_taxon_review": true,
+      "needs_manual_taxon_review": false,
       "taxon_lookup_error": "",
       "content_status": "完成",
       "verification_notes": "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
@@ -3418,7 +3418,38 @@
       "thumbnail_genre_review_note": "白い蝶形花と三出葉。花または花として目立つ苞・総苞が見える。",
       "classification_listing_review_date": "2026-10-13",
       "classification_listing_review_status": "要確認の注記を残して掲載",
-      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/119139?locale=ja",
+        "registered_scientific_name": "Lespedeza spp.",
+        "source_scientific_name": "Lespedeza",
+        "source_rank": "genus",
+        "source_japanese_name": "ハギ属",
+        "relation": "same_scientific_name",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "採用分類の参照対応確認済み",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Fabales",
+          "rank": "order",
+          "preferred_common_name": "マメ目"
+        },
+        {
+          "name": "Fabaceae",
+          "rank": "family",
+          "preferred_common_name": "マメ科"
+        }
+      ]
     },
     {
         "id":  "flower_tree_0056",
@@ -4881,7 +4912,7 @@
         "genus": "シャリンバイ属",
         "species": "Rhaphiolepis spp."
       },
-      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。Rhaphiolepis umbellataを独立種とする資料とR. indicaに含める資料がある。属を分類参照にし、対応する種の扱いは要確認。園芸名の範囲を優先し、属を分類参照として扱う。",
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。Rhaphiolepis umbellataを独立種とする資料とR. indicaに含める資料がある。属を分類参照にし、対応する種の扱いは要確認。園芸名の範囲を優先し、属を分類参照として扱う。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
       "plant_source_url": "https://mikawanoyasou.org/data/syarinbai.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/syarinbai.htm",
@@ -4894,7 +4925,7 @@
         "image_path": "images/0051_0100/flower_tree_0079.jpg"
       },
       "needs_ai_summary": false,
-      "needs_manual_taxon_review": true,
+      "needs_manual_taxon_review": false,
       "taxon_lookup_error": "",
       "content_status": "完成",
       "verification_notes": "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
@@ -4911,7 +4942,38 @@
       "thumbnail_genre_review_note": "淡色の小花と常緑葉。花または花として目立つ苞・総苞が見える。",
       "classification_listing_review_date": "2026-10-13",
       "classification_listing_review_status": "要確認の注記を残して掲載",
-      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/179306?locale=ja",
+        "registered_scientific_name": "Rhaphiolepis spp.",
+        "source_scientific_name": "Rhaphiolepis",
+        "source_rank": "genus",
+        "source_japanese_name": "シャリンバイ属",
+        "relation": "same_scientific_name",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "採用分類の参照対応確認済み",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Rosales",
+          "rank": "order",
+          "preferred_common_name": "バラ目"
+        },
+        {
+          "name": "Rosaceae",
+          "rank": "family",
+          "preferred_common_name": "バラ科"
+        }
+      ]
     },
     {
         "id":  "flower_tree_0080",
@@ -5754,7 +5816,7 @@
         "genus": "ツツジ属",
         "species": "Rhododendron molle subsp. japonicum"
       },
-      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。日本産レンゲツツジはRhododendron molle subsp. japonicumとして整理。取得した広義R. molleは分類参照のみで、亜種の同定は要確認。",
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。日本産レンゲツツジはRhododendron molle subsp. japonicumとして整理。取得した広義R. molleは分類参照のみで、亜種の同定は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n登録の Rhododendron molle subsp. japonicum と参照APIの Rhododendron molle は同じ階級ではない。APIの和名はトウレンゲツツジであり、国内のレンゲツツジの亜種との一致には使わない。観察資料は亜種名を扱うが、参照IDは親種のみを示すため分類要確認は維持。",
       "plant_source_url": "https://mikawanoyasou.org/data/rengetutuji.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/rengetutuji.htm",
@@ -5784,7 +5846,43 @@
       "thumbnail_genre_review_note": "橙色の漏斗形花。花または花として目立つ苞・総苞が見える。",
       "classification_listing_review_date": "2026-10-13",
       "classification_listing_review_status": "要確認の注記を残して掲載",
-      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/417296?locale=ja",
+        "registered_scientific_name": "Rhododendron molle subsp. japonicum",
+        "source_scientific_name": "Rhododendron molle",
+        "source_rank": "species",
+        "source_japanese_name": "トウレンゲツツジ",
+        "relation": "parent_species_reference",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Ericales",
+          "rank": "order",
+          "preferred_common_name": "ツツジ目"
+        },
+        {
+          "name": "Ericaceae",
+          "rank": "family",
+          "preferred_common_name": "ツツジ科"
+        },
+        {
+          "name": "Rhododendron",
+          "rank": "genus",
+          "preferred_common_name": "ツツジ属"
+        }
+      ]
     },
     {
         "id":  "flower_tree_0094",
@@ -6129,7 +6227,7 @@
         "genus": "ブルンフェルシア属",
         "species": "Brunfelsia australis"
       },
-      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。ニオイバンマツリに使われた学名に異名・混同がある。B. australisを分類参照とする。",
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。ニオイバンマツリに使われた学名に異名・混同がある。B. australisを分類参照とする。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
       "plant_source_url": "https://mikawanoyasou.org/data/nioibanmaturi.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/nioibanmaturi.htm",
@@ -6159,7 +6257,43 @@
       "thumbnail_genre_review_note": "白色と紫色の花。花または花として目立つ苞・総苞が見える。",
       "classification_listing_review_date": "2026-10-13",
       "classification_listing_review_status": "要確認の注記を残して掲載",
-      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/430749?locale=ja",
+        "registered_scientific_name": "Brunfelsia australis",
+        "source_scientific_name": "Brunfelsia australis",
+        "source_rank": "species",
+        "source_japanese_name": null,
+        "relation": "same_scientific_name",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Solanales",
+          "rank": "order",
+          "preferred_common_name": "ナス目"
+        },
+        {
+          "name": "Solanaceae",
+          "rank": "family",
+          "preferred_common_name": "ナス科"
+        },
+        {
+          "name": "Brunfelsia",
+          "rank": "genus",
+          "preferred_common_name": null
+        }
+      ]
     },
     {
         "id":  "flower_tree_0100",
@@ -6427,7 +6561,7 @@
         "genus": "ギョリュウ属",
         "species": "Tamarix chinensis"
       },
-      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。取得分類はTamarix chinensis complex。種としての学名は参照解説に従い、分類群の範囲は要確認。",
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。取得分類はTamarix chinensis complex。種としての学名は参照解説に従い、分類群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%83%AA%E3%83%A5%E3%82%A6",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%83%AA%E3%83%A5%E3%82%A6",
@@ -6452,7 +6586,43 @@
       "thumbnail_genre_review_note": "淡桃色の小花の枝。花または花として目立つ苞・総苞が見える。",
       "classification_listing_review_date": "2026-10-13",
       "classification_listing_review_status": "要確認の注記を残して掲載",
-      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/1560974?locale=ja",
+        "registered_scientific_name": "Tamarix chinensis",
+        "source_scientific_name": "Tamarix chinensis",
+        "source_rank": "complex",
+        "source_japanese_name": null,
+        "relation": "same_scientific_name",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Caryophyllales",
+          "rank": "order",
+          "preferred_common_name": "ナデシコ目"
+        },
+        {
+          "name": "Tamaricaceae",
+          "rank": "family",
+          "preferred_common_name": "ギョリュウ科"
+        },
+        {
+          "name": "Tamarix",
+          "rank": "genus",
+          "preferred_common_name": "ギョリュウ属"
+        }
+      ]
     },
     {
         "id":  "flower_tree_0105",
@@ -8539,7 +8709,7 @@
         "genus": "メギ属",
         "species": "Berberis japonica"
       },
-      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。旧Mahonia属をBerberis属に含める扱い。原産地の説明に資料間の差があるため要確認。",
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。旧Mahonia属をBerberis属に含める扱い。原産地の説明に資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
       "plant_source_url": "https://mikawanoyasou.org/data/hiiraginanten.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/hiiraginanten.htm",
@@ -8571,7 +8741,43 @@
       "needs_manual_image_review": false,
       "classification_listing_review_date": "2026-10-13",
       "classification_listing_review_status": "要確認の注記を残して掲載",
-      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/857208?locale=ja",
+        "registered_scientific_name": "Berberis japonica",
+        "source_scientific_name": "Berberis japonica",
+        "source_rank": "species",
+        "source_japanese_name": "ヒイラギナンテン",
+        "relation": "same_scientific_name",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Ranunculales",
+          "rank": "order",
+          "preferred_common_name": "キンポウゲ目"
+        },
+        {
+          "name": "Berberidaceae",
+          "rank": "family",
+          "preferred_common_name": "メギ科"
+        },
+        {
+          "name": "Berberis",
+          "rank": "genus",
+          "preferred_common_name": "メギ属"
+        }
+      ]
     },
     {
         "id":  "flower_tree_0143",
@@ -9346,11 +9552,12 @@
         "genus": "イワナンテン属",
         "species": "Leucothoe fontanesiana"
       },
-      "classification_note": "取得したiNaturalist分類と個別解説を照合。資料ではLeucothoe catesbaeiとも記載される。参照分類との異名対応は要確認。",
+      "classification_note": "取得したiNaturalist分類と個別解説を照合。資料ではLeucothoe catesbaeiとも記載される。参照分類との異名対応は要確認。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。\n採用学名 Leucothoe fontanesiana の参照対応を確認。USDA GRINは Leucothoe catesbaei auct. を本種へ対応させる一方、L. catesbaei (Walter) A.Gray は L. axillaris と区別している。著者を省いた catesbaei を一律に同義名と断定しない。",
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%A4%E3%83%AF%E3%83%8A%E3%83%B3%E3%83%86%E3%83%B3",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%A4%E3%83%AF%E3%83%8A%E3%83%B3%E3%83%86%E3%83%B3",
-        "https://www.inaturalist.org/taxa/164664"
+        "https://www.inaturalist.org/taxa/164664",
+        "https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=451944"
       ],
       "image": {
         "author": "(c) Anne H. Proffitt, some rights reserved (CC BY)",
@@ -9360,7 +9567,7 @@
       },
       "content_status": "完成",
       "needs_ai_summary": false,
-      "needs_manual_taxon_review": true,
+      "needs_manual_taxon_review": false,
       "verification_notes": "採用済み画像と権利情報を保持。確定できない項目は要確認として残す。",
       "life_form": "常緑低木",
       "feature_summary": "枝がしだれ、壺形の小さな花を咲かせる。",
@@ -9375,7 +9582,43 @@
       "thumbnail_genre_review_note": "小さな白い鐘形花と細長い葉。花または花として目立つ苞・総苞が見える。",
       "classification_listing_review_date": "2026-10-13",
       "classification_listing_review_status": "要確認の注記を残して掲載",
-      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/164664?locale=ja",
+        "registered_scientific_name": "Leucothoe fontanesiana",
+        "source_scientific_name": "Leucothoe fontanesiana",
+        "source_rank": "species",
+        "source_japanese_name": "アメリカイワナンテン",
+        "relation": "same_scientific_name",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "採用分類の参照対応確認済み",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Ericales",
+          "rank": "order",
+          "preferred_common_name": "ツツジ目"
+        },
+        {
+          "name": "Ericaceae",
+          "rank": "family",
+          "preferred_common_name": "ツツジ科"
+        },
+        {
+          "name": "Leucothoe",
+          "rank": "genus",
+          "preferred_common_name": "イワナンテン属"
+        }
+      ]
     },
     {
         "id":  "flower_tree_0157",
@@ -10814,7 +11057,7 @@
         "genus": "トネリコ属",
         "species": "Fraxinus lanuginosa"
       },
-      "classification_note": "取得したiNaturalist分類と個別解説を照合。国内のアオダモをF. lanuginosa f. serrataとする資料もある。採用参照は種であり下位分類は要確認。",
+      "classification_note": "取得したiNaturalist分類と個別解説を照合。国内のアオダモをF. lanuginosa f. serrataとする資料もある。採用参照は種であり下位分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AA%E3%83%80%E3%83%A2",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AA%E3%83%80%E3%83%A2",
@@ -10843,7 +11086,43 @@
       "thumbnail_genre_review_note": "白い細長い花弁の花房と複葉。花または花として目立つ苞・総苞が見える。",
       "classification_listing_review_date": "2026-10-13",
       "classification_listing_review_status": "要確認の注記を残して掲載",
-      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/357446?locale=ja",
+        "registered_scientific_name": "Fraxinus lanuginosa",
+        "source_scientific_name": "Fraxinus lanuginosa",
+        "source_rank": "species",
+        "source_japanese_name": "アオダモ",
+        "relation": "same_scientific_name",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Lamiales",
+          "rank": "order",
+          "preferred_common_name": "シソ目"
+        },
+        {
+          "name": "Oleaceae",
+          "rank": "family",
+          "preferred_common_name": "モクセイ科"
+        },
+        {
+          "name": "Fraxinus",
+          "rank": "genus",
+          "preferred_common_name": "トネリコ属"
+        }
+      ]
     },
     {
         "id":  "flower_tree_0184",
@@ -11269,7 +11548,7 @@
         "genus": "カマツカ属",
         "species": "Pourthiaea villosa"
       },
-      "classification_note": "取得したiNaturalist分類と個別解説を照合。カマツカの広義・狭義の範囲と変種の対応を区別。採用参照は広義の種。",
+      "classification_note": "取得したiNaturalist分類と個別解説を照合。カマツカの広義・狭義の範囲と変種の対応を区別。採用参照は広義の種。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
       "plant_source_url": "https://mikawanoyasou.org/data/kamatuka.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/kamatuka.htm",
@@ -11298,7 +11577,43 @@
       "thumbnail_genre_review_note": "白い平たい花房と鋸歯葉。花または花として目立つ苞・総苞が見える。",
       "classification_listing_review_date": "2026-10-13",
       "classification_listing_review_status": "要確認の注記を残して掲載",
-      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/1308947?locale=ja",
+        "registered_scientific_name": "Pourthiaea villosa",
+        "source_scientific_name": "Pourthiaea villosa",
+        "source_rank": "species",
+        "source_japanese_name": "カマツカ",
+        "relation": "same_scientific_name",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Rosales",
+          "rank": "order",
+          "preferred_common_name": "バラ目"
+        },
+        {
+          "name": "Rosaceae",
+          "rank": "family",
+          "preferred_common_name": "バラ科"
+        },
+        {
+          "name": "Pourthiaea",
+          "rank": "genus",
+          "preferred_common_name": "カマツカ属"
+        }
+      ]
     },
     {
         "id":  "flower_tree_0192",
@@ -12277,7 +12592,7 @@
         "genus": "Hibiscus属",
         "species": "Hibiscus × rosa-sinensis"
       },
-      "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。\n2026-10-13 ジャンル整理：採用学名 Hibiscus × rosa-sinensis の観賞用低木として花の木へ移動。花の木の総称 flower_tree_0037 と区別し、ローゼルの説明を転用しない。",
+      "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。\n2026-10-13 ジャンル整理：採用学名 Hibiscus × rosa-sinensis の観賞用低木として花の木へ移動。花の木の総称 flower_tree_0037 と区別し、ローゼルの説明を転用しない。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
       "plant_source_url": "https://mikawanoyasou.org/data/bussouge.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/bussouge.htm",
@@ -12296,7 +12611,7 @@
       "content_status": "完成",
       "needs_ai_summary": false,
       "needs_manual_content_review": false,
-      "needs_manual_taxon_review": true,
+      "needs_manual_taxon_review": false,
       "needs_manual_image_review": false,
       "thumbnail_visually_reviewed": true,
       "thumbnail_review_date": "2026-10-11",
@@ -12324,6 +12639,42 @@
       "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
       "classification_listing_review_date": "2026-10-13",
       "classification_listing_review_status": "要確認の注記を残して掲載",
-      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/1628098?locale=ja",
+        "registered_scientific_name": "Hibiscus × rosa-sinensis",
+        "source_scientific_name": "Hibiscus × rosa-sinensis",
+        "source_rank": "hybrid",
+        "source_japanese_name": "ハイビスカス",
+        "relation": "same_scientific_name",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "採用分類の参照対応確認済み",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Malvales",
+          "rank": "order",
+          "preferred_common_name": "アオイ目"
+        },
+        {
+          "name": "Malvaceae",
+          "rank": "family",
+          "preferred_common_name": "アオイ科"
+        },
+        {
+          "name": "Hibiscus",
+          "rank": "genus",
+          "preferred_common_name": "フヨウ属"
+        }
+      ]
     }
 ]

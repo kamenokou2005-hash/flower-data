@@ -107,5 +107,20 @@
     "github_verified": false,
     "completed": true,
     "master_scientific_name_sync_count": 78
+  },
+  "taxon_reference_audit_summary": {
+    "reviewed": 181,
+    "api_taxa_fetched": 158,
+    "raw_scientific_name_matches": 176,
+    "exception_records_reviewed": 5,
+    "classification_reference_flags_closed": 104,
+    "classification_scope_flags_remaining": 77,
+    "active_records": 2700,
+    "image_changes": 0,
+    "genre_changes": 0,
+    "strict_photo_identifications_verified": 0,
+    "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\taxon181_20261013_101120",
+    "scope": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。",
+    "github_published": false
   }
 }

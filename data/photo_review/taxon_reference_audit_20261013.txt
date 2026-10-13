@@ -1,0 +1,423 @@
+181件の分類参照確認　2026-10-13
+確認対象181件。APIの参照分類158件を取得。学名表記の正規化で176件が一致。
+分類参照の対応確認により104件のフラグを整理。77件は分類範囲の要確認を維持。
+学名の一致は、写真の植物や国内の種・変種の同定完了を意味しない。
+掲載数2700件、以前の掲載対象外・保留100件は変更なし。画像・ジャンル変更なし。
+キヌガサタケの属参照を、Phallus 属の54593へ修正。
+アメリカイワナンテンは Leucothoe catesbaei auct. と著者付きの別の用法を区別。
+
+確認済みの分類参照：
+herb_0015 ゼラニウム（ゾーナル系） Pelargonium × hybridum
+flower_tree_0055 シロハギ Lespedeza spp.
+flower_tree_0079 シャリンバイ Rhaphiolepis spp.
+flower_tree_0156 アメリカイワナンテン Leucothoe fontanesiana
+herb_0029 ハイビスカス（ブッソウゲ） Hibiscus × rosa-sinensis
+herb_0002 エゴマ Perilla frutescens var. frutescens
+herb_0013 ホップ Humulus lupulus var. lupulus
+herb_0018 ライム Citrus × aurantiifolia
+herb_0027 ラベンダー Lavandula angustifolia
+herb_0033 シソ Perilla frutescens var. crispa
+herb_0036 コンフリー Symphytum × uplandicum
+herb_0037 アーティチョーク Cynara cardunculus subsp. scolymus
+herb_0040 キンモクセイ Osmanthus fragrans var. aurantiacus
+herb_0041 レモン Citrus × limon
+herb_0050 レモンタイム Thymus × citriodorus
+herb_0056 チャイブ Allium schoenoprasum
+herb_0060 ルッコラ Eruca vesicaria
+herb_0063 ペパーミント Mentha × piperita
+herb_0078 エキナセア Echinacea purpurea
+herb_0084 サントリナ Santolina chamaecyparissus
+herb_0095 ヤロウ Achillea millefolium
+herb_0096 バレリアン Valeriana officinalis
+herb_0104 ネトル Urtica dioica
+herb_0107 キャットミント Nepeta × faassenii
+herb_0112 ダマスクローズ Rosa × damascena
+herb_0113 ローズドメイ Rosa × centifolia
+herb_0118 ビターオレンジ Citrus × aurantium
+herb_0138 ホーソン Crataegus monogyna
+herb_0139 エルダーベリー Sambucus nigra
+herb_0172 チェリーセージ Salvia greggii
+herb_0177 ラバンディン Lavandula × intermedia
+herb_0235 アルファルファ Medicago sativa
+mushroom_0122 ツチグリ Astraeus spp.
+mushroom_0133 キヌガサタケ Phallus spp.
+mushroom_0157 ベニタケ Russula spp.
+rare_fruit_0003 ジューンベリー Amelanchier canadensis
+rare_fruit_0009 クロマメノキ Vaccinium uliginosum var. japonicum
+rare_fruit_0012 ガンコウラン Empetrum nigrum subsp. asiaticum
+rare_fruit_0013 アキグミ Elaeagnus umbellata var. umbellata
+rare_fruit_0023 ウグイスカグラ Lonicera gracilipes var. glabra
+rare_fruit_0040 リンゴンベリー Vaccinium vitis-idaea subsp. minus
+rare_fruit_0065 エルダーベリー Sambucus nigra
+rare_fruit_0068 ホーソン Crataegus monogyna
+rare_fruit_0074 ジョスタベリー Ribes × nidigrolaria
+rare_fruit_0075 ボイセンベリー Rubus ursinus × idaeus
+rare_fruit_0076 ローガンベリー Rubus × loganobaccus
+sansai_0053 ヤブカンゾウ Hemerocallis fulva var. kwanso
+sansai_0054 シャク Anthriscus sylvestris subsp. sylvestris
+sansai_0057 アカザ Chenopodium giganteum
+sansai_0072 ヤマウコギ Eleutherococcus spinosus var. spinosus
+sansai_0083 ハマダイコン Raphanus raphanistrum subsp. sativus
+sansai_0092 コオニユリ Lilium leichtlinii subsp. maximowiczii
+sansai_0103 アキグミ Elaeagnus umbellata var. umbellata
+sansai_0105 モミジイチゴ Rubus palmatus var. coptophyllus
+sansai_0119 ヨブスマソウ Parasenecio hastatus subsp. orientalis
+sansai_0126 ヤマドリゼンマイ Osmundastrum cinnamomeum var. fokiense
+sansai_0128 シソ Perilla frutescens var. crispa
+sansai_0131 ツリガネニンジン Adenophora triphylla var. japonica
+sansai_0143 ゴヨウアケビ Akebia × pentaphylla
+sansai_0146 ハマカンゾウ Hemerocallis fulva var. littorea
+sansai_0148 コウヤワラビ Onoclea sensibilis var. interrupta
+sansai_0156 ニガナ Ixeridium dentatum subsp. dentatum
+sansai_0159 ゼンテイカ Hemerocallis middendorffii var. esculenta
+sansai_0160 エゾネギ Allium schoenoprasum var. schoenoprasum
+sansai_0163 ノコンギク Aster microcephalus var. ovatus
+sansai_0167 タチツボスミレ Viola grypoceras var. grypoceras
+sansai_0168 ヤエムグラ Galium spurium var. echinospermum
+sansai_0172 ヒメスミレ Viola inconspicua subsp. nagasakiensis
+sansai_0174 ガンコウラン Empetrum nigrum subsp. asiaticum
+sansai_0176 エゾイチゴ Rubus idaeus subsp. strigosus
+sansai_0177 キジムシロ Potentilla fragarioides var. major
+sansai_0180 コウゾリナ Picris japonica
+sansai_0181 カントウタンポポ Taraxacum platycarpum subsp. platycarpum
+sansai_0197 ミズナラ Quercus mongolica var. crispula
+sansai_0207 スミレ Viola mandshurica var. mandshurica
+sansai_0208 ヤマニガナ Lactuca raddeana var. elata
+sansai_0213 アリアケスミレ Viola betonicifolia var. albescens
+sansai_0222 トネアザミ Cirsium nipponicum var. incomptum
+tree_0011 ウンシュウミカン Citrus unshiu
+tree_0199 ゴンズイ Staphylea japonica
+yakuso_0004 サネブトナツメ Ziziphus jujuba subsp. spinosa
+yakuso_0038 ウツボグサ Prunella vulgaris subsp. asiatica
+yakuso_0042 シソ Perilla frutescens var. crispa
+yakuso_0043 エゴマ Perilla frutescens var. frutescens
+yakuso_0070 ノコンギク Aster microcephalus var. ovatus
+yakuso_0079 ヤブカンゾウ Hemerocallis fulva var. kwanso
+yakuso_0080 ノカンゾウ Hemerocallis fulva var. disticha
+yakuso_0088 ヤマウコギ Eleutherococcus spinosus var. spinosus
+yakuso_0106 クロマメノキ Vaccinium uliginosum var. japonicum
+yakuso_0107 アキグミ Elaeagnus umbellata var. umbellata
+yakuso_0141 キジムシロ Potentilla fragarioides var. major
+yakuso_0144 ベニバナイチヤクソウ Pyrola asarifolia subsp. incarnata
+yakuso_0145 ネジキ Lyonia ovalifolia var. elliptica
+yakuso_0151 キク Chrysanthemum × morifolium
+yakuso_0164 ホタルブクロ Campanula punctata var. punctata
+yakuso_0168 ツリガネニンジン Adenophora triphylla var. japonica
+yakuso_0189 イヌツゲ Ilex crenata var. crenata
+yakuso_0198 キケマン Corydalis heterocarpa var. japonica
+yakuso_0201 ミヤマキケマン Corydalis pallida var. tenuis
+yakuso_0211 ハマカンゾウ Hemerocallis fulva var. littorea
+yakuso_0212 ゼンテイカ Hemerocallis middendorffii var. esculenta
+yakuso_0221 ガンコウラン Empetrum nigrum subsp. asiaticum
+yakuso_0224 モミジイチゴ Rubus palmatus var. coptophyllus
+yakuso_0229 エゾイチゴ Rubus idaeus subsp. strigosus
+
+要確認を残した理由：
+
+flower_tree_0093 レンゲツツジ
+科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。日本産レンゲツツジはRhododendron molle subsp. japonicumとして整理。取得した広義R. molleは分類参照のみで、亜種の同定は要確認。
+登録の Rhododendron molle subsp. japonicum と参照APIの Rhododendron molle は同じ階級ではない。APIの和名はトウレンゲツツジであり、国内のレンゲツツジの亜種との一致には使わない。観察資料は亜種名を扱うが、参照IDは親種のみを示すため分類要確認は維持。
+
+flower_tree_0099 ニオイバンマツリ
+科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。ニオイバンマツリに使われた学名に異名・混同がある。B. australisを分類参照とする。
+
+
+flower_tree_0104 ギョリュウ
+科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。取得分類はTamarix chinensis complex。種としての学名は参照解説に従い、分類群の範囲は要確認。
+
+
+flower_tree_0142 ヒイラギナンテン
+科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。旧Mahonia属をBerberis属に含める扱い。原産地の説明に資料間の差があるため要確認。
+
+
+flower_tree_0183 アオダモ
+取得したiNaturalist分類と個別解説を照合。国内のアオダモをF. lanuginosa f. serrataとする資料もある。採用参照は種であり下位分類は要確認。
+
+
+flower_tree_0191 カマツカ
+取得したiNaturalist分類と個別解説を照合。カマツカの広義・狭義の範囲と変種の対応を区別。採用参照は広義の種。
+
+
+grass_0160 カラムシ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。元一覧のBoehmeria niveaは広義の種。日本のカラムシをB. nipononivea等に分ける資料もあり、狭義の同定は要確認。
+
+
+grass_0161 ヤブマオ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。ヤブマオをBoehmeria japonicaの変種またはB. longispicaとして扱う資料がある。元一覧の種の範囲を保持。
+
+
+grass_0169 クズ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のクズはPueraria montana var. lobata等に区別される。元一覧の広義の種を保持し、下位分類の同定は要確認。
+
+
+grass_0196 コウガイゼキショウ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。コウガイゼキショウをJuncus prismatocarpusの亜種に分ける扱いもある。元一覧の種の範囲を保持。
+
+
+grass_0198 マツバイ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のマツバイをEleocharis yokoscensis等として区別する資料がある。元一覧の広義のE. acicularisを保持し、画像の下位分類同定は要確認。
+
+
+grass_0222 ヤエムグラ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のヤエムグラをGalium spuriumの変種に分ける扱いもある。元一覧の種の範囲を保持。
+
+
+grass_0231 コウヤワラビ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のコウヤワラビをOnoclea sensibilis var. interruptaとして扱う資料がある。元一覧の種の範囲を保持。
+
+
+grass_0292 カモノハシ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のカモノハシをIschaemum aristatum var. glaucumとして扱う資料がある。元一覧の広義の種を保持し、変種の同定は要確認。
+
+
+grass_0352 コツブキンエノコロ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用分類は Setaria pumila subsp. pallidefusca。亜種を分けず S. pumila にまとめる資料もある。
+
+
+grass_0364 オオウシノケグサ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用分類は Festuca rubra の標準亜種。和名の適用範囲には資料差があるため要確認。
+
+
+grass_0388 ホソバヒカゲスゲ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。Carex humilis var. nana とする旧分類と、C. callitrichos var. nana とする分類がある。採用済みの taxon_id を保持し、資料との対応は要確認。
+
+
+grass_0498 キクバドコロ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。Dioscorea septemloba とする資料がある。採用済み taxon_id と和名の対応を保持し、異名の適用範囲は要確認。
+
+
+mushroom_0061 キクラゲ
+取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。
+
+
+mushroom_0062 アラゲキクラゲ
+取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。
+
+
+mushroom_0067 ナラタケ
+取得したiNaturalist分類と個別解説を照合。本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。
+
+
+mushroom_0082 クサウラベニタケ
+取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。
+
+
+mushroom_0083 カキシメジ
+取得したiNaturalist分類と個別解説を照合。本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。
+
+
+mushroom_0104 マンネンタケ
+取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。
+
+
+mushroom_0153 クロアワタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。
+
+
+mushroom_0154 ベニイグチ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。
+
+
+mushroom_0169 シロホウライタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 分類APIの系統に属の階級が欠けているため、採用学名の属名を記載。属の所属は要確認。
+
+
+mushroom_0170 ウスキテングタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。
+
+
+mushroom_0172 フクロツルタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。
+
+
+mushroom_0176 アカイボカサタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。
+
+
+mushroom_0202 トキイロラッパタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。
+
+
+mushroom_0224 トンビマイタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。
+
+
+mushroom_0238 ツチナメコ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。
+
+
+mushroom_0251 キイボカサタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。
+
+
+mushroom_0253 キヌハダトマヤタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。
+
+
+mushroom_0266 セイタカイグチ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。
+
+
+mushroom_0270 ヌメリツバタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。
+
+
+mushroom_0277 ヒメキシメジ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。
+
+
+mushroom_0284 ツクツクボウシタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。
+
+
+mushroom_0291 コガネヤマドリ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。
+
+
+mushroom_0312 キツネタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。
+
+
+mushroom_0314 ムラサキシメジ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。
+
+
+mushroom_0328 アケボノアワタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。
+
+
+mushroom_0329 ヒメコウジタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。
+
+
+mushroom_0349 キララタケ
+取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。
+
+
+mushroom_0404 ニクウスバタケ
+取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。
+
+
+mushroom_0428 サガリハリタケ
+取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。
+
+
+mushroom_0471 アミヒカリタケ
+取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。
+
+
+mushroom_0500 チヂレタケ
+取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。
+
+
+sansai_0001 ワラビ
+取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目grass_0041の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。
+
+
+sansai_0005 ヤマブキショウマ
+取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。
+
+
+sansai_0007 ノカンゾウ
+取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。
+
+
+sansai_0010 ヤマグワ
+取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0107の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。
+
+
+sansai_0011 オニグルミ
+取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。
+
+
+sansai_0016 クロマメノキ
+取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。
+
+
+sansai_0020 エゴマ
+取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。
+
+
+sansai_0044 アマドコロ
+取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目flower_0484の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。
+
+
+tree_0026 サンゴジュ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。種レベルで整理。日本のサンゴジュを変種・亜種として区別する扱いもある。
+
+
+tree_0037 マユミ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。広義の種レベルで整理。日本のマユミを種内分類群として扱う場合もある。
+
+
+tree_0103 オオバヤナギ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。旧資料のToisusu urbanianaに対応する分類群を、採用分類ではSalix cardiophylla subsp. urbanianaとして扱う。
+
+
+tree_0108 ヒメコウゾ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。ヒメコウゾの学名には資料間の相違がある。採用画像に対応する現行分類を記録し、分類の再確認対象とする。
+
+
+tree_0110 イロハモミジ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用学名はAcer palmatum。種内の園芸品種・変種・亜種を総括した解説と狭義の和名は区別する。
+
+
+tree_0130 マカダミア
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項は採用学名Macadamia integrifoliaに対応する木を扱う。ナッツの総称にはほかの種や交雑系統も含まれる。
+
+
+tree_0138 イタヤカエデ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。広義のAcer pictumとして整理。エンコウカエデなどの種内分類群とは区別する。
+
+
+tree_0139 エンコウカエデ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。エンコウカエデは資料により変種などの扱いもある。本項は採用分類の亜種として記録。
+
+
+tree_0146 モミジバスズカケノキ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。モミジバスズカケノキは交雑種。単一の自然種としては扱わない。
+
+
+tree_0158 ホルトノキ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。資料にElaeocarpus sylvestrisの変種とする扱いもある。採用分類と同義名の関係を再確認対象とする。
+
+
+tree_0160 ヤマハンノキ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。解説資料は広義のAlnus hirsutaを使うが、本項は採用変種var. sibiricaに対応する葉の特徴を整理した。
+
+
+tree_0162 ケヤマハンノキ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用学名はAlnus hirsuta var. hirsuta。葉の毛は年齢によっても変化する。
+
+
+tree_0193 ビロウ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項は採用画像に対応するビロウの変種を扱う。
+
+
+tree_0195 シュロ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。表示名シュロは属の総称にも使われる。本項の画像・学名・解説はワジュロTrachycarpus fortuneiに限定する。
+
+
+tree_0206 キウイフルーツ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。キウイフルーツは複数の種や系統を含む総称。本項は採用画像のActinidia chinensis var. deliciosaに限定し、総称を1種へ固定したものではない。
+
+
+tree_0216 バンジロウ
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項のバンジロウはPsidium guajavaを扱い、グアバ属全体の総称とは区別する。
+
+
+tree_0226 アトラスシーダー
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。近縁のレバノンスギとの種・亜種の区分は資料間で異なる。採用分類の学名を記録する。
+
+
+tree_0231 ホワイトオーク
+科・属・学名はiNaturalistの2026-10-08取得データに基づく。ホワイトオークは複数種の材の総称にも使われる。本項は採用画像のアルバオークQuercus albaに限定する。
+
+
+tree_0264 ハシバミ
+科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。日本のハシバミはCorylus heterophylla var. thunbergiiとする資料もある。本項は広義の種を参照し、セイヨウハシバミの記述を混ぜない。
+
+
+tree_0285 バッコヤナギ
+科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。Salix bakkoとして区別する資料とS. capreaに含める資料がある。採用画像と分類参照はS. caprea、国内の生態はバッコヤナギの記述として扱う。
+

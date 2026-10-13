@@ -27493,7 +27493,7 @@
         "genus": "Pelargonium属",
         "species": "Pelargonium × hybridum"
       },
-      "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。\n2026-10-13 ジャンル整理：採用学名 Pelargonium × hybridum に対応する観賞用の交雑種として花へ移動。属の総称 flower_0443 と区別し、香料用センテッドゼラニウムの説明を転用しない。",
+      "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。\n2026-10-13 ジャンル整理：採用学名 Pelargonium × hybridum に対応する観賞用の交雑種として花へ移動。属の総称 flower_0443 と区別し、香料用センテッドゼラニウムの説明を転用しない。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%A9%E3%83%8B%E3%82%A6%E3%83%A0",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%A9%E3%83%8B%E3%82%A6%E3%83%A0",
@@ -27513,7 +27513,7 @@
       "content_status": "完成",
       "needs_ai_summary": false,
       "needs_manual_content_review": false,
-      "needs_manual_taxon_review": true,
+      "needs_manual_taxon_review": false,
       "needs_manual_image_review": false,
       "thumbnail_visually_reviewed": true,
       "thumbnail_review_date": "2026-10-11",
@@ -27537,6 +27537,42 @@
       "remaining105_review_note": "採用交雑種の大学・Kew資料を照合。交配親の原産地と交雑種の栽培を区別。一年草扱いの栽培でも生活型は多年草。香料向けセンテッドゼラニウムの説明は転用しない。",
       "classification_listing_review_date": "2026-10-13",
       "classification_listing_review_status": "要確認の注記を残して掲載",
-      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/181543?locale=ja",
+        "registered_scientific_name": "Pelargonium × hybridum",
+        "source_scientific_name": "Pelargonium × hybridum",
+        "source_rank": "hybrid",
+        "source_japanese_name": "ゼラニウム",
+        "relation": "same_scientific_name",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "採用分類の参照対応確認済み",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Geraniales",
+          "rank": "order",
+          "preferred_common_name": "フウロソウ目"
+        },
+        {
+          "name": "Geraniaceae",
+          "rank": "family",
+          "preferred_common_name": "フウロソウ科"
+        },
+        {
+          "name": "Pelargonium",
+          "rank": "genus",
+          "preferred_common_name": "テンジクアオイ属"
+        }
+      ]
     }
 ]
