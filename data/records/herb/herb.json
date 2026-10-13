@@ -6324,7 +6324,8 @@
     "display_name": "マートル",
     "kana": "マートル",
     "search_aliases": [
-      "マートル"
+      "マートル",
+      "rare_fruit_0081"
     ],
     "family": "フトモモ科",
     "genus": "ギンバイカ属",
@@ -6339,7 +6340,7 @@
     "distribution": "帰化種地中海沿岸原産",
     "habitat": "沿海地、丘陵",
     "common_place": "沿海地、丘陵",
-    "feature_summary": "写真では、淡色の花と光沢のある葉。",
+    "feature_summary": "写真では、淡色の花と光沢のある葉。\n花後に紫黒色の食用果実。ハーブのマートル、花木のギンバイカと同学名で整理候補。",
     "trivia": "マートルとも呼ばれるフトモモ科の木。",
     "classification": {
       "kingdom": "植物界",
@@ -6353,7 +6354,8 @@
     "plant_source_url": "https://mikawanoyasou.org/data/ginbaika.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/ginbaika.htm",
-      "https://www.inaturalist.org/taxa/78159"
+      "https://www.inaturalist.org/taxa/78159",
+      "https://plants.ces.ncsu.edu/plants/myrtus-communis/"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -6387,7 +6389,19 @@
     ],
     "related_record_ids": [
       "flower_tree_0144"
-    ]
+    ],
+    "fruiting_season": "国内の成熟時期は未確認",
+    "fruit_source_urls": [
+      "https://plants.ces.ncsu.edu/plants/myrtus-communis/"
+    ],
+    "merged_record_ids": [
+      "rare_fruit_0081"
+    ],
+    "fruit_information_review_date": "2026-10-13T22:00:01.692537",
+    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
+    "fruit_information_review_note": "花後に紫黒色の食用果実。ハーブのマートル、花木のギンバイカと同学名で整理候補。",
+    "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
+    "needs_manual_fruit_review": false
   },
   {
     "id": "herb_0089",
@@ -15651,5 +15665,89 @@
       "native_range_original": "Finland to W. Siberia and Türkiye",
       "biome_original": "temperate"
     }
+  },
+  {
+    "id": "rare_fruit_0162",
+    "category": "ハーブ",
+    "display_name": "タスマニアンペッパーベリー",
+    "kana": "タスマニアンペッパーベリー",
+    "search_aliases": [
+      "タスマニアンペッパーベリー"
+    ],
+    "family": "Winteraceae科",
+    "genus": "Tasmannia属",
+    "scientific_name": "Tasmannia lanceolata",
+    "taxon_id": 323362,
+    "reference_taxon_id": 323362,
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "life_form": "低木",
+    "flowering_season": "要確認",
+    "observation_season": "要確認",
+    "distribution": "自然分布（Kew）：南東部 ニューサウスウェールズ州からタスマニア。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+    "common_place": "生育環境は要確認",
+    "feature_summary": "果実には食用利用があり、植物の各部に香辛料のような風味があると記載されています。熟した果実の色の詳細は未確認です。",
+    "trivia": "分類資料では低木として扱われます。主な生育帯は温帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "Tracheophyta",
+      "order": "Canellales目",
+      "family": "Winteraceae科",
+      "genus": "Tasmannia属",
+      "species": "Tasmannia lanceolata"
+    },
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "plant_source_url": "https://www.inaturalist.org/taxa/323362",
+    "content_source_urls": [
+      "https://www.inaturalist.org/taxa/323362",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A555234-1/general-information",
+      "https://www.anbg.gov.au/apu/plants/tasmlanc.html"
+    ],
+    "content_source_scope": "species_primary",
+    "image": {
+      "author": "(c) Stella Fish, some rights reserved (CC BY)",
+      "license": "CC-BY",
+      "source_url": "https://www.inaturalist.org/photos/745210650",
+      "image_path": "images/0151_0171/rare_fruit_0162.jpg",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "content_status": "完成",
+    "needs_ai_summary": false,
+    "needs_manual_content_review": false,
+    "needs_manual_taxon_review": false,
+    "needs_manual_image_review": false,
+    "thumbnail_visually_reviewed": true,
+    "thumbnail_review_date": "2026-10-11",
+    "thumbnail_name_review_date": "2026-10-11",
+    "thumbnail_name_review_status": "明らかな誤りなし",
+    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。細長い葉の低い株。写真だけによる厳密な種同定ではない。",
+    "thumbnail_genre_review_date": "2026-10-13T22:03:19.469682",
+    "thumbnail_genre_review_status": "修正済み",
+    "thumbnail_genre_review_note": "香辛料としての利用を中心にハーブへ整理。",
+    "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+    "existing_content_fields_reused": [],
+    "content_followup_source_title": "Tasmannia lanceolata (Poir.) A.C.Sm. | Plants of the World Online | Kew Science",
+    "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A555234-1/general-information",
+    "content_basic_ecology_verified": true,
+    "content_followup_review_status": "基本情報の出典確認済み",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A555234-1/general-information",
+      "life_form_original": "shrub",
+      "native_range_original": "SE. New South Wales to Tasmania",
+      "biome_original": "temperate"
+    },
+    "content_followup_review_date": "2026-10-12",
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "fruiting_season": "国内の成熟時期は未確認",
+    "fruit_source_urls": [
+      "https://www.anbg.gov.au/apu/plants/tasmlanc.html"
+    ],
+    "fruit_information_review_date": "2026-10-13T22:02:11.337808",
+    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
+    "fruit_information_review_note": "果実食用と植物各部の香辛味の記載。ハーブへの移動候補。赤色の記載を完熟色と断定しない。",
+    "needs_manual_fruit_review": false,
+    "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
+    "fruit_genre_review_note": "香辛料としての利用を中心にハーブへ整理。"
   }
 ]

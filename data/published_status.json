@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "published_count": 2700,
+  "published_count": 2696,
   "categories": {
     "flower": {
       "category": "花",
@@ -11,8 +11,8 @@
     },
     "grass": {
       "category": "草",
-      "count": 424,
-      "last_published_id": "grass_0499",
+      "count": 425,
+      "last_published_id": "rare_fruit_0079",
       "image_dir": "images/grass",
       "data_file": "data/records/grass/grass.json"
     },
@@ -53,20 +53,20 @@
     },
     "herb": {
       "category": "ハーブ",
-      "count": 200,
-      "last_published_id": "herb_0238",
+      "count": 201,
+      "last_published_id": "rare_fruit_0162",
       "image_dir": "images/herb",
       "data_file": "data/records/herb/herb.json"
     },
     "rare_fruit": {
       "category": "珍しい果樹",
-      "count": 145,
+      "count": 139,
       "last_published_id": "rare_fruit_0171",
       "image_dir": "images/rare_fruit",
       "data_file": "data/records/rare_fruit/rare_fruit.json"
     }
   },
-  "generated_at": "2026-10-13T09:21:05.752260",
+  "generated_at": "2026-10-13T22:03:19.469682",
   "remaining_resolution_summary": {
     "photo_replacements": 37,
     "genre_candidates_resolved": 142,
@@ -136,5 +136,21 @@
     "strict_photo_identifications_verified": 0,
     "scope": "残る77件の既存の分類注意書きと参照確認結果をすべて再確認。9件は一次資料で和名・採用学名の対応を追加確認。68件は分類範囲や写真の種同定の限界を明記して要確認を維持。厳密な写真同定を完了したという意味ではない。",
     "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\final77_20261013_120008"
+  },
+  "record_redirects_file": "data/record_redirects.json",
+  "fruit_information_review_summary": {
+    "target_count": 145,
+    "content_processed": 145,
+    "active_target_records": 141,
+    "merged_records": 4,
+    "moved_records": 2,
+    "rare_fruit_count": 139,
+    "active_total": 2696,
+    "source_scope_pending": 17,
+    "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\fruit_content_20261013_215742",
+    "images_deleted": 0,
+    "github_verified": false,
+    "completed": true,
+    "applied_at": "2026-10-13T22:03:19.469682"
   }
 }

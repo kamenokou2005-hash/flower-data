@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "redirects": {
+    "rare_fruit_0081": "herb_0088",
+    "rare_fruit_0030": "flower_tree_0192",
+    "rare_fruit_0031": "flower_tree_0191",
+    "rare_fruit_0032": "tree_0203"
+  }
+}

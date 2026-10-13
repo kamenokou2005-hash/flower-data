@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at_utc": "2026-10-13T00:21:05.657739+00:00",
-  "completed_count": 2700,
+  "generated_at_utc": "2026-10-13T13:03:22.131984+00:00",
+  "completed_count": 2696,
   "items": [
     {
       "id": "flower_0001",
@@ -20257,17 +20257,20 @@
       "kana": "カマツカ",
       "aliases": [
         "カマツカ",
-        "ウシコロシ"
+        "ウシコロシ",
+        "rare_fruit_0031"
       ],
       "romaji": [
         "kamatsuka",
-        "ushikoroshi"
+        "ushikoroshi",
+        "rare_fruit_0031"
       ],
       "scientific": "Pourthiaea villosa",
       "search_terms": [
         "カマツカ",
         "かまつか",
         "ウシコロシ",
+        "rare_fruit_0031",
         "うしころし",
         "kamatsuka",
         "ushikoroshi",
@@ -20277,6 +20280,7 @@
         "カマツカ",
         "かまつか",
         "ウシコロシ",
+        "rarefruit0031",
         "うしころし",
         "kamatsuka",
         "ushikoroshi",
@@ -20290,16 +20294,19 @@
       "kana": "ズミ",
       "aliases": [
         "ズミ",
-        "コリンゴ（小林檎）"
+        "コリンゴ（小林檎）",
+        "rare_fruit_0030"
       ],
       "romaji": [
-        "zumi"
+        "zumi",
+        "rare_fruit_0030"
       ],
       "scientific": "Malus toringo",
       "search_terms": [
         "ズミ",
         "ずみ",
         "コリンゴ（小林檎）",
+        "rare_fruit_0030",
         "こりんご（小林檎）",
         "zumi",
         "Malus toringo"
@@ -20308,6 +20315,7 @@
         "ズミ",
         "ずみ",
         "コリンゴ(小林檎)",
+        "rarefruit0030",
         "こりんご(小林檎)",
         "zumi",
         "malustoringo"
@@ -33820,21 +33828,25 @@
       "name": "マートル",
       "kana": "マートル",
       "aliases": [
-        "マートル"
+        "マートル",
+        "rare_fruit_0081"
       ],
       "romaji": [
-        "maatoru"
+        "maatoru",
+        "rare_fruit_0081"
       ],
       "scientific": "Myrtus communis",
       "search_terms": [
         "マートル",
         "まーとる",
+        "rare_fruit_0081",
         "maatoru",
         "Myrtus communis"
       ],
       "normalized_terms": [
         "マートル",
         "まーとる",
+        "rarefruit0081",
         "maatoru",
         "myrtuscommunis"
       ]
@@ -49765,81 +49777,6 @@
       ]
     },
     {
-      "id": "rare_fruit_0030",
-      "category": "珍しい果樹",
-      "name": "ズミ",
-      "kana": "ズミ",
-      "aliases": [
-        "ズミ"
-      ],
-      "romaji": [
-        "zumi"
-      ],
-      "scientific": "Malus toringo",
-      "search_terms": [
-        "ズミ",
-        "ずみ",
-        "zumi",
-        "Malus toringo"
-      ],
-      "normalized_terms": [
-        "ズミ",
-        "ずみ",
-        "zumi",
-        "malustoringo"
-      ]
-    },
-    {
-      "id": "rare_fruit_0031",
-      "category": "珍しい果樹",
-      "name": "カマツカ",
-      "kana": "カマツカ",
-      "aliases": [
-        "カマツカ"
-      ],
-      "romaji": [
-        "kamatsuka"
-      ],
-      "scientific": "Pourthiaea villosa",
-      "search_terms": [
-        "カマツカ",
-        "かまつか",
-        "kamatsuka",
-        "Pourthiaea villosa"
-      ],
-      "normalized_terms": [
-        "カマツカ",
-        "かまつか",
-        "kamatsuka",
-        "pourthiaeavillosa"
-      ]
-    },
-    {
-      "id": "rare_fruit_0032",
-      "category": "珍しい果樹",
-      "name": "アズキナシ",
-      "kana": "アズキナシ",
-      "aliases": [
-        "アズキナシ"
-      ],
-      "romaji": [
-        "azukinashi"
-      ],
-      "scientific": "Alniaria alnifolia",
-      "search_terms": [
-        "アズキナシ",
-        "あずきなし",
-        "azukinashi",
-        "Alniaria alnifolia"
-      ],
-      "normalized_terms": [
-        "アズキナシ",
-        "あずきなし",
-        "azukinashi",
-        "alniariaalnifolia"
-      ]
-    },
-    {
       "id": "rare_fruit_0033",
       "category": "珍しい果樹",
       "name": "ウラジロノキ",
@@ -50816,7 +50753,7 @@
     },
     {
       "id": "rare_fruit_0079",
-      "category": "珍しい果樹",
+      "category": "草",
       "name": "クラウドベリー",
       "kana": "クラウドベリー",
       "aliases": [
@@ -50862,31 +50799,6 @@
         "はっくるべりー",
         "hakkuruberii",
         "gaylussaciabaccata"
-      ]
-    },
-    {
-      "id": "rare_fruit_0081",
-      "category": "珍しい果樹",
-      "name": "マートル",
-      "kana": "マートル",
-      "aliases": [
-        "マートル"
-      ],
-      "romaji": [
-        "maatoru"
-      ],
-      "scientific": "Myrtus communis",
-      "search_terms": [
-        "マートル",
-        "まーとる",
-        "maatoru",
-        "Myrtus communis"
-      ],
-      "normalized_terms": [
-        "マートル",
-        "まーとる",
-        "maatoru",
-        "myrtuscommunis"
       ]
     },
     {
@@ -52491,7 +52403,7 @@
     },
     {
       "id": "rare_fruit_0162",
-      "category": "珍しい果樹",
+      "category": "ハーブ",
       "name": "タスマニアンペッパーベリー",
       "kana": "タスマニアンペッパーベリー",
       "aliases": [
@@ -63331,21 +63243,25 @@
       "name": "アズキナシ",
       "kana": "アズキナシ",
       "aliases": [
-        "アズキナシ"
+        "アズキナシ",
+        "rare_fruit_0032"
       ],
       "romaji": [
-        "azukinashi"
+        "azukinashi",
+        "rare_fruit_0032"
       ],
       "scientific": "Alniaria alnifolia",
       "search_terms": [
         "アズキナシ",
         "あずきなし",
+        "rare_fruit_0032",
         "azukinashi",
         "Alniaria alnifolia"
       ],
       "normalized_terms": [
         "アズキナシ",
         "あずきなし",
+        "rarefruit0032",
         "azukinashi",
         "alniariaalnifolia"
       ]

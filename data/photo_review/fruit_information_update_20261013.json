@@ -1,0 +1,1229 @@
+{
+  "summary": {
+    "target_count": 145,
+    "content_processed": 145,
+    "active_target_records": 141,
+    "merged_records": 4,
+    "moved_records": 2,
+    "rare_fruit_count": 139,
+    "active_total": 2696,
+    "source_scope_pending": 17,
+    "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\fruit_content_20261013_215742",
+    "images_deleted": 0,
+    "github_verified": false,
+    "completed": true,
+    "applied_at": "2026-10-13T22:03:19.469682"
+  },
+  "counts": {
+    "花": 489,
+    "草": 425,
+    "木": 303,
+    "花の木": 207,
+    "きのこ": 483,
+    "山菜": 221,
+    "薬草": 228,
+    "ハーブ": 201,
+    "珍しい果樹": 139
+  },
+  "moves": [
+    {
+      "id": "rare_fruit_0079",
+      "to": "草",
+      "reason": "草本の多年生植物として草へ整理。",
+      "life_form": "多年生草本"
+    },
+    {
+      "id": "rare_fruit_0162",
+      "to": "ハーブ",
+      "reason": "香辛料としての利用を中心にハーブへ整理。"
+    }
+  ],
+  "merges": {
+    "rare_fruit_0081": "herb_0088",
+    "rare_fruit_0030": "flower_tree_0192",
+    "rare_fruit_0031": "flower_tree_0191",
+    "rare_fruit_0032": "tree_0203"
+  },
+  "review_limits": "145件の資料確認。国内成熟時期、食用方法、分類範囲の未確認を断定しない。",
+  "records": [
+    {
+      "id": "rare_fruit_0001",
+      "destination": "rare_fruit_0001",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/acca-sellowiana/"
+      ],
+      "note": "緑系の果皮をもつ香りのある果実。果肉は食用。"
+    },
+    {
+      "id": "rare_fruit_0002",
+      "destination": "rare_fruit_0002",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/asimina-triloba/"
+      ],
+      "note": "熟すと果肉が軟らかくなり、バナナに似た甘味をもつ。"
+    },
+    {
+      "id": "rare_fruit_0003",
+      "destination": "rare_fruit_0003",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/amelanchier-canadensis/"
+      ],
+      "note": "小さな果実は緑から赤、熟すと暗い紫黒色になる。食用。"
+    },
+    {
+      "id": "rare_fruit_0004",
+      "destination": "rare_fruit_0004",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/actinidia-arguta/"
+      ],
+      "note": "ブドウほどの大きさで、表面が滑らかな食用果実。"
+    },
+    {
+      "id": "rare_fruit_0005",
+      "destination": "rare_fruit_0005",
+      "sources": [
+        "https://mikawanoyasou.org/data/matatabi.htm",
+        "https://www.rinya.maff.go.jp/hokkaido/komagatake_fc/guide/58_matatabi.html"
+      ],
+      "note": "長さ約2～2.5cmで先が細くなる果実。三河資料では9～10月頃に橙黄色に熟す。林野庁資料に果実酒利用の記載。"
+    },
+    {
+      "id": "rare_fruit_0006",
+      "destination": "rare_fruit_0006",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/actinidia-kolomikta/"
+      ],
+      "note": "小さな緑～黄色の食用果実。雄株・雌株がそろうと雌株に結実する。"
+    },
+    {
+      "id": "rare_fruit_0007",
+      "destination": "rare_fruit_0007",
+      "sources": [
+        "https://mikawanoyasou.org/data/yamamomo.htm"
+      ],
+      "note": "直径約1～2cmの丸い果実が暗赤色に熟す。中央に硬い核があり、周囲の部分が食用。三河資料の果期は6～7月。"
+    },
+    {
+      "id": "rare_fruit_0008",
+      "destination": "rare_fruit_0008",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/vaccinium-oldhamii/"
+      ],
+      "note": "小さな暗色の食用果実。一般的なブルーベリーより小さく、色が濃いと資料に記載。"
+    },
+    {
+      "id": "rare_fruit_0009",
+      "destination": "rare_fruit_0009",
+      "sources": [
+        "https://mikawanoyasou.org/data/kuromamenoki.htm"
+      ],
+      "note": "直径約8～10mmの丸い果実。黒紫色に熟し、白い粉を帯びる。資料に甘味の記載。"
+    },
+    {
+      "id": "rare_fruit_0010",
+      "destination": "rare_fruit_0010",
+      "sources": [
+        "https://gobotany.nativeplanttrust.org/species/vaccinium/oxycoccos/",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Vaccinium+oxycoccos"
+      ],
+      "note": "赤い液果。ワシントン大学系の標本館資料では濃赤色、幅5～10mm。"
+    },
+    {
+      "id": "rare_fruit_0011",
+      "destination": "rare_fruit_0011",
+      "sources": [
+        "https://www.rinya.maff.go.jp/hokkaido/komagatake_fc/guide/087_kokemomo.html"
+      ],
+      "note": "紅色の丸い食用果実。林野庁資料にジャム・果実酒利用の記載。"
+    },
+    {
+      "id": "rare_fruit_0012",
+      "destination": "rare_fruit_0012",
+      "sources": [
+        "https://www.rinya.maff.go.jp/tohoku/sidou/jumoku/shubetu/gankouran.html"
+      ],
+      "note": "黒く熟す球形の食用果実。林野庁は var. japonicum 名義のため現登録亜種との名称対応は保留。"
+    },
+    {
+      "id": "rare_fruit_0013",
+      "destination": "rare_fruit_0013",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/elaeagnus-umbellata/"
+      ],
+      "note": "赤く熟し銀色～褐色の鱗状斑点をもつ食用果実。引用資料は種レベルで変種限定ではない。"
+    },
+    {
+      "id": "rare_fruit_0014",
+      "destination": "rare_fruit_0014",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/elaeagnus-pungens/"
+      ],
+      "note": "緑の未熟果から銀色を帯びた赤色系の楕円形果実になる。食用用途はこの資料では未確認。"
+    },
+    {
+      "id": "rare_fruit_0015",
+      "destination": "rare_fruit_0015",
+      "sources": [
+        "https://mikawanoyasou.org/data/natugumi.htm"
+      ],
+      "note": "長さ約1.2～1.7cmの広楕円形の偽果。赤熟し食用。三河資料の果期5～7月。"
+    },
+    {
+      "id": "rare_fruit_0016",
+      "destination": "rare_fruit_0016",
+      "sources": [
+        "https://mikawanoyasou.org/data/marubagumi.htm"
+      ],
+      "note": "長さ約2cmの長楕円形果実。白い鱗状毛があり春に熟す。食用用途・熟色は未確認。"
+    },
+    {
+      "id": "rare_fruit_0017",
+      "destination": "rare_fruit_0017",
+      "sources": [
+        "https://mikawanoyasou.org/data/yamaguwa.htm"
+      ],
+      "note": "ヤマグワ名義の資料に赤～黒紫色の楕円形の集合果。ただし資料学名 australis/bombycis と登録 indica の対応未確認。採用保留。"
+    },
+    {
+      "id": "rare_fruit_0018",
+      "destination": "rare_fruit_0018",
+      "sources": [
+        "https://mikawanoyasou.org/data/yamabudou.htm"
+      ],
+      "note": "直径約8mm、黒熟し甘酸っぱい食用果実。三河資料の果期10～11月。"
+    },
+    {
+      "id": "rare_fruit_0019",
+      "destination": "rare_fruit_0019",
+      "sources": [
+        "https://mikawanoyasou.org/data/ebiduru.htm"
+      ],
+      "note": "直径約5～6mm、黒熟し甘酸っぱい食用果実。木質のつるであり草にも登録がある点は整理候補。"
+    },
+    {
+      "id": "rare_fruit_0020",
+      "destination": "rare_fruit_0020",
+      "sources": [
+        "https://mikawanoyasou.org/data/mitubaakebi.htm"
+      ],
+      "note": "長さ約6～10cmの長円形果実が秋に淡紫色に熟して裂ける。甘い果実は食用。"
+    },
+    {
+      "id": "rare_fruit_0021",
+      "destination": "rare_fruit_0021",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/akebia-quinata/"
+      ],
+      "note": "紫色の長い果実が裂け、白い食用果肉と黒い種子が現れる。旧説明の三小葉は学名 quinata の一般的特徴と合わず、写真別確認候補。"
+    },
+    {
+      "id": "rare_fruit_0022",
+      "destination": "rare_fruit_0022",
+      "sources": [
+        "https://mikawanoyasou.org/data/mube.htm"
+      ],
+      "note": "秋に赤紫色に熟し、アケビと異なり裂けない甘い食用果実。"
+    },
+    {
+      "id": "rare_fruit_0023",
+      "destination": "rare_fruit_0023",
+      "sources": [
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/caprifoliaceae/uguisukagura/uguisukagura.htm",
+        "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/honeysuckle/lonicera/gra.html"
+      ],
+      "note": "赤熟する食用果実。岡山理科大学の学名 var. glabra に一致する資料で確認。"
+    },
+    {
+      "id": "rare_fruit_0024",
+      "destination": "rare_fruit_0024",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/viburnum-dilatatum/"
+      ],
+      "note": "赤い小果実が房状につく。食用用途未確認。木への整理候補。"
+    },
+    {
+      "id": "rare_fruit_0025",
+      "destination": "rare_fruit_0025",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/viburnum-wrightii/"
+      ],
+      "note": "丸い赤い小果実が房状につく。食用用途未確認。花木既存登録への整理候補。"
+    },
+    {
+      "id": "rare_fruit_0026",
+      "destination": "rare_fruit_0026",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/viburnum-erosum/"
+      ],
+      "note": "赤い小果実。食用用途未確認。花木既存登録への整理候補。"
+    },
+    {
+      "id": "rare_fruit_0027",
+      "destination": "rare_fruit_0027",
+      "sources": [
+        "https://mikawanoyasou.org/data/sankakuduru.htm"
+      ],
+      "note": "直径約6～8mmの球形液果、黒熟し甘い食用果実。"
+    },
+    {
+      "id": "rare_fruit_0028",
+      "destination": "rare_fruit_0028",
+      "sources": [
+        "https://mikawanoyasou.org/data/siratamanoki.htm"
+      ],
+      "note": "丸い白色の部分は肥大した萼が果実を包む。食用用途未確認。観賞の花木候補。"
+    },
+    {
+      "id": "rare_fruit_0029",
+      "destination": "rare_fruit_0029",
+      "sources": [
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A726425-1",
+        "https://www.rhs.org.uk/plants/10792/malus-tschonoskii/details"
+      ],
+      "note": "幅約2.5cmまでの緑黄色に赤みを帯びる果実。旧名Malus tschonoskiiとの対応はKewで確認。観賞の木候補。"
+    },
+    {
+      "id": "rare_fruit_0030",
+      "destination": "flower_tree_0192",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/malus-toringo/"
+      ],
+      "note": "黄色～赤色の小さなリンゴ状果実。花木既存登録への整理候補。"
+    },
+    {
+      "id": "rare_fruit_0031",
+      "destination": "flower_tree_0191",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/pourthiaea-villosa/"
+      ],
+      "note": "秋に鮮赤色の小果実。食用用途未確認。花木既存登録への整理候補。"
+    },
+    {
+      "id": "rare_fruit_0032",
+      "destination": "tree_0203",
+      "sources": [
+        "https://mikawanoyasou.org/data/azukinasi.htm"
+      ],
+      "note": "長さ約8mmの楕円形ナシ状果が赤熟。資料の旧学名と現学名対応を追加確認。木既存登録への整理候補。"
+    },
+    {
+      "id": "rare_fruit_0033",
+      "destination": "rare_fruit_0033",
+      "sources": [
+        "https://mikawanoyasou.org/data/urajironoki.htm"
+      ],
+      "note": "約9～14mmの楕円形ナシ状果、秋～冬に赤熟。資料と現学名の対応を追加確認。木候補。"
+    },
+    {
+      "id": "rare_fruit_0034",
+      "destination": "rare_fruit_0034",
+      "sources": [
+        "https://mikawanoyasou.org/data/marmelo.htm"
+      ],
+      "note": "熟すと黄色くなる芳香のある果実。酒や蜂蜜漬け利用の記載。"
+    },
+    {
+      "id": "rare_fruit_0035",
+      "destination": "rare_fruit_0035",
+      "sources": [
+        "https://www.rhs.org.uk/plants/11088/mespilus-germanica-f/details",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A726564-1"
+      ],
+      "note": "Mespilus germanicaはKewで登録Crataegus germanicaの同物異名。RHSは約5cmの褐色果実と食用表示。"
+    },
+    {
+      "id": "rare_fruit_0036",
+      "destination": "rare_fruit_0036",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/gaultheria-procumbens/"
+      ],
+      "note": "赤い肉厚な食用萼に包まれた蒴果。単純なベリーと説明しない。観賞用途も考慮。"
+    },
+    {
+      "id": "rare_fruit_0037",
+      "destination": "rare_fruit_0037",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/amelanchier-alnifolia/"
+      ],
+      "note": "青紫色のジューシーで甘い食用果実。"
+    },
+    {
+      "id": "rare_fruit_0038",
+      "destination": "rare_fruit_0038",
+      "sources": [
+        "https://mikawanoyasou.org/data/sanzasi.htm"
+      ],
+      "note": "直径約1～2cm、赤色または黄色のナシ状果。花木既存登録への整理候補。効能の断定はしない。"
+    },
+    {
+      "id": "rare_fruit_0039",
+      "destination": "rare_fruit_0039",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/rubus-spectabilis/"
+      ],
+      "note": "黄色～橙色～赤色の食用集合果。"
+    },
+    {
+      "id": "rare_fruit_0040",
+      "destination": "rare_fruit_0040",
+      "sources": [
+        "https://gobotany.nativeplanttrust.org/species/vaccinium/vitis-idaea/?key=dichotomous"
+      ],
+      "note": "酸味のある果実の栽培利用。資料は種全体で亜種minus限定ではない。コケモモとの範囲の重なりを記録。"
+    },
+    {
+      "id": "rare_fruit_0041",
+      "destination": "rare_fruit_0041",
+      "sources": [
+        "https://research.fs.usda.gov/feis/species-reviews/vacmyr",
+        "https://mynpn.usanpn.org/npnapps/species/Vaccinium/myrtillus"
+      ],
+      "note": "多汁の食用果実。USDAは生食・ジャム・ゼリー利用を記載。USANPNは熟色を深青色と記載。"
+    },
+    {
+      "id": "rare_fruit_0042",
+      "destination": "rare_fruit_0042",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/ziziphus-jujuba/"
+      ],
+      "note": "楕円形～球形の食用果実。熟すと褐紫色になり、しわが増える。"
+    },
+    {
+      "id": "rare_fruit_0043",
+      "destination": "rare_fruit_0043",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/diospyros-virginiana/"
+      ],
+      "note": "黄～橙色の丸い食用果実。十分熟す前は渋いと資料に記載。"
+    },
+    {
+      "id": "rare_fruit_0044",
+      "destination": "rare_fruit_0044",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/prunus-americana/"
+      ],
+      "note": "赤紫色の丸い果実、黄色い多汁の果肉。完熟時に甘くなる。"
+    },
+    {
+      "id": "rare_fruit_0045",
+      "destination": "rare_fruit_0045",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/sapote_ars.html"
+      ],
+      "note": "粗い暗褐色の果皮と、サーモン桃色～濃赤色の軟らかい甘い果肉。"
+    },
+    {
+      "id": "rare_fruit_0046",
+      "destination": "rare_fruit_0046",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/abiu.html"
+      ],
+      "note": "熟すと淡黄色の果皮、白色～半透明の甘い果肉。未熟果の乳液に関する注意あり。"
+    },
+    {
+      "id": "rare_fruit_0047",
+      "destination": "rare_fruit_0047",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/pulasan.html",
+        "https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3043"
+      ],
+      "note": "赤色系または黄色の厚い突起状果皮、白～黄白色の仮種皮。資料の旧学名との対応を追加確認。"
+    },
+    {
+      "id": "rare_fruit_0048",
+      "destination": "rare_fruit_0048",
+      "sources": [
+        "https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2994"
+      ],
+      "note": "楕円形～ほぼ丸形の果実が褐黄色に熟す。皮内の分かれた多汁の仮種皮は甘く食用。"
+    },
+    {
+      "id": "rare_fruit_0049",
+      "destination": "rare_fruit_0049",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/santol.html"
+      ],
+      "note": "丸い黄色～黄金色の果皮、白い半透明の果肉が種子を包む。食用利用の記載。"
+    },
+    {
+      "id": "rare_fruit_0050",
+      "destination": "rare_fruit_0050",
+      "sources": [
+        "https://www.nparks.gov.sg/florafaunaweb/flora/2/6/2696"
+      ],
+      "note": "黄褐色の毛に覆われる円筒状の果実。白い粉状の果肉が種子を包み、食品利用の記載。"
+    },
+    {
+      "id": "rare_fruit_0051",
+      "destination": "rare_fruit_0051",
+      "sources": [
+        "https://ask.ifas.ufl.edu/publication/EP553",
+        "https://ffl-apps.ifas.ufl.edu/butterflies/browse/Details/98"
+      ],
+      "note": "フロリダ大学資料で食用果実を確認。紫色の果実の記載。"
+    },
+    {
+      "id": "rare_fruit_0052",
+      "destination": "rare_fruit_0052",
+      "sources": [
+        "https://mikawanoyasou.org/data/seiyousanzasi.htm"
+      ],
+      "note": "直径約6～14mmの明るい赤いナシ状果。既存花木へ整理候補。"
+    },
+    {
+      "id": "rare_fruit_0053",
+      "destination": "rare_fruit_0053",
+      "sources": [
+        "https://www.nparks.gov.sg/florafaunaweb/flora/2/6/2628"
+      ],
+      "note": "直径約1.5cmの丸い繊維質の果実。緑から紫黒色に熟し、種子1個。食品利用記載。"
+    },
+    {
+      "id": "rare_fruit_0054",
+      "destination": "rare_fruit_0054",
+      "sources": [
+        "https://landscapeplants.oregonstate.edu/plants/hippophae-rhamnoides",
+        "https://uncommonfruit.cias.wisc.edu/seaberry-sea-buckthorn/"
+      ],
+      "note": "鮮橙色で約6～8mmの球～卵形果実、種子1個。大学栽培資料で酸味・多汁の食品利用を確認。ハーブのシーバックソーンと同学名。"
+    },
+    {
+      "id": "rare_fruit_0055",
+      "destination": "rare_fruit_0055",
+      "sources": [
+        "https://www.ag.ndsu.edu/carringtonrec/archive/northern-hardy-fruit-evaluation-project/fruit-index/haskap",
+        "https://uncommonfruit.cias.wisc.edu/honeyberry/"
+      ],
+      "note": "食用ブルーハニーサックルの栽培利用を大学農業試験場資料で確認。登録は種全体、ハスカップの呼称は特定亜種を指すことがあり範囲の差を記録。"
+    },
+    {
+      "id": "rare_fruit_0056",
+      "destination": "rare_fruit_0056",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/aronia-melanocarpa/"
+      ],
+      "note": "光沢のある黒紫色の食用ナシ状果。"
+    },
+    {
+      "id": "rare_fruit_0059",
+      "destination": "rare_fruit_0059",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/morus-alba/"
+      ],
+      "note": "白・桃色、赤～紫黒色になる場合もある甘い食用果実。"
+    },
+    {
+      "id": "rare_fruit_0061",
+      "destination": "rare_fruit_0061",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/malus-sylvestris/"
+      ],
+      "note": "緑・黄・赤系の酸味のある果実。ゼリー・保存食品・ジュース用途の記載。種子を食用としない。"
+    },
+    {
+      "id": "rare_fruit_0063",
+      "destination": "rare_fruit_0063",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/prunus-virginiana/"
+      ],
+      "note": "赤い果実が熟すと黒くなる。食べ方の採用は別途確認。"
+    },
+    {
+      "id": "rare_fruit_0065",
+      "destination": "rare_fruit_0065",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/sambucus-nigra/"
+      ],
+      "note": "光沢のある黒色の小果実。未確認の生食方法を付け加えない。ハーブ既存登録と整理候補。"
+    },
+    {
+      "id": "rare_fruit_0067",
+      "destination": "rare_fruit_0067",
+      "sources": [
+        "https://landscapeplants.oregonstate.edu/plants/sambucus-racemosa"
+      ],
+      "note": "鮮赤色の果実。OSU資料は生の果実を食用としない記載。加熱用途の記載を生食推奨に読み替えない。"
+    },
+    {
+      "id": "rare_fruit_0068",
+      "destination": "rare_fruit_0068",
+      "sources": [
+        "https://www.rhs.org.uk/plants/4775/crataegus-monogyna/details"
+      ],
+      "note": "暗赤色の果実。ゼリー利用の記載と種子への注意。ハーブ既存登録と整理候補。"
+    },
+    {
+      "id": "rare_fruit_0069",
+      "destination": "rare_fruit_0069",
+      "sources": [
+        "https://www.rhs.org.uk/fruit/gooseberries/grow-your-own"
+      ],
+      "note": "RHSで食用果実とジャム・パイなどの加工用途を確認。記載の緑の未熟果を完熟色と断定しない。"
+    },
+    {
+      "id": "rare_fruit_0070",
+      "destination": "rare_fruit_0070",
+      "sources": [
+        "https://www.rhs.org.uk/fruit/redcurrants/grow-your-own"
+      ],
+      "note": "長い房に光沢ある赤い食用果実が並ぶ。"
+    },
+    {
+      "id": "rare_fruit_0072",
+      "destination": "rare_fruit_0072",
+      "sources": [
+        "https://www.rhs.org.uk/plants/106234/ribes-nigrum-b/details"
+      ],
+      "note": "暗紫色の果実が房状につく。酸味があり料理に利用との記載。"
+    },
+    {
+      "id": "rare_fruit_0073",
+      "destination": "rare_fruit_0073",
+      "sources": [
+        "https://landscapeplants.oregonstate.edu/plants/ribes-aureum"
+      ],
+      "note": "直径約6mmの丸い無毛の果実。黄・橙・赤・紫黒色の変異。用途は未確認。"
+    },
+    {
+      "id": "rare_fruit_0074",
+      "destination": "rare_fruit_0074",
+      "sources": [
+        "https://www.rhs.org.uk/plants/297045/ribes-%C3%97-nidigrolaria-f/details"
+      ],
+      "note": "グーズベリーに近い大きさとブラックカラント風味をもつ食用果実。英国の成熟月を日本に流用しない。"
+    },
+    {
+      "id": "rare_fruit_0075",
+      "destination": "rare_fruit_0075",
+      "sources": [
+        "https://extension.oregonstate.edu/es/catalog/ec-1303-growing-blackberries-your-home-garden"
+      ],
+      "note": "交雑ベリーであることは資料確認。果実色・大きさは今回未確認。"
+    },
+    {
+      "id": "rare_fruit_0076",
+      "destination": "rare_fruit_0076",
+      "sources": [
+        "https://www.rhs.org.uk/plants/112476/rubus-%C3%97-loganobaccus-f/details"
+      ],
+      "note": "細長い暗桃色の食用果実。英国の成熟時期を日本に流用しない。"
+    },
+    {
+      "id": "rare_fruit_0077",
+      "destination": "rare_fruit_0077",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/rubus-flagellaris/"
+      ],
+      "note": "紫黒～黒色に熟す甘酸っぱい小果実。"
+    },
+    {
+      "id": "rare_fruit_0078",
+      "destination": "rare_fruit_0078",
+      "sources": [
+        "https://dendro.cnre.vt.edu/dendrology/syllabus/factsheet.cfm?ID=252",
+        "https://landscapeplants.oregonstate.edu/plants/rubus-parviflorus"
+      ],
+      "note": "赤い小核果が集まる扁平なドーム状の食用集合果。芯から外れ指ぬき状になる。"
+    },
+    {
+      "id": "rare_fruit_0079",
+      "destination": "rare_fruit_0079",
+      "sources": [
+        "https://research.fs.usda.gov/feis/species-reviews/rubcha"
+      ],
+      "note": "USDA資料で高さ約10～30cmの草本多年生植物。小さな核果が集まる集合果。草への移動候補。熟色と国内成熟時期は未確認。"
+    },
+    {
+      "id": "rare_fruit_0080",
+      "destination": "rare_fruit_0080",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/gaylussacia-baccata/"
+      ],
+      "note": "青黒い小さな食用果実。"
+    },
+    {
+      "id": "rare_fruit_0081",
+      "destination": "herb_0088",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/myrtus-communis/"
+      ],
+      "note": "花後に紫黒色の食用果実。ハーブのマートル、花木のギンバイカと同学名で整理候補。"
+    },
+    {
+      "id": "rare_fruit_0082",
+      "destination": "rare_fruit_0082",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/arbutus-unedo/"
+      ],
+      "note": "表面が粗い赤色の食用果実。果実と花が同時に見られる。"
+    },
+    {
+      "id": "rare_fruit_0083",
+      "destination": "rare_fruit_0083",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/cornus-mas/"
+      ],
+      "note": "オリーブ形の核果。暗赤色で食用と資料に記載。"
+    },
+    {
+      "id": "rare_fruit_0084",
+      "destination": "rare_fruit_0084",
+      "sources": [
+        "https://www.rhs.org.uk/plants/11217/morus-nigra-f/details"
+      ],
+      "note": "長さ約2cmで暗紫赤色の食用果実。RHS種ページの説明を確認、栽培品種の大きさは転用しない。"
+    },
+    {
+      "id": "rare_fruit_0086",
+      "destination": "rare_fruit_0086",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/elaeagnus-angustifolia/"
+      ],
+      "note": "肉厚な花托筒が痩果を包み、オリーブ形に見える。食用用途は未確認。"
+    },
+    {
+      "id": "rare_fruit_0088",
+      "destination": "rare_fruit_0088",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/vitis-rotundifolia/"
+      ],
+      "note": "暗紫色または青銅色の厚皮の食用ブドウ。"
+    },
+    {
+      "id": "rare_fruit_0090",
+      "destination": "rare_fruit_0090",
+      "sources": [
+        "https://tnyards.utk.edu/vitis-labrusca/"
+      ],
+      "note": "甘味の強いブドウ状果実。果皮は厚く苦味があるとの大学資料。栽培交雑品種を種そのものと混同しない。"
+    },
+    {
+      "id": "rare_fruit_0091",
+      "destination": "rare_fruit_0091",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/vitis-vulpina/"
+      ],
+      "note": "黒～紫色の丸い食用果実。"
+    },
+    {
+      "id": "rare_fruit_0092",
+      "destination": "rare_fruit_0092",
+      "sources": [
+        "https://arboretum.desu.edu/scientific_names/Prunus_maritima/index.html",
+        "https://njaes.rutgers.edu/fs1297/"
+      ],
+      "note": "赤～紫黒色の核果。食用・ジャム・ゼリー利用を大学資料で確認。"
+    },
+    {
+      "id": "rare_fruit_0093",
+      "destination": "rare_fruit_0093",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/prunus-angustifolia/"
+      ],
+      "note": "黄色～赤色の果実。食用用途はこの抜粋では未確認。"
+    },
+    {
+      "id": "rare_fruit_0094",
+      "destination": "rare_fruit_0094",
+      "sources": [
+        "https://gobotany.nativeplanttrust.org/species/prunus/nigra/"
+      ],
+      "note": "赤・黄色系の肉質の核果。ジャム・ゼリー利用をNative Plant Trust資料で確認。"
+    },
+    {
+      "id": "rare_fruit_0096",
+      "destination": "rare_fruit_0096",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/crataegus-aestivalis/"
+      ],
+      "note": "赤い肉質の小さなナシ状果。食用果肉の記載。"
+    },
+    {
+      "id": "rare_fruit_0097",
+      "destination": "rare_fruit_0097",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/shepherdia-argentea/"
+      ],
+      "note": "雌株に鮮赤色で中央に種子1個の小果実。食用表示あり。"
+    },
+    {
+      "id": "rare_fruit_0098",
+      "destination": "rare_fruit_0098",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/prunus-serotina/"
+      ],
+      "note": "垂れる房に紫黒色の小果実。資料内に食用表示と人への摂食非推奨記述が併存。食用説明・果実ジャンル採用を保留、木候補。"
+    },
+    {
+      "id": "rare_fruit_0099",
+      "destination": "rare_fruit_0099",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/prunus-pensylvanica/"
+      ],
+      "note": "赤い小さな核果、中央に種子1個。食用表示あり。"
+    },
+    {
+      "id": "rare_fruit_0100",
+      "destination": "rare_fruit_0100",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/soncoya.html"
+      ],
+      "note": "硬い突起と褐色の毛をもつ大きな丸い果実。黄色～橙色で香りのある繊維質の果肉。"
+    },
+    {
+      "id": "rare_fruit_0101",
+      "destination": "rare_fruit_0101",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/biriba.html"
+      ],
+      "note": "黄色の突起状果皮と白色の半透明果肉。資料にAnnona mucosaの同物異名記載。"
+    },
+    {
+      "id": "rare_fruit_0102",
+      "destination": "rare_fruit_0102",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/cattley_guava.html"
+      ],
+      "note": "赤色の果実と黄果型の記載。資料と登録の学名綴り差を確認するまで範囲限定。"
+    },
+    {
+      "id": "rare_fruit_0103",
+      "destination": "rare_fruit_0103",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/plinia-cauliflora/"
+      ],
+      "note": "幹や枝に丸い暗紫～黒色の果実。厚い果皮と甘い白い果肉。"
+    },
+    {
+      "id": "rare_fruit_0104",
+      "destination": "rare_fruit_0104",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/grumichama.html"
+      ],
+      "note": "緑から赤、熟すと暗紫～黒色になるやや扁平な果実。"
+    },
+    {
+      "id": "rare_fruit_0105",
+      "destination": "rare_fruit_0105",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/surinam_cherry.html"
+      ],
+      "note": "縦に7～8本の溝がある扁平な果実。橙色から赤色・暗紫色系に熟し、橙赤色で多汁の果肉。"
+    },
+    {
+      "id": "rare_fruit_0106",
+      "destination": "rare_fruit_0106",
+      "sources": [
+        "https://proflora.jbrj.gov.br/html/Campomanesia%20phaea_2021.html",
+        "https://www.iac.sp.gov.br/areadoinstituto/ciiciac/resumo2013/RE13255.pdf"
+      ],
+      "note": "ブラジル植物園・農業研究資料で果実のジュース・ゼリー用途を確認。果実形や熟色は今回未確認。"
+    },
+    {
+      "id": "rare_fruit_0107",
+      "destination": "rare_fruit_0107",
+      "sources": [
+        "https://scholarworks.utrgv.edu/etd/641/"
+      ],
+      "note": "酸味のあるベリー様の果実が食用と大学研究資料に記載。栄養や効能の誇張はしない。色・大きさは今回未確認。"
+    },
+    {
+      "id": "rare_fruit_0108",
+      "destination": "rare_fruit_0108",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/white_sapote.html"
+      ],
+      "note": "Casimiroa edulis の節ではリンゴに似た滑らかな果実。他種を含む総論の大きさを転用しない。"
+    },
+    {
+      "id": "rare_fruit_0109",
+      "destination": "rare_fruit_0109",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/lucmo.html"
+      ],
+      "note": "褐緑色の薄い果皮、鮮黄色で粉質の甘い果肉。"
+    },
+    {
+      "id": "rare_fruit_0110",
+      "destination": "rare_fruit_0110",
+      "sources": [
+        "https://ask.ifas.ufl.edu/publication/HS309/pdf",
+        "https://hort.purdue.edu/newcrop/morton/star_apple.html"
+      ],
+      "note": "紫色または淡緑色の果皮と白い甘い果肉。切断面の種子室が星形。"
+    },
+    {
+      "id": "rare_fruit_0111",
+      "destination": "rare_fruit_0111",
+      "sources": [
+        "https://as.vanderbilt.edu/clacx/garden/plant-database/solanum-quitoense/",
+        "https://experts.umn.edu/en/publications/characterization-of-a-new-tymovirus-causing-stunting-and-chloroti/"
+      ],
+      "note": "毛のある丸い果実。熟すと鮮橙色の皮、緑～黄色系で多汁・酸味のある果肉。"
+    },
+    {
+      "id": "rare_fruit_0112",
+      "destination": "rare_fruit_0112",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/tree_tomato.html"
+      ],
+      "note": "滑らかな卵形で赤・橙・黄・紫色系の果実。長い果柄から下がり、種子周囲の果肉が多汁。"
+    },
+    {
+      "id": "rare_fruit_0114",
+      "destination": "rare_fruit_0114",
+      "sources": [
+        "https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3289"
+      ],
+      "note": "赤褐色～赤色に熟す鱗状の皮をもつ丸～楕円形果実。ヤシであり旧生活型は見直し候補。"
+    },
+    {
+      "id": "rare_fruit_0115",
+      "destination": "rare_fruit_0115",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/jackfruit_ars.html"
+      ],
+      "note": "Artocarpus integer の近縁種節を確認。円筒状の黄～黄金褐色果実、濃黄色で軟らかく甘い果肉。ジャックフルーツ主題の特徴は転用しない。"
+    },
+    {
+      "id": "rare_fruit_0116",
+      "destination": "rare_fruit_0116",
+      "sources": [
+        "https://www.nparks.gov.sg/florafaunaweb/flora/3/5/3575"
+      ],
+      "note": "ほぼ丸い果実が緑から黄褐色へ熟す。突起で覆われ、多数の種子を白く多汁で甘い果肉が包む。"
+    },
+    {
+      "id": "rare_fruit_0117",
+      "destination": "rare_fruit_0117",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/otaheite_gooseberry.html"
+      ],
+      "note": "淡黄～ほぼ白色、6～8本の稜をもつ小さな扁平果実。酸味が強い。"
+    },
+    {
+      "id": "rare_fruit_0118",
+      "destination": "rare_fruit_0118",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/rose_apple.html"
+      ],
+      "note": "淡黄色～白色の薄い皮と黄色系果肉。バラ様の香りの記載。既存フトモモと同学名で整理候補。"
+    },
+    {
+      "id": "rare_fruit_0119",
+      "destination": "rare_fruit_0119",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/ambarella_ars.html"
+      ],
+      "note": "楕円形の果実が黄金黄色に熟す。多汁の果肉と硬い繊維質の核。"
+    },
+    {
+      "id": "rare_fruit_0120",
+      "destination": "rare_fruit_0120",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/java_apple.html"
+      ],
+      "note": "淡赤色、緑白色またはクリーム色の洋ナシ形果実。薄皮、白い果肉。"
+    },
+    {
+      "id": "rare_fruit_0121",
+      "destination": "rare_fruit_0121",
+      "sources": [
+        "https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3153",
+        "https://pulau-ubin.nparks.gov.sg/biodiversity/placesofinterest/ubin-fruit-orchard/"
+      ],
+      "note": "洋ナシ形の桃～赤色果実。薄く光沢のある皮、白く多汁で歯ごたえのある果肉。食用利用資料あり。"
+    },
+    {
+      "id": "rare_fruit_0123",
+      "destination": "rare_fruit_0123",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/jambolan.html"
+      ],
+      "note": "丸～長円形の果実が暗紫～ほぼ黒色に熟す。紫または白色で多汁の果肉。資料の単位誤記は転用しない。"
+    },
+    {
+      "id": "rare_fruit_0125",
+      "destination": "rare_fruit_0125",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/malay_apple.html"
+      ],
+      "note": "赤色系または白地に赤桃色の薄い皮、白く多汁の果肉。"
+    },
+    {
+      "id": "rare_fruit_0126",
+      "destination": "rare_fruit_0126",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/wood-apple.html"
+      ],
+      "note": "硬い灰白色の木質の殻、褐色で粉質の果肉。"
+    },
+    {
+      "id": "rare_fruit_0127",
+      "destination": "rare_fruit_0127",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/bael_fruit.html"
+      ],
+      "note": "硬い殻をもつ果実が黄色系に熟す。淡橙色で香りのあるペースト状果肉。"
+    },
+    {
+      "id": "rare_fruit_0128",
+      "destination": "rare_fruit_0128",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/indian_jujube.html"
+      ],
+      "note": "丸～楕円形の果実、緑から黄、さらに赤褐色系へ。完熟時はやや粉質の果肉。"
+    },
+    {
+      "id": "rare_fruit_0129",
+      "destination": "rare_fruit_0129",
+      "sources": [
+        "https://www.nparks.gov.sg/florafaunaweb/flora/8/1/8155"
+      ],
+      "note": "指のような細長い果実。丸い独立した果汁粒が多数入る。食用利用記載。"
+    },
+    {
+      "id": "rare_fruit_0130",
+      "destination": "rare_fruit_0130",
+      "sources": [
+        "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Citrus~glauca&page=nswfl"
+      ],
+      "note": "直径約10～20mm、黄緑色のほぼ丸い液果。用途未確認。"
+    },
+    {
+      "id": "rare_fruit_0131",
+      "destination": "rare_fruit_0131",
+      "sources": [
+        "https://era.dpi.qld.gov.au/id/eprint/5947/"
+      ],
+      "note": "政府研究で果実の食品産業利用を確認。形・熟色・果肉説明は今回未確認。"
+    },
+    {
+      "id": "rare_fruit_0132",
+      "destination": "rare_fruit_0132",
+      "sources": [
+        "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Santalum~acuminatum&page=nswfl"
+      ],
+      "note": "約15～25mmの丸い核果。光沢ある赤色、まれに黄色。食用記載。"
+    },
+    {
+      "id": "rare_fruit_0133",
+      "destination": "rare_fruit_0133",
+      "sources": [
+        "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Acmena~smithii&page=nswfl"
+      ],
+      "note": "約8～20mmの丸い白～紫色果実。資料旧名Acmena smithiiとの学名対応を追加確認。"
+    },
+    {
+      "id": "rare_fruit_0134",
+      "destination": "rare_fruit_0134",
+      "sources": [
+        "https://apps.lucidcentral.org/rainforest/text/entities/acronychia_acidula.htm"
+      ],
+      "note": "オーストラリア熱帯植物誌の検索本文に直径約20mmのほぼ球形果実。本文再取得は403で失敗。熟色・用途は未確認。"
+    },
+    {
+      "id": "rare_fruit_0135",
+      "destination": "rare_fruit_0135",
+      "sources": [
+        "https://apps.worldagroforestry.org/usefultrees/pdflib/Sclerocarya_birrea_ETH.pdf"
+      ],
+      "note": "丸く肉厚で約3.5cmまでの果実。クリーム色系の皮と甘い果肉。資料では落果後黄色に熟す記載。食用・飲料・ゼリー用途。"
+    },
+    {
+      "id": "rare_fruit_0136",
+      "destination": "rare_fruit_0136",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/carissa-macrocarpa/"
+      ],
+      "note": "卵形で緑から赤・紫色へ熟す果実。完熟果が食用との記載。"
+    },
+    {
+      "id": "rare_fruit_0137",
+      "destination": "rare_fruit_0137",
+      "sources": [
+        "https://winrock.org/factnet/fact-net-fact-sheets/inga-edulis-a-tree-for-acid-soils-in-the-humid-tropics/"
+      ],
+      "note": "長い円筒状の莢に、種子を包む白い甘い綿状部分。地域市場で果実利用の記載。"
+    },
+    {
+      "id": "rare_fruit_0139",
+      "destination": "rare_fruit_0139",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/mabolo.html"
+      ],
+      "note": "短い毛に覆われた桃・黄・橙・赤紫色系の丸～楕円形果実。旧説明の複葉は資料の葉形と不整合で写真再確認候補。"
+    },
+    {
+      "id": "rare_fruit_0140",
+      "destination": "rare_fruit_0140",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/mamey.html"
+      ],
+      "note": "淡褐～灰褐色の厚い皮と、黄色～橙色の果肉。マメイサポテと異なる植物。"
+    },
+    {
+      "id": "rare_fruit_0141",
+      "destination": "rare_fruit_0141",
+      "sources": [
+        "https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&taxonid=3306"
+      ],
+      "note": "大学植物誌で果実目的の栽培を確認。形・色・果肉の具体説明は今回未確認。"
+    },
+    {
+      "id": "rare_fruit_0146",
+      "destination": "rare_fruit_0146",
+      "sources": [
+        "https://plantselector.botanicgardens.sa.gov.au/Plants/Details/17950"
+      ],
+      "note": "小さな赤～淡紫色の果実。植物園資料で確認、食用用途は未確認。"
+    },
+    {
+      "id": "rare_fruit_0150",
+      "destination": "rare_fruit_0150",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/elaeagnus-umbellata/"
+      ],
+      "note": "赤熟し銀色～褐色の鱗状斑点をもつ食用果実。アキグミ登録の変種と種の範囲の重なりを整理候補にする。"
+    },
+    {
+      "id": "rare_fruit_0151",
+      "destination": "rare_fruit_0151",
+      "sources": [
+        "https://plants.ces.ncsu.edu/plants/ceratonia-siliqua/"
+      ],
+      "note": "褐色の長い扁平な莢。内部の繊維質部分が食用と資料に記載。"
+    },
+    {
+      "id": "rare_fruit_0152",
+      "destination": "rare_fruit_0152",
+      "sources": [
+        "https://www.nparks.gov.sg/florafaunaweb/flora/7/7/7798"
+      ],
+      "note": "赤褐色の重なる鱗で覆われる丸～楕円形果実。種子の周囲に黄橙色の果肉。食用・デザート利用。資料では扇状の葉で旧羽状葉説明と不整合。"
+    },
+    {
+      "id": "rare_fruit_0153",
+      "destination": "rare_fruit_0153",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/bakuri.html"
+      ],
+      "note": "丸～卵形の果実が黄色く熟す。厚い硬い皮と白い果肉。菓子・アイスなどの利用。"
+    },
+    {
+      "id": "rare_fruit_0154",
+      "destination": "rare_fruit_0154",
+      "sources": [
+        "https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3189"
+      ],
+      "note": "大きな楕円形の果実、種子周囲の甘酸っぱい果肉をジュース・アイスクリームに利用。資料の果実型drupesは他資料照合まで採用しない。"
+    },
+    {
+      "id": "rare_fruit_0156",
+      "destination": "rare_fruit_0156",
+      "sources": [
+        "https://www.nparks.gov.sg/florafaunaweb/flora/3/5/3595"
+      ],
+      "note": "直径約2.5cmの卵～ほぼ球形果実、熟色は赤黄または紫。黄色い仮種皮は甘酸っぱく食用。旧資料の主題motleyanaからの転用はしない。"
+    },
+    {
+      "id": "rare_fruit_0157",
+      "destination": "rare_fruit_0157",
+      "sources": [
+        "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Davidsonia~jerseyana&page=nswfl"
+      ],
+      "note": "約3～5cmの青黒色、金褐色の毛をまばらにもつ果実。食用用途は未確認。現地成熟月を日本に転用しない。"
+    },
+    {
+      "id": "rare_fruit_0158",
+      "destination": "rare_fruit_0158",
+      "sources": [
+        "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Podocarpus~elatus&page=nswfl"
+      ],
+      "note": "青黒く白い粉を帯びる肉厚の受け皿状部分に種子がつく。裸子植物なので普通の果実と同じ説明にしない。木候補。"
+    },
+    {
+      "id": "rare_fruit_0159",
+      "destination": "rare_fruit_0159",
+      "sources": [
+        "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Syzygium~luehmannii&page=nswfl"
+      ],
+      "note": "桃～赤色の倒卵～洋ナシ形果実。種子1個。食用用途未確認。"
+    },
+    {
+      "id": "rare_fruit_0160",
+      "destination": "rare_fruit_0160",
+      "sources": [
+        "https://vicflora.rbg.vic.gov.au/flora/taxon/5fa42c33-c2bb-4cfb-b18b-82c3e2308c98",
+        "https://plantselector.botanicgardens.sa.gov.au/Plants/Details/3147"
+      ],
+      "note": "直径約8～12mmの紫色で肉厚なほぼ球形の果実。植物園が食用利用も記載。"
+    },
+    {
+      "id": "rare_fruit_0161",
+      "destination": "rare_fruit_0161",
+      "sources": [
+        "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Austromyrtus~dulcis&page=nswfl"
+      ],
+      "note": "直径約5～6mmの白い果実に暗い斑点。食用用途未確認。"
+    },
+    {
+      "id": "rare_fruit_0162",
+      "destination": "rare_fruit_0162",
+      "sources": [
+        "https://www.anbg.gov.au/apu/plants/tasmlanc.html"
+      ],
+      "note": "果実食用と植物各部の香辛味の記載。ハーブへの移動候補。赤色の記載を完熟色と断定しない。"
+    },
+    {
+      "id": "rare_fruit_0163",
+      "destination": "rare_fruit_0163",
+      "sources": [
+        "https://apps.worldagroforestry.org/treedb2/speciesprofile.php?Spid=1003"
+      ],
+      "note": "約5～7.5cmの広楕円形果実が黄色系に熟す。大きな種子を黄色い繊維質の果肉が包む。"
+    },
+    {
+      "id": "rare_fruit_0164",
+      "destination": "rare_fruit_0164",
+      "sources": [
+        "https://apps.worldagroforestry.org/treedb/AFTPDFS/Balanites_aegyptiaca.PDF",
+        "https://www.worldagroforestry.org/publication/desert-date-uganda-dryland-tree-food-security"
+      ],
+      "note": "長円形の果実、熟すと淡褐色系の外皮と褐色系の粘る果肉、硬い核。資料には黄熟との表現もあり色の幅を記録。食品利用資料あり。"
+    },
+    {
+      "id": "rare_fruit_0166",
+      "destination": "rare_fruit_0166",
+      "sources": [
+        "https://www.nparks.gov.sg/florafaunaweb/flora/3/3/3344"
+      ],
+      "note": "橙色で多汁の食用果肉。資料では皮を少し削った下の黄色～淡褐色を成熟判定とし、表皮の色とは区別する。"
+    },
+    {
+      "id": "rare_fruit_0168",
+      "destination": "rare_fruit_0168",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/nance.html"
+      ],
+      "note": "橙黄色の丸い果実。白く多汁・油質の果肉。資料の寸法換算矛盾は採用しない。"
+    },
+    {
+      "id": "rare_fruit_0169",
+      "destination": "rare_fruit_0169",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/mamoncillo.html"
+      ],
+      "note": "緑色の丸い果実。サーモン色～黄色の半透明でゼリー状の甘酸っぱい仮種皮が大きな種子を包む。"
+    },
+    {
+      "id": "rare_fruit_0171",
+      "destination": "rare_fruit_0171",
+      "sources": [
+        "https://hort.purdue.edu/newcrop/morton/bakupari_ars.html",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A277321-2"
+      ],
+      "note": "Rheedia madrunoはKewで登録Garcinia madrunoの同物異名。該当種節に丸～楕円形の緑黄色で突起ある皮、白い半透明の多汁で甘酸っぱい果肉。別種brasiliensisの特徴は転用しない。"
+    }
+  ]
+}

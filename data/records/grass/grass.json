@@ -27028,5 +27028,90 @@
       "thumbnail_genre_review_issue_type": "resolved",
       "thumbnail_genre_review_suggested_genre": "草、または観葉植物",
       "thumbnail_genre_review_requires_user_decision": false
+    },
+    {
+      "id": "rare_fruit_0079",
+      "category": "草",
+      "display_name": "クラウドベリー",
+      "kana": "クラウドベリー",
+      "search_aliases": [
+        "クラウドベリー"
+      ],
+      "family": "バラ科",
+      "genus": "Rubus属",
+      "scientific_name": "Rubus chamaemorus",
+      "taxon_id": 153003,
+      "reference_taxon_id": 153003,
+      "taxon_rank": "species",
+      "entity_type": "種",
+      "life_form": "多年生草本",
+      "flowering_season": "要確認",
+      "observation_season": "要確認",
+      "distribution": "自然分布（Kew）：Subarctic・Subalpine 北部 Hemisphere。",
+      "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+      "common_place": "生育環境は要確認",
+      "feature_summary": "高さ約10～30cmの草本の多年生植物です。小さな核果が集まった集合果をつけます。",
+      "trivia": "分類資料では多年生植物（地下茎を持つことがある）として扱われます。主な生育帯は温帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "Tracheophyta",
+        "order": "バラ目",
+        "family": "バラ科",
+        "genus": "Rubus属",
+        "species": "Rubus chamaemorus"
+      },
+      "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "plant_source_url": "https://en.wikipedia.org/wiki/Rubus",
+      "content_source_urls": [
+        "https://en.wikipedia.org/wiki/Rubus",
+        "https://www.inaturalist.org/taxa/153003",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A735780-1",
+        "https://research.fs.usda.gov/feis/species-reviews/rubcha"
+      ],
+      "content_source_scope": "species_primary",
+      "image": {
+        "author": "(c) Jenn (McPhee) Dyson, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/743748590",
+        "image_path": "images/0051_0100/rare_fruit_0079.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "content_status": "完成",
+      "needs_ai_summary": false,
+      "needs_manual_content_review": false,
+      "needs_manual_taxon_review": false,
+      "needs_manual_image_review": false,
+      "thumbnail_visually_reviewed": true,
+      "thumbnail_review_date": "2026-10-11",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "実際の200pxサムネイルを目視。丸い葉が地面に広がる。写真だけによる厳密な種同定ではない。",
+      "thumbnail_genre_review_date": "2026-10-13T22:03:19.469682",
+      "thumbnail_genre_review_status": "修正済み",
+      "thumbnail_genre_review_note": "草本の多年生植物として草へ整理。",
+      "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+      "existing_content_fields_reused": [],
+      "content_followup_source_title": "Rubus chamaemorus L. | Plants of the World Online | Kew Science",
+      "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A735780-1",
+      "content_basic_ecology_verified": true,
+      "content_followup_review_status": "基本情報の出典確認済み",
+      "ecology_source_details": {
+        "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A735780-1",
+        "life_form_original": "perennial or rhizomatous geophyte",
+        "native_range_original": "Subarctic & Subalpine Northern Hemisphere",
+        "biome_original": "temperate"
+      },
+      "content_followup_review_date": "2026-10-12",
+      "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "fruiting_season": "国内の成熟時期は未確認",
+      "fruit_source_urls": [
+        "https://research.fs.usda.gov/feis/species-reviews/rubcha"
+      ],
+      "fruit_information_review_date": "2026-10-13T22:00:01.692537",
+      "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
+      "fruit_information_review_note": "USDA資料で高さ約10～30cmの草本多年生植物。小さな核果が集まる集合果。草への移動候補。熟色と国内成熟時期は未確認。",
+      "needs_manual_fruit_review": false,
+      "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
+      "fruit_genre_review_note": "草本の多年生植物として草へ整理。"
     }
 ]

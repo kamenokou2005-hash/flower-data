@@ -11581,7 +11581,8 @@
       "kana": "カマツカ",
       "search_aliases": [
         "カマツカ",
-        "ウシコロシ"
+        "ウシコロシ",
+        "rare_fruit_0031"
       ],
       "family": "バラ科",
       "genus": "カマツカ属",
@@ -11607,7 +11608,8 @@
       "plant_source_url": "https://mikawanoyasou.org/data/kamatuka.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/kamatuka.htm",
-        "https://www.inaturalist.org/taxa/1308947"
+        "https://www.inaturalist.org/taxa/1308947",
+        "https://plants.ces.ncsu.edu/plants/pourthiaea-villosa/"
       ],
       "image": {
         "author": "(c) betsyyyy, some rights reserved (CC BY)",
@@ -11620,7 +11622,7 @@
       "needs_manual_taxon_review": true,
       "verification_notes": "採用済み画像と権利情報を保持。確定できない項目は要確認として残す。",
       "life_form": "落葉高木",
-      "feature_summary": "白い五弁花がまとまって咲き、果実は赤く熟す。",
+      "feature_summary": "白い五弁花がまとまって咲き、果実は赤く熟す。\n秋に鮮赤色の小果実。食用用途未確認。",
       "trivia": "カマツカ類は葉形や毛に変異があり、狭義の種類と広義の総称を区別する。",
       "thumbnail_visually_reviewed": true,
       "thumbnail_review_date": "2026-10-08",
@@ -11679,64 +11681,90 @@
         "additional_primary_source_urls": [],
         "prior_reference_check_considered": true,
         "strict_photo_identification_verified": false
-      }
+      },
+      "fruiting_season": "国内の成熟時期は未確認",
+      "fruit_source_urls": [
+        "https://plants.ces.ncsu.edu/plants/pourthiaea-villosa/"
+      ],
+      "merged_record_ids": [
+        "rare_fruit_0031"
+      ],
+      "fruit_information_review_date": "2026-10-13T21:58:58.265452",
+      "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
+      "fruit_information_review_note": "秋に鮮赤色の小果実。食用用途未確認。花木既存登録への整理候補。",
+      "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
+      "needs_manual_fruit_review": false
     },
     {
-        "id":  "flower_tree_0192",
-        "category":  "花の木",
-        "display_name":  "ズミ",
-        "kana":  "ズミ",
-        "search_aliases":  [
-                               "ズミ",
-                               "コリンゴ（小林檎）"
-                           ],
-        "family":  "バラ科",
-        "genus":  "リンゴ属",
-        "scientific_name":  "Malus toringo",
-        "taxon_id":  133353,
-        "reference_taxon_id":  133353,
-        "taxon_rank":  "species",
-        "entity_type":  "種",
-        "flowering_season":  "4～6",
-        "distribution":  "在来種、北海道、本州、四国、九州、朝鮮、中国",
-        "habitat":  "日当たりのよい山地の林縁",
-        "common_place":  "日当たりのよい山地の林縁",
-        "observation_season":  "葉・枝・樹形を季節に合わせて観察。花期を参照",
-        "classification":  {
-                               "kingdom":  "植物界",
-                               "clade":  "被子植物（真正双子葉類）",
-                               "order":  "バラ目",
-                               "family":  "バラ科",
-                               "genus":  "リンゴ属",
-                               "species":  "Malus toringo"
-                           },
-        "classification_note":  "取得したiNaturalist分類と個別解説を照合。",
-        "plant_source_url":  "https://mikawanoyasou.org/data/zumi.htm",
-        "content_source_urls":  [
-                                    "https://mikawanoyasou.org/data/zumi.htm",
-                                    "https://www.inaturalist.org/taxa/133353"
-                                ],
-        "image":  {
-                      "author":  "(c) Ian Murdoch, some rights reserved (CC BY)",
-                      "license":  "CC-BY",
-                      "source_url":  "https://www.inaturalist.org/photos/515815784",
-                      "image_path":  "images/0151_0200/flower_tree_0192.jpg"
-                  },
-        "content_status":  "完成",
-        "needs_ai_summary":  false,
-        "needs_manual_taxon_review":  false,
-        "verification_notes":  "採用済み画像と権利情報を保持。確定できない項目は要確認として残す。",
-        "life_form":  "落葉小高木",
-        "feature_summary":  "白い五弁花と小さな果実をつけ、新枝の葉は切れ込むことがある。",
-        "trivia":  "リンゴ栽培の初期に台木として利用された。",
-        "thumbnail_visually_reviewed":  true,
-        "thumbnail_review_date":  "2026-10-08",
+      "id": "flower_tree_0192",
+      "category": "花の木",
+      "display_name": "ズミ",
+      "kana": "ズミ",
+      "search_aliases": [
+        "ズミ",
+        "コリンゴ（小林檎）",
+        "rare_fruit_0030"
+      ],
+      "family": "バラ科",
+      "genus": "リンゴ属",
+      "scientific_name": "Malus toringo",
+      "taxon_id": 133353,
+      "reference_taxon_id": 133353,
+      "taxon_rank": "species",
+      "entity_type": "種",
+      "flowering_season": "4～6",
+      "distribution": "在来種、北海道、本州、四国、九州、朝鮮、中国",
+      "habitat": "日当たりのよい山地の林縁",
+      "common_place": "日当たりのよい山地の林縁",
+      "observation_season": "葉・枝・樹形を季節に合わせて観察。花期を参照",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "被子植物（真正双子葉類）",
+        "order": "バラ目",
+        "family": "バラ科",
+        "genus": "リンゴ属",
+        "species": "Malus toringo"
+      },
+      "classification_note": "取得したiNaturalist分類と個別解説を照合。",
+      "plant_source_url": "https://mikawanoyasou.org/data/zumi.htm",
+      "content_source_urls": [
+        "https://mikawanoyasou.org/data/zumi.htm",
+        "https://www.inaturalist.org/taxa/133353",
+        "https://plants.ces.ncsu.edu/plants/malus-toringo/"
+      ],
+      "image": {
+        "author": "(c) Ian Murdoch, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/515815784",
+        "image_path": "images/0151_0200/flower_tree_0192.jpg"
+      },
+      "content_status": "完成",
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "verification_notes": "採用済み画像と権利情報を保持。確定できない項目は要確認として残す。",
+      "life_form": "落葉小高木",
+      "feature_summary": "白い五弁花と小さな果実をつけ、新枝の葉は切れ込むことがある。\n黄色から赤色の小さなリンゴ状の果実がなります。花も観賞されます。",
+      "trivia": "リンゴ栽培の初期に台木として利用された。",
+      "thumbnail_visually_reviewed": true,
+      "thumbnail_review_date": "2026-10-08",
       "thumbnail_name_review_date": "2026-10-11",
       "thumbnail_name_review_status": "明らかな不一致なし",
       "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い五弁花の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
       "thumbnail_genre_review_date": "2026-10-11",
       "thumbnail_genre_review_status": "適合",
-      "thumbnail_genre_review_note": "白い五弁花の枝。花または花として目立つ苞・総苞が見える。"
+      "thumbnail_genre_review_note": "白い五弁花の枝。花または花として目立つ苞・総苞が見える。",
+      "fruiting_season": "国内の成熟時期は未確認",
+      "fruit_source_urls": [
+        "https://plants.ces.ncsu.edu/plants/malus-toringo/"
+      ],
+      "merged_record_ids": [
+        "rare_fruit_0030"
+      ],
+      "fruit_information_review_date": "2026-10-13T21:58:26.654137",
+      "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
+      "fruit_information_review_note": "黄色～赤色の小さなリンゴ状果実。花木既存登録への整理候補。",
+      "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
+      "needs_manual_fruit_review": false
     },
     {
         "id":  "flower_tree_0193",
