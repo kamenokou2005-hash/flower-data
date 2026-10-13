@@ -10,9 +10,11 @@
     "source_scope_pending": 17,
     "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\fruit_content_20261013_215742",
     "images_deleted": 0,
-    "github_verified": false,
+    "github_verified": true,
     "completed": true,
-    "applied_at": "2026-10-13T22:03:19.469682"
+    "applied_at": "2026-10-13T22:03:19.469682",
+    "verified_content_commit": "22d8d26f3d4b7d453d0314d1b8a74b974c407c63",
+    "verification_errors": 0
   },
   "counts": {
     "花": 489,
