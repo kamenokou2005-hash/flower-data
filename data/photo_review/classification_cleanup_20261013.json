@@ -1,0 +1,4058 @@
+{
+  "summary": {
+    "original_count": 2800,
+    "excluded": 100,
+    "moves": 3,
+    "taxon_flags_reviewed": 191,
+    "retained_taxon_flags": 181,
+    "active_count": 2700,
+    "genre_exclusions": 91,
+    "identity_holds": 9,
+    "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\classification_cleanup_20261013_092103",
+    "review_method": "191件は既存の分類注記・追加調査記録と過去のサムネイル受入記録に基づき掲載の扱いを再検討した。今回全件の写真を再目視したり、すべての種・変種を独立資料で再同定したものではない。残す項目の分類上の要確認フラグは消さない。",
+    "open_listing_decisions": 0,
+    "taxonomy_limits_retained": 181,
+    "record_images_deleted": 0,
+    "new_genres": 0,
+    "github_verified": false,
+    "completed": true,
+    "master_scientific_name_sync_count": 78
+  },
+  "category_counts": {
+    "花": 489,
+    "草": 424,
+    "木": 303,
+    "花の木": 207,
+    "きのこ": 483,
+    "山菜": 221,
+    "薬草": 228,
+    "ハーブ": 200,
+    "珍しい果樹": 145
+  },
+  "exclusions": [
+    {
+      "id": "grass_0319",
+      "name": "ナガナギゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0320",
+      "name": "ゼニゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0321",
+      "name": "ジャゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0322",
+      "name": "ハイゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0323",
+      "name": "カラフトキンモウゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0324",
+      "name": "エゾスナゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0325",
+      "name": "ホソバオキナゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0326",
+      "name": "オオヒモゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0327",
+      "name": "ヤマタチヒダゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0328",
+      "name": "スギバミズゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0329",
+      "name": "タマゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0330",
+      "name": "ヒノキゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0331",
+      "name": "コウヤノマンネングサ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0332",
+      "name": "コスギゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0333",
+      "name": "ナミガタタチゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0334",
+      "name": "ギンゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0335",
+      "name": "クロカワゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0336",
+      "name": "シッポゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0337",
+      "name": "エゾネジクチゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0338",
+      "name": "トヤマシノブゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0339",
+      "name": "ヨツバゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0340",
+      "name": "コバノチョウチンゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0341",
+      "name": "アオギヌゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0342",
+      "name": "ツチノウエノコゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0343",
+      "name": "タニゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0344",
+      "name": "ネズミノオゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0345",
+      "name": "ナガバヤナギゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0346",
+      "name": "オオミズゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0347",
+      "name": "イボミズゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0348",
+      "name": "ホソバミズゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0349",
+      "name": "コモチイトゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0350",
+      "name": "ハリヒノキゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0433",
+      "name": "コウライイチイゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0439",
+      "name": "ヒメミズゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0447",
+      "name": "チャミズゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0460",
+      "name": "ムラサキミズゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0470",
+      "name": "オオスギゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0471",
+      "name": "ウマスギゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0472",
+      "name": "コツボゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0473",
+      "name": "ウロコミズゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0474",
+      "name": "ハリミズゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0475",
+      "name": "ヒロハツヤゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0476",
+      "name": "エゾチョウチンゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0477",
+      "name": "フデゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0478",
+      "name": "コセイタカスギゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0479",
+      "name": "ハネヒツジゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0480",
+      "name": "フトリュウビゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0481",
+      "name": "コムチゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0482",
+      "name": "ケチョウチンゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0483",
+      "name": "オオバチョウチンゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0484",
+      "name": "ヒメシノブゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0485",
+      "name": "オオシノブゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0486",
+      "name": "コバノエゾシノブゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0487",
+      "name": "ホソバミズゼニゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0488",
+      "name": "ミズゼニゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0490",
+      "name": "ジンガサゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0491",
+      "name": "ヒメジャゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0492",
+      "name": "ケゼニゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0493",
+      "name": "オオハイゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0494",
+      "name": "クサゴケ",
+      "category": "草",
+      "group": "moss",
+      "reason": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "source_urls": [
+        "https://web.kahaku.go.jp/research/db/botany/koke/"
+      ]
+    },
+    {
+      "id": "grass_0201",
+      "name": "クマザサ",
+      "category": "草",
+      "group": "bamboo",
+      "reason": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ]
+    },
+    {
+      "id": "grass_0202",
+      "name": "チマキザサ",
+      "category": "草",
+      "group": "bamboo",
+      "reason": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ]
+    },
+    {
+      "id": "grass_0203",
+      "name": "ミヤコザサ",
+      "category": "草",
+      "group": "bamboo",
+      "reason": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ]
+    },
+    {
+      "id": "grass_0204",
+      "name": "ネザサ",
+      "category": "草",
+      "group": "bamboo",
+      "reason": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ]
+    },
+    {
+      "id": "grass_0205",
+      "name": "メダケ",
+      "category": "草",
+      "group": "bamboo",
+      "reason": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ]
+    },
+    {
+      "id": "grass_0206",
+      "name": "ヤダケ",
+      "category": "草",
+      "group": "bamboo",
+      "reason": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ]
+    },
+    {
+      "id": "grass_0207",
+      "name": "オカメザサ",
+      "category": "草",
+      "group": "bamboo",
+      "reason": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ]
+    },
+    {
+      "id": "grass_0208",
+      "name": "スズタケ",
+      "category": "草",
+      "group": "bamboo",
+      "reason": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ]
+    },
+    {
+      "id": "grass_0209",
+      "name": "カンチク",
+      "category": "草",
+      "group": "bamboo",
+      "reason": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ]
+    },
+    {
+      "id": "grass_0210",
+      "name": "トウチク",
+      "category": "草",
+      "group": "bamboo",
+      "reason": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ]
+    },
+    {
+      "id": "grass_0373",
+      "name": "クマイザサ",
+      "category": "草",
+      "group": "bamboo",
+      "reason": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ]
+    },
+    {
+      "id": "grass_0380",
+      "name": "チシマザサ",
+      "category": "草",
+      "group": "bamboo",
+      "reason": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ]
+    },
+    {
+      "id": "grass_0402",
+      "name": "イブキザサ",
+      "category": "草",
+      "group": "bamboo",
+      "reason": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ]
+    },
+    {
+      "id": "grass_0403",
+      "name": "ミヤマクマザサ",
+      "category": "草",
+      "group": "bamboo",
+      "reason": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/pr/aff/2103/spe1_01.html"
+      ]
+    },
+    {
+      "id": "mushroom_0400",
+      "name": "ウメノキゴケ",
+      "category": "きのこ",
+      "group": "lichen",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "source_urls": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ]
+    },
+    {
+      "id": "mushroom_0408",
+      "name": "キウメノキゴケ",
+      "category": "きのこ",
+      "group": "lichen",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "source_urls": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ]
+    },
+    {
+      "id": "mushroom_0414",
+      "name": "ナミガタウメノキゴケ",
+      "category": "きのこ",
+      "group": "lichen",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "source_urls": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ]
+    },
+    {
+      "id": "mushroom_0437",
+      "name": "コフキメダルチイ",
+      "category": "きのこ",
+      "group": "lichen",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "source_urls": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ]
+    },
+    {
+      "id": "mushroom_0445",
+      "name": "ヘリトリゴケ",
+      "category": "きのこ",
+      "group": "lichen",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "source_urls": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ]
+    },
+    {
+      "id": "mushroom_0455",
+      "name": "マツゲゴケ",
+      "category": "きのこ",
+      "group": "lichen",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "source_urls": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ]
+    },
+    {
+      "id": "mushroom_0457",
+      "name": "ロウソクゴケ（広義）",
+      "category": "きのこ",
+      "group": "lichen",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "source_urls": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ]
+    },
+    {
+      "id": "mushroom_0464",
+      "name": "ツブダイダイゴケ",
+      "category": "きのこ",
+      "group": "lichen",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "source_urls": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ]
+    },
+    {
+      "id": "mushroom_0468",
+      "name": "ハクテンゴケ",
+      "category": "きのこ",
+      "group": "lichen",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "source_urls": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ]
+    },
+    {
+      "id": "mushroom_0469",
+      "name": "レプラゴケ",
+      "category": "きのこ",
+      "group": "lichen",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "source_urls": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ]
+    },
+    {
+      "id": "mushroom_0479",
+      "name": "ヒメジョウゴゴケ",
+      "category": "きのこ",
+      "group": "lichen",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "source_urls": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ]
+    },
+    {
+      "id": "mushroom_0482",
+      "name": "コアカミゴケ",
+      "category": "きのこ",
+      "group": "lichen",
+      "reason": "地衣類は菌類と藻類の共生体であり、通常のきのことは別に扱う。既存ジャンルに地衣類専用の枠がないため掲載対象から外す候補。",
+      "source_urls": [
+        "https://www.kahaku.go.jp/research/db/botany/chii/01/index.html"
+      ]
+    },
+    {
+      "id": "mushroom_0447",
+      "name": "カシ類紫かび病菌",
+      "category": "きのこ",
+      "group": "pathogen",
+      "reason": "病原菌の登録を通常のきのこ一覧に含めると、使う人が探す対象との違いが大きい。現在のきのこ一覧から外す候補。種類の判定は過去の確認記録を参照。",
+      "source_urls": []
+    },
+    {
+      "id": "mushroom_0449",
+      "name": "エノキ裏うどんこ病菌",
+      "category": "きのこ",
+      "group": "pathogen",
+      "reason": "病原菌の登録を通常のきのこ一覧に含めると、使う人が探す対象との違いが大きい。現在のきのこ一覧から外す候補。種類の判定は過去の確認記録を参照。",
+      "source_urls": []
+    },
+    {
+      "id": "mushroom_0472",
+      "name": "アオキ星型すす病菌",
+      "category": "きのこ",
+      "group": "pathogen",
+      "reason": "病原菌の登録を通常のきのこ一覧に含めると、使う人が探す対象との違いが大きい。現在のきのこ一覧から外す候補。種類の判定は過去の確認記録を参照。",
+      "source_urls": []
+    },
+    {
+      "id": "mushroom_0484",
+      "name": "メダケ赤衣病菌",
+      "category": "きのこ",
+      "group": "pathogen",
+      "reason": "病原菌の登録を通常のきのこ一覧に含めると、使う人が探す対象との違いが大きい。現在のきのこ一覧から外す候補。種類の判定は過去の確認記録を参照。",
+      "source_urls": []
+    },
+    {
+      "id": "mushroom_0487",
+      "name": "白きょう病菌",
+      "category": "きのこ",
+      "group": "pathogen",
+      "reason": "病原菌の登録を通常のきのこ一覧に含めると、使う人が探す対象との違いが大きい。現在のきのこ一覧から外す候補。種類の判定は過去の確認記録を参照。",
+      "source_urls": []
+    },
+    {
+      "id": "sansai_0153",
+      "name": "シロヨメナ",
+      "category": "山菜",
+      "group": "unresolved_content",
+      "reason": "和名と登録学名の分類範囲が未確定。要確認を残す。山菜という利用目的まで資料で確認できているかは追加確認が必要。",
+      "source_urls": []
+    },
+    {
+      "id": "yakuso_0135",
+      "name": "ヒキオコシ",
+      "category": "薬草",
+      "group": "unresolved_content",
+      "reason": "種の情報は確認できるが、登録変種に限定した情報との照合が未完了。変種まで未確認というだけで掲載除外と断定しない。",
+      "source_urls": []
+    },
+    {
+      "id": "herb_0043",
+      "name": "カシア",
+      "category": "ハーブ",
+      "group": "unresolved_content",
+      "reason": "登録学名の著者・異名の扱いが資料間で異なる。採用した植物の対応を確定できないため、要確認または掲載保留の候補。",
+      "source_urls": []
+    },
+    {
+      "id": "rare_fruit_0113",
+      "name": "ロンコン",
+      "category": "珍しい果樹",
+      "group": "unresolved_content",
+      "reason": "登録学名と果樹のロンコンの対応が未確定。別種の資料を移し替えず、要確認または掲載保留の候補。",
+      "source_urls": []
+    },
+    {
+      "id": "flower_0130",
+      "reason": "園芸資料と元写真で pilosus / prostratus の対応が矛盾しているとの記録があり、属名への一般化だけでは画像と名称の対応問題を解消できない。",
+      "source_urls": [],
+      "name": "アメリカンブルー",
+      "category": "花",
+      "group": "additional_identity_hold"
+    },
+    {
+      "id": "flower_0140",
+      "reason": "Asarina / Maurandya / Lophospermum を含む園芸名で、元写真の個別出典・種が未確認のため保留という既存記録がある。対応確定まで掲載保留。",
+      "source_urls": [],
+      "name": "アサリナ",
+      "category": "花",
+      "group": "additional_identity_hold"
+    },
+    {
+      "id": "flower_tree_0171",
+      "reason": "テマリシモツケの園芸名に P. opulifolius が含まれる一方、登録は P. amurensis。既存記録でも対応が要確認となっており、別種の説明を統合せず掲載保留。",
+      "source_urls": [],
+      "name": "テマリシモツケ",
+      "category": "花の木",
+      "group": "additional_identity_hold"
+    },
+    {
+      "id": "grass_0302",
+      "reason": "登録は Dendrolycopodium dendroideum。国内資料のマンネンスギ Lycopodium obscurum と採用画像の分類範囲の対応が未確定。Native Plant Trustは D. obscurum と D. dendroideum を区別しており、自動的な異名置換を行わず掲載保留。",
+      "source_urls": [
+        "https://gobotany.nativeplanttrust.org/species/dendrolycopodium/dendroideum/",
+        "https://www.botanic.jp/plants-ma/masugi.htm"
+      ],
+      "name": "マンネンスギ",
+      "category": "草",
+      "group": "additional_identity_hold"
+    },
+    {
+      "id": "herb_0165",
+      "reason": "グリークオレガノの登録学名は Origanum vulgare subsp. viridulum。大学の Greek oregano は subsp. hirtum とされ、元の画像がどちらに対応するか確定できない。亜種名を推測で変更せず掲載保留。",
+      "source_urls": [
+        "https://plants.ces.ncsu.edu/plants/origanum-vulgare-subsp-hirtum/"
+      ],
+      "name": "グリークオレガノ",
+      "category": "ハーブ",
+      "group": "additional_identity_hold"
+    }
+  ],
+  "moves": [
+    {
+      "id": "herb_0015",
+      "from": "ハーブ",
+      "to": "花",
+      "before_name": "ゼラニウム",
+      "after_name": "ゼラニウム（ゾーナル系）",
+      "reason": "採用学名 Pelargonium × hybridum に対応する観賞用の交雑種として花へ移動。属の総称 flower_0443 と区別し、香料用センテッドゼラニウムの説明を転用しない。",
+      "source_urls": [
+        "https://plants.ces.ncsu.edu/plants/pelargonium-x-hybridum/"
+      ],
+      "old_image_url_preserved": true
+    },
+    {
+      "id": "herb_0029",
+      "from": "ハーブ",
+      "to": "花の木",
+      "before_name": "ハイビスカス",
+      "after_name": "ハイビスカス（ブッソウゲ）",
+      "reason": "採用学名 Hibiscus × rosa-sinensis の観賞用低木として花の木へ移動。花の木の総称 flower_tree_0037 と区別し、ローゼルの説明を転用しない。",
+      "source_urls": [
+        "https://plants.ces.ncsu.edu/plants/hibiscus-rosa-sinensis/common-name/chinese-hibiscus/"
+      ],
+      "old_image_url_preserved": true
+    },
+    {
+      "id": "flower_0129",
+      "from": "花",
+      "to": "花の木",
+      "before_name": "マンデビラ",
+      "after_name": "マンデビラ",
+      "reason": "Mandevilla 属の低木・つる性植物を含む観賞用園芸群として花の木へ移動。栽培上の一年草扱いと生活型を区別する。",
+      "source_urls": [
+        "https://plants.ces.ncsu.edu/plants/mandevilla/"
+      ],
+      "old_image_url_preserved": true
+    }
+  ],
+  "taxon_flag_review": [
+    {
+      "id": "flower_0130",
+      "name": "アメリカンブルー",
+      "scientific_name": "Evolvulus",
+      "decision": "掲載対象外・掲載保留",
+      "basis": "園芸資料と元写真で pilosus / prostratus の対応が矛盾しているとの記録があり、属名への一般化だけでは画像と名称の対応問題を解消できない。",
+      "taxonomic_scope_verified": null,
+      "prior_classification_note": "アメリカンブルーは園芸上の通称。園芸資料のEvolvulus pilosusと、植物分類上のE. pilosus Nutt.の異名関係だけでE. nuttallianusへ自動的に固定しない。交雑系統などを含む園芸群としてEvolvulus属で扱う。写真は説明pilosusとカテゴリprostratusが矛盾するため種・系統の要確認を保持。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/americanblue.htm",
+        "https://provenwinners.jp/product/evolvulus/"
+      ]
+    },
+    {
+      "id": "flower_0140",
+      "name": "アサリナ",
+      "scientific_name": "Asarina / Maurandya / Lophospermum",
+      "decision": "掲載対象外・掲載保留",
+      "basis": "Asarina / Maurandya / Lophospermum を含む園芸名で、元写真の個別出典・種が未確認のため保留という既存記録がある。対応確定まで掲載保留。",
+      "taxonomic_scope_verified": null,
+      "prior_classification_note": "園芸名アサリナには旧Asarina名を用いるMaurandyaやLophospermum系統も含まれる。現在のAsarina単一属へ固定しない。元写真の個別出典・種は未確認のため保留。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Asarina",
+        "https://www.rhs.org.uk/plants/46843/maurandya-barclayana/details"
+      ]
+    },
+    {
+      "id": "grass_0160",
+      "name": "カラムシ",
+      "scientific_name": "Boehmeria nivea",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。元一覧のBoehmeria niveaは広義の種。日本のカラムシをB. nipononivea等に分ける資料もあり、狭義の同定は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。元一覧のBoehmeria niveaは広義の種。日本のカラムシをB. nipononivea等に分ける資料もあり、狭義の同定は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/karamusi.htm",
+        "https://www.inaturalist.org/taxa/159288"
+      ]
+    },
+    {
+      "id": "grass_0161",
+      "name": "ヤブマオ",
+      "scientific_name": "Boehmeria japonica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ヤブマオをBoehmeria japonicaの変種またはB. longispicaとして扱う資料がある。元一覧の種の範囲を保持。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ヤブマオをBoehmeria japonicaの変種またはB. longispicaとして扱う資料がある。元一覧の種の範囲を保持。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/yabumao.htm",
+        "https://www.inaturalist.org/taxa/557278"
+      ]
+    },
+    {
+      "id": "grass_0169",
+      "name": "クズ",
+      "scientific_name": "Pueraria montana",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のクズはPueraria montana var. lobata等に区別される。元一覧の広義の種を保持し、下位分類の同定は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のクズはPueraria montana var. lobata等に区別される。元一覧の広義の種を保持し、下位分類の同定は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/kuzu.htm",
+        "https://www.inaturalist.org/taxa/62671"
+      ]
+    },
+    {
+      "id": "grass_0196",
+      "name": "コウガイゼキショウ",
+      "scientific_name": "Juncus prismatocarpus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。コウガイゼキショウをJuncus prismatocarpusの亜種に分ける扱いもある。元一覧の種の範囲を保持。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。コウガイゼキショウをJuncus prismatocarpusの亜種に分ける扱いもある。元一覧の種の範囲を保持。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/kougaizekishou.htm",
+        "https://www.inaturalist.org/taxa/353844"
+      ]
+    },
+    {
+      "id": "grass_0198",
+      "name": "マツバイ",
+      "scientific_name": "Eleocharis acicularis",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のマツバイをEleocharis yokoscensis等として区別する資料がある。元一覧の広義のE. acicularisを保持し、画像の下位分類同定は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のマツバイをEleocharis yokoscensis等として区別する資料がある。元一覧の広義のE. acicularisを保持し、画像の下位分類同定は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/matubai.htm",
+        "https://www.inaturalist.org/taxa/57020"
+      ]
+    },
+    {
+      "id": "grass_0204",
+      "name": "ネザサ",
+      "scientific_name": "Pleioblastus argenteostriatus",
+      "decision": "掲載対象外・掲載保留",
+      "basis": "竹・笹の専用ジャンルがないため、草や木へ無理に割り当てず掲載対象外として保存する。植物が誤っているという意味ではない。",
+      "taxonomic_scope_verified": null,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ネザサをPleioblastus chino var. viridis等として扱う資料もある。元一覧の分類に対応する範囲の確認が必要。 / ジャンル注記：竹・笹の仲間。茎が木質化するイネ科植物で、一般的な草本とは異なる。既存ジャンルを使う方針により草に置く。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/nezasa.htm",
+        "https://www.inaturalist.org/taxa/866495"
+      ]
+    },
+    {
+      "id": "grass_0222",
+      "name": "ヤエムグラ",
+      "scientific_name": "Galium spurium",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のヤエムグラをGalium spuriumの変種に分ける扱いもある。元一覧の種の範囲を保持。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のヤエムグラをGalium spuriumの変種に分ける扱いもある。元一覧の種の範囲を保持。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/yaemugura.htm",
+        "https://www.inaturalist.org/taxa/208784"
+      ]
+    },
+    {
+      "id": "grass_0231",
+      "name": "コウヤワラビ",
+      "scientific_name": "Onoclea sensibilis",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のコウヤワラビをOnoclea sensibilis var. interruptaとして扱う資料がある。元一覧の種の範囲を保持。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のコウヤワラビをOnoclea sensibilis var. interruptaとして扱う資料がある。元一覧の種の範囲を保持。",
+      "source_urls": [
+        "https://mikawanoyasou.org/sida/kouyawarabi.htm",
+        "https://www.inaturalist.org/taxa/82576"
+      ]
+    },
+    {
+      "id": "grass_0292",
+      "name": "カモノハシ",
+      "scientific_name": "Ischaemum aristatum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のカモノハシをIschaemum aristatum var. glaucumとして扱う資料がある。元一覧の広義の種を保持し、変種の同定は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のカモノハシをIschaemum aristatum var. glaucumとして扱う資料がある。元一覧の広義の種を保持し、変種の同定は要確認。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A2%E3%83%8E%E3%83%8F%E3%82%B7_%28%E6%A4%8D%E7%89%A9%29",
+        "https://www.inaturalist.org/taxa/774347"
+      ]
+    },
+    {
+      "id": "grass_0302",
+      "name": "マンネンスギ",
+      "scientific_name": "Dendrolycopodium dendroideum",
+      "decision": "掲載対象外・掲載保留",
+      "basis": "登録は Dendrolycopodium dendroideum。国内資料のマンネンスギ Lycopodium obscurum と採用画像の分類範囲の対応が未確定。Native Plant Trustは D. obscurum と D. dendroideum を区別しており、自動的な異名置換を行わず掲載保留。",
+      "taxonomic_scope_verified": null,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。資料ではLycopodium obscurumとして扱う。元一覧に対応するDendrolycopodium dendroideumとの範囲照合は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/sida/mannensugi.htm",
+        "https://www.inaturalist.org/taxa/199979"
+      ]
+    },
+    {
+      "id": "grass_0352",
+      "name": "コツブキンエノコロ",
+      "scientific_name": "Setaria pumila subsp. pallidefusca",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用分類は Setaria pumila subsp. pallidefusca。亜種を分けず S. pumila にまとめる資料もある。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用分類は Setaria pumila subsp. pallidefusca。亜種を分けず S. pumila にまとめる資料もある。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/kotubukinenokoro.htm",
+        "https://www.inaturalist.org/taxa/181898"
+      ]
+    },
+    {
+      "id": "grass_0364",
+      "name": "オオウシノケグサ",
+      "scientific_name": "Festuca rubra subsp. rubra",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用分類は Festuca rubra の標準亜種。和名の適用範囲には資料差があるため要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用分類は Festuca rubra の標準亜種。和名の適用範囲には資料差があるため要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/oousinokegusa.htm",
+        "https://www.inaturalist.org/taxa/181759"
+      ]
+    },
+    {
+      "id": "grass_0388",
+      "name": "ホソバヒカゲスゲ",
+      "scientific_name": "Carex callitrichos var. nana",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。Carex humilis var. nana とする旧分類と、C. callitrichos var. nana とする分類がある。採用済みの taxon_id を保持し、資料との対応は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。Carex humilis var. nana とする旧分類と、C. callitrichos var. nana とする分類がある。採用済みの taxon_id を保持し、資料との対応は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/hosobahikagesuge.htm",
+        "https://www.inaturalist.org/taxa/636939"
+      ]
+    },
+    {
+      "id": "grass_0460",
+      "name": "ムラサキミズゴケ",
+      "scientific_name": "Sphagnum magellanicum",
+      "decision": "掲載対象外・掲載保留",
+      "basis": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "taxonomic_scope_verified": null,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。Sphagnum magellanicum を用いる旧資料がある。採用済みの分類と旧資料の種概念の対応は要確認。 / ジャンル注記：コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "source_urls": [
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/bryophyta/sphagnaceae/murasakimizugoke/murasakimizugoke.htm",
+        "https://www.inaturalist.org/taxa/143515"
+      ]
+    },
+    {
+      "id": "grass_0493",
+      "name": "オオハイゴケ",
+      "scientific_name": "Stereodon pratensis",
+      "decision": "掲載対象外・掲載保留",
+      "basis": "コケ植物を通常の草本と同じジャンルへ入れる必要はない。既存ジャンルにコケ専用の枠がないため、現在の一覧から外す候補。植物として誤りという意味ではない。",
+      "taxonomic_scope_verified": null,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用学名 Stereodon pratensis。旧属名 Hypnum の資料との対応と種の識別点は要確認。 / ジャンル注記：コケ植物。使う人の既存ジャンルを使う方針により草に置く。一般的な草本植物とは異なるため種類を明記。",
+      "source_urls": [
+        "https://hattorilab.org/checklist1/",
+        "https://hattorilab.org/pdf/illustrated/Noguchi%201994%20Illustrated%20Moss%20Flora%20of%20Japan%20Part%205%201013_1253.pdf",
+        "https://api.inaturalist.org/v1/taxa/1123570",
+        "https://www.inaturalist.org/taxa/1123570"
+      ]
+    },
+    {
+      "id": "grass_0498",
+      "name": "キクバドコロ",
+      "scientific_name": "Dioscorea septemloba",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。Dioscorea septemloba とする資料がある。採用済み taxon_id と和名の対応を保持し、異名の適用範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。Dioscorea septemloba とする資料がある。採用済み taxon_id と和名の対応を保持し、異名の適用範囲は要確認。",
+      "source_urls": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003595.php",
+        "https://www.inaturalist.org/taxa/473366"
+      ]
+    },
+    {
+      "id": "tree_0011",
+      "name": "ウンシュウミカン",
+      "scientific_name": "Citrus unshiu",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属は分類データを参照。学名はウンシュウミカンの資料に基づく。分類検索のCitrus deliciosaは別種なので採用しない。柑橘の種境界には異なる分類がある。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属は分類データを参照。学名はウンシュウミカンの資料に基づく。分類検索のCitrus deliciosaは別種なので採用しない。柑橘の種境界には異なる分類がある。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%A6%E3%83%9F%E3%82%AB%E3%83%B3",
+        "https://agriknowledge.affrc.go.jp/RN/2010581787"
+      ]
+    },
+    {
+      "id": "tree_0026",
+      "name": "サンゴジュ",
+      "scientific_name": "Viburnum odoratissimum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。種レベルで整理。日本のサンゴジュを変種・亜種として区別する扱いもある。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。種レベルで整理。日本のサンゴジュを変種・亜種として区別する扱いもある。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/sangojyu.htm",
+        "https://www.inaturalist.org/taxa/357524"
+      ]
+    },
+    {
+      "id": "tree_0037",
+      "name": "マユミ",
+      "scientific_name": "Euonymus hamiltonianus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。広義の種レベルで整理。日本のマユミを種内分類群として扱う場合もある。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。広義の種レベルで整理。日本のマユミを種内分類群として扱う場合もある。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/mayumi.htm",
+        "https://www.inaturalist.org/taxa/359219"
+      ]
+    },
+    {
+      "id": "tree_0103",
+      "name": "オオバヤナギ",
+      "scientific_name": "Salix cardiophylla subsp. urbaniana",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。旧資料のToisusu urbanianaに対応する分類群を、採用分類ではSalix cardiophylla subsp. urbanianaとして扱う。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。旧資料のToisusu urbanianaに対応する分類群を、採用分類ではSalix cardiophylla subsp. urbanianaとして扱う。",
+      "source_urls": [
+        "http://www.ha.shotoku.ac.jp/~kawa/KYO/SEIBUTSU/syokubutsu/SogoZukan/hishi/yanagi/ooba/index.html",
+        "https://www.inaturalist.org/taxa/857554"
+      ]
+    },
+    {
+      "id": "tree_0108",
+      "name": "ヒメコウゾ",
+      "scientific_name": "Broussonetia monoica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ヒメコウゾの学名には資料間の相違がある。採用画像に対応する現行分類を記録し、分類の再確認対象とする。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ヒメコウゾの学名には資料間の相違がある。採用画像に対応する現行分類を記録し、分類の再確認対象とする。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/himekouzo.htm",
+        "https://www.inaturalist.org/taxa/704130"
+      ]
+    },
+    {
+      "id": "tree_0110",
+      "name": "イロハモミジ",
+      "scientific_name": "Acer palmatum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用学名はAcer palmatum。種内の園芸品種・変種・亜種を総括した解説と狭義の和名は区別する。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用学名はAcer palmatum。種内の園芸品種・変種・亜種を総括した解説と狭義の和名は区別する。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/irohamomiji.htm",
+        "https://www.inaturalist.org/taxa/63512"
+      ]
+    },
+    {
+      "id": "tree_0130",
+      "name": "マカダミア",
+      "scientific_name": "Macadamia integrifolia",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項は採用学名Macadamia integrifoliaに対応する木を扱う。ナッツの総称にはほかの種や交雑系統も含まれる。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項は採用学名Macadamia integrifoliaに対応する木を扱う。ナッツの総称にはほかの種や交雑系統も含まれる。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%83%80%E3%83%9F%E3%82%A2",
+        "https://www.inaturalist.org/taxa/287245"
+      ]
+    },
+    {
+      "id": "tree_0138",
+      "name": "イタヤカエデ",
+      "scientific_name": "Acer pictum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。広義のAcer pictumとして整理。エンコウカエデなどの種内分類群とは区別する。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。広義のAcer pictumとして整理。エンコウカエデなどの種内分類群とは区別する。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/itayakaede.htm",
+        "https://www.inaturalist.org/taxa/358342"
+      ]
+    },
+    {
+      "id": "tree_0139",
+      "name": "エンコウカエデ",
+      "scientific_name": "Acer pictum subsp. dissectum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。エンコウカエデは資料により変種などの扱いもある。本項は採用分類の亜種として記録。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。エンコウカエデは資料により変種などの扱いもある。本項は採用分類の亜種として記録。",
+      "source_urls": [
+        "https://www.lab.toho-u.ac.jp/phar/yakusou/enkokaede.html",
+        "https://www.inaturalist.org/taxa/358347"
+      ]
+    },
+    {
+      "id": "tree_0146",
+      "name": "モミジバスズカケノキ",
+      "scientific_name": "Platanus × hispanica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。モミジバスズカケノキは交雑種。単一の自然種としては扱わない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。モミジバスズカケノキは交雑種。単一の自然種としては扱わない。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%9F%E3%82%B8%E3%83%90%E3%82%B9%E3%82%BA%E3%82%AB%E3%82%B1%E3%83%8E%E3%82%AD",
+        "https://www.inaturalist.org/taxa/552449"
+      ]
+    },
+    {
+      "id": "tree_0158",
+      "name": "ホルトノキ",
+      "scientific_name": "Elaeocarpus decipiens",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。資料にElaeocarpus sylvestrisの変種とする扱いもある。採用分類と同義名の関係を再確認対象とする。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。資料にElaeocarpus sylvestrisの変種とする扱いもある。採用分類と同義名の関係を再確認対象とする。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/horutonoki.htm",
+        "https://www.inaturalist.org/taxa/428622"
+      ]
+    },
+    {
+      "id": "tree_0160",
+      "name": "ヤマハンノキ",
+      "scientific_name": "Alnus hirsuta var. sibirica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。解説資料は広義のAlnus hirsutaを使うが、本項は採用変種var. sibiricaに対応する葉の特徴を整理した。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。解説資料は広義のAlnus hirsutaを使うが、本項は採用変種var. sibiricaに対応する葉の特徴を整理した。",
+      "source_urls": [
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/betulaceae/yamahannnoki/yamahannoki.htm",
+        "https://www.inaturalist.org/taxa/559402"
+      ]
+    },
+    {
+      "id": "tree_0162",
+      "name": "ケヤマハンノキ",
+      "scientific_name": "Alnus hirsuta var. hirsuta",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用学名はAlnus hirsuta var. hirsuta。葉の毛は年齢によっても変化する。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用学名はAlnus hirsuta var. hirsuta。葉の毛は年齢によっても変化する。",
+      "source_urls": [
+        "https://www1.ous.ac.jp/garden/photo1/keyamahannoki.html",
+        "https://www.inaturalist.org/taxa/559401"
+      ]
+    },
+    {
+      "id": "tree_0193",
+      "name": "ビロウ",
+      "scientific_name": "Livistona chinensis var. subglobosa",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項は採用画像に対応するビロウの変種を扱う。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項は採用画像に対応するビロウの変種を扱う。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AD%E3%82%A6",
+        "https://www.inaturalist.org/taxa/709003"
+      ]
+    },
+    {
+      "id": "tree_0195",
+      "name": "シュロ",
+      "scientific_name": "Trachycarpus fortunei",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。表示名シュロは属の総称にも使われる。本項の画像・学名・解説はワジュロTrachycarpus fortuneiに限定する。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。表示名シュロは属の総称にも使われる。本項の画像・学名・解説はワジュロTrachycarpus fortuneiに限定する。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%AD",
+        "https://www.inaturalist.org/taxa/64323"
+      ]
+    },
+    {
+      "id": "tree_0199",
+      "name": "ゴンズイ",
+      "scientific_name": "Staphylea japonica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。解説資料はStaphylea japonicaを採用するが、取得した分類データのEuscaphis japonicaを記録。同義名・属の扱いは再確認対象。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。解説資料はStaphylea japonicaを採用するが、取得した分類データのEuscaphis japonicaを記録。同義名・属の扱いは再確認対象。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/gonzui.htm",
+        "https://www.inaturalist.org/taxa/852269"
+      ]
+    },
+    {
+      "id": "tree_0206",
+      "name": "キウイフルーツ",
+      "scientific_name": "Actinidia chinensis var. deliciosa",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。キウイフルーツは複数の種や系統を含む総称。本項は採用画像のActinidia chinensis var. deliciosaに限定し、総称を1種へ固定したものではない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。キウイフルーツは複数の種や系統を含む総称。本項は採用画像のActinidia chinensis var. deliciosaに限定し、総称を1種へ固定したものではない。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/kiwifruit.htm",
+        "https://www.inaturalist.org/taxa/411901"
+      ]
+    },
+    {
+      "id": "tree_0216",
+      "name": "バンジロウ",
+      "scientific_name": "Psidium guajava",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項のバンジロウはPsidium guajavaを扱い、グアバ属全体の総称とは区別する。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項のバンジロウはPsidium guajavaを扱い、グアバ属全体の総称とは区別する。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B8%E3%83%AD%E3%82%A6",
+        "https://www.inaturalist.org/taxa/62859"
+      ]
+    },
+    {
+      "id": "tree_0226",
+      "name": "アトラスシーダー",
+      "scientific_name": "Cedrus atlantica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。近縁のレバノンスギとの種・亜種の区分は資料間で異なる。採用分類の学名を記録する。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。近縁のレバノンスギとの種・亜種の区分は資料間で異なる。採用分類の学名を記録する。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Cedrus_atlantica",
+        "https://www.inaturalist.org/taxa/136234"
+      ]
+    },
+    {
+      "id": "tree_0231",
+      "name": "ホワイトオーク",
+      "scientific_name": "Quercus alba",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ホワイトオークは複数種の材の総称にも使われる。本項は採用画像のアルバオークQuercus albaに限定する。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ホワイトオークは複数種の材の総称にも使われる。本項は採用画像のアルバオークQuercus albaに限定する。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Quercus_alba",
+        "https://www.inaturalist.org/taxa/54779"
+      ]
+    },
+    {
+      "id": "tree_0264",
+      "name": "ハシバミ",
+      "scientific_name": "Corylus heterophylla",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。日本のハシバミはCorylus heterophylla var. thunbergiiとする資料もある。本項は広義の種を参照し、セイヨウハシバミの記述を混ぜない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。日本のハシバミはCorylus heterophylla var. thunbergiiとする資料もある。本項は広義の種を参照し、セイヨウハシバミの記述を混ぜない。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%B7%E3%83%90%E3%83%9F",
+        "https://www.inaturalist.org/taxa/448040"
+      ]
+    },
+    {
+      "id": "tree_0285",
+      "name": "バッコヤナギ",
+      "scientific_name": "Salix caprea",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。Salix bakkoとして区別する資料とS. capreaに含める資料がある。採用画像と分類参照はS. caprea、国内の生態はバッコヤナギの記述として扱う。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。Salix bakkoとして区別する資料とS. capreaに含める資料がある。採用画像と分類参照はS. caprea、国内の生態はバッコヤナギの記述として扱う。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%82%B3%E3%83%A4%E3%83%8A%E3%82%AE",
+        "https://www.rinya.maff.go.jp/tohoku/sidou/jumoku/shubetu/bakko.html",
+        "https://nikko-bg.jp/nikko-old/5_jokyo/species/Salix_caprea.html",
+        "https://www.inaturalist.org/taxa/55846"
+      ]
+    },
+    {
+      "id": "flower_tree_0055",
+      "name": "シロハギ",
+      "scientific_name": "Lespedeza spp.",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。白花ハギの園芸名として整理。f. alba、f. albiflora、栽培品種名などの異なる扱いがあり、下位分類は要確認。園芸名の範囲を優先し、属を分類参照として扱う。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。白花ハギの園芸名として整理。f. alba、f. albiflora、栽培品種名などの異なる扱いがあり、下位分類は要確認。園芸名の範囲を優先し、属を分類参照として扱う。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/sirahagi.htm",
+        "https://www.inaturalist.org/taxa/119139"
+      ]
+    },
+    {
+      "id": "flower_tree_0079",
+      "name": "シャリンバイ",
+      "scientific_name": "Rhaphiolepis spp.",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。Rhaphiolepis umbellataを独立種とする資料とR. indicaに含める資料がある。属を分類参照にし、対応する種の扱いは要確認。園芸名の範囲を優先し、属を分類参照として扱う。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。Rhaphiolepis umbellataを独立種とする資料とR. indicaに含める資料がある。属を分類参照にし、対応する種の扱いは要確認。園芸名の範囲を優先し、属を分類参照として扱う。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/syarinbai.htm",
+        "https://www.inaturalist.org/taxa/179306"
+      ]
+    },
+    {
+      "id": "flower_tree_0093",
+      "name": "レンゲツツジ",
+      "scientific_name": "Rhododendron molle subsp. japonicum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。日本産レンゲツツジはRhododendron molle subsp. japonicumとして整理。取得した広義R. molleは分類参照のみで、亜種の同定は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。日本産レンゲツツジはRhododendron molle subsp. japonicumとして整理。取得した広義R. molleは分類参照のみで、亜種の同定は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/rengetutuji.htm",
+        "https://www.inaturalist.org/taxa/417296"
+      ]
+    },
+    {
+      "id": "flower_tree_0099",
+      "name": "ニオイバンマツリ",
+      "scientific_name": "Brunfelsia australis",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。ニオイバンマツリに使われた学名に異名・混同がある。B. australisを分類参照とする。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。ニオイバンマツリに使われた学名に異名・混同がある。B. australisを分類参照とする。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/nioibanmaturi.htm",
+        "https://www.inaturalist.org/taxa/430749"
+      ]
+    },
+    {
+      "id": "flower_tree_0104",
+      "name": "ギョリュウ",
+      "scientific_name": "Tamarix chinensis",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。取得分類はTamarix chinensis complex。種としての学名は参照解説に従い、分類群の範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。取得分類はTamarix chinensis complex。種としての学名は参照解説に従い、分類群の範囲は要確認。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%83%AA%E3%83%A5%E3%82%A6",
+        "https://www.inaturalist.org/taxa/1560974"
+      ]
+    },
+    {
+      "id": "flower_tree_0142",
+      "name": "ヒイラギナンテン",
+      "scientific_name": "Berberis japonica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。旧Mahonia属をBerberis属に含める扱い。原産地の説明に資料間の差があるため要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。旧Mahonia属をBerberis属に含める扱い。原産地の説明に資料間の差があるため要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/hiiraginanten.htm",
+        "https://www.inaturalist.org/taxa/857208"
+      ]
+    },
+    {
+      "id": "flower_tree_0156",
+      "name": "アメリカイワナンテン",
+      "scientific_name": "Leucothoe fontanesiana",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類と個別解説を照合。資料ではLeucothoe catesbaeiとも記載される。参照分類との異名対応は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類と個別解説を照合。資料ではLeucothoe catesbaeiとも記載される。参照分類との異名対応は要確認。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%A4%E3%83%AF%E3%83%8A%E3%83%B3%E3%83%86%E3%83%B3",
+        "https://www.inaturalist.org/taxa/164664"
+      ]
+    },
+    {
+      "id": "flower_tree_0171",
+      "name": "テマリシモツケ",
+      "scientific_name": "Physocarpus amurensis",
+      "decision": "掲載対象外・掲載保留",
+      "basis": "テマリシモツケの園芸名に P. opulifolius が含まれる一方、登録は P. amurensis。既存記録でも対応が要確認となっており、別種の説明を統合せず掲載保留。",
+      "taxonomic_scope_verified": null,
+      "prior_classification_note": "取得したiNaturalist分類と個別解説を照合。テマリシモツケという園芸流通名にはP. opulifoliusも含まれる。本項の採用画像はP. amurensisを参照し、対応は要確認。",
+      "source_urls": [
+        "https://www.botanic.jp/plants-ha/phyamu.htm",
+        "https://www.inaturalist.org/taxa/803372"
+      ]
+    },
+    {
+      "id": "flower_tree_0183",
+      "name": "アオダモ",
+      "scientific_name": "Fraxinus lanuginosa",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類と個別解説を照合。国内のアオダモをF. lanuginosa f. serrataとする資料もある。採用参照は種であり下位分類は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類と個別解説を照合。国内のアオダモをF. lanuginosa f. serrataとする資料もある。採用参照は種であり下位分類は要確認。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AA%E3%83%80%E3%83%A2",
+        "https://www.inaturalist.org/taxa/357446"
+      ]
+    },
+    {
+      "id": "flower_tree_0191",
+      "name": "カマツカ",
+      "scientific_name": "Pourthiaea villosa",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類と個別解説を照合。カマツカの広義・狭義の範囲と変種の対応を区別。採用参照は広義の種。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類と個別解説を照合。カマツカの広義・狭義の範囲と変種の対応を区別。採用参照は広義の種。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/kamatuka.htm",
+        "https://www.inaturalist.org/taxa/1308947"
+      ]
+    },
+    {
+      "id": "mushroom_0061",
+      "name": "キクラゲ",
+      "scientific_name": "Auricularia auricula-judae",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/kikurage.htm",
+        "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%AF%E3%83%A9%E3%82%B2",
+        "https://www.inaturalist.org/taxa/50813"
+      ]
+    },
+    {
+      "id": "mushroom_0062",
+      "name": "アラゲキクラゲ",
+      "scientific_name": "Auricularia polytricha",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/aragekikurage.htm",
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%82%B2%E3%82%AD%E3%82%AF%E3%83%A9%E3%82%B2",
+        "https://www.inaturalist.org/taxa/326015"
+      ]
+    },
+    {
+      "id": "mushroom_0067",
+      "name": "ナラタケ",
+      "scientific_name": "Armillaria mellea",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類と個別解説を照合。本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類と個別解説を照合。本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Armillaria",
+        "https://www.inaturalist.org/taxa/55950"
+      ]
+    },
+    {
+      "id": "mushroom_0082",
+      "name": "クサウラベニタケ",
+      "scientific_name": "Entoloma rhodopolium",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/kusaurabenitake.htm",
+        "https://en.wikipedia.org/wiki/Entoloma_rhodopolium",
+        "https://www.inaturalist.org/taxa/344658"
+      ]
+    },
+    {
+      "id": "mushroom_0083",
+      "name": "カキシメジ",
+      "scientific_name": "Tricholoma ustale",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類と個別解説を照合。本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類と個別解説を照合。本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Tricholoma",
+        "https://www.inaturalist.org/taxa/118201"
+      ]
+    },
+    {
+      "id": "mushroom_0104",
+      "name": "マンネンタケ",
+      "scientific_name": "Ganoderma lucidum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/mannentake.htm",
+        "https://www.inaturalist.org/taxa/125932"
+      ]
+    },
+    {
+      "id": "mushroom_0122",
+      "name": "ツチグリ",
+      "scientific_name": "Astraeus spp.",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "元一覧のPotentilla discolor、taxon_id=701718、植物の写真の混入を確認。Astraeus属へ参照分類とmasterを訂正し、CC BYの菌類の参考画像へ差し替えた。日本のツチグリの種群の同定は要確認。旧情報はバックアップに保存。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "元一覧のPotentilla discolor、taxon_id=701718、植物の写真の混入を確認。Astraeus属へ参照分類とmasterを訂正し、CC BYの菌類の参考画像へ差し替えた。日本のツチグリの種群の同定は要確認。旧情報はバックアップに保存。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/tutiguri.htm",
+        "https://www.inaturalist.org/taxa/48774",
+        "https://www.inaturalist.org/taxa/55271",
+        "https://www.inaturalist.org/photos/29238645"
+      ]
+    },
+    {
+      "id": "mushroom_0133",
+      "name": "キヌガサタケ",
+      "scientific_name": "Phallus spp.",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類と個別解説を照合。採用画像の分類参照が種以下の確定分類ではないため、学名の範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類と個別解説を照合。採用画像の分類参照が種以下の確定分類ではないため、学名の範囲は要確認。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Phallus_indusiatus",
+        "https://www.inaturalist.org/taxa/1473224"
+      ]
+    },
+    {
+      "id": "mushroom_0153",
+      "name": "クロアワタケ",
+      "scientific_name": "Retiboletus griseus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Retiboletus_griseus",
+        "https://www.inaturalist.org/taxa/499627"
+      ]
+    },
+    {
+      "id": "mushroom_0154",
+      "name": "ベニイグチ",
+      "scientific_name": "Heimioporus japonicus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/beniiguti.htm",
+        "https://www.inaturalist.org/taxa/355960"
+      ]
+    },
+    {
+      "id": "mushroom_0157",
+      "name": "ベニタケ",
+      "scientific_name": "Russula spp.",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 元一覧のOxymeris dimidiataは動物界の巻貝。Russula属の総称へ訂正し、既存の菌類写真を属の参考例として再利用。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 元一覧のOxymeris dimidiataは動物界の巻貝。Russula属の総称へ訂正し、既存の菌類写真を属の参考例として再利用。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8B%E3%82%BF%E3%82%B1",
+        "https://www.inaturalist.org/taxa/48339"
+      ]
+    },
+    {
+      "id": "mushroom_0169",
+      "name": "シロホウライタケ",
+      "scientific_name": "Marasmiellus candidus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 分類APIの系統に属の階級が欠けているため、採用学名の属名を記載。属の所属は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 分類APIの系統に属の階級が欠けているため、採用学名の属名を記載。属の所属は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/sirohouraitake.htm",
+        "https://www.inaturalist.org/taxa/118242"
+      ]
+    },
+    {
+      "id": "mushroom_0170",
+      "name": "ウスキテングタケ",
+      "scientific_name": "Amanita orientigemmata",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/usukitengutake.htm",
+        "https://www.inaturalist.org/taxa/895593"
+      ]
+    },
+    {
+      "id": "mushroom_0172",
+      "name": "フクロツルタケ",
+      "scientific_name": "Amanita volvata",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/hukuroturutake.htm",
+        "https://www.inaturalist.org/taxa/194267"
+      ]
+    },
+    {
+      "id": "mushroom_0176",
+      "name": "アカイボカサタケ",
+      "scientific_name": "Entoloma kermesinum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/akaibokasatake.htm",
+        "https://www.inaturalist.org/taxa/1657851"
+      ]
+    },
+    {
+      "id": "mushroom_0202",
+      "name": "トキイロラッパタケ",
+      "scientific_name": "Craterellus lutescens",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/tokiirorappatake.htm",
+        "https://www.inaturalist.org/taxa/514218"
+      ]
+    },
+    {
+      "id": "mushroom_0224",
+      "name": "トンビマイタケ",
+      "scientific_name": "Meripilus giganteus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Meripilus_giganteus",
+        "https://www.inaturalist.org/taxa/157989"
+      ]
+    },
+    {
+      "id": "mushroom_0238",
+      "name": "ツチナメコ",
+      "scientific_name": "Cyclocybe erebia",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/tutinameko.htm",
+        "https://www.inaturalist.org/taxa/628418"
+      ]
+    },
+    {
+      "id": "mushroom_0251",
+      "name": "キイボカサタケ",
+      "scientific_name": "Entoloma flavescens",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/kiibokasatake.htm",
+        "https://www.inaturalist.org/taxa/1657852"
+      ]
+    },
+    {
+      "id": "mushroom_0253",
+      "name": "キヌハダトマヤタケ",
+      "scientific_name": "Inosperma cookei",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/kinuhadatomayatake.htm",
+        "https://www.inaturalist.org/taxa/1112488"
+      ]
+    },
+    {
+      "id": "mushroom_0266",
+      "name": "セイタカイグチ",
+      "scientific_name": "Aureoboletus russellii",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/seitakaiguti.htm",
+        "https://www.inaturalist.org/taxa/936665"
+      ]
+    },
+    {
+      "id": "mushroom_0270",
+      "name": "ヌメリツバタケ",
+      "scientific_name": "Oudemansiella mucida",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/numeritubatake.htm",
+        "https://www.inaturalist.org/taxa/55964"
+      ]
+    },
+    {
+      "id": "mushroom_0277",
+      "name": "ヒメキシメジ",
+      "scientific_name": "Callistosporium luteo-olivaceum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/himekisimeji.htm",
+        "https://www.inaturalist.org/taxa/118354"
+      ]
+    },
+    {
+      "id": "mushroom_0284",
+      "name": "ツクツクボウシタケ",
+      "scientific_name": "Cordyceps cicadae",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Cordyceps_cicadae",
+        "https://www.inaturalist.org/taxa/1045222"
+      ]
+    },
+    {
+      "id": "mushroom_0291",
+      "name": "コガネヤマドリ",
+      "scientific_name": "Boletus aurantiosplendens",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Boletus_aurantiosplendens",
+        "https://www.inaturalist.org/taxa/500182"
+      ]
+    },
+    {
+      "id": "mushroom_0312",
+      "name": "キツネタケ",
+      "scientific_name": "Laccaria laccata",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/kitunetake.htm",
+        "https://www.inaturalist.org/taxa/63236"
+      ]
+    },
+    {
+      "id": "mushroom_0314",
+      "name": "ムラサキシメジ",
+      "scientific_name": "Collybia nuda",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/murasakisimeji.htm",
+        "https://www.inaturalist.org/taxa/1525548"
+      ]
+    },
+    {
+      "id": "mushroom_0328",
+      "name": "アケボノアワタケ",
+      "scientific_name": "Harrya chromipes",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/akebonoawatake.htm",
+        "https://www.inaturalist.org/taxa/1348168"
+      ]
+    },
+    {
+      "id": "mushroom_0329",
+      "name": "ヒメコウジタケ",
+      "scientific_name": "Parvixerocomus aokii",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/himekoujitake.htm",
+        "https://www.inaturalist.org/taxa/931579"
+      ]
+    },
+    {
+      "id": "mushroom_0349",
+      "name": "キララタケ",
+      "scientific_name": "Coprinellus micaceus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/kiraratake.htm",
+        "https://www.inaturalist.org/taxa/56318"
+      ]
+    },
+    {
+      "id": "mushroom_0404",
+      "name": "ニクウスバタケ",
+      "scientific_name": "Irpex consors",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/nikuusubatake.htm",
+        "https://www.inaturalist.org/taxa/1248678"
+      ]
+    },
+    {
+      "id": "mushroom_0428",
+      "name": "サガリハリタケ",
+      "scientific_name": "Radulomyces copelandii",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/kinoko/sagariharitake.htm",
+        "https://www.inaturalist.org/taxa/1113584"
+      ]
+    },
+    {
+      "id": "mushroom_0471",
+      "name": "アミヒカリタケ",
+      "scientific_name": "Favolaschia manipularis",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Filoboletus_manipularis",
+        "https://www.inaturalist.org/taxa/699912"
+      ]
+    },
+    {
+      "id": "mushroom_0500",
+      "name": "チヂレタケ",
+      "scientific_name": "Plicatura crispa",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Plicatura_crispa",
+        "https://www.inaturalist.org/taxa/1503458"
+      ]
+    },
+    {
+      "id": "sansai_0001",
+      "name": "ワラビ",
+      "scientific_name": "Pteridium latiusculum subsp. japonicum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目grass_0041の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目grass_0041の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%A9%E3%83%93",
+        "https://www.inaturalist.org/taxa/873950"
+      ]
+    },
+    {
+      "id": "sansai_0005",
+      "name": "ヤマブキショウマ",
+      "scientific_name": "Aruncus dioicus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%96%E3%82%AD%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E",
+        "https://www.inaturalist.org/taxa/75600"
+      ]
+    },
+    {
+      "id": "sansai_0007",
+      "name": "ノカンゾウ",
+      "scientific_name": "Hemerocallis fulva var. disticha",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/nokanzou.htm",
+        "https://www.inaturalist.org/taxa/1414562"
+      ]
+    },
+    {
+      "id": "sansai_0010",
+      "name": "ヤマグワ",
+      "scientific_name": "Morus indica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0107の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0107の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/yamaguwa.htm",
+        "https://www.inaturalist.org/taxa/773801"
+      ]
+    },
+    {
+      "id": "sansai_0011",
+      "name": "オニグルミ",
+      "scientific_name": "Juglans ailantifolia",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%82%B0%E3%83%AB%E3%83%9F",
+        "https://www.inaturalist.org/taxa/122793",
+        "https://mikawanoyasou.org/data/onigurumi.htm"
+      ]
+    },
+    {
+      "id": "sansai_0016",
+      "name": "クロマメノキ",
+      "scientific_name": "Vaccinium uliginosum var. japonicum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
+        "https://www.inaturalist.org/taxa/857265"
+      ]
+    },
+    {
+      "id": "sansai_0020",
+      "name": "エゴマ",
+      "scientific_name": "Perilla frutescens var. frutescens",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Perilla",
+        "https://www.inaturalist.org/taxa/242112"
+      ]
+    },
+    {
+      "id": "sansai_0044",
+      "name": "アマドコロ",
+      "scientific_name": "Polygonatum odoratum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目flower_0484の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目flower_0484の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%89%E3%82%B3%E3%83%AD",
+        "https://www.inaturalist.org/taxa/61454"
+      ]
+    },
+    {
+      "id": "sansai_0053",
+      "name": "ヤブカンゾウ",
+      "scientific_name": "Hemerocallis fulva var. kwanso",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "熊本大学の変種名の資料と森林総合研究所のヤブカンゾウ解説を照合。効能や食用方法は補完していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%96%E3%82%AB%E3%83%B3%E3%82%BE%E3%82%A6",
+        "https://www.inaturalist.org/taxa/359318",
+        "https://powo.science.kew.org/taxon/77278923-1",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003562.php",
+        "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/yabukanzo.html"
+      ]
+    },
+    {
+      "id": "sansai_0054",
+      "name": "シャク",
+      "scientific_name": "Anthriscus sylvestris subsp. sylvestris",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%AF",
+        "https://www.inaturalist.org/taxa/546896",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77228860-1"
+      ]
+    },
+    {
+      "id": "sansai_0057",
+      "name": "アカザ",
+      "scientific_name": "Chenopodium giganteum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。元データの魚Liobagrus reiniiとの同名誤対応を修正。国内資料のChenopodium album var. centrorubrumはKew POWOでChenopodium giganteumの異名とされる。資料間の分類差は要確認。",
+      "source_urls": [
+        "https://www.naro.go.jp/laboratory/tarc/weed/oybeanweeds/025473.html",
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:2716954-4",
+        "https://www.inaturalist.org/taxa/208769",
+        "https://powo.science.kew.org/taxon/164949-1"
+      ]
+    },
+    {
+      "id": "sansai_0072",
+      "name": "ヤマウコギ",
+      "scientific_name": "Eleutherococcus spinosus var. spinosus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "変種名は国立科学博物館のヤマウコギ標本で確認。生態と形態は同じ和名の種レベルの大学資料も参照しており、変種の厳密な同定を意味しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / iNaturalistの不自然なvarspinosus表記を国立科学博物館のヤマウコギ標本資料と照合し、var. spinosusへ修正。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%A6%E3%82%B3%E3%82%AE",
+        "https://www.inaturalist.org/taxa/1679440",
+        "https://db.kahaku.go.jp/webmuseum/col_b1_01/TNS-VS_439894",
+        "https://nikko-bg.jp/nikko-old/5_jokyo/species/Eleutherococcus_spinosus.html",
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/araliaceae/yamaukogi/yamaukogi.htm"
+      ]
+    },
+    {
+      "id": "sansai_0083",
+      "name": "ハマダイコン",
+      "scientific_name": "Raphanus raphanistrum subsp. sativus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%83%80%E3%82%A4%E3%82%B3%E3%83%B3",
+        "https://www.inaturalist.org/taxa/995125",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77159305-1"
+      ]
+    },
+    {
+      "id": "sansai_0092",
+      "name": "コオニユリ",
+      "scientific_name": "Lilium leichtlinii subsp. maximowiczii",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AA%E3%83%8B%E3%83%A6%E3%83%AA",
+        "https://www.inaturalist.org/taxa/244831",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77215715-1"
+      ]
+    },
+    {
+      "id": "sansai_0103",
+      "name": "アキグミ",
+      "scientific_name": "Elaeagnus umbellata var. umbellata",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0208の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0208の説明も照合。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/akigumi.htm",
+        "https://www.inaturalist.org/taxa/1059298"
+      ]
+    },
+    {
+      "id": "sansai_0105",
+      "name": "モミジイチゴ",
+      "scientific_name": "Rubus palmatus var. coptophyllus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名の変種 coptophyllus を扱う日光植物園の記録と植物写真資料を照合。食用・薬用の安全性は補完していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%9F%E3%82%B8%E3%82%A4%E3%83%81%E3%82%B4",
+        "https://www.inaturalist.org/taxa/452046",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A2985103-4",
+        "https://nikko-bg.jp/nikko-old/5_jokyo/species/Rubus_palmatus.html",
+        "https://www.botanic.jp/plants-ma/moitig.htm"
+      ]
+    },
+    {
+      "id": "sansai_0119",
+      "name": "ヨブスマソウ",
+      "scientific_name": "Parasenecio hastatus subsp. orientalis",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名 subsp. orientalis を用いた観察・解説資料を確認。別資料は Parasenecio robustus として扱うため、学名の扱いには差がある。説明は国内のヨブスマソウの範囲に限定。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%96%E3%82%B9%E3%83%9E%E3%82%BD%E3%82%A6",
+        "https://www.inaturalist.org/taxa/551514",
+        "https://www.botanic.jp/plants-ya/yobusu.htm"
+      ]
+    },
+    {
+      "id": "sansai_0126",
+      "name": "ヤマドリゼンマイ",
+      "scientific_name": "Osmundastrum cinnamomeum var. fokiense",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目grass_0438の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目grass_0438の説明も照合。",
+      "source_urls": [
+        "https://mikawanoyasou.org/sida/yamadorizenmai.htm",
+        "https://www.inaturalist.org/taxa/714113"
+      ]
+    },
+    {
+      "id": "sansai_0128",
+      "name": "シソ",
+      "scientific_name": "Perilla frutescens var. crispa",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0496の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0496の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%BD",
+        "https://www.inaturalist.org/taxa/242111"
+      ]
+    },
+    {
+      "id": "sansai_0131",
+      "name": "ツリガネニンジン",
+      "scientific_name": "Adenophora triphylla var. japonica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AA%E3%82%AC%E3%83%8D%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%B3",
+        "https://www.inaturalist.org/taxa/980664",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A360541-4",
+        "https://www.u-toyama.plant-database.jp/plants/detail/08e2c98c97dc496de22a805566b47051"
+      ]
+    },
+    {
+      "id": "sansai_0143",
+      "name": "ゴヨウアケビ",
+      "scientific_name": "Akebia × pentaphylla",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%A8%E3%82%A6%E3%82%A2%E3%82%B1%E3%83%93",
+        "https://www.inaturalist.org/taxa/1234856",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77176918-1"
+      ]
+    },
+    {
+      "id": "sansai_0146",
+      "name": "ハマカンゾウ",
+      "scientific_name": "Hemerocallis fulva var. littorea",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%82%AB%E3%83%B3%E3%82%BE%E3%82%A6",
+        "https://www.inaturalist.org/taxa/859241",
+        "https://powo.science.kew.org/taxon/77075268-1"
+      ]
+    },
+    {
+      "id": "sansai_0148",
+      "name": "コウヤワラビ",
+      "scientific_name": "Onoclea sensibilis var. interrupta",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+      "source_urls": [
+        "https://mikawanoyasou.org/sida/kouyawarabi.htm",
+        "https://www.inaturalist.org/taxa/543463",
+        "https://powo.science.kew.org/taxon/77186405-1"
+      ]
+    },
+    {
+      "id": "sansai_0153",
+      "name": "シロヨメナ",
+      "scientific_name": "Aster ageratoides var. ageratoides",
+      "decision": "掲載対象外・掲載保留",
+      "basis": "和名と登録学名の分類範囲が未確定。要確認を残す。山菜という利用目的まで資料で確認できているかは追加確認が必要。",
+      "taxonomic_scope_verified": null,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n追加調査：シロヨメナの和名と登録学名 Aster ageratoides var. ageratoides の対応は要確認。分類研究では Aster leiophyllus var. leiophyllus とされる資料があり、登録した変種の説明をそのまま当てはめられない。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/511158",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77232739-1/general-information",
+        "https://www.jstage.jst.go.jp/browse/bunruichiri/44/1/_contents/-char/ja",
+        "https://tsukuba.repo.nii.ac.jp/record/22568/files/5.pdf",
+        "https://mikawanoyasou.org/data/siroyomena.htm"
+      ]
+    },
+    {
+      "id": "sansai_0156",
+      "name": "ニガナ",
+      "scientific_name": "Ixeridium dentatum subsp. dentatum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用亜種の観察資料と大学のニガナの解説を照合。花の数が多いハナニガナなどの説明は転用していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AC%E3%83%8A",
+        "https://www.inaturalist.org/taxa/1036489",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77180432-1",
+        "https://mikawanoyasou.org/data/nigana.htm",
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/compositae/nigana/nigana.htm"
+      ]
+    },
+    {
+      "id": "sansai_0159",
+      "name": "ゼンテイカ",
+      "scientific_name": "Hemerocallis middendorffii var. esculenta",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%B3%E3%83%86%E3%82%A4%E3%82%AB",
+        "https://www.inaturalist.org/taxa/1115097",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77189683-1"
+      ]
+    },
+    {
+      "id": "sansai_0160",
+      "name": "エゾネギ",
+      "scientific_name": "Allium schoenoprasum var. schoenoprasum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "大学の基準変種 var. schoenoprasum の生活型・分布・生育環境を確認。別変種アサツキや高山性のシロウマアサツキの説明は転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Allium",
+        "https://www.inaturalist.org/taxa/82898",
+        "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/lily/allium/veg.html",
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/monocotyledoneae/liliaceae/ezonegi/ezonegi.htm"
+      ]
+    },
+    {
+      "id": "sansai_0163",
+      "name": "ノコンギク",
+      "scientific_name": "Aster microcephalus var. ovatus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0157の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0157の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B3%E3%83%B3%E3%82%AE%E3%82%AF",
+        "https://www.inaturalist.org/taxa/1433114"
+      ]
+    },
+    {
+      "id": "sansai_0167",
+      "name": "タチツボスミレ",
+      "scientific_name": "Viola grypoceras var. grypoceras",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0047の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0047の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%81%E3%83%84%E3%83%9C%E3%82%B9%E3%83%9F%E3%83%AC",
+        "https://www.inaturalist.org/taxa/447564",
+        "https://ja.wikipedia.org/wiki/タチツボスミレ",
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77224921-1"
+      ]
+    },
+    {
+      "id": "sansai_0168",
+      "name": "ヤエムグラ",
+      "scientific_name": "Galium spurium var. echinospermum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "大学のヤエムグラの基本情報と観察資料を照合。変種名 echinospermon / echinospermum や亜種の扱いが資料で異なる。三河資料の掲載写真自体には別種の可能性が注記されているため、花の色・果実サイズや厳密な同定には転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/yaemugura.htm",
+        "https://www.inaturalist.org/taxa/701763",
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/rubiaceae/yaemugura/yaemugura.htm"
+      ]
+    },
+    {
+      "id": "sansai_0172",
+      "name": "ヒメスミレ",
+      "scientific_name": "Viola inconspicua subsp. nagasakiensis",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用亜種の観察資料の国内分布・生活型・環境を確認。葉柄に翼がない点は国立科学博物館の近縁種との比較でも照合。広義の種のアジア全域の分布は転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%82%B9%E3%83%9F%E3%83%AC",
+        "https://www.inaturalist.org/taxa/448247",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A966547-1",
+        "https://mikawanoyasou.org/data/himesumire.htm",
+        "https://www.kahaku.go.jp/research/db/botany/wild_p100/spring/11_sumire.html"
+      ]
+    },
+    {
+      "id": "sansai_0174",
+      "name": "ガンコウラン",
+      "scientific_name": "Empetrum nigrum subsp. asiaticum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%82%B3%E3%82%A6%E3%83%A9%E3%83%B3",
+        "https://www.inaturalist.org/taxa/1035801",
+        "https://powo.science.kew.org/taxon/997275-1"
+      ]
+    },
+    {
+      "id": "sansai_0176",
+      "name": "エゾイチゴ",
+      "scientific_name": "Rubus idaeus subsp. strigosus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rubus",
+        "https://www.inaturalist.org/taxa/125488",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A223189-2"
+      ]
+    },
+    {
+      "id": "sansai_0177",
+      "name": "キジムシロ",
+      "scientific_name": "Potentilla fragarioides var. major",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0228の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0228の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B8%E3%83%A0%E3%82%B7%E3%83%AD",
+        "https://www.inaturalist.org/taxa/461798"
+      ]
+    },
+    {
+      "id": "sansai_0180",
+      "name": "コウゾリナ",
+      "scientific_name": "Picris japonica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "北海道大学は Picris hieracioides subsp. japonica として扱い、採用学名 P. japonica を基礎異名に挙げる。同じ分類群の基本情報として照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A6%E3%82%BE%E3%83%AA%E3%83%8A",
+        "https://www.inaturalist.org/taxa/1133827",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A927426-1/general-information",
+        "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/aster/picris/hie.html"
+      ]
+    },
+    {
+      "id": "sansai_0181",
+      "name": "カントウタンポポ",
+      "scientific_name": "Taraxacum platycarpum subsp. platycarpum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%88%E3%82%A6%E3%82%BF%E3%83%B3%E3%83%9D%E3%83%9D",
+        "https://www.inaturalist.org/taxa/1603699",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77180360-1"
+      ]
+    },
+    {
+      "id": "sansai_0197",
+      "name": "ミズナラ",
+      "scientific_name": "Quercus mongolica var. crispula",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0077の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0077の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BA%E3%83%8A%E3%83%A9",
+        "https://www.inaturalist.org/taxa/1609986"
+      ]
+    },
+    {
+      "id": "sansai_0207",
+      "name": "スミレ",
+      "scientific_name": "Viola mandshurica var. mandshurica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0046の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0046の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9F%E3%83%AC",
+        "https://www.inaturalist.org/taxa/424921",
+        "https://ja.wikipedia.org/wiki/スミレ",
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77225099-1"
+      ]
+    },
+    {
+      "id": "sansai_0208",
+      "name": "ヤマニガナ",
+      "scientific_name": "Lactuca raddeana var. elata",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用変種の観察資料で基本情報を確認。筑波大学の植物相資料にも同学名で記録がある。資料によって Pterocypsela elata や広義の Lactuca raddeana として扱われる。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/1403398",
+        "https://mikawanoyasou.org/data/yamanigana.htm",
+        "https://tsukuba.repo.nii.ac.jp/record/22568/files/5.pdf"
+      ]
+    },
+    {
+      "id": "sansai_0213",
+      "name": "アリアケスミレ",
+      "scientific_name": "Viola betonicifolia var. albescens",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%A2%E3%82%B1%E3%82%B9%E3%83%9F%E3%83%AC",
+        "https://www.inaturalist.org/taxa/1070701",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77252490-1"
+      ]
+    },
+    {
+      "id": "sansai_0222",
+      "name": "トネアザミ",
+      "scientific_name": "Cirsium nipponicum var. incomptum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "森林総合研究所の採用学名と一致する変種の解説を確認。詳しい分布境界まで確定したものではない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Cirsium",
+        "https://www.inaturalist.org/taxa/452090",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A983010-1",
+        "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/toneazami.html"
+      ]
+    },
+    {
+      "id": "yakuso_0004",
+      "name": "サネブトナツメ",
+      "scientific_name": "Ziziphus jujuba subsp. spinosa",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/715829",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A2922446-4"
+      ]
+    },
+    {
+      "id": "yakuso_0038",
+      "name": "ウツボグサ",
+      "scientific_name": "Prunella vulgaris subsp. asiatica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0292の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0292の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%84%E3%83%9C%E3%82%B0%E3%82%B5",
+        "https://www.inaturalist.org/taxa/367463"
+      ]
+    },
+    {
+      "id": "yakuso_0042",
+      "name": "シソ",
+      "scientific_name": "Perilla frutescens var. crispa",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0496の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0496の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%BD",
+        "https://www.inaturalist.org/taxa/242111"
+      ]
+    },
+    {
+      "id": "yakuso_0043",
+      "name": "エゴマ",
+      "scientific_name": "Perilla frutescens var. frutescens",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0020の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0020の説明も照合。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Perilla",
+        "https://www.inaturalist.org/taxa/242112"
+      ]
+    },
+    {
+      "id": "yakuso_0070",
+      "name": "ノコンギク",
+      "scientific_name": "Aster microcephalus var. ovatus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0157の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0157の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B3%E3%83%B3%E3%82%AE%E3%82%AF",
+        "https://www.inaturalist.org/taxa/1433114"
+      ]
+    },
+    {
+      "id": "yakuso_0079",
+      "name": "ヤブカンゾウ",
+      "scientific_name": "Hemerocallis fulva var. kwanso",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "熊本大学の変種名の資料と森林総合研究所のヤブカンゾウ解説を照合。効能や食用方法は補完していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%96%E3%82%AB%E3%83%B3%E3%82%BE%E3%82%A6",
+        "https://www.inaturalist.org/taxa/359318",
+        "https://powo.science.kew.org/taxon/77278923-1",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003562.php",
+        "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/yabukanzo.html"
+      ]
+    },
+    {
+      "id": "yakuso_0080",
+      "name": "ノカンゾウ",
+      "scientific_name": "Hemerocallis fulva var. disticha",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0007の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0007の説明も照合。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/nokanzou.htm",
+        "https://www.inaturalist.org/taxa/1414562"
+      ]
+    },
+    {
+      "id": "yakuso_0088",
+      "name": "ヤマウコギ",
+      "scientific_name": "Eleutherococcus spinosus var. spinosus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "変種名は国立科学博物館のヤマウコギ標本で確認。生態と形態は同じ和名の種レベルの大学資料も参照しており、変種の厳密な同定を意味しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / iNaturalistの不自然なvarspinosus表記を国立科学博物館のヤマウコギ標本資料と照合し、var. spinosusへ修正。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%A6%E3%82%B3%E3%82%AE",
+        "https://www.inaturalist.org/taxa/1679440",
+        "https://db.kahaku.go.jp/webmuseum/col_b1_01/TNS-VS_439894",
+        "https://nikko-bg.jp/nikko-old/5_jokyo/species/Eleutherococcus_spinosus.html",
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/araliaceae/yamaukogi/yamaukogi.htm"
+      ]
+    },
+    {
+      "id": "yakuso_0106",
+      "name": "クロマメノキ",
+      "scientific_name": "Vaccinium uliginosum var. japonicum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0016の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0016の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
+        "https://www.inaturalist.org/taxa/857265"
+      ]
+    },
+    {
+      "id": "yakuso_0107",
+      "name": "アキグミ",
+      "scientific_name": "Elaeagnus umbellata var. umbellata",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0208の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0208の説明も照合。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/akigumi.htm",
+        "https://www.inaturalist.org/taxa/1059298"
+      ]
+    },
+    {
+      "id": "yakuso_0135",
+      "name": "ヒキオコシ",
+      "scientific_name": "Isodon japonicus var. japonicus",
+      "decision": "掲載対象外・掲載保留",
+      "basis": "種の情報は確認できるが、登録変種に限定した情報との照合が未完了。変種まで未確認というだけで掲載除外と断定しない。",
+      "taxonomic_scope_verified": null,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n追加調査：登録は Isodon japonicus var. japonicus。大学の解説は種 Isodon japonicus の範囲であり、基準変種に限定した分布等の照合が未完了。種としての基本情報は参考として確認できた。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/1055298",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003549.php"
+      ]
+    },
+    {
+      "id": "yakuso_0141",
+      "name": "キジムシロ",
+      "scientific_name": "Potentilla fragarioides var. major",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0228の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0228の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B8%E3%83%A0%E3%82%B7%E3%83%AD",
+        "https://www.inaturalist.org/taxa/461798"
+      ]
+    },
+    {
+      "id": "yakuso_0144",
+      "name": "ベニバナイチヤクソウ",
+      "scientific_name": "Pyrola asarifolia subsp. incarnata",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "大学の Pyrola incarnata の解説が採用亜種名を同物異名に挙げ、京都府の資料でも対応を確認。北米を含む分布の扱いには種群の差があるため北米の詳細は追加しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/900719",
+        "https://powo.science.kew.org/taxon/954919-1",
+        "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/wintergreen/pyrola/inc.html",
+        "https://www.pref.kyoto.jp/kankyo/rdb/bio/db/flo0583.html"
+      ]
+    },
+    {
+      "id": "yakuso_0145",
+      "name": "ネジキ",
+      "scientific_name": "Lyonia ovalifolia var. elliptica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_tree_0157の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_tree_0157の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B8%E3%82%AD",
+        "https://www.inaturalist.org/taxa/428738"
+      ]
+    },
+    {
+      "id": "yakuso_0151",
+      "name": "キク",
+      "scientific_name": "Chrysanthemum × morifolium",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0152の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0152の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%AF",
+        "https://www.inaturalist.org/taxa/53806"
+      ]
+    },
+    {
+      "id": "yakuso_0164",
+      "name": "ホタルブクロ",
+      "scientific_name": "Campanula punctata var. punctata",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BF%E3%83%AB%E3%83%96%E3%82%AF%E3%83%AD",
+        "https://www.inaturalist.org/taxa/543749",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77168945-1"
+      ]
+    },
+    {
+      "id": "yakuso_0168",
+      "name": "ツリガネニンジン",
+      "scientific_name": "Adenophora triphylla var. japonica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AA%E3%82%AC%E3%83%8D%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%B3",
+        "https://www.inaturalist.org/taxa/980664",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A360541-4",
+        "https://www.u-toyama.plant-database.jp/plants/detail/08e2c98c97dc496de22a805566b47051"
+      ]
+    },
+    {
+      "id": "yakuso_0189",
+      "name": "イヌツゲ",
+      "scientific_name": "Ilex crenata var. crenata",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/inutuge.htm",
+        "https://www.inaturalist.org/taxa/699212",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77231698-1"
+      ]
+    },
+    {
+      "id": "yakuso_0198",
+      "name": "キケマン",
+      "scientific_name": "Corydalis heterocarpa var. japonica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0275の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0275の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B1%E3%83%9E%E3%83%B3",
+        "https://www.inaturalist.org/taxa/452145"
+      ]
+    },
+    {
+      "id": "yakuso_0201",
+      "name": "ミヤマキケマン",
+      "scientific_name": "Corydalis pallida var. tenuis",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "山口県の資料のミヤマキケマン（var. tenuis）本文を確認。近畿以東だけでなく中国地方の記録も反映。古いレッドリストのランクは追加していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/461683",
+        "https://powo.science.kew.org/results?q=Corydalis+pallida+var.+tenuis",
+        "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/53759.pdf#page=199"
+      ]
+    },
+    {
+      "id": "yakuso_0211",
+      "name": "ハマカンゾウ",
+      "scientific_name": "Hemerocallis fulva var. littorea",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%82%AB%E3%83%B3%E3%82%BE%E3%82%A6",
+        "https://www.inaturalist.org/taxa/859241",
+        "https://powo.science.kew.org/taxon/77075268-1"
+      ]
+    },
+    {
+      "id": "yakuso_0212",
+      "name": "ゼンテイカ",
+      "scientific_name": "Hemerocallis middendorffii var. esculenta",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%B3%E3%83%86%E3%82%A4%E3%82%AB",
+        "https://www.inaturalist.org/taxa/1115097",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77189683-1"
+      ]
+    },
+    {
+      "id": "yakuso_0221",
+      "name": "ガンコウラン",
+      "scientific_name": "Empetrum nigrum subsp. asiaticum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%82%B3%E3%82%A6%E3%83%A9%E3%83%B3",
+        "https://www.inaturalist.org/taxa/1035801",
+        "https://powo.science.kew.org/taxon/997275-1"
+      ]
+    },
+    {
+      "id": "yakuso_0224",
+      "name": "モミジイチゴ",
+      "scientific_name": "Rubus palmatus var. coptophyllus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名の変種 coptophyllus を扱う日光植物園の記録と植物写真資料を照合。食用・薬用の安全性は補完していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rubus",
+        "https://www.inaturalist.org/taxa/452046",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A2985103-4",
+        "https://nikko-bg.jp/nikko-old/5_jokyo/species/Rubus_palmatus.html",
+        "https://www.botanic.jp/plants-ma/moitig.htm"
+      ]
+    },
+    {
+      "id": "yakuso_0229",
+      "name": "エゾイチゴ",
+      "scientific_name": "Rubus idaeus subsp. strigosus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rubus",
+        "https://www.inaturalist.org/taxa/125488",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A223189-2"
+      ]
+    },
+    {
+      "id": "herb_0002",
+      "name": "エゴマ",
+      "scientific_name": "Perilla frutescens var. frutescens",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0020の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0020の説明も照合。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Perilla",
+        "https://www.inaturalist.org/taxa/242112"
+      ]
+    },
+    {
+      "id": "herb_0013",
+      "name": "ホップ",
+      "scientific_name": "Humulus lupulus var. lupulus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "変種 lupulus の分布は Flora of China が明示する範囲で確認。生活型と地下茎はUSDAの種の記載、生育帯はKewの種の記載。日本の変種 cordifolius や北米の変種の分布は転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%83%E3%83%97",
+        "https://www.inaturalist.org/taxa/241080",
+        "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006377",
+        "https://www.ars.usda.gov/pacific-west-area/corvallis-or/national-clonal-germplasm-repository/docs/ncgr-corvallis-humulus-germplasm/",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A303502-2"
+      ]
+    },
+    {
+      "id": "herb_0015",
+      "name": "ゼラニウム",
+      "scientific_name": "Pelargonium × hybridum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用交雑種の大学・Kew資料を照合。交配親の原産地と交雑種の栽培を区別。一年草扱いの栽培でも生活型は多年草。香料向けセンテッドゼラニウムの説明は転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。 / ジャンル注記：ゼラニウムという名称は広い。主に花を観賞する園芸種と香りを利用するセンテッドゼラニウムを区別。ハーブの用途がすべての種・品種に当てはまるとは扱わない。既存ジャンルは維持。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%A9%E3%83%8B%E3%82%A6%E3%83%A0",
+        "https://www.inaturalist.org/taxa/181543",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A376335-1/general-information",
+        "https://plants.ces.ncsu.edu/plants/pelargonium-x-hybridum/",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A376335-1"
+      ]
+    },
+    {
+      "id": "herb_0018",
+      "name": "ライム",
+      "scientific_name": "Citrus × aurantiifolia",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%A0",
+        "https://www.inaturalist.org/taxa/331121",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A59599-2/general-information"
+      ]
+    },
+    {
+      "id": "herb_0027",
+      "name": "ラベンダー",
+      "scientific_name": "Lavandula angustifolia",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC",
+        "https://www.inaturalist.org/taxa/133395",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A449008-1"
+      ]
+    },
+    {
+      "id": "herb_0029",
+      "name": "ハイビスカス",
+      "scientific_name": "Hibiscus × rosa-sinensis",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。 / ジャンル注記：ハイビスカス。花の観賞植物と、飲料などに使われるローゼルを区別。この登録種がハイビスカスティーの原料とは扱わない。既存ジャンルは維持。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/bussouge.htm",
+        "https://www.inaturalist.org/taxa/1628098",
+        "https://powo.science.kew.org/taxon/560756-1"
+      ]
+    },
+    {
+      "id": "herb_0033",
+      "name": "シソ",
+      "scientific_name": "Perilla frutescens var. crispa",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0496の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0496の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%BD",
+        "https://www.inaturalist.org/taxa/242111"
+      ]
+    },
+    {
+      "id": "herb_0036",
+      "name": "コンフリー",
+      "scientific_name": "Symphytum × uplandicum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Symphytum",
+        "https://www.inaturalist.org/taxa/181924",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A120843-1/general-information"
+      ]
+    },
+    {
+      "id": "herb_0037",
+      "name": "アーティチョーク",
+      "scientific_name": "Cynara cardunculus subsp. scolymus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "RHSでは亜種名の代わりに栽培群 Scolymus Group として扱うアーティチョークの基本情報を確認。カルドンや個別品種の性質は転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Artichoke",
+        "https://www.inaturalist.org/taxa/861815",
+        "https://powo.science.kew.org/taxon/77122427-1",
+        "https://www.rhs.org.uk/plants/56390/cynara-cardunculus-scolymus-group/details"
+      ]
+    },
+    {
+      "id": "herb_0040",
+      "name": "キンモクセイ",
+      "scientific_name": "Osmanthus fragrans var. aurantiacus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/kinmokusei.htm",
+        "https://www.inaturalist.org/taxa/566373",
+        "https://powo.science.kew.org/taxon/77188571-1"
+      ]
+    },
+    {
+      "id": "herb_0041",
+      "name": "レモン",
+      "scientific_name": "Citrus × limon",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0012の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0012の説明も照合。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/lemon.htm",
+        "https://www.inaturalist.org/taxa/331124"
+      ]
+    },
+    {
+      "id": "herb_0050",
+      "name": "レモンタイム",
+      "scientific_name": "Thymus × citriodorus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/326761",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A461041-1"
+      ]
+    },
+    {
+      "id": "herb_0056",
+      "name": "チャイブ",
+      "scientific_name": "Allium schoenoprasum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%A4%E3%83%96",
+        "https://www.inaturalist.org/taxa/59254",
+        "https://powo.science.kew.org/taxon/528823-1"
+      ]
+    },
+    {
+      "id": "herb_0060",
+      "name": "ルッコラ",
+      "scientific_name": "Eruca vesicaria",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%83%E3%82%B3%E3%83%A9",
+        "https://www.inaturalist.org/taxa/77058",
+        "https://powo.science.kew.org/taxon/1137625-2"
+      ]
+    },
+    {
+      "id": "herb_0063",
+      "name": "ペパーミント",
+      "scientific_name": "Mentha × piperita",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0352の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0352の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%91%E3%83%BC%E3%83%9F%E3%83%B3%E3%83%88",
+        "https://www.inaturalist.org/taxa/181525"
+      ]
+    },
+    {
+      "id": "herb_0078",
+      "name": "エキナセア",
+      "scientific_name": "Echinacea purpurea",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD%E3%83%90%E3%83%AC%E3%83%B3%E3%82%AE%E3%82%AF",
+        "https://www.inaturalist.org/taxa/48627",
+        "https://powo.science.kew.org/taxon/1174497-2"
+      ]
+    },
+    {
+      "id": "herb_0084",
+      "name": "サントリナ",
+      "scientific_name": "Santolina chamaecyparissus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/1504284",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A241927-1"
+      ]
+    },
+    {
+      "id": "herb_0095",
+      "name": "ヤロウ",
+      "scientific_name": "Achillea millefolium",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/1105043",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A2294-2"
+      ]
+    },
+    {
+      "id": "herb_0096",
+      "name": "バレリアン",
+      "scientific_name": "Valeriana officinalis",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名の植物の解説で生活型・分布・生育または栽培環境を確認。海外での開花月や薬効・食用の安全性は補完しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AC%E3%83%AA%E3%82%A2%E3%83%B3",
+        "https://www.inaturalist.org/taxa/1105640",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A860012-1",
+        "https://plants.ces.ncsu.edu/plants/valeriana-officinalis/"
+      ]
+    },
+    {
+      "id": "herb_0104",
+      "name": "ネトル",
+      "scientific_name": "Urtica dioica",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Urtica",
+        "https://www.inaturalist.org/taxa/1631210",
+        "https://powo.science.kew.org/taxon/260630-2"
+      ]
+    },
+    {
+      "id": "herb_0107",
+      "name": "キャットミント",
+      "scientific_name": "Nepeta × faassenii",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "ノースカロライナ州立大学の交雑種全体の解説を確認。個別品種の性質や米国での開花月は転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/410913",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60464967-2/general-information",
+        "https://plants.ces.ncsu.edu/plants/nepeta-x-faassenii/common-name/faasens-catmint/"
+      ]
+    },
+    {
+      "id": "herb_0112",
+      "name": "ダマスクローズ",
+      "scientific_name": "Rosa × damascena",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "RHSのダマスクローズの解説を確認。野生の分布や日本での開花月は確定していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/1455863",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77394892-1",
+        "https://www.rhs.org.uk/plants/33926/rosa-%C3%97-damascena-d/details"
+      ]
+    },
+    {
+      "id": "herb_0113",
+      "name": "ローズドメイ",
+      "scientific_name": "Rosa × centifolia",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名の交雑種を扱う大学とKew資料で確認。葉の常緑・落葉の扱いや開花期には資料・栽培地の差があるため断定していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/1599165",
+        "https://powo.science.kew.org/taxon/324763-2",
+        "https://plants.ces.ncsu.edu/plants/rosa-x-centifolia/",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A324763-2"
+      ]
+    },
+    {
+      "id": "herb_0118",
+      "name": "ビターオレンジ",
+      "scientific_name": "Citrus × aurantium",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0259の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0259の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%80%E3%82%A4",
+        "https://www.inaturalist.org/taxa/331122"
+      ]
+    },
+    {
+      "id": "herb_0138",
+      "name": "ホーソン",
+      "scientific_name": "Crataegus monogyna",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Crataegus",
+        "https://www.inaturalist.org/taxa/1437600",
+        "https://powo.science.kew.org/taxon/723820-1",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A723820-1"
+      ]
+    },
+    {
+      "id": "herb_0139",
+      "name": "エルダーベリー",
+      "scientific_name": "Sambucus nigra",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "Sambucus nigra の解説を確認。アメリカ原産の S. canadensis の分布や性質と混同しない。果実等の食用・薬用の安全性は補完しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Sambucus",
+        "https://www.inaturalist.org/taxa/1665961",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30122169-2",
+        "https://plants.ces.ncsu.edu/plants/sambucus-nigra/common-name/black-elder/"
+      ]
+    },
+    {
+      "id": "herb_0165",
+      "name": "グリークオレガノ",
+      "scientific_name": "Origanum vulgare subsp. viridulum",
+      "decision": "掲載対象外・掲載保留",
+      "basis": "グリークオレガノの登録学名は Origanum vulgare subsp. viridulum。大学の Greek oregano は subsp. hirtum とされ、元の画像がどちらに対応するか確定できない。亜種名を推測で変更せず掲載保留。",
+      "taxonomic_scope_verified": null,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/362402",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77101344-1"
+      ]
+    },
+    {
+      "id": "herb_0172",
+      "name": "チェリーセージ",
+      "scientific_name": "Salvia greggii",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Salvia_microphylla",
+        "https://www.inaturalist.org/taxa/168380",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A456321-1/general-information"
+      ]
+    },
+    {
+      "id": "herb_0177",
+      "name": "ラバンディン",
+      "scientific_name": "Lavandula × intermedia",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/469711",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A449048-1/general-information"
+      ]
+    },
+    {
+      "id": "herb_0235",
+      "name": "アルファルファ",
+      "scientific_name": "Medicago sativa",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "種全体のKewの記載とRHSの具体的な栽培解説を照合。亜種 sativa の分布に種全体を置き換えない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/1093263",
+        "https://powo.science.kew.org/taxon/30234961-2",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30234961-2/images",
+        "https://www.rhs.org.uk/plants/83281/medicago-sativa/details"
+      ]
+    },
+    {
+      "id": "rare_fruit_0003",
+      "name": "ジューンベリー",
+      "scientific_name": "Amelanchier canadensis",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%99%E3%83%AA%E3%83%BC",
+        "https://www.inaturalist.org/taxa/133382",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A721188-1",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A721188-1/general-information"
+      ]
+    },
+    {
+      "id": "rare_fruit_0009",
+      "name": "クロマメノキ",
+      "scientific_name": "Vaccinium uliginosum var. japonicum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0016の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0016の説明も照合。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
+        "https://www.inaturalist.org/taxa/857265"
+      ]
+    },
+    {
+      "id": "rare_fruit_0012",
+      "name": "ガンコウラン",
+      "scientific_name": "Empetrum nigrum subsp. asiaticum",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/1035801",
+        "https://powo.science.kew.org/taxon/997275-1"
+      ]
+    },
+    {
+      "id": "rare_fruit_0013",
+      "name": "アキグミ",
+      "scientific_name": "Elaeagnus umbellata var. umbellata",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0208の説明も照合。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0208の説明も照合。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/akigumi.htm",
+        "https://www.inaturalist.org/taxa/1059298"
+      ]
+    },
+    {
+      "id": "rare_fruit_0023",
+      "name": "ウグイスカグラ",
+      "scientific_name": "Lonicera gracilipes var. glabra",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "変種 glabra の分布・生活型・形態は岡山理科大学で確認。日当たりと庭木利用は広義の種の説明として明記。毛のある別変種の分布は転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://www.inaturalist.org/taxa/705024",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77315007-1",
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/caprifoliaceae/uguisukagura/uguisukagura.htm",
+        "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/honeysuckle/lonicera/gra.html"
+      ]
+    },
+    {
+      "id": "rare_fruit_0040",
+      "name": "リンゴンベリー",
+      "scientific_name": "Vaccinium vitis-idaea subsp. minus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "Native Plant Trustの地域植物誌が扱う亜種は採用学名と同じ subsp. minus と明示されている。地域の生育記録を世界全域の分布・環境には拡張しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Vaccinium",
+        "https://www.inaturalist.org/taxa/238962",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A262103-2",
+        "https://gobotany.nativeplanttrust.org/species/vaccinium/vitis-idaea/?key=dichotomous"
+      ]
+    },
+    {
+      "id": "rare_fruit_0065",
+      "name": "エルダーベリー",
+      "scientific_name": "Sambucus nigra",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "Sambucus nigra の解説を確認。アメリカ原産の S. canadensis の分布や性質と混同しない。果実等の食用・薬用の安全性は補完しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Sambucus",
+        "https://www.inaturalist.org/taxa/1665961",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30122169-2",
+        "https://plants.ces.ncsu.edu/plants/sambucus-nigra/common-name/black-elder/"
+      ]
+    },
+    {
+      "id": "rare_fruit_0068",
+      "name": "ホーソン",
+      "scientific_name": "Crataegus monogyna",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "採用学名と同じ分類範囲のKew資料の生活型・自然分布・生育帯を照合。未確認の開花時期や用途は補完していない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Crataegus",
+        "https://www.inaturalist.org/taxa/1437600",
+        "https://powo.science.kew.org/taxon/723820-1",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A723820-1"
+      ]
+    },
+    {
+      "id": "rare_fruit_0074",
+      "name": "ジョスタベリー",
+      "scientific_name": "Ribes × nidigrolaria",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "英国王立園芸協会のジョスタベリーの具体的な解説を確認。英国での結実月は日本の時期には転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Ribes",
+        "https://www.inaturalist.org/taxa/1028040",
+        "https://powo.science.kew.org/taxon/939018-1",
+        "https://www.rhs.org.uk/plants/297045/ribes-%C3%97-nidigrolaria-f/details"
+      ]
+    },
+    {
+      "id": "rare_fruit_0075",
+      "name": "ボイセンベリー",
+      "scientific_name": "Rubus ursinus × idaeus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "大学のボイセンベリーの記載と交配表記を照合。栽培環境は同資料が明示的にボイセンベリーを含める栽培群の共通条件。個別クローンの性質を全株に断定しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+      "source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%A4%E3%82%BB%E3%83%B3%E3%83%99%E3%83%AA%E3%83%BC",
+        "https://www.inaturalist.org/taxa/1449401",
+        "https://extension.oregonstate.edu/es/catalog/ec-1303-growing-blackberries-your-home-garden",
+        "https://postharvest.ucdavis.edu/publication/cell-wall-disassembly-events-boysenberry-rubus-idaeus-l-x-rubus-ursinus-cham-schldl"
+      ]
+    },
+    {
+      "id": "rare_fruit_0076",
+      "name": "ローガンベリー",
+      "scientific_name": "Rubus × loganobaccus",
+      "decision": "要確認の注記を残して掲載",
+      "basis": "英国王立園芸協会のローガンベリーの解説を確認。とげなし品種の性質を全体には当てはめず、英国の結実時期は転用しない。",
+      "taxonomic_scope_verified": false,
+      "prior_classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rubus",
+        "https://www.inaturalist.org/taxa/417619",
+        "https://powo.science.kew.org/taxon/223266-2",
+        "https://www.rhs.org.uk/plants/112476/rubus-%C3%97-loganobaccus-f/details"
+      ]
+    }
+  ],
+  "retained_broad_name_ids": [
+    "flower_0082"
+  ],
+  "synonym_confirmation": {
+    "id": "tree_0199",
+    "reason": "Kewは Staphylea japonica の同物異名として Euscaphis japonica を明示している。異名対応は確認できたが、採用する分類体系と画像の厳密な再同定は別に扱う。",
+    "source_urls": [
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77164257-1"
+    ]
+  },
+  "master_scientific_name_sync": [
+    {
+      "id": "mushroom_0011",
+      "before": "Amanita citrina grisea",
+      "after": "Amanita citrina var. grisea"
+    },
+    {
+      "id": "mushroom_0019",
+      "before": "Lactarius deliciosus laeticolor",
+      "after": "Lactarius deliciosus f. laeticolor"
+    },
+    {
+      "id": "mushroom_0115",
+      "before": "Daedaleopsis confragosa tricolor",
+      "after": "Daedaleopsis confragosa var. tricolor"
+    },
+    {
+      "id": "mushroom_0122",
+      "before": "Astraeus",
+      "after": "Astraeus spp."
+    },
+    {
+      "id": "mushroom_0133",
+      "before": "Phallus indusiatus",
+      "after": "Phallus spp."
+    },
+    {
+      "id": "mushroom_0157",
+      "before": "Russula",
+      "after": "Russula spp."
+    },
+    {
+      "id": "herb_0002",
+      "before": "Perilla frutescens frutescens",
+      "after": "Perilla frutescens var. frutescens"
+    },
+    {
+      "id": "herb_0033",
+      "before": "Perilla frutescens crispa",
+      "after": "Perilla frutescens var. crispa"
+    },
+    {
+      "id": "sansai_0001",
+      "before": "Pteridium latiusculum japonicum",
+      "after": "Pteridium latiusculum subsp. japonicum"
+    },
+    {
+      "id": "sansai_0007",
+      "before": "Hemerocallis fulva disticha",
+      "after": "Hemerocallis fulva var. disticha"
+    },
+    {
+      "id": "sansai_0016",
+      "before": "Vaccinium uliginosum japonicum",
+      "after": "Vaccinium uliginosum var. japonicum"
+    },
+    {
+      "id": "sansai_0020",
+      "before": "Perilla frutescens frutescens",
+      "after": "Perilla frutescens var. frutescens"
+    },
+    {
+      "id": "sansai_0103",
+      "before": "Elaeagnus umbellata umbellata",
+      "after": "Elaeagnus umbellata var. umbellata"
+    },
+    {
+      "id": "sansai_0126",
+      "before": "Osmundastrum cinnamomeum fokiense",
+      "after": "Osmundastrum cinnamomeum var. fokiense"
+    },
+    {
+      "id": "sansai_0128",
+      "before": "Perilla frutescens crispa",
+      "after": "Perilla frutescens var. crispa"
+    },
+    {
+      "id": "sansai_0163",
+      "before": "Aster microcephalus ovatus",
+      "after": "Aster microcephalus var. ovatus"
+    },
+    {
+      "id": "sansai_0167",
+      "before": "Viola grypoceras grypoceras",
+      "after": "Viola grypoceras var. grypoceras"
+    },
+    {
+      "id": "sansai_0177",
+      "before": "Potentilla fragarioides major",
+      "after": "Potentilla fragarioides var. major"
+    },
+    {
+      "id": "sansai_0197",
+      "before": "Quercus mongolica crispula",
+      "after": "Quercus mongolica var. crispula"
+    },
+    {
+      "id": "sansai_0207",
+      "before": "Viola mandshurica mandshurica",
+      "after": "Viola mandshurica var. mandshurica"
+    },
+    {
+      "id": "grass_0500",
+      "before": "Ampelopsis glandulosa heterophylla",
+      "after": "Ampelopsis glandulosa var. heterophylla"
+    },
+    {
+      "id": "tree_0050",
+      "before": "Picea jezoensis hondoensis",
+      "after": "Picea jezoensis subsp. hondoensis"
+    },
+    {
+      "id": "tree_0061",
+      "before": "Taxus cuspidata nana",
+      "after": "Taxus cuspidata var. nana"
+    },
+    {
+      "id": "tree_0073",
+      "before": "Juniperus rigida conferta",
+      "after": "Juniperus rigida var. conferta"
+    },
+    {
+      "id": "tree_0077",
+      "before": "Quercus mongolica crispula",
+      "after": "Quercus mongolica var. crispula"
+    },
+    {
+      "id": "tree_0099",
+      "before": "Ulmus davidiana japonica",
+      "after": "Ulmus davidiana var. japonica"
+    },
+    {
+      "id": "tree_0103",
+      "before": "Salix cardiophylla urbaniana",
+      "after": "Salix cardiophylla subsp. urbaniana"
+    },
+    {
+      "id": "tree_0134",
+      "before": "Acer palmatum amoenum",
+      "after": "Acer palmatum subsp. amoenum"
+    },
+    {
+      "id": "tree_0139",
+      "before": "Acer pictum dissectum",
+      "after": "Acer pictum subsp. dissectum"
+    },
+    {
+      "id": "tree_0160",
+      "before": "Alnus hirsuta sibirica",
+      "after": "Alnus hirsuta var. sibirica"
+    },
+    {
+      "id": "tree_0162",
+      "before": "Alnus hirsuta hirsuta",
+      "after": "Alnus hirsuta var. hirsuta"
+    },
+    {
+      "id": "tree_0193",
+      "before": "Livistona chinensis subglobosa",
+      "after": "Livistona chinensis var. subglobosa"
+    },
+    {
+      "id": "tree_0206",
+      "before": "Actinidia chinensis deliciosa",
+      "after": "Actinidia chinensis var. deliciosa"
+    },
+    {
+      "id": "tree_0208",
+      "before": "Elaeagnus umbellata umbellata",
+      "after": "Elaeagnus umbellata var. umbellata"
+    },
+    {
+      "id": "tree_0261",
+      "before": "Citrus × aurantiifolia",
+      "after": "Citrus spp."
+    },
+    {
+      "id": "tree_0262",
+      "before": "Prunus persica nucipersica",
+      "after": "Prunus persica var. nucipersica"
+    },
+    {
+      "id": "tree_0263",
+      "before": "Juglans ailantifolia cordiformis",
+      "after": "Juglans ailantifolia var. cordiformis"
+    },
+    {
+      "id": "tree_0272",
+      "before": "Populus nigra italica",
+      "after": "Populus nigra f. italica"
+    },
+    {
+      "id": "tree_0275",
+      "before": "Carya tomentosa",
+      "after": "Carya spp."
+    },
+    {
+      "id": "tree_0293",
+      "before": "Ilex crenata crenata",
+      "after": "Ilex crenata"
+    },
+    {
+      "id": "tree_0295",
+      "before": "Aucuba japonica borealis",
+      "after": "Aucuba japonica var. borealis"
+    },
+    {
+      "id": "tree_0296",
+      "before": "Lindera umbellata membranacea",
+      "after": "Lindera umbellata var. membranacea"
+    },
+    {
+      "id": "rare_fruit_0009",
+      "before": "Vaccinium uliginosum japonicum",
+      "after": "Vaccinium uliginosum var. japonicum"
+    },
+    {
+      "id": "rare_fruit_0013",
+      "before": "Elaeagnus umbellata umbellata",
+      "after": "Elaeagnus umbellata var. umbellata"
+    },
+    {
+      "id": "flower_tree_0028",
+      "before": "Rhododendron degronianum",
+      "after": "Rhododendron spp."
+    },
+    {
+      "id": "flower_tree_0113",
+      "before": "Exochorda racemosa racemosa",
+      "after": "Exochorda racemosa subsp. racemosa"
+    },
+    {
+      "id": "flower_tree_0119",
+      "before": "Rhododendron obtusum",
+      "after": "Rhododendron spp."
+    },
+    {
+      "id": "flower_tree_0153",
+      "before": "Rhododendron kaempferi kaempferi",
+      "after": "Rhododendron kaempferi var. kaempferi"
+    },
+    {
+      "id": "flower_tree_0157",
+      "before": "Lyonia ovalifolia elliptica",
+      "after": "Lyonia ovalifolia var. elliptica"
+    },
+    {
+      "id": "flower_tree_0177",
+      "before": "Viburnum carlesii bitchiuense",
+      "after": "Viburnum carlesii var. bitchiuense"
+    },
+    {
+      "id": "grass_0041",
+      "before": "Pteridium latiusculum japonicum",
+      "after": "Pteridium latiusculum subsp. japonicum"
+    },
+    {
+      "id": "grass_0183",
+      "before": "Xanthium strumarium canadense",
+      "after": "Xanthium strumarium subsp. canadense"
+    },
+    {
+      "id": "grass_0195",
+      "before": "Carex multifolia multifolia",
+      "after": "Carex multifolia var. multifolia"
+    },
+    {
+      "id": "grass_0197",
+      "before": "Eleocharis congesta japonica",
+      "after": "Eleocharis congesta var. japonica"
+    },
+    {
+      "id": "grass_0223",
+      "before": "Galium bungei trachyspermum",
+      "after": "Galium bungei var. trachyspermum"
+    },
+    {
+      "id": "grass_0227",
+      "before": "Glycine max soja",
+      "after": "Glycine max subsp. soja"
+    },
+    {
+      "id": "grass_0258",
+      "before": "Carex tristachya pocilliformis",
+      "after": "Carex tristachya var. pocilliformis"
+    },
+    {
+      "id": "grass_0287",
+      "before": "Fimbristylis tristachya subbispicata",
+      "after": "Fimbristylis tristachya var. subbispicata"
+    },
+    {
+      "id": "grass_0352",
+      "before": "Setaria pumila pallidefusca",
+      "after": "Setaria pumila subsp. pallidefusca"
+    },
+    {
+      "id": "grass_0359",
+      "before": "Brachypodium sylvaticum sylvaticum",
+      "after": "Brachypodium sylvaticum subsp. sylvaticum"
+    },
+    {
+      "id": "grass_0364",
+      "before": "Festuca rubra rubra",
+      "after": "Festuca rubra subsp. rubra"
+    },
+    {
+      "id": "grass_0388",
+      "before": "Carex callitrichos nana",
+      "after": "Carex callitrichos var. nana"
+    },
+    {
+      "id": "grass_0410",
+      "before": "Pteris terminalis fauriei",
+      "after": "Pteris terminalis var. fauriei"
+    },
+    {
+      "id": "grass_0428",
+      "before": "Cyrtomium fortunei clivicola",
+      "after": "Cyrtomium fortunei var. clivicola"
+    },
+    {
+      "id": "grass_0438",
+      "before": "Osmundastrum cinnamomeum fokiense",
+      "after": "Osmundastrum cinnamomeum var. fokiense"
+    },
+    {
+      "id": "grass_0446",
+      "before": "Nuphar pumila pumila",
+      "after": "Nuphar pumila subsp. pumila"
+    },
+    {
+      "id": "grass_0454",
+      "before": "Alisma plantago-aquatica orientale",
+      "after": "Alisma plantago-aquatica subsp. orientale"
+    },
+    {
+      "id": "grass_0465",
+      "before": "Potamogeton octandrus octandrus",
+      "after": "Potamogeton octandrus subsp. octandrus"
+    },
+    {
+      "id": "yakuso_0038",
+      "before": "Prunella vulgaris asiatica",
+      "after": "Prunella vulgaris subsp. asiatica"
+    },
+    {
+      "id": "yakuso_0042",
+      "before": "Perilla frutescens crispa",
+      "after": "Perilla frutescens var. crispa"
+    },
+    {
+      "id": "yakuso_0043",
+      "before": "Perilla frutescens frutescens",
+      "after": "Perilla frutescens var. frutescens"
+    },
+    {
+      "id": "yakuso_0070",
+      "before": "Aster microcephalus ovatus",
+      "after": "Aster microcephalus var. ovatus"
+    },
+    {
+      "id": "yakuso_0080",
+      "before": "Hemerocallis fulva disticha",
+      "after": "Hemerocallis fulva var. disticha"
+    },
+    {
+      "id": "yakuso_0106",
+      "before": "Vaccinium uliginosum japonicum",
+      "after": "Vaccinium uliginosum var. japonicum"
+    },
+    {
+      "id": "yakuso_0107",
+      "before": "Elaeagnus umbellata umbellata",
+      "after": "Elaeagnus umbellata var. umbellata"
+    },
+    {
+      "id": "yakuso_0141",
+      "before": "Potentilla fragarioides major",
+      "after": "Potentilla fragarioides var. major"
+    },
+    {
+      "id": "yakuso_0145",
+      "before": "Lyonia ovalifolia elliptica",
+      "after": "Lyonia ovalifolia var. elliptica"
+    },
+    {
+      "id": "yakuso_0198",
+      "before": "Corydalis heterocarpa japonica",
+      "after": "Corydalis heterocarpa var. japonica"
+    }
+  ]
+}

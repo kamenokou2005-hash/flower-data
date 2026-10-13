@@ -141,7 +141,10 @@
     ],
     "related_record_ids": [
       "sansai_0020"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0003",
@@ -933,7 +936,10 @@
     "content_followup_review_note": "変種 lupulus の分布は Flora of China が明示する範囲で確認。生活型と地下茎はUSDAの種の記載、生育帯はKewの種の記載。日本の変種 cordifolius や北米の変種の分布は転用しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "変種 lupulus の分布は Flora of China が明示する範囲で確認。生活型と地下茎はUSDAの種の記載、生育帯はKewの種の記載。日本の変種 cordifolius や北米の変種の分布は転用しない。"
+    "remaining105_review_note": "変種 lupulus の分布は Flora of China が明示する範囲で確認。生活型と地下茎はUSDAの種の記載、生育帯はKewの種の記載。日本の変種 cordifolius や北米の変種の分布は転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0014",
@@ -1007,80 +1013,6 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
-  },
-  {
-    "id": "herb_0015",
-    "category": "ハーブ",
-    "display_name": "ゼラニウム",
-    "kana": "ゼラニウム",
-    "search_aliases": [
-      "ゼラニウム"
-    ],
-    "family": "Geraniaceae科",
-    "genus": "Pelargonium属",
-    "scientific_name": "Pelargonium × hybridum",
-    "taxon_id": 181543,
-    "reference_taxon_id": 181543,
-    "taxon_rank": "hybrid",
-    "entity_type": "交雑種",
-    "life_form": "非耐寒性の多年草",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "園芸で栽培される交雑種。交配親の Pelargonium zonale と P. inquinans は南アフリカのケープ地域原産。",
-    "habitat": "日当たりがよく、水はけのよい土で栽培。花壇、鉢植え、ハンギングなどに用いられる。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "丸みのある葉には暗い帯模様があることが多い。赤・桃色・白色などの花がまとまって咲き、重なり方は品種によって異なる。",
-    "trivia": "採用分類ではGeraniaceae科のPelargonium属に属する。学名はPelargonium × hybridum。",
-    "classification": {
-      "kingdom": "植物界",
-      "clade": "Tracheophyta",
-      "order": "Geraniales目",
-      "family": "Geraniaceae科",
-      "genus": "Pelargonium属",
-      "species": "Pelargonium × hybridum"
-    },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。 / ジャンル注記：ゼラニウムという名称は広い。主に花を観賞する園芸種と香りを利用するセンテッドゼラニウムを区別。ハーブの用途がすべての種・品種に当てはまるとは扱わない。既存ジャンルは維持。",
-    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%A9%E3%83%8B%E3%82%A6%E3%83%A0",
-    "content_source_urls": [
-      "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%A9%E3%83%8B%E3%82%A6%E3%83%A0",
-      "https://www.inaturalist.org/taxa/181543",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A376335-1/general-information",
-      "https://plants.ces.ncsu.edu/plants/pelargonium-x-hybridum/",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A376335-1"
-    ],
-    "content_source_scope": "reviewed_taxon_scope",
-    "image": {
-      "author": "(c) Nico Hernandez, some rights reserved (CC BY)",
-      "license": "CC-BY",
-      "source_url": "https://www.inaturalist.org/photos/725294735",
-      "image_path": "images/0001_0050/herb_0015.jpg",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/"
-    },
-    "content_status": "完成",
-    "needs_ai_summary": false,
-    "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
-    "needs_manual_image_review": false,
-    "thumbnail_visually_reviewed": true,
-    "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。淡桃色の花の集まり。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-12",
-    "thumbnail_genre_review_status": "適合（注記あり）",
-    "thumbnail_genre_review_note": "ゼラニウムという名称は広い。主に花を観賞する園芸種と香りを利用するセンテッドゼラニウムを区別。ハーブの用途がすべての種・品種に当てはまるとは扱わない。既存ジャンルは維持。",
-    "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
-    "existing_content_fields_reused": [],
-    "thumbnail_genre_review_requires_user_decision": false,
-    "thumbnail_genre_review_issue_type": "resolved",
-    "content_followup_source_title": "Pelargonium × hybridum (L.) L'Hér. | Plants of the World Online | Kew Science",
-    "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A376335-1/general-information",
-    "content_followup_review_status": "基本情報の出典確認済み",
-    "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用交雑種の大学・Kew資料を照合。交配親の原産地と交雑種の栽培を区別。一年草扱いの栽培でも生活型は多年草。香料向けセンテッドゼラニウムの説明は転用しない。",
-    "content_basic_ecology_verified": true,
-    "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "採用交雑種の大学・Kew資料を照合。交配親の原産地と交雑種の栽培を区別。一年草扱いの栽培でも生活型は多年草。香料向けセンテッドゼラニウムの説明は転用しない。"
   },
   {
     "id": "herb_0016",
@@ -1298,7 +1230,10 @@
       "biome_original": "subtropical"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0019",
@@ -1952,7 +1887,10 @@
       "life_form_original": "subshrub",
       "native_range_original": "NE. Spain to Italy",
       "biome_original": "temperate"
-    }
+    },
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0028",
@@ -2029,82 +1967,6 @@
       "native_range_original": "Medit",
       "biome_original": "subtropical"
     }
-  },
-  {
-    "id": "herb_0029",
-    "category": "ハーブ",
-    "display_name": "ハイビスカス",
-    "kana": "ハイビスカス",
-    "search_aliases": [
-      "ハイビスカス"
-    ],
-    "family": "アオイ科",
-    "genus": "Hibiscus属",
-    "scientific_name": "Hibiscus × rosa-sinensis",
-    "taxon_id": 1628098,
-    "reference_taxon_id": 1628098,
-    "taxon_rank": "hybrid",
-    "entity_type": "交雑種",
-    "life_form": "低木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：as a cultigen derived from artificial hybrids in the 南部 太平洋。",
-    "habitat": "主に季節的に乾燥する熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、赤い大きな花と長い雄しべの柱。",
-    "trivia": "分類資料では低木として扱われます。主な生育帯は季節的に乾燥する熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
-    "classification": {
-      "kingdom": "植物界",
-      "clade": "Tracheophyta",
-      "order": "アオイ目",
-      "family": "アオイ科",
-      "genus": "Hibiscus属",
-      "species": "Hibiscus × rosa-sinensis"
-    },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。 / ジャンル注記：ハイビスカス。花の観賞植物と、飲料などに使われるローゼルを区別。この登録種がハイビスカスティーの原料とは扱わない。既存ジャンルは維持。",
-    "plant_source_url": "https://mikawanoyasou.org/data/bussouge.htm",
-    "content_source_urls": [
-      "https://mikawanoyasou.org/data/bussouge.htm",
-      "https://www.inaturalist.org/taxa/1628098",
-      "https://powo.science.kew.org/taxon/560756-1"
-    ],
-    "content_source_scope": "species_primary",
-    "image": {
-      "author": "(c) The Great Walter, some rights reserved (CC BY)",
-      "license": "CC-BY",
-      "source_url": "https://www.inaturalist.org/photos/744757997",
-      "image_path": "images/0001_0050/herb_0029.jpg",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/"
-    },
-    "content_status": "完成",
-    "needs_ai_summary": false,
-    "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
-    "needs_manual_image_review": false,
-    "thumbnail_visually_reviewed": true,
-    "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。赤い大きな花と長い雄しべの柱。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-12",
-    "thumbnail_genre_review_status": "適合（注記あり）",
-    "thumbnail_genre_review_note": "ハイビスカス。花の観賞植物と、飲料などに使われるローゼルを区別。この登録種がハイビスカスティーの原料とは扱わない。既存ジャンルは維持。",
-    "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
-    "existing_content_fields_reused": [],
-    "thumbnail_genre_review_requires_user_decision": false,
-    "thumbnail_genre_review_issue_type": "resolved",
-    "content_followup_source_title": "Hibiscus × rosa-sinensis L. | Plants of the World Online | Kew Science",
-    "content_followup_source_url": "https://powo.science.kew.org/taxon/560756-1",
-    "content_basic_ecology_verified": true,
-    "content_followup_review_status": "基本情報の出典確認済み",
-    "ecology_source_details": {
-      "source_url": "https://powo.science.kew.org/taxon/560756-1",
-      "life_form_original": "shrub",
-      "native_range_original": "as a cultigen derived from artificial hybrids in the S. Pacific",
-      "biome_original": "seasonally dry tropical"
-    },
-    "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
   },
   {
     "id": "herb_0030",
@@ -2394,7 +2256,10 @@
     ],
     "related_record_ids": [
       "flower_0496"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0034",
@@ -2610,7 +2475,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0037",
@@ -2681,7 +2549,10 @@
     "content_followup_review_note": "RHSでは亜種名の代わりに栽培群 Scolymus Group として扱うアーティチョークの基本情報を確認。カルドンや個別品種の性質は転用しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "RHSでは亜種名の代わりに栽培群 Scolymus Group として扱うアーティチョークの基本情報を確認。カルドンや個別品種の性質は転用しない。"
+    "remaining105_review_note": "RHSでは亜種名の代わりに栽培群 Scolymus Group として扱うアーティチョークの基本情報を確認。カルドンや個別品種の性質は転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0038",
@@ -2899,7 +2770,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0041",
@@ -2970,7 +2844,10 @@
     ],
     "related_record_ids": [
       "tree_0012"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0042",
@@ -3045,79 +2922,6 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
-  },
-  {
-    "id": "herb_0043",
-    "category": "ハーブ",
-    "display_name": "カシア",
-    "kana": "カシア",
-    "search_aliases": [
-      "カシア"
-    ],
-    "family": "クスノキ科",
-    "genus": "ニッケイ属",
-    "scientific_name": "Cinnamomum cassia",
-    "taxon_id": 774822,
-    "reference_taxon_id": 774822,
-    "taxon_rank": "species",
-    "entity_type": "種",
-    "life_form": "生活型は要確認",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "要確認（香辛料のカシアと登録学名の対応を再照合中）。",
-    "habitat": "要確認（対象とする植物の確認後に記載）。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、細長い葉。",
-    "trivia": "採用分類ではクスノキ科のニッケイ属に属する。学名はCinnamomum cassia。",
-    "classification": {
-      "kingdom": "植物界",
-      "clade": "Tracheophyta",
-      "order": "クスノキ目",
-      "family": "クスノキ科",
-      "genus": "ニッケイ属",
-      "species": "Cinnamomum cassia"
-    },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n追加調査：カシアの学名対応は要確認。Flora of Chinaでは Cinnamomum cassia の説明に C. aromaticum を含める一方、Kewは C. cassia (L.) J.Presl を Neolitsea cassia の異名として扱う。学名の著者と採用対象を再照合する必要がある。",
-    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B7%E3%82%A2",
-    "content_source_urls": [
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B7%E3%82%A2",
-      "https://www.inaturalist.org/taxa/774822",
-      "https://powo.science.kew.org/taxon/77109079-1",
-      "https://efloras.org/florataxon.aspx?flora_id=3&taxon_id=200008698",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77109079-1",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A463288-1"
-    ],
-    "content_source_scope": "unresolved_taxon_scope",
-    "image": {
-      "author": "(c) Pranav Chandra Bose, some rights reserved (CC BY)",
-      "license": "CC-BY",
-      "source_url": "https://www.inaturalist.org/photos/632496983",
-      "image_path": "images/0001_0050/herb_0043.jpg",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/"
-    },
-    "content_status": "完成",
-    "needs_ai_summary": false,
-    "needs_manual_content_review": true,
-    "needs_manual_taxon_review": false,
-    "needs_manual_image_review": false,
-    "thumbnail_visually_reviewed": true,
-    "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。細長い葉。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-11",
-    "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
-    "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
-    "existing_content_fields_reused": [],
-    "content_followup_source_title": "Cinnamomum cassia (L.) J.Presl | Plants of the World Online | Kew Science",
-    "content_followup_source_url": "https://powo.science.kew.org/taxon/77109079-1",
-    "content_followup_review_status": "分類範囲の再照合が必要",
-    "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "カシアの学名対応は要確認。Flora of Chinaでは Cinnamomum cassia の説明に C. aromaticum を含める一方、Kewは C. cassia (L.) J.Presl を Neolitsea cassia の異名として扱う。学名の著者と採用対象を再照合する必要がある。",
-    "content_basic_ecology_verified": false,
-    "remaining105_review_status": "要確認",
-    "remaining105_review_note": "カシアの学名対応は要確認。Flora of Chinaでは Cinnamomum cassia の説明に C. aromaticum を含める一方、Kewは C. cassia (L.) J.Presl を Neolitsea cassia の異名として扱う。学名の著者と採用対象を再照合する必要がある。"
   },
   {
     "id": "herb_0044",
@@ -3626,7 +3430,10 @@
       "life_form_original": "subshrub",
       "native_range_original": "SW. Europe",
       "biome_original": "temperate"
-    }
+    },
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0052",
@@ -3983,7 +3790,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0057",
@@ -4278,7 +4088,10 @@
       "life_form_original": "annual",
       "native_range_original": "Spain, Morocco to Algeria",
       "biome_original": "subtropical"
-    }
+    },
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0061",
@@ -4491,7 +4304,10 @@
     ],
     "related_record_ids": [
       "flower_0352"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0064",
@@ -5361,7 +5177,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0079",
@@ -5807,7 +5626,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0085",
@@ -6539,7 +6361,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0096",
@@ -6610,7 +6435,10 @@
     "content_followup_review_note": "採用学名の植物の解説で生活型・分布・生育または栽培環境を確認。海外での開花月や薬効・食用の安全性は補完しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "採用学名の植物の解説で生活型・分布・生育または栽培環境を確認。海外での開花月や薬効・食用の安全性は補完しない。"
+    "remaining105_review_note": "採用学名の植物の解説で生活型・分布・生育または栽培環境を確認。海外での開花月や薬効・食用の安全性は補完しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0097",
@@ -7202,7 +7030,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0105",
@@ -7420,7 +7251,10 @@
     "content_followup_review_note": "ノースカロライナ州立大学の交雑種全体の解説を確認。個別品種の性質や米国での開花月は転用しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "ノースカロライナ州立大学の交雑種全体の解説を確認。個別品種の性質や米国での開花月は転用しない。"
+    "remaining105_review_note": "ノースカロライナ州立大学の交雑種全体の解説を確認。個別品種の性質や米国での開花月は転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0108",
@@ -7708,7 +7542,10 @@
     "content_followup_review_note": "RHSのダマスクローズの解説を確認。野生の分布や日本での開花月は確定していない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "RHSのダマスクローズの解説を確認。野生の分布や日本での開花月は確定していない。"
+    "remaining105_review_note": "RHSのダマスクローズの解説を確認。野生の分布や日本での開花月は確定していない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0113",
@@ -7779,7 +7616,10 @@
     "content_followup_review_note": "採用学名の交雑種を扱う大学とKew資料で確認。葉の常緑・落葉の扱いや開花期には資料・栽培地の差があるため断定していない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "採用学名の交雑種を扱う大学とKew資料で確認。葉の常緑・落葉の扱いや開花期には資料・栽培地の差があるため断定していない。"
+    "remaining105_review_note": "採用学名の交雑種を扱う大学とKew資料で確認。葉の常緑・落葉の扱いや開花期には資料・栽培地の差があるため断定していない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0116",
@@ -8001,7 +7841,10 @@
     ],
     "related_record_ids": [
       "tree_0259"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0119",
@@ -9322,7 +9165,10 @@
       "life_form_original": "tree",
       "native_range_original": "Europe to Caucasus, N. Africa to Iraq",
       "biome_original": "temperate"
-    }
+    },
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0139",
@@ -9393,7 +9239,10 @@
     "content_followup_review_note": "Sambucus nigra の解説を確認。アメリカ原産の S. canadensis の分布や性質と混同しない。果実等の食用・薬用の安全性は補完しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "Sambucus nigra の解説を確認。アメリカ原産の S. canadensis の分布や性質と混同しない。果実等の食用・薬用の安全性は補完しない。"
+    "remaining105_review_note": "Sambucus nigra の解説を確認。アメリカ原産の S. canadensis の分布や性質と混同しない。果実等の食用・薬用の安全性は補完しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0140",
@@ -10794,79 +10643,6 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
   },
   {
-    "id": "herb_0165",
-    "category": "ハーブ",
-    "display_name": "グリークオレガノ",
-    "kana": "グリークオレガノ",
-    "search_aliases": [
-      "グリークオレガノ"
-    ],
-    "family": "Lamiaceae科",
-    "genus": "Origanum属",
-    "scientific_name": "Origanum vulgare subsp. viridulum",
-    "taxon_id": 362402,
-    "reference_taxon_id": 362402,
-    "taxon_rank": "subspecies",
-    "entity_type": "亜種",
-    "life_form": "多年草",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：南部 ヨーロッパからヒマラヤ。",
-    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、淡桃色の小花が群れて咲く。",
-    "trivia": "分類資料では多年草として扱われます。主な生育帯は温帯です。自然分布と日本での栽培・観察場所は別に扱います。",
-    "classification": {
-      "kingdom": "植物界",
-      "clade": "Tracheophyta",
-      "order": "Lamiales目",
-      "family": "Lamiaceae科",
-      "genus": "Origanum属",
-      "species": "Origanum vulgare subsp. viridulum"
-    },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/362402",
-    "content_source_urls": [
-      "https://www.inaturalist.org/taxa/362402",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77101344-1"
-    ],
-    "content_source_scope": "species_primary",
-    "image": {
-      "author": "(c) Giacomo Navari, some rights reserved (CC BY)",
-      "license": "CC-BY",
-      "source_url": "https://www.inaturalist.org/photos/685347333",
-      "image_path": "images/0151_0200/herb_0165.jpg",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/"
-    },
-    "content_status": "完成",
-    "needs_ai_summary": false,
-    "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
-    "needs_manual_image_review": false,
-    "thumbnail_visually_reviewed": true,
-    "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。淡桃色の小花が群れて咲く。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-11",
-    "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
-    "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
-    "existing_content_fields_reused": [],
-    "content_followup_source_title": "Origanum vulgare subsp. viridulum (Martrin-Donos) Nyman | Plants of the World Online | Kew Science",
-    "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77101344-1",
-    "content_basic_ecology_verified": true,
-    "content_followup_review_status": "基本情報の出典確認済み",
-    "ecology_source_details": {
-      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77101344-1",
-      "life_form_original": "perennial",
-      "native_range_original": "S. Europe to Himalaya",
-      "biome_original": "temperate"
-    },
-    "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
-  },
-  {
     "id": "herb_0166",
     "category": "ハーブ",
     "display_name": "ポットマジョラム",
@@ -11299,7 +11075,10 @@
       "biome_original": "desert or dry shrubland"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0173",
@@ -11518,7 +11297,10 @@
       "biome_original": "subtropical"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0180",
@@ -14744,7 +14526,10 @@
     "content_followup_review_note": "種全体のKewの記載とRHSの具体的な栽培解説を照合。亜種 sativa の分布に種全体を置き換えない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "種全体のKewの記載とRHSの具体的な栽培解説を照合。亜種 sativa の分布に種全体を置き換えない。"
+    "remaining105_review_note": "種全体のKewの記載とRHSの具体的な栽培解説を照合。亜種 sativa の分布に種全体を置き換えない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "herb_0237",

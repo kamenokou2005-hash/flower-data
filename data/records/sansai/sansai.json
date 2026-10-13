@@ -67,7 +67,10 @@
       "habitat",
       "distribution",
       "life_form"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0002",
@@ -330,7 +333,10 @@
     "thumbnail_genre_review_note": "山菜は利用目的の分類。生活型は別項目に記録。",
     "verification_notes": "和名・採用学名・分類・サムネイルを照合。未確定の分布・季節・生態は要確認として残す。",
     "observation_season": "要確認",
-    "food_use_status": "第1群確認済み"
+    "food_use_status": "第1群確認済み",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0006",
@@ -452,7 +458,10 @@
     "thumbnail_genre_review_note": "山菜は利用目的の分類。生活型は別項目に記録。",
     "verification_notes": "和名・採用学名・分類・サムネイルを照合。未確定の分布・季節・生態は要確認として残す。",
     "observation_season": "7～8月",
-    "food_use_status": "第1群確認済み"
+    "food_use_status": "第1群確認済み",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0008",
@@ -653,7 +662,10 @@
       "habitat",
       "distribution",
       "life_form"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0011",
@@ -724,7 +736,10 @@
       "habitat",
       "distribution",
       "life_form"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0012",
@@ -1040,7 +1055,10 @@
     "thumbnail_genre_review_note": "山菜は利用目的の分類。生活型は別項目に記録。",
     "verification_notes": "和名・採用学名・分類・サムネイルを照合。未確定の分布・季節・生態は要確認として残す。",
     "observation_season": "要確認",
-    "food_use_status": "第1群確認済み"
+    "food_use_status": "第1群確認済み",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0017",
@@ -1302,7 +1320,10 @@
     "thumbnail_genre_review_note": "山菜は利用目的の分類。生活型は別項目に記録。",
     "verification_notes": "和名・採用学名・分類・サムネイルを照合。未確定の分布・季節・生態は要確認として残す。",
     "observation_season": "要確認",
-    "food_use_status": "第1群確認済み"
+    "food_use_status": "第1群確認済み",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0021",
@@ -2886,7 +2907,10 @@
       "habitat",
       "distribution",
       "life_form"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0045",
@@ -3494,7 +3518,10 @@
     "content_followup_review_note": "熊本大学の変種名の資料と森林総合研究所のヤブカンゾウ解説を照合。効能や食用方法は補完していない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "熊本大学の変種名の資料と森林総合研究所のヤブカンゾウ解説を照合。効能や食用方法は補完していない。"
+    "remaining105_review_note": "熊本大学の変種名の資料と森林総合研究所のヤブカンゾウ解説を照合。効能や食用方法は補完していない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0054",
@@ -3569,7 +3596,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0055",
@@ -3801,7 +3831,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0058",
@@ -4889,7 +4922,10 @@
     "content_followup_review_note": "変種名は国立科学博物館のヤマウコギ標本で確認。生態と形態は同じ和名の種レベルの大学資料も参照しており、変種の厳密な同定を意味しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "変種名は国立科学博物館のヤマウコギ標本で確認。生態と形態は同じ和名の種レベルの大学資料も参照しており、変種の厳密な同定を意味しない。"
+    "remaining105_review_note": "変種名は国立科学博物館のヤマウコギ標本で確認。生態と形態は同じ和名の種レベルの大学資料も参照しており、変種の厳密な同定を意味しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0073",
@@ -5705,7 +5741,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0084",
@@ -6371,7 +6410,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0093",
@@ -7172,7 +7214,10 @@
     "food_use_status": "第1群確認済み",
     "related_record_ids": [
       "tree_0208"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0104",
@@ -7317,7 +7362,10 @@
     "content_followup_review_note": "採用学名の変種 coptophyllus を扱う日光植物園の記録と植物写真資料を照合。食用・薬用の安全性は補完していない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "採用学名の変種 coptophyllus を扱う日光植物園の記録と植物写真資料を照合。食用・薬用の安全性は補完していない。"
+    "remaining105_review_note": "採用学名の変種 coptophyllus を扱う日光植物園の記録と植物写真資料を照合。食用・薬用の安全性は補完していない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0106",
@@ -8357,7 +8405,10 @@
     "content_followup_review_note": "採用学名 subsp. orientalis を用いた観察・解説資料を確認。別資料は Parasenecio robustus として扱うため、学名の扱いには差がある。説明は国内のヨブスマソウの範囲に限定。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "採用学名 subsp. orientalis を用いた観察・解説資料を確認。別資料は Parasenecio robustus として扱うため、学名の扱いには差がある。説明は国内のヨブスマソウの範囲に限定。"
+    "remaining105_review_note": "採用学名 subsp. orientalis を用いた観察・解説資料を確認。別資料は Parasenecio robustus として扱うため、学名の扱いには差がある。説明は国内のヨブスマソウの範囲に限定。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0120",
@@ -8867,7 +8918,10 @@
     "food_use_status": "第1群確認済み",
     "related_record_ids": [
       "grass_0438"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0127",
@@ -9011,7 +9065,10 @@
     "food_use_status": "第1群確認済み",
     "related_record_ids": [
       "flower_0496"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0129",
@@ -9230,7 +9287,10 @@
     "content_followup_review_note": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。"
+    "remaining105_review_note": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0132",
@@ -10118,7 +10178,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0144",
@@ -10340,7 +10403,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0147",
@@ -10487,7 +10553,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0149",
@@ -10790,85 +10859,6 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
   },
   {
-    "id": "sansai_0153",
-    "category": "山菜",
-    "display_name": "シロヨメナ",
-    "kana": "シロヨメナ",
-    "search_aliases": [
-      "シロヨメナ"
-    ],
-    "family": "キク科",
-    "genus": "Aster属",
-    "scientific_name": "Aster ageratoides var. ageratoides",
-    "taxon_id": 511158,
-    "reference_taxon_id": 511158,
-    "taxon_rank": "variety",
-    "entity_type": "変種",
-    "life_form": "生活型は要確認",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "要確認（和名と学名の分類範囲を再照合中）。",
-    "habitat": "要確認（対象とする分類群の確認後に記載）。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、地面近くの幅広い葉。",
-    "trivia": "主な生育帯は温帯です。自然分布と日本での栽培・観察場所は別に扱います。",
-    "classification": {
-      "kingdom": "植物界",
-      "clade": "Tracheophyta",
-      "order": "キク目",
-      "family": "キク科",
-      "genus": "Aster属",
-      "species": "Aster ageratoides var. ageratoides"
-    },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n追加調査：シロヨメナの和名と登録学名 Aster ageratoides var. ageratoides の対応は要確認。分類研究では Aster leiophyllus var. leiophyllus とされる資料があり、登録した変種の説明をそのまま当てはめられない。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/511158",
-    "content_source_urls": [
-      "https://www.inaturalist.org/taxa/511158",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77232739-1/general-information",
-      "https://www.jstage.jst.go.jp/browse/bunruichiri/44/1/_contents/-char/ja",
-      "https://tsukuba.repo.nii.ac.jp/record/22568/files/5.pdf",
-      "https://mikawanoyasou.org/data/siroyomena.htm"
-    ],
-    "content_source_scope": "unresolved_taxon_scope",
-    "image": {
-      "author": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
-      "license": "CC-BY",
-      "source_url": "https://www.inaturalist.org/photos/680042761",
-      "image_path": "images/0151_0200/sansai_0153.jpg",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/"
-    },
-    "content_status": "完成",
-    "needs_ai_summary": false,
-    "needs_manual_content_review": true,
-    "needs_manual_taxon_review": true,
-    "needs_manual_image_review": false,
-    "thumbnail_visually_reviewed": true,
-    "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。地面近くの幅広い葉。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-11",
-    "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
-    "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
-    "existing_content_fields_reused": [],
-    "food_use_status": "第1群確認済み",
-    "content_followup_source_title": "Aster ageratoides var. ageratoides | Plants of the World Online | Kew Science",
-    "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77232739-1/general-information",
-    "content_basic_ecology_verified": false,
-    "content_followup_review_status": "分類範囲の再照合が必要",
-    "ecology_source_details": {
-      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77232739-1/general-information",
-      "life_form_original": "",
-      "native_range_original": "Sikkim to Temp. E. Asia",
-      "biome_original": "temperate"
-    },
-    "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "シロヨメナの和名と登録学名 Aster ageratoides var. ageratoides の対応は要確認。分類研究では Aster leiophyllus var. leiophyllus とされる資料があり、登録した変種の説明をそのまま当てはめられない。",
-    "remaining105_review_status": "要確認",
-    "remaining105_review_note": "シロヨメナの和名と登録学名 Aster ageratoides var. ageratoides の対応は要確認。分類研究では Aster leiophyllus var. leiophyllus とされる資料があり、登録した変種の説明をそのまま当てはめられない。"
-  },
-  {
     "id": "sansai_0154",
     "category": "山菜",
     "display_name": "ユウガギク",
@@ -11099,7 +11089,10 @@
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用亜種の観察資料と大学のニガナの解説を照合。花の数が多いハナニガナなどの説明は転用していない。",
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "採用亜種の観察資料と大学のニガナの解説を照合。花の数が多いハナニガナなどの説明は転用していない。"
+    "remaining105_review_note": "採用亜種の観察資料と大学のニガナの解説を照合。花の数が多いハナニガナなどの説明は転用していない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0157",
@@ -11321,7 +11314,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0160",
@@ -11391,7 +11387,10 @@
     "content_followup_review_note": "大学の基準変種 var. schoenoprasum の生活型・分布・生育環境を確認。別変種アサツキや高山性のシロウマアサツキの説明は転用しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "大学の基準変種 var. schoenoprasum の生活型・分布・生育環境を確認。別変種アサツキや高山性のシロウマアサツキの説明は転用しない。"
+    "remaining105_review_note": "大学の基準変種 var. schoenoprasum の生活型・分布・生育環境を確認。別変種アサツキや高山性のシロウマアサツキの説明は転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0161",
@@ -11610,7 +11609,10 @@
     "food_use_status": "第2群確認済み",
     "related_record_ids": [
       "flower_0157"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0164",
@@ -11900,7 +11902,10 @@
     "food_use_status": "第2群確認済み",
     "related_record_ids": [
       "flower_0047"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0168",
@@ -11969,7 +11974,10 @@
     "content_followup_review_note": "大学のヤエムグラの基本情報と観察資料を照合。変種名 echinospermon / echinospermum や亜種の扱いが資料で異なる。三河資料の掲載写真自体には別種の可能性が注記されているため、花の色・果実サイズや厳密な同定には転用しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "大学のヤエムグラの基本情報と観察資料を照合。変種名 echinospermon / echinospermum や亜種の扱いが資料で異なる。三河資料の掲載写真自体には別種の可能性が注記されているため、花の色・果実サイズや厳密な同定には転用しない。"
+    "remaining105_review_note": "大学のヤエムグラの基本情報と観察資料を照合。変種名 echinospermon / echinospermum や亜種の扱いが資料で異なる。三河資料の掲載写真自体には別種の可能性が注記されているため、花の色・果実サイズや厳密な同定には転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0169",
@@ -12266,7 +12274,10 @@
     "content_followup_review_note": "採用亜種の観察資料の国内分布・生活型・環境を確認。葉柄に翼がない点は国立科学博物館の近縁種との比較でも照合。広義の種のアジア全域の分布は転用しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "採用亜種の観察資料の国内分布・生活型・環境を確認。葉柄に翼がない点は国立科学博物館の近縁種との比較でも照合。広義の種のアジア全域の分布は転用しない。"
+    "remaining105_review_note": "採用亜種の観察資料の国内分布・生活型・環境を確認。葉柄に翼がない点は国立科学博物館の近縁種との比較でも照合。広義の種のアジア全域の分布は転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0173",
@@ -12416,7 +12427,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0175",
@@ -12566,7 +12580,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0177",
@@ -12638,7 +12655,10 @@
     "food_use_status": "第2群確認済み",
     "related_record_ids": [
       "flower_0228"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0178",
@@ -12864,7 +12884,10 @@
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "北海道大学は Picris hieracioides subsp. japonica として扱い、採用学名 P. japonica を基礎異名に挙げる。同じ分類群の基本情報として照合。",
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "北海道大学は Picris hieracioides subsp. japonica として扱い、採用学名 P. japonica を基礎異名に挙げる。同じ分類群の基本情報として照合。"
+    "remaining105_review_note": "北海道大学は Picris hieracioides subsp. japonica として扱い、採用学名 P. japonica を基礎異名に挙げる。同じ分類群の基本情報として照合。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0181",
@@ -12939,7 +12962,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0182",
@@ -14111,7 +14137,10 @@
     "food_use_status": "第2群確認済み",
     "related_record_ids": [
       "tree_0077"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0198",
@@ -14839,7 +14868,10 @@
     "food_use_status": "第2群確認済み",
     "related_record_ids": [
       "flower_0046"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0208",
@@ -14908,7 +14940,10 @@
     "content_followup_review_note": "採用変種の観察資料で基本情報を確認。筑波大学の植物相資料にも同学名で記録がある。資料によって Pterocypsela elata や広義の Lactuca raddeana として扱われる。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "採用変種の観察資料で基本情報を確認。筑波大学の植物相資料にも同学名で記録がある。資料によって Pterocypsela elata や広義の Lactuca raddeana として扱われる。"
+    "remaining105_review_note": "採用変種の観察資料で基本情報を確認。筑波大学の植物相資料にも同学名で記録がある。資料によって Pterocypsela elata や広義の Lactuca raddeana として扱われる。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0209",
@@ -15279,7 +15314,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "sansai_0214",
@@ -15933,6 +15971,9 @@
     "content_followup_review_note": "森林総合研究所の採用学名と一致する変種の解説を確認。詳しい分布境界まで確定したものではない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "森林総合研究所の採用学名と一致する変種の解説を確認。詳しい分布境界まで確定したものではない。"
+    "remaining105_review_note": "森林総合研究所の採用学名と一致する変種の解説を確認。詳しい分布境界まで確定したものではない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   }
 ]

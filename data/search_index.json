@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at_utc": "2026-10-12T13:51:51.017368+00:00",
-  "completed_count": 2800,
+  "generated_at_utc": "2026-10-13T00:21:05.657739+00:00",
+  "completed_count": 2700,
   "items": [
     {
       "id": "flower_0001",
@@ -3123,7 +3123,7 @@
     },
     {
       "id": "flower_0129",
-      "category": "花",
+      "category": "花の木",
       "name": "マンデビラ",
       "kana": "マンデビラ",
       "aliases": [],
@@ -3142,51 +3142,6 @@
         "まんでびら",
         "mandebira",
         "mandevilla"
-      ]
-    },
-    {
-      "id": "flower_0130",
-      "category": "花",
-      "name": "アメリカンブルー",
-      "kana": "アメリカンブルー",
-      "aliases": [
-        "エボルブルス",
-        "ブルーデイズ",
-        "Evolvulus pilosus"
-      ],
-      "romaji": [
-        "amerikanburuu",
-        "eboruburusu",
-        "buruudeizu",
-        "evolvulus pilosus"
-      ],
-      "scientific": "Evolvulus",
-      "search_terms": [
-        "アメリカンブルー",
-        "あめりかんぶるー",
-        "エボルブルス",
-        "ブルーデイズ",
-        "Evolvulus pilosus",
-        "えぼるぶるす",
-        "ぶるーでいず",
-        "amerikanburuu",
-        "eboruburusu",
-        "buruudeizu",
-        "evolvulus pilosus",
-        "Evolvulus"
-      ],
-      "normalized_terms": [
-        "アメリカンブルー",
-        "あめりかんぶるー",
-        "エボルブルス",
-        "ブルーデイズ",
-        "evolvuluspilosus",
-        "えぼるぶるす",
-        "ぶるーでいず",
-        "amerikanburuu",
-        "eboruburusu",
-        "buruudeizu",
-        "evolvulus"
       ]
     },
     {
@@ -3489,29 +3444,6 @@
         "furokkusudoramondi",
         "furokkusudurumondi",
         "phloxdrummondii"
-      ]
-    },
-    {
-      "id": "flower_0140",
-      "category": "花",
-      "name": "アサリナ",
-      "kana": "アサリナ",
-      "aliases": [],
-      "romaji": [
-        "asarina"
-      ],
-      "scientific": "Asarina / Maurandya / Lophospermum",
-      "search_terms": [
-        "アサリナ",
-        "あさりな",
-        "asarina",
-        "Asarina / Maurandya / Lophospermum"
-      ],
-      "normalized_terms": [
-        "アサリナ",
-        "あさりな",
-        "asarina",
-        "asarinamaurandyalophospermum"
       ]
     },
     {
@@ -19780,31 +19712,6 @@
       ]
     },
     {
-      "id": "flower_tree_0171",
-      "category": "花の木",
-      "name": "テマリシモツケ",
-      "kana": "テマリシモツケ",
-      "aliases": [
-        "テマリシモツケ"
-      ],
-      "romaji": [
-        "temarishimotsuke"
-      ],
-      "scientific": "Physocarpus amurensis",
-      "search_terms": [
-        "テマリシモツケ",
-        "てまりしもつけ",
-        "temarishimotsuke",
-        "Physocarpus amurensis"
-      ],
-      "normalized_terms": [
-        "テマリシモツケ",
-        "てまりしもつけ",
-        "temarishimotsuke",
-        "physocarpusamurensis"
-      ]
-    },
-    {
       "id": "flower_tree_0172",
       "category": "花の木",
       "name": "ミツバハマゴウ",
@@ -26184,256 +26091,6 @@
       ]
     },
     {
-      "id": "grass_0201",
-      "category": "草",
-      "name": "クマザサ",
-      "kana": "くまざさ",
-      "aliases": [
-        "クマザサ"
-      ],
-      "romaji": [
-        "kumazasa"
-      ],
-      "scientific": "Sasa veitchii",
-      "search_terms": [
-        "クマザサ",
-        "くまざさ",
-        "kumazasa",
-        "Sasa veitchii"
-      ],
-      "normalized_terms": [
-        "クマザサ",
-        "くまざさ",
-        "kumazasa",
-        "sasaveitchii"
-      ]
-    },
-    {
-      "id": "grass_0202",
-      "category": "草",
-      "name": "チマキザサ",
-      "kana": "ちまきざさ",
-      "aliases": [
-        "チマキザサ"
-      ],
-      "romaji": [
-        "chimakizasa"
-      ],
-      "scientific": "Sasa palmata",
-      "search_terms": [
-        "チマキザサ",
-        "ちまきざさ",
-        "chimakizasa",
-        "Sasa palmata"
-      ],
-      "normalized_terms": [
-        "チマキザサ",
-        "ちまきざさ",
-        "chimakizasa",
-        "sasapalmata"
-      ]
-    },
-    {
-      "id": "grass_0203",
-      "category": "草",
-      "name": "ミヤコザサ",
-      "kana": "みやこざさ",
-      "aliases": [
-        "ミヤコザサ"
-      ],
-      "romaji": [
-        "miyakozasa"
-      ],
-      "scientific": "Sasa nipponica",
-      "search_terms": [
-        "ミヤコザサ",
-        "みやこざさ",
-        "miyakozasa",
-        "Sasa nipponica"
-      ],
-      "normalized_terms": [
-        "ミヤコザサ",
-        "みやこざさ",
-        "miyakozasa",
-        "sasanipponica"
-      ]
-    },
-    {
-      "id": "grass_0204",
-      "category": "草",
-      "name": "ネザサ",
-      "kana": "ねざさ",
-      "aliases": [
-        "ネザサ"
-      ],
-      "romaji": [
-        "nezasa"
-      ],
-      "scientific": "Pleioblastus argenteostriatus",
-      "search_terms": [
-        "ネザサ",
-        "ねざさ",
-        "nezasa",
-        "Pleioblastus argenteostriatus"
-      ],
-      "normalized_terms": [
-        "ネザサ",
-        "ねざさ",
-        "nezasa",
-        "pleioblastusargenteostriatus"
-      ]
-    },
-    {
-      "id": "grass_0205",
-      "category": "草",
-      "name": "メダケ",
-      "kana": "めだけ",
-      "aliases": [
-        "メダケ"
-      ],
-      "romaji": [
-        "medake"
-      ],
-      "scientific": "Pleioblastus simonii",
-      "search_terms": [
-        "メダケ",
-        "めだけ",
-        "medake",
-        "Pleioblastus simonii"
-      ],
-      "normalized_terms": [
-        "メダケ",
-        "めだけ",
-        "medake",
-        "pleioblastussimonii"
-      ]
-    },
-    {
-      "id": "grass_0206",
-      "category": "草",
-      "name": "ヤダケ",
-      "kana": "やだけ",
-      "aliases": [
-        "ヤダケ"
-      ],
-      "romaji": [
-        "yadake"
-      ],
-      "scientific": "Pseudosasa japonica",
-      "search_terms": [
-        "ヤダケ",
-        "やだけ",
-        "yadake",
-        "Pseudosasa japonica"
-      ],
-      "normalized_terms": [
-        "ヤダケ",
-        "やだけ",
-        "yadake",
-        "pseudosasajaponica"
-      ]
-    },
-    {
-      "id": "grass_0207",
-      "category": "草",
-      "name": "オカメザサ",
-      "kana": "おかめざさ",
-      "aliases": [
-        "オカメザサ"
-      ],
-      "romaji": [
-        "okamezasa"
-      ],
-      "scientific": "Shibataea kumasaca",
-      "search_terms": [
-        "オカメザサ",
-        "おかめざさ",
-        "okamezasa",
-        "Shibataea kumasaca"
-      ],
-      "normalized_terms": [
-        "オカメザサ",
-        "おかめざさ",
-        "okamezasa",
-        "shibataeakumasaca"
-      ]
-    },
-    {
-      "id": "grass_0208",
-      "category": "草",
-      "name": "スズタケ",
-      "kana": "すずたけ",
-      "aliases": [
-        "スズタケ"
-      ],
-      "romaji": [
-        "suzutake"
-      ],
-      "scientific": "Sasamorpha borealis",
-      "search_terms": [
-        "スズタケ",
-        "すずたけ",
-        "suzutake",
-        "Sasamorpha borealis"
-      ],
-      "normalized_terms": [
-        "スズタケ",
-        "すずたけ",
-        "suzutake",
-        "sasamorphaborealis"
-      ]
-    },
-    {
-      "id": "grass_0209",
-      "category": "草",
-      "name": "カンチク",
-      "kana": "かんちく",
-      "aliases": [
-        "カンチク"
-      ],
-      "romaji": [
-        "kanchiku"
-      ],
-      "scientific": "Chimonobambusa marmorea",
-      "search_terms": [
-        "カンチク",
-        "かんちく",
-        "kanchiku",
-        "Chimonobambusa marmorea"
-      ],
-      "normalized_terms": [
-        "カンチク",
-        "かんちく",
-        "kanchiku",
-        "chimonobambusamarmorea"
-      ]
-    },
-    {
-      "id": "grass_0210",
-      "category": "草",
-      "name": "トウチク",
-      "kana": "とうちく",
-      "aliases": [
-        "トウチク"
-      ],
-      "romaji": [
-        "touchiku"
-      ],
-      "scientific": "Sinobambusa tootsik",
-      "search_terms": [
-        "トウチク",
-        "とうちく",
-        "touchiku",
-        "Sinobambusa tootsik"
-      ],
-      "normalized_terms": [
-        "トウチク",
-        "とうちく",
-        "touchiku",
-        "sinobambusatootsik"
-      ]
-    },
-    {
       "id": "grass_0211",
       "category": "草",
       "name": "チドメグサ",
@@ -28739,31 +28396,6 @@
       ]
     },
     {
-      "id": "grass_0302",
-      "category": "草",
-      "name": "マンネンスギ",
-      "kana": "まんねんすぎ",
-      "aliases": [
-        "マンネンスギ"
-      ],
-      "romaji": [
-        "mannensugi"
-      ],
-      "scientific": "Dendrolycopodium dendroideum",
-      "search_terms": [
-        "マンネンスギ",
-        "まんねんすぎ",
-        "mannensugi",
-        "Dendrolycopodium dendroideum"
-      ],
-      "normalized_terms": [
-        "マンネンスギ",
-        "まんねんすぎ",
-        "mannensugi",
-        "dendrolycopodiumdendroideum"
-      ]
-    },
-    {
       "id": "grass_0303",
       "category": "草",
       "name": "トウゲシバ",
@@ -29161,806 +28793,6 @@
         "おおいたちしだ",
         "ooitachishida",
         "dryopterispacifica"
-      ]
-    },
-    {
-      "id": "grass_0319",
-      "category": "草",
-      "name": "ナガナギゴケ",
-      "kana": "ながなぎごけ",
-      "aliases": [
-        "ナガナギゴケ"
-      ],
-      "romaji": [
-        "naganagigoke"
-      ],
-      "scientific": "Kindbergia praelonga",
-      "search_terms": [
-        "ナガナギゴケ",
-        "ながなぎごけ",
-        "naganagigoke",
-        "Kindbergia praelonga"
-      ],
-      "normalized_terms": [
-        "ナガナギゴケ",
-        "ながなぎごけ",
-        "naganagigoke",
-        "kindbergiapraelonga"
-      ]
-    },
-    {
-      "id": "grass_0320",
-      "category": "草",
-      "name": "ゼニゴケ",
-      "kana": "ぜにごけ",
-      "aliases": [
-        "ゼニゴケ"
-      ],
-      "romaji": [
-        "zenigoke"
-      ],
-      "scientific": "Marchantia polymorpha",
-      "search_terms": [
-        "ゼニゴケ",
-        "ぜにごけ",
-        "zenigoke",
-        "Marchantia polymorpha"
-      ],
-      "normalized_terms": [
-        "ゼニゴケ",
-        "ぜにごけ",
-        "zenigoke",
-        "marchantiapolymorpha"
-      ]
-    },
-    {
-      "id": "grass_0321",
-      "category": "草",
-      "name": "ジャゴケ",
-      "kana": "じゃごけ",
-      "aliases": [
-        "ジャゴケ"
-      ],
-      "romaji": [
-        "jagoke"
-      ],
-      "scientific": "Conocephalum conicum",
-      "search_terms": [
-        "ジャゴケ",
-        "じゃごけ",
-        "jagoke",
-        "Conocephalum conicum"
-      ],
-      "normalized_terms": [
-        "ジャゴケ",
-        "じゃごけ",
-        "jagoke",
-        "conocephalumconicum"
-      ]
-    },
-    {
-      "id": "grass_0322",
-      "category": "草",
-      "name": "ハイゴケ",
-      "kana": "はいごけ",
-      "aliases": [
-        "ハイゴケ"
-      ],
-      "romaji": [
-        "haigoke"
-      ],
-      "scientific": "Hypnum plumaeforme",
-      "search_terms": [
-        "ハイゴケ",
-        "はいごけ",
-        "haigoke",
-        "Hypnum plumaeforme"
-      ],
-      "normalized_terms": [
-        "ハイゴケ",
-        "はいごけ",
-        "haigoke",
-        "hypnumplumaeforme"
-      ]
-    },
-    {
-      "id": "grass_0323",
-      "category": "草",
-      "name": "カラフトキンモウゴケ",
-      "kana": "からふときんもうごけ",
-      "aliases": [
-        "カラフトキンモウゴケ"
-      ],
-      "romaji": [
-        "karafutokinmougoke"
-      ],
-      "scientific": "Ulota crispa",
-      "search_terms": [
-        "カラフトキンモウゴケ",
-        "からふときんもうごけ",
-        "karafutokinmougoke",
-        "Ulota crispa"
-      ],
-      "normalized_terms": [
-        "カラフトキンモウゴケ",
-        "からふときんもうごけ",
-        "karafutokinmougoke",
-        "ulotacrispa"
-      ]
-    },
-    {
-      "id": "grass_0324",
-      "category": "草",
-      "name": "エゾスナゴケ",
-      "kana": "えぞすなごけ",
-      "aliases": [
-        "エゾスナゴケ"
-      ],
-      "romaji": [
-        "ezosunagoke"
-      ],
-      "scientific": "Niphotrichum japonicum",
-      "search_terms": [
-        "エゾスナゴケ",
-        "えぞすなごけ",
-        "ezosunagoke",
-        "Niphotrichum japonicum"
-      ],
-      "normalized_terms": [
-        "エゾスナゴケ",
-        "えぞすなごけ",
-        "ezosunagoke",
-        "niphotrichumjaponicum"
-      ]
-    },
-    {
-      "id": "grass_0325",
-      "category": "草",
-      "name": "ホソバオキナゴケ",
-      "kana": "ほそばおきなごけ",
-      "aliases": [
-        "ホソバオキナゴケ"
-      ],
-      "romaji": [
-        "hosobaokinagoke"
-      ],
-      "scientific": "Leucobryum juniperoideum",
-      "search_terms": [
-        "ホソバオキナゴケ",
-        "ほそばおきなごけ",
-        "hosobaokinagoke",
-        "Leucobryum juniperoideum"
-      ],
-      "normalized_terms": [
-        "ホソバオキナゴケ",
-        "ほそばおきなごけ",
-        "hosobaokinagoke",
-        "leucobryumjuniperoideum"
-      ]
-    },
-    {
-      "id": "grass_0326",
-      "category": "草",
-      "name": "オオヒモゴケ",
-      "kana": "おおひもごけ",
-      "aliases": [
-        "オオヒモゴケ"
-      ],
-      "romaji": [
-        "oohimogoke"
-      ],
-      "scientific": "Aulacomnium palustre",
-      "search_terms": [
-        "オオヒモゴケ",
-        "おおひもごけ",
-        "oohimogoke",
-        "Aulacomnium palustre"
-      ],
-      "normalized_terms": [
-        "オオヒモゴケ",
-        "おおひもごけ",
-        "oohimogoke",
-        "aulacomniumpalustre"
-      ]
-    },
-    {
-      "id": "grass_0327",
-      "category": "草",
-      "name": "ヤマタチヒダゴケ",
-      "kana": "やまたちひだごけ",
-      "aliases": [
-        "ヤマタチヒダゴケ"
-      ],
-      "romaji": [
-        "yamatachihidagoke"
-      ],
-      "scientific": "Orthotrichum anomalum",
-      "search_terms": [
-        "ヤマタチヒダゴケ",
-        "やまたちひだごけ",
-        "yamatachihidagoke",
-        "Orthotrichum anomalum"
-      ],
-      "normalized_terms": [
-        "ヤマタチヒダゴケ",
-        "やまたちひだごけ",
-        "yamatachihidagoke",
-        "orthotrichumanomalum"
-      ]
-    },
-    {
-      "id": "grass_0328",
-      "category": "草",
-      "name": "スギバミズゴケ",
-      "kana": "すぎばみずごけ",
-      "aliases": [
-        "スギバミズゴケ"
-      ],
-      "romaji": [
-        "sugibamizugoke"
-      ],
-      "scientific": "Sphagnum capillifolium",
-      "search_terms": [
-        "スギバミズゴケ",
-        "すぎばみずごけ",
-        "sugibamizugoke",
-        "Sphagnum capillifolium"
-      ],
-      "normalized_terms": [
-        "スギバミズゴケ",
-        "すぎばみずごけ",
-        "sugibamizugoke",
-        "sphagnumcapillifolium"
-      ]
-    },
-    {
-      "id": "grass_0329",
-      "category": "草",
-      "name": "タマゴケ",
-      "kana": "たまごけ",
-      "aliases": [
-        "タマゴケ"
-      ],
-      "romaji": [
-        "tamagoke"
-      ],
-      "scientific": "Bartramia pomiformis",
-      "search_terms": [
-        "タマゴケ",
-        "たまごけ",
-        "tamagoke",
-        "Bartramia pomiformis"
-      ],
-      "normalized_terms": [
-        "タマゴケ",
-        "たまごけ",
-        "tamagoke",
-        "bartramiapomiformis"
-      ]
-    },
-    {
-      "id": "grass_0330",
-      "category": "草",
-      "name": "ヒノキゴケ",
-      "kana": "ひのきごけ",
-      "aliases": [
-        "ヒノキゴケ"
-      ],
-      "romaji": [
-        "hinokigoke"
-      ],
-      "scientific": "Pyrrhobryum dozyanum",
-      "search_terms": [
-        "ヒノキゴケ",
-        "ひのきごけ",
-        "hinokigoke",
-        "Pyrrhobryum dozyanum"
-      ],
-      "normalized_terms": [
-        "ヒノキゴケ",
-        "ひのきごけ",
-        "hinokigoke",
-        "pyrrhobryumdozyanum"
-      ]
-    },
-    {
-      "id": "grass_0331",
-      "category": "草",
-      "name": "コウヤノマンネングサ",
-      "kana": "こうやのまんねんぐさ",
-      "aliases": [
-        "コウヤノマンネングサ"
-      ],
-      "romaji": [
-        "kouyanomannengusa"
-      ],
-      "scientific": "Climacium japonicum",
-      "search_terms": [
-        "コウヤノマンネングサ",
-        "こうやのまんねんぐさ",
-        "kouyanomannengusa",
-        "Climacium japonicum"
-      ],
-      "normalized_terms": [
-        "コウヤノマンネングサ",
-        "こうやのまんねんぐさ",
-        "kouyanomannengusa",
-        "climaciumjaponicum"
-      ]
-    },
-    {
-      "id": "grass_0332",
-      "category": "草",
-      "name": "コスギゴケ",
-      "kana": "こすぎごけ",
-      "aliases": [
-        "コスギゴケ"
-      ],
-      "romaji": [
-        "kosugigoke"
-      ],
-      "scientific": "Pogonatum inflexum",
-      "search_terms": [
-        "コスギゴケ",
-        "こすぎごけ",
-        "kosugigoke",
-        "Pogonatum inflexum"
-      ],
-      "normalized_terms": [
-        "コスギゴケ",
-        "こすぎごけ",
-        "kosugigoke",
-        "pogonatuminflexum"
-      ]
-    },
-    {
-      "id": "grass_0333",
-      "category": "草",
-      "name": "ナミガタタチゴケ",
-      "kana": "なみがたたちごけ",
-      "aliases": [
-        "ナミガタタチゴケ"
-      ],
-      "romaji": [
-        "namigatatachigoke"
-      ],
-      "scientific": "Atrichum undulatum",
-      "search_terms": [
-        "ナミガタタチゴケ",
-        "なみがたたちごけ",
-        "namigatatachigoke",
-        "Atrichum undulatum"
-      ],
-      "normalized_terms": [
-        "ナミガタタチゴケ",
-        "なみがたたちごけ",
-        "namigatatachigoke",
-        "atrichumundulatum"
-      ]
-    },
-    {
-      "id": "grass_0334",
-      "category": "草",
-      "name": "ギンゴケ",
-      "kana": "ぎんごけ",
-      "aliases": [
-        "ギンゴケ"
-      ],
-      "romaji": [
-        "gingoke"
-      ],
-      "scientific": "Bryum argenteum",
-      "search_terms": [
-        "ギンゴケ",
-        "ぎんごけ",
-        "gingoke",
-        "Bryum argenteum"
-      ],
-      "normalized_terms": [
-        "ギンゴケ",
-        "ぎんごけ",
-        "gingoke",
-        "bryumargenteum"
-      ]
-    },
-    {
-      "id": "grass_0335",
-      "category": "草",
-      "name": "クロカワゴケ",
-      "kana": "くろかわごけ",
-      "aliases": [
-        "クロカワゴケ"
-      ],
-      "romaji": [
-        "kurokawagoke"
-      ],
-      "scientific": "Fontinalis antipyretica",
-      "search_terms": [
-        "クロカワゴケ",
-        "くろかわごけ",
-        "kurokawagoke",
-        "Fontinalis antipyretica"
-      ],
-      "normalized_terms": [
-        "クロカワゴケ",
-        "くろかわごけ",
-        "kurokawagoke",
-        "fontinalisantipyretica"
-      ]
-    },
-    {
-      "id": "grass_0336",
-      "category": "草",
-      "name": "シッポゴケ",
-      "kana": "しっぽごけ",
-      "aliases": [
-        "シッポゴケ"
-      ],
-      "romaji": [
-        "shippogoke"
-      ],
-      "scientific": "Dicranum japonicum",
-      "search_terms": [
-        "シッポゴケ",
-        "しっぽごけ",
-        "shippogoke",
-        "Dicranum japonicum"
-      ],
-      "normalized_terms": [
-        "シッポゴケ",
-        "しっぽごけ",
-        "shippogoke",
-        "dicranumjaponicum"
-      ]
-    },
-    {
-      "id": "grass_0337",
-      "category": "草",
-      "name": "エゾネジクチゴケ",
-      "kana": "えぞねじくちごけ",
-      "aliases": [
-        "エゾネジクチゴケ"
-      ],
-      "romaji": [
-        "ezonejikuchigoke"
-      ],
-      "scientific": "Streblotrichum convolutum",
-      "search_terms": [
-        "エゾネジクチゴケ",
-        "えぞねじくちごけ",
-        "ezonejikuchigoke",
-        "Streblotrichum convolutum"
-      ],
-      "normalized_terms": [
-        "エゾネジクチゴケ",
-        "えぞねじくちごけ",
-        "ezonejikuchigoke",
-        "streblotrichumconvolutum"
-      ]
-    },
-    {
-      "id": "grass_0338",
-      "category": "草",
-      "name": "トヤマシノブゴケ",
-      "kana": "とやましのぶごけ",
-      "aliases": [
-        "トヤマシノブゴケ"
-      ],
-      "romaji": [
-        "toyamashinobugoke"
-      ],
-      "scientific": "Thuidium kanedae",
-      "search_terms": [
-        "トヤマシノブゴケ",
-        "とやましのぶごけ",
-        "toyamashinobugoke",
-        "Thuidium kanedae"
-      ],
-      "normalized_terms": [
-        "トヤマシノブゴケ",
-        "とやましのぶごけ",
-        "toyamashinobugoke",
-        "thuidiumkanedae"
-      ]
-    },
-    {
-      "id": "grass_0339",
-      "category": "草",
-      "name": "ヨツバゴケ",
-      "kana": "よつばごけ",
-      "aliases": [
-        "ヨツバゴケ"
-      ],
-      "romaji": [
-        "yotsubagoke"
-      ],
-      "scientific": "Tetraphis pellucida",
-      "search_terms": [
-        "ヨツバゴケ",
-        "よつばごけ",
-        "yotsubagoke",
-        "Tetraphis pellucida"
-      ],
-      "normalized_terms": [
-        "ヨツバゴケ",
-        "よつばごけ",
-        "yotsubagoke",
-        "tetraphispellucida"
-      ]
-    },
-    {
-      "id": "grass_0340",
-      "category": "草",
-      "name": "コバノチョウチンゴケ",
-      "kana": "こばのちょうちんごけ",
-      "aliases": [
-        "コバノチョウチンゴケ"
-      ],
-      "romaji": [
-        "kobanochouchingoke"
-      ],
-      "scientific": "Trachycystis microphylla",
-      "search_terms": [
-        "コバノチョウチンゴケ",
-        "こばのちょうちんごけ",
-        "kobanochouchingoke",
-        "Trachycystis microphylla"
-      ],
-      "normalized_terms": [
-        "コバノチョウチンゴケ",
-        "こばのちょうちんごけ",
-        "kobanochouchingoke",
-        "trachycystismicrophylla"
-      ]
-    },
-    {
-      "id": "grass_0341",
-      "category": "草",
-      "name": "アオギヌゴケ",
-      "kana": "あおぎぬごけ",
-      "aliases": [
-        "アオギヌゴケ"
-      ],
-      "romaji": [
-        "aoginugoke"
-      ],
-      "scientific": "Sciuro-hypnum populeum",
-      "search_terms": [
-        "アオギヌゴケ",
-        "あおぎぬごけ",
-        "aoginugoke",
-        "Sciuro-hypnum populeum"
-      ],
-      "normalized_terms": [
-        "アオギヌゴケ",
-        "あおぎぬごけ",
-        "aoginugoke",
-        "sciurohypnumpopuleum"
-      ]
-    },
-    {
-      "id": "grass_0342",
-      "category": "草",
-      "name": "ツチノウエノコゴケ",
-      "kana": "つちのうえのこごけ",
-      "aliases": [
-        "ツチノウエノコゴケ"
-      ],
-      "romaji": [
-        "tsuchinouenokogoke"
-      ],
-      "scientific": "Weissia controversa",
-      "search_terms": [
-        "ツチノウエノコゴケ",
-        "つちのうえのこごけ",
-        "tsuchinouenokogoke",
-        "Weissia controversa"
-      ],
-      "normalized_terms": [
-        "ツチノウエノコゴケ",
-        "つちのうえのこごけ",
-        "tsuchinouenokogoke",
-        "weissiacontroversa"
-      ]
-    },
-    {
-      "id": "grass_0343",
-      "category": "草",
-      "name": "タニゴケ",
-      "kana": "たにごけ",
-      "aliases": [
-        "タニゴケ"
-      ],
-      "romaji": [
-        "tanigoke"
-      ],
-      "scientific": "Brachythecium rivulare",
-      "search_terms": [
-        "タニゴケ",
-        "たにごけ",
-        "tanigoke",
-        "Brachythecium rivulare"
-      ],
-      "normalized_terms": [
-        "タニゴケ",
-        "たにごけ",
-        "tanigoke",
-        "brachytheciumrivulare"
-      ]
-    },
-    {
-      "id": "grass_0344",
-      "category": "草",
-      "name": "ネズミノオゴケ",
-      "kana": "ねずみのおごけ",
-      "aliases": [
-        "ネズミノオゴケ"
-      ],
-      "romaji": [
-        "nezuminoogoke"
-      ],
-      "scientific": "Myuroclada maximowiczii",
-      "search_terms": [
-        "ネズミノオゴケ",
-        "ねずみのおごけ",
-        "nezuminoogoke",
-        "Myuroclada maximowiczii"
-      ],
-      "normalized_terms": [
-        "ネズミノオゴケ",
-        "ねずみのおごけ",
-        "nezuminoogoke",
-        "myurocladamaximowiczii"
-      ]
-    },
-    {
-      "id": "grass_0345",
-      "category": "草",
-      "name": "ナガバヤナギゴケ",
-      "kana": "ながばやなぎごけ",
-      "aliases": [
-        "ナガバヤナギゴケ"
-      ],
-      "romaji": [
-        "nagabayanagigoke"
-      ],
-      "scientific": "Leptodictyum riparium",
-      "search_terms": [
-        "ナガバヤナギゴケ",
-        "ながばやなぎごけ",
-        "nagabayanagigoke",
-        "Leptodictyum riparium"
-      ],
-      "normalized_terms": [
-        "ナガバヤナギゴケ",
-        "ながばやなぎごけ",
-        "nagabayanagigoke",
-        "leptodictyumriparium"
-      ]
-    },
-    {
-      "id": "grass_0346",
-      "category": "草",
-      "name": "オオミズゴケ",
-      "kana": "おおみずごけ",
-      "aliases": [
-        "オオミズゴケ"
-      ],
-      "romaji": [
-        "oomizugoke"
-      ],
-      "scientific": "Sphagnum palustre",
-      "search_terms": [
-        "オオミズゴケ",
-        "おおみずごけ",
-        "oomizugoke",
-        "Sphagnum palustre"
-      ],
-      "normalized_terms": [
-        "オオミズゴケ",
-        "おおみずごけ",
-        "oomizugoke",
-        "sphagnumpalustre"
-      ]
-    },
-    {
-      "id": "grass_0347",
-      "category": "草",
-      "name": "イボミズゴケ",
-      "kana": "いぼみずごけ",
-      "aliases": [
-        "イボミズゴケ"
-      ],
-      "romaji": [
-        "ibomizugoke"
-      ],
-      "scientific": "Sphagnum papillosum",
-      "search_terms": [
-        "イボミズゴケ",
-        "いぼみずごけ",
-        "ibomizugoke",
-        "Sphagnum papillosum"
-      ],
-      "normalized_terms": [
-        "イボミズゴケ",
-        "いぼみずごけ",
-        "ibomizugoke",
-        "sphagnumpapillosum"
-      ]
-    },
-    {
-      "id": "grass_0348",
-      "category": "草",
-      "name": "ホソバミズゴケ",
-      "kana": "ほそばみずごけ",
-      "aliases": [
-        "ホソバミズゴケ"
-      ],
-      "romaji": [
-        "hosobamizugoke"
-      ],
-      "scientific": "Sphagnum girgensohnii",
-      "search_terms": [
-        "ホソバミズゴケ",
-        "ほそばみずごけ",
-        "hosobamizugoke",
-        "Sphagnum girgensohnii"
-      ],
-      "normalized_terms": [
-        "ホソバミズゴケ",
-        "ほそばみずごけ",
-        "hosobamizugoke",
-        "sphagnumgirgensohnii"
-      ]
-    },
-    {
-      "id": "grass_0349",
-      "category": "草",
-      "name": "コモチイトゴケ",
-      "kana": "こもちいとごけ",
-      "aliases": [
-        "コモチイトゴケ"
-      ],
-      "romaji": [
-        "komochiitogoke"
-      ],
-      "scientific": "Pylaisiadelpha tenuirostris",
-      "search_terms": [
-        "コモチイトゴケ",
-        "こもちいとごけ",
-        "komochiitogoke",
-        "Pylaisiadelpha tenuirostris"
-      ],
-      "normalized_terms": [
-        "コモチイトゴケ",
-        "こもちいとごけ",
-        "komochiitogoke",
-        "pylaisiadelphatenuirostris"
-      ]
-    },
-    {
-      "id": "grass_0350",
-      "category": "草",
-      "name": "ハリヒノキゴケ",
-      "kana": "はりひのきごけ",
-      "aliases": [
-        "ハリヒノキゴケ"
-      ],
-      "romaji": [
-        "harihinokigoke"
-      ],
-      "scientific": "Pyrrhobryum spiniforme",
-      "search_terms": [
-        "ハリヒノキゴケ",
-        "はりひのきごけ",
-        "harihinokigoke",
-        "Pyrrhobryum spiniforme"
-      ],
-      "normalized_terms": [
-        "ハリヒノキゴケ",
-        "はりひのきごけ",
-        "harihinokigoke",
-        "pyrrhobryumspiniforme"
       ]
     },
     {
@@ -30514,39 +29346,6 @@
       ]
     },
     {
-      "id": "grass_0373",
-      "category": "草",
-      "name": "クマイザサ",
-      "kana": "クマイザサ",
-      "aliases": [
-        "クマイザサ",
-        "シナノザサ"
-      ],
-      "romaji": [
-        "kumaizasa",
-        "shinanozasa"
-      ],
-      "scientific": "Sasa senanensis",
-      "search_terms": [
-        "クマイザサ",
-        "くまいざさ",
-        "シナノザサ",
-        "しなのざさ",
-        "kumaizasa",
-        "shinanozasa",
-        "Sasa senanensis"
-      ],
-      "normalized_terms": [
-        "クマイザサ",
-        "くまいざさ",
-        "シナノザサ",
-        "しなのざさ",
-        "kumaizasa",
-        "shinanozasa",
-        "sasasenanensis"
-      ]
-    },
-    {
       "id": "grass_0374",
       "category": "草",
       "name": "カリヤスモドキ",
@@ -30702,39 +29501,6 @@
         "ときわすすき",
         "tokiwasusuki",
         "miscanthusfloridulus"
-      ]
-    },
-    {
-      "id": "grass_0380",
-      "category": "草",
-      "name": "チシマザサ",
-      "kana": "チシマザサ",
-      "aliases": [
-        "チシマザサ",
-        "ネマガリダケ"
-      ],
-      "romaji": [
-        "chishimazasa",
-        "nemagaridake"
-      ],
-      "scientific": "Sasa kurilensis",
-      "search_terms": [
-        "チシマザサ",
-        "ちしまざさ",
-        "ネマガリダケ",
-        "ねまがりだけ",
-        "chishimazasa",
-        "nemagaridake",
-        "Sasa kurilensis"
-      ],
-      "normalized_terms": [
-        "チシマザサ",
-        "ちしまざさ",
-        "ネマガリダケ",
-        "ねまがりだけ",
-        "chishimazasa",
-        "nemagaridake",
-        "sasakurilensis"
       ]
     },
     {
@@ -31260,56 +30026,6 @@
         "くろてんつき",
         "kurotentsuki",
         "fimbristylisdiphylloides"
-      ]
-    },
-    {
-      "id": "grass_0402",
-      "category": "草",
-      "name": "イブキザサ",
-      "kana": "イブキザサ",
-      "aliases": [
-        "イブキザサ"
-      ],
-      "romaji": [
-        "ibukizasa"
-      ],
-      "scientific": "Sasa tsuboiana",
-      "search_terms": [
-        "イブキザサ",
-        "いぶきざさ",
-        "ibukizasa",
-        "Sasa tsuboiana"
-      ],
-      "normalized_terms": [
-        "イブキザサ",
-        "いぶきざさ",
-        "ibukizasa",
-        "sasatsuboiana"
-      ]
-    },
-    {
-      "id": "grass_0403",
-      "category": "草",
-      "name": "ミヤマクマザサ",
-      "kana": "ミヤマクマザサ",
-      "aliases": [
-        "ミヤマクマザサ"
-      ],
-      "romaji": [
-        "miyamakumazasa"
-      ],
-      "scientific": "Sasa hayatae",
-      "search_terms": [
-        "ミヤマクマザサ",
-        "みやまくまざさ",
-        "miyamakumazasa",
-        "Sasa hayatae"
-      ],
-      "normalized_terms": [
-        "ミヤマクマザサ",
-        "みやまくまざさ",
-        "miyamakumazasa",
-        "sasahayatae"
       ]
     },
     {
@@ -32038,31 +30754,6 @@
       ]
     },
     {
-      "id": "grass_0433",
-      "category": "草",
-      "name": "コウライイチイゴケ",
-      "kana": "コウライイチイゴケ",
-      "aliases": [
-        "コウライイチイゴケ"
-      ],
-      "romaji": [
-        "kouraiichiigoke"
-      ],
-      "scientific": "Taxiphyllum alternans",
-      "search_terms": [
-        "コウライイチイゴケ",
-        "こうらいいちいごけ",
-        "kouraiichiigoke",
-        "Taxiphyllum alternans"
-      ],
-      "normalized_terms": [
-        "コウライイチイゴケ",
-        "こうらいいちいごけ",
-        "kouraiichiigoke",
-        "taxiphyllumalternans"
-      ]
-    },
-    {
       "id": "grass_0434",
       "category": "草",
       "name": "ミヤマシケシダ",
@@ -32185,31 +30876,6 @@
         "やまどりぜんまい",
         "yamadorizenmai",
         "osmundastrumcinnamomeumvarfokiense"
-      ]
-    },
-    {
-      "id": "grass_0439",
-      "category": "草",
-      "name": "ヒメミズゴケ",
-      "kana": "ヒメミズゴケ",
-      "aliases": [
-        "ヒメミズゴケ"
-      ],
-      "romaji": [
-        "himemizugoke"
-      ],
-      "scientific": "Sphagnum fimbriatum",
-      "search_terms": [
-        "ヒメミズゴケ",
-        "ひめみずごけ",
-        "himemizugoke",
-        "Sphagnum fimbriatum"
-      ],
-      "normalized_terms": [
-        "ヒメミズゴケ",
-        "ひめみずごけ",
-        "himemizugoke",
-        "sphagnumfimbriatum"
       ]
     },
     {
@@ -32385,31 +31051,6 @@
         "ねむろこうほね",
         "nemurokouhone",
         "nupharpumilasubsppumila"
-      ]
-    },
-    {
-      "id": "grass_0447",
-      "category": "草",
-      "name": "チャミズゴケ",
-      "kana": "チャミズゴケ",
-      "aliases": [
-        "チャミズゴケ"
-      ],
-      "romaji": [
-        "chamizugoke"
-      ],
-      "scientific": "Sphagnum fuscum",
-      "search_terms": [
-        "チャミズゴケ",
-        "ちゃみずごけ",
-        "chamizugoke",
-        "Sphagnum fuscum"
-      ],
-      "normalized_terms": [
-        "チャミズゴケ",
-        "ちゃみずごけ",
-        "chamizugoke",
-        "sphagnumfuscum"
       ]
     },
     {
@@ -32713,31 +31354,6 @@
       ]
     },
     {
-      "id": "grass_0460",
-      "category": "草",
-      "name": "ムラサキミズゴケ",
-      "kana": "ムラサキミズゴケ",
-      "aliases": [
-        "ムラサキミズゴケ"
-      ],
-      "romaji": [
-        "murasakimizugoke"
-      ],
-      "scientific": "Sphagnum magellanicum",
-      "search_terms": [
-        "ムラサキミズゴケ",
-        "むらさきみずごけ",
-        "murasakimizugoke",
-        "Sphagnum magellanicum"
-      ],
-      "normalized_terms": [
-        "ムラサキミズゴケ",
-        "むらさきみずごけ",
-        "murasakimizugoke",
-        "sphagnummagellanicum"
-      ]
-    },
-    {
       "id": "grass_0461",
       "category": "草",
       "name": "ミズネコノオ",
@@ -32971,481 +31587,6 @@
       ]
     },
     {
-      "id": "grass_0470",
-      "category": "草",
-      "name": "オオスギゴケ",
-      "kana": "オオスギゴケ",
-      "aliases": [
-        "オオスギゴケ"
-      ],
-      "romaji": [
-        "oosugigoke"
-      ],
-      "scientific": "Polytrichum formosum",
-      "search_terms": [
-        "オオスギゴケ",
-        "おおすぎごけ",
-        "oosugigoke",
-        "Polytrichum formosum"
-      ],
-      "normalized_terms": [
-        "オオスギゴケ",
-        "おおすぎごけ",
-        "oosugigoke",
-        "polytrichumformosum"
-      ]
-    },
-    {
-      "id": "grass_0471",
-      "category": "草",
-      "name": "ウマスギゴケ",
-      "kana": "ウマスギゴケ",
-      "aliases": [
-        "ウマスギゴケ"
-      ],
-      "romaji": [
-        "umasugigoke"
-      ],
-      "scientific": "Polytrichum commune",
-      "search_terms": [
-        "ウマスギゴケ",
-        "うますぎごけ",
-        "umasugigoke",
-        "Polytrichum commune"
-      ],
-      "normalized_terms": [
-        "ウマスギゴケ",
-        "うますぎごけ",
-        "umasugigoke",
-        "polytrichumcommune"
-      ]
-    },
-    {
-      "id": "grass_0472",
-      "category": "草",
-      "name": "コツボゴケ",
-      "kana": "コツボゴケ",
-      "aliases": [
-        "コツボゴケ"
-      ],
-      "romaji": [
-        "kotsubogoke"
-      ],
-      "scientific": "Plagiomnium acutum",
-      "search_terms": [
-        "コツボゴケ",
-        "こつぼごけ",
-        "kotsubogoke",
-        "Plagiomnium acutum"
-      ],
-      "normalized_terms": [
-        "コツボゴケ",
-        "こつぼごけ",
-        "kotsubogoke",
-        "plagiomniumacutum"
-      ]
-    },
-    {
-      "id": "grass_0473",
-      "category": "草",
-      "name": "ウロコミズゴケ",
-      "kana": "ウロコミズゴケ",
-      "aliases": [
-        "ウロコミズゴケ"
-      ],
-      "romaji": [
-        "urokomizugoke"
-      ],
-      "scientific": "Sphagnum squarrosum",
-      "search_terms": [
-        "ウロコミズゴケ",
-        "うろこみずごけ",
-        "urokomizugoke",
-        "Sphagnum squarrosum"
-      ],
-      "normalized_terms": [
-        "ウロコミズゴケ",
-        "うろこみずごけ",
-        "urokomizugoke",
-        "sphagnumsquarrosum"
-      ]
-    },
-    {
-      "id": "grass_0474",
-      "category": "草",
-      "name": "ハリミズゴケ",
-      "kana": "ハリミズゴケ",
-      "aliases": [
-        "ハリミズゴケ"
-      ],
-      "romaji": [
-        "harimizugoke"
-      ],
-      "scientific": "Sphagnum cuspidatum",
-      "search_terms": [
-        "ハリミズゴケ",
-        "はりみずごけ",
-        "harimizugoke",
-        "Sphagnum cuspidatum"
-      ],
-      "normalized_terms": [
-        "ハリミズゴケ",
-        "はりみずごけ",
-        "harimizugoke",
-        "sphagnumcuspidatum"
-      ]
-    },
-    {
-      "id": "grass_0475",
-      "category": "草",
-      "name": "ヒロハツヤゴケ",
-      "kana": "ヒロハツヤゴケ",
-      "aliases": [
-        "ヒロハツヤゴケ"
-      ],
-      "romaji": [
-        "hirohatsuyagoke"
-      ],
-      "scientific": "Entodon challengeri",
-      "search_terms": [
-        "ヒロハツヤゴケ",
-        "ひろはつやごけ",
-        "hirohatsuyagoke",
-        "Entodon challengeri"
-      ],
-      "normalized_terms": [
-        "ヒロハツヤゴケ",
-        "ひろはつやごけ",
-        "hirohatsuyagoke",
-        "entodonchallengeri"
-      ]
-    },
-    {
-      "id": "grass_0476",
-      "category": "草",
-      "name": "エゾチョウチンゴケ",
-      "kana": "エゾチョウチンゴケ",
-      "aliases": [
-        "エゾチョウチンゴケ"
-      ],
-      "romaji": [
-        "ezochouchingoke"
-      ],
-      "scientific": "Trachycystis flagellaris",
-      "search_terms": [
-        "エゾチョウチンゴケ",
-        "えぞちょうちんごけ",
-        "ezochouchingoke",
-        "Trachycystis flagellaris"
-      ],
-      "normalized_terms": [
-        "エゾチョウチンゴケ",
-        "えぞちょうちんごけ",
-        "ezochouchingoke",
-        "trachycystisflagellaris"
-      ]
-    },
-    {
-      "id": "grass_0477",
-      "category": "草",
-      "name": "フデゴケ",
-      "kana": "フデゴケ",
-      "aliases": [
-        "フデゴケ"
-      ],
-      "romaji": [
-        "fudegoke"
-      ],
-      "scientific": "Campylopus umbellatus",
-      "search_terms": [
-        "フデゴケ",
-        "ふでごけ",
-        "fudegoke",
-        "Campylopus umbellatus"
-      ],
-      "normalized_terms": [
-        "フデゴケ",
-        "ふでごけ",
-        "fudegoke",
-        "campylopusumbellatus"
-      ]
-    },
-    {
-      "id": "grass_0478",
-      "category": "草",
-      "name": "コセイタカスギゴケ",
-      "kana": "コセイタカスギゴケ",
-      "aliases": [
-        "コセイタカスギゴケ"
-      ],
-      "romaji": [
-        "koseitakasugigoke"
-      ],
-      "scientific": "Pogonatum contortum",
-      "search_terms": [
-        "コセイタカスギゴケ",
-        "こせいたかすぎごけ",
-        "koseitakasugigoke",
-        "Pogonatum contortum"
-      ],
-      "normalized_terms": [
-        "コセイタカスギゴケ",
-        "こせいたかすぎごけ",
-        "koseitakasugigoke",
-        "pogonatumcontortum"
-      ]
-    },
-    {
-      "id": "grass_0479",
-      "category": "草",
-      "name": "ハネヒツジゴケ",
-      "kana": "ハネヒツジゴケ",
-      "aliases": [
-        "ハネヒツジゴケ"
-      ],
-      "romaji": [
-        "hanehitsujigoke"
-      ],
-      "scientific": "Sciuro-hypnum plumosum",
-      "search_terms": [
-        "ハネヒツジゴケ",
-        "はねひつじごけ",
-        "hanehitsujigoke",
-        "Sciuro-hypnum plumosum"
-      ],
-      "normalized_terms": [
-        "ハネヒツジゴケ",
-        "はねひつじごけ",
-        "hanehitsujigoke",
-        "sciurohypnumplumosum"
-      ]
-    },
-    {
-      "id": "grass_0480",
-      "category": "草",
-      "name": "フトリュウビゴケ",
-      "kana": "フトリュウビゴケ",
-      "aliases": [
-        "フトリュウビゴケ"
-      ],
-      "romaji": [
-        "futoryuubigoke"
-      ],
-      "scientific": "Loeskeobryum cavifolium",
-      "search_terms": [
-        "フトリュウビゴケ",
-        "ふとりゅうびごけ",
-        "futoryuubigoke",
-        "Loeskeobryum cavifolium"
-      ],
-      "normalized_terms": [
-        "フトリュウビゴケ",
-        "ふとりゅうびごけ",
-        "futoryuubigoke",
-        "loeskeobryumcavifolium"
-      ]
-    },
-    {
-      "id": "grass_0481",
-      "category": "草",
-      "name": "コムチゴケ",
-      "kana": "コムチゴケ",
-      "aliases": [
-        "コムチゴケ"
-      ],
-      "romaji": [
-        "komuchigoke"
-      ],
-      "scientific": "Bazzania tridens",
-      "search_terms": [
-        "コムチゴケ",
-        "こむちごけ",
-        "komuchigoke",
-        "Bazzania tridens"
-      ],
-      "normalized_terms": [
-        "コムチゴケ",
-        "こむちごけ",
-        "komuchigoke",
-        "bazzaniatridens"
-      ]
-    },
-    {
-      "id": "grass_0482",
-      "category": "草",
-      "name": "ケチョウチンゴケ",
-      "kana": "ケチョウチンゴケ",
-      "aliases": [
-        "ケチョウチンゴケ"
-      ],
-      "romaji": [
-        "kechouchingoke"
-      ],
-      "scientific": "Rhizomnium tuomikoskii",
-      "search_terms": [
-        "ケチョウチンゴケ",
-        "けちょうちんごけ",
-        "kechouchingoke",
-        "Rhizomnium tuomikoskii"
-      ],
-      "normalized_terms": [
-        "ケチョウチンゴケ",
-        "けちょうちんごけ",
-        "kechouchingoke",
-        "rhizomniumtuomikoskii"
-      ]
-    },
-    {
-      "id": "grass_0483",
-      "category": "草",
-      "name": "オオバチョウチンゴケ",
-      "kana": "オオバチョウチンゴケ",
-      "aliases": [
-        "オオバチョウチンゴケ"
-      ],
-      "romaji": [
-        "oobachouchingoke"
-      ],
-      "scientific": "Plagiomnium vesicatum",
-      "search_terms": [
-        "オオバチョウチンゴケ",
-        "おおばちょうちんごけ",
-        "oobachouchingoke",
-        "Plagiomnium vesicatum"
-      ],
-      "normalized_terms": [
-        "オオバチョウチンゴケ",
-        "おおばちょうちんごけ",
-        "oobachouchingoke",
-        "plagiomniumvesicatum"
-      ]
-    },
-    {
-      "id": "grass_0484",
-      "category": "草",
-      "name": "ヒメシノブゴケ",
-      "kana": "ヒメシノブゴケ",
-      "aliases": [
-        "ヒメシノブゴケ"
-      ],
-      "romaji": [
-        "himeshinobugoke"
-      ],
-      "scientific": "Thuidium cymbifolium",
-      "search_terms": [
-        "ヒメシノブゴケ",
-        "ひめしのぶごけ",
-        "himeshinobugoke",
-        "Thuidium cymbifolium"
-      ],
-      "normalized_terms": [
-        "ヒメシノブゴケ",
-        "ひめしのぶごけ",
-        "himeshinobugoke",
-        "thuidiumcymbifolium"
-      ]
-    },
-    {
-      "id": "grass_0485",
-      "category": "草",
-      "name": "オオシノブゴケ",
-      "kana": "オオシノブゴケ",
-      "aliases": [
-        "オオシノブゴケ"
-      ],
-      "romaji": [
-        "ooshinobugoke"
-      ],
-      "scientific": "Thuidium tamariscinum",
-      "search_terms": [
-        "オオシノブゴケ",
-        "おおしのぶごけ",
-        "ooshinobugoke",
-        "Thuidium tamariscinum"
-      ],
-      "normalized_terms": [
-        "オオシノブゴケ",
-        "おおしのぶごけ",
-        "ooshinobugoke",
-        "thuidiumtamariscinum"
-      ]
-    },
-    {
-      "id": "grass_0486",
-      "category": "草",
-      "name": "コバノエゾシノブゴケ",
-      "kana": "コバノエゾシノブゴケ",
-      "aliases": [
-        "コバノエゾシノブゴケ"
-      ],
-      "romaji": [
-        "kobanoezoshinobugoke"
-      ],
-      "scientific": "Thuidium delicatulum",
-      "search_terms": [
-        "コバノエゾシノブゴケ",
-        "こばのえぞしのぶごけ",
-        "kobanoezoshinobugoke",
-        "Thuidium delicatulum"
-      ],
-      "normalized_terms": [
-        "コバノエゾシノブゴケ",
-        "こばのえぞしのぶごけ",
-        "kobanoezoshinobugoke",
-        "thuidiumdelicatulum"
-      ]
-    },
-    {
-      "id": "grass_0487",
-      "category": "草",
-      "name": "ホソバミズゼニゴケ",
-      "kana": "ホソバミズゼニゴケ",
-      "aliases": [
-        "ホソバミズゼニゴケ"
-      ],
-      "romaji": [
-        "hosobamizuzenigoke"
-      ],
-      "scientific": "Apopellia endiviifolia",
-      "search_terms": [
-        "ホソバミズゼニゴケ",
-        "ほそばみずぜにごけ",
-        "hosobamizuzenigoke",
-        "Apopellia endiviifolia"
-      ],
-      "normalized_terms": [
-        "ホソバミズゼニゴケ",
-        "ほそばみずぜにごけ",
-        "hosobamizuzenigoke",
-        "apopelliaendiviifolia"
-      ]
-    },
-    {
-      "id": "grass_0488",
-      "category": "草",
-      "name": "ミズゼニゴケ",
-      "kana": "ミズゼニゴケ",
-      "aliases": [
-        "ミズゼニゴケ"
-      ],
-      "romaji": [
-        "mizuzenigoke"
-      ],
-      "scientific": "Pellia epiphylla",
-      "search_terms": [
-        "ミズゼニゴケ",
-        "みずぜにごけ",
-        "mizuzenigoke",
-        "Pellia epiphylla"
-      ],
-      "normalized_terms": [
-        "ミズゼニゴケ",
-        "みずぜにごけ",
-        "mizuzenigoke",
-        "pelliaepiphylla"
-      ]
-    },
-    {
       "id": "grass_0489",
       "category": "木",
       "name": "エビヅル",
@@ -33468,131 +31609,6 @@
         "えびづる",
         "ebizuru",
         "vitisficifolia"
-      ]
-    },
-    {
-      "id": "grass_0490",
-      "category": "草",
-      "name": "ジンガサゴケ",
-      "kana": "ジンガサゴケ",
-      "aliases": [
-        "ジンガサゴケ"
-      ],
-      "romaji": [
-        "jingasagoke"
-      ],
-      "scientific": "Reboulia hemisphaerica subsp. orientalis",
-      "search_terms": [
-        "ジンガサゴケ",
-        "じんがさごけ",
-        "jingasagoke",
-        "Reboulia hemisphaerica subsp. orientalis"
-      ],
-      "normalized_terms": [
-        "ジンガサゴケ",
-        "じんがさごけ",
-        "jingasagoke",
-        "rebouliahemisphaericasubsporientalis"
-      ]
-    },
-    {
-      "id": "grass_0491",
-      "category": "草",
-      "name": "ヒメジャゴケ",
-      "kana": "ヒメジャゴケ",
-      "aliases": [
-        "ヒメジャゴケ"
-      ],
-      "romaji": [
-        "himejagoke"
-      ],
-      "scientific": "Sandea japonica",
-      "search_terms": [
-        "ヒメジャゴケ",
-        "ひめじゃごけ",
-        "himejagoke",
-        "Sandea japonica"
-      ],
-      "normalized_terms": [
-        "ヒメジャゴケ",
-        "ひめじゃごけ",
-        "himejagoke",
-        "sandeajaponica"
-      ]
-    },
-    {
-      "id": "grass_0492",
-      "category": "草",
-      "name": "ケゼニゴケ",
-      "kana": "ケゼニゴケ",
-      "aliases": [
-        "ケゼニゴケ"
-      ],
-      "romaji": [
-        "kezenigoke"
-      ],
-      "scientific": "Dumortiera hirsuta",
-      "search_terms": [
-        "ケゼニゴケ",
-        "けぜにごけ",
-        "kezenigoke",
-        "Dumortiera hirsuta"
-      ],
-      "normalized_terms": [
-        "ケゼニゴケ",
-        "けぜにごけ",
-        "kezenigoke",
-        "dumortierahirsuta"
-      ]
-    },
-    {
-      "id": "grass_0493",
-      "category": "草",
-      "name": "オオハイゴケ",
-      "kana": "オオハイゴケ",
-      "aliases": [
-        "オオハイゴケ"
-      ],
-      "romaji": [
-        "oohaigoke"
-      ],
-      "scientific": "Stereodon pratensis",
-      "search_terms": [
-        "オオハイゴケ",
-        "おおはいごけ",
-        "oohaigoke",
-        "Stereodon pratensis"
-      ],
-      "normalized_terms": [
-        "オオハイゴケ",
-        "おおはいごけ",
-        "oohaigoke",
-        "stereodonpratensis"
-      ]
-    },
-    {
-      "id": "grass_0494",
-      "category": "草",
-      "name": "クサゴケ",
-      "kana": "クサゴケ",
-      "aliases": [
-        "クサゴケ"
-      ],
-      "romaji": [
-        "kusagoke"
-      ],
-      "scientific": "Callicladium haldaneanum",
-      "search_terms": [
-        "クサゴケ",
-        "くさごけ",
-        "kusagoke",
-        "Callicladium haldaneanum"
-      ],
-      "normalized_terms": [
-        "クサゴケ",
-        "くさごけ",
-        "kusagoke",
-        "callicladiumhaldaneanum"
       ]
     },
     {
@@ -34121,8 +32137,8 @@
     },
     {
       "id": "herb_0015",
-      "category": "ハーブ",
-      "name": "ゼラニウム",
+      "category": "花",
+      "name": "ゼラニウム（ゾーナル系）",
       "kana": "ゼラニウム",
       "aliases": [
         "ゼラニウム"
@@ -34132,12 +32148,14 @@
       ],
       "scientific": "Pelargonium × hybridum",
       "search_terms": [
+        "ゼラニウム（ゾーナル系）",
         "ゼラニウム",
         "ぜらにうむ",
         "zeraniumu",
         "Pelargonium × hybridum"
       ],
       "normalized_terms": [
+        "ゼラニウム(ゾーナル系)",
         "ゼラニウム",
         "ぜらにうむ",
         "zeraniumu",
@@ -34471,8 +32489,8 @@
     },
     {
       "id": "herb_0029",
-      "category": "ハーブ",
-      "name": "ハイビスカス",
+      "category": "花の木",
+      "name": "ハイビスカス（ブッソウゲ）",
       "kana": "ハイビスカス",
       "aliases": [
         "ハイビスカス"
@@ -34482,12 +32500,14 @@
       ],
       "scientific": "Hibiscus × rosa-sinensis",
       "search_terms": [
+        "ハイビスカス（ブッソウゲ）",
         "ハイビスカス",
         "はいびすかす",
         "haibisukasu",
         "Hibiscus × rosa-sinensis"
       ],
       "normalized_terms": [
+        "ハイビスカス(ブッソウゲ)",
         "ハイビスカス",
         "はいびすかす",
         "haibisukasu",
@@ -34817,31 +32837,6 @@
         "しなもん",
         "shinamon",
         "cinnamomumverum"
-      ]
-    },
-    {
-      "id": "herb_0043",
-      "category": "ハーブ",
-      "name": "カシア",
-      "kana": "カシア",
-      "aliases": [
-        "カシア"
-      ],
-      "romaji": [
-        "kashia"
-      ],
-      "scientific": "Cinnamomum cassia",
-      "search_terms": [
-        "カシア",
-        "かしあ",
-        "kashia",
-        "Cinnamomum cassia"
-      ],
-      "normalized_terms": [
-        "カシア",
-        "かしあ",
-        "kashia",
-        "cinnamomumcassia"
       ]
     },
     {
@@ -37467,31 +35462,6 @@
         "こりあんだーみんと",
         "koriandaaminto",
         "elsholtziaciliata"
-      ]
-    },
-    {
-      "id": "herb_0165",
-      "category": "ハーブ",
-      "name": "グリークオレガノ",
-      "kana": "グリークオレガノ",
-      "aliases": [
-        "グリークオレガノ"
-      ],
-      "romaji": [
-        "guriikuoregano"
-      ],
-      "scientific": "Origanum vulgare subsp. viridulum",
-      "search_terms": [
-        "グリークオレガノ",
-        "ぐりーくおれがの",
-        "guriikuoregano",
-        "Origanum vulgare subsp. viridulum"
-      ],
-      "normalized_terms": [
-        "グリークオレガノ",
-        "ぐりーくおれがの",
-        "guriikuoregano",
-        "origanumvulgaresubspviridulum"
       ]
     },
     {
@@ -48970,31 +46940,6 @@
       ]
     },
     {
-      "id": "mushroom_0400",
-      "category": "きのこ",
-      "name": "ウメノキゴケ",
-      "kana": "ウメノキゴケ",
-      "aliases": [
-        "ウメノキゴケ"
-      ],
-      "romaji": [
-        "umenokigoke"
-      ],
-      "scientific": "Parmotrema tinctorum",
-      "search_terms": [
-        "ウメノキゴケ",
-        "うめのきごけ",
-        "umenokigoke",
-        "Parmotrema tinctorum"
-      ],
-      "normalized_terms": [
-        "ウメノキゴケ",
-        "うめのきごけ",
-        "umenokigoke",
-        "parmotrematinctorum"
-      ]
-    },
-    {
       "id": "mushroom_0401",
       "category": "きのこ",
       "name": "パイプタケ",
@@ -49170,31 +47115,6 @@
       ]
     },
     {
-      "id": "mushroom_0408",
-      "category": "きのこ",
-      "name": "キウメノキゴケ",
-      "kana": "キウメノキゴケ",
-      "aliases": [
-        "キウメノキゴケ"
-      ],
-      "romaji": [
-        "kiumenokigoke"
-      ],
-      "scientific": "Flavoparmelia caperata",
-      "search_terms": [
-        "キウメノキゴケ",
-        "きうめのきごけ",
-        "kiumenokigoke",
-        "Flavoparmelia caperata"
-      ],
-      "normalized_terms": [
-        "キウメノキゴケ",
-        "きうめのきごけ",
-        "kiumenokigoke",
-        "flavoparmeliacaperata"
-      ]
-    },
-    {
       "id": "mushroom_0409",
       "category": "きのこ",
       "name": "モミジウロコタケ",
@@ -49317,31 +47237,6 @@
         "だいだいがさ",
         "daidaigasa",
         "cyptotramaasprata"
-      ]
-    },
-    {
-      "id": "mushroom_0414",
-      "category": "きのこ",
-      "name": "ナミガタウメノキゴケ",
-      "kana": "ナミガタウメノキゴケ",
-      "aliases": [
-        "ナミガタウメノキゴケ"
-      ],
-      "romaji": [
-        "namigataumenokigoke"
-      ],
-      "scientific": "Parmotrema austrosinense",
-      "search_terms": [
-        "ナミガタウメノキゴケ",
-        "なみがたうめのきごけ",
-        "namigataumenokigoke",
-        "Parmotrema austrosinense"
-      ],
-      "normalized_terms": [
-        "ナミガタウメノキゴケ",
-        "なみがたうめのきごけ",
-        "namigataumenokigoke",
-        "parmotremaaustrosinense"
       ]
     },
     {
@@ -49895,31 +47790,6 @@
       ]
     },
     {
-      "id": "mushroom_0437",
-      "category": "きのこ",
-      "name": "コフキメダルチイ",
-      "kana": "コフキメダルチイ",
-      "aliases": [
-        "コフキメダルチイ"
-      ],
-      "romaji": [
-        "kofukimedaruchii"
-      ],
-      "scientific": "Dirinaria applanata",
-      "search_terms": [
-        "コフキメダルチイ",
-        "こふきめだるちい",
-        "kofukimedaruchii",
-        "Dirinaria applanata"
-      ],
-      "normalized_terms": [
-        "コフキメダルチイ",
-        "こふきめだるちい",
-        "kofukimedaruchii",
-        "dirinariaapplanata"
-      ]
-    },
-    {
       "id": "mushroom_0438",
       "category": "きのこ",
       "name": "シバフタケ",
@@ -50095,31 +47965,6 @@
       ]
     },
     {
-      "id": "mushroom_0445",
-      "category": "きのこ",
-      "name": "ヘリトリゴケ",
-      "kana": "ヘリトリゴケ",
-      "aliases": [
-        "ヘリトリゴケ"
-      ],
-      "romaji": [
-        "heritorigoke"
-      ],
-      "scientific": "Porpidia albocaerulescens",
-      "search_terms": [
-        "ヘリトリゴケ",
-        "へりとりごけ",
-        "heritorigoke",
-        "Porpidia albocaerulescens"
-      ],
-      "normalized_terms": [
-        "ヘリトリゴケ",
-        "へりとりごけ",
-        "heritorigoke",
-        "porpidiaalbocaerulescens"
-      ]
-    },
-    {
       "id": "mushroom_0446",
       "category": "きのこ",
       "name": "ワヒダタケ",
@@ -50145,35 +47990,6 @@
       ]
     },
     {
-      "id": "mushroom_0447",
-      "category": "きのこ",
-      "name": "カシ類紫かび病菌",
-      "kana": "カシルイムラサキカビビョウキン",
-      "aliases": [
-        "カシ類紫かび病菌"
-      ],
-      "romaji": [
-        "kashiruimurasakikabibyoukin"
-      ],
-      "scientific": "Cystotheca wrightii",
-      "search_terms": [
-        "カシ類紫かび病菌",
-        "カシルイムラサキカビビョウキン",
-        "かしるいむらさきかびびょうきん",
-        "かし類紫かび病菌",
-        "kashiruimurasakikabibyoukin",
-        "Cystotheca wrightii"
-      ],
-      "normalized_terms": [
-        "カシ類紫かび病菌",
-        "カシルイムラサキカビビョウキン",
-        "かしるいむらさきかびびょうきん",
-        "かし類紫かび病菌",
-        "kashiruimurasakikabibyoukin",
-        "cystothecawrightii"
-      ]
-    },
-    {
       "id": "mushroom_0448",
       "category": "きのこ",
       "name": "ニオイドクツルタケ",
@@ -50196,35 +48012,6 @@
         "においどくつるたけ",
         "nioidokutsurutake",
         "amanitaoberwinkleriana"
-      ]
-    },
-    {
-      "id": "mushroom_0449",
-      "category": "きのこ",
-      "name": "エノキ裏うどんこ病菌",
-      "kana": "エノキウラウドンコビョウキン",
-      "aliases": [
-        "エノキ裏うどんこ病菌"
-      ],
-      "romaji": [
-        "enokiuraudonkobyoukin"
-      ],
-      "scientific": "Pleochaeta shiraiana",
-      "search_terms": [
-        "エノキ裏うどんこ病菌",
-        "エノキウラウドンコビョウキン",
-        "えのきうらうどんこびょうきん",
-        "えのき裏うどんこ病菌",
-        "enokiuraudonkobyoukin",
-        "Pleochaeta shiraiana"
-      ],
-      "normalized_terms": [
-        "エノキ裏うどんこ病菌",
-        "エノキウラウドンコビョウキン",
-        "えのきうらうどんこびょうきん",
-        "えのき裏うどんこ病菌",
-        "enokiuraudonkobyoukin",
-        "pleochaetashiraiana"
       ]
     },
     {
@@ -50353,31 +48140,6 @@
       ]
     },
     {
-      "id": "mushroom_0455",
-      "category": "きのこ",
-      "name": "マツゲゴケ",
-      "kana": "マツゲゴケ",
-      "aliases": [
-        "マツゲゴケ"
-      ],
-      "romaji": [
-        "matsugegoke"
-      ],
-      "scientific": "Parmotrema clavuliferum",
-      "search_terms": [
-        "マツゲゴケ",
-        "まつげごけ",
-        "matsugegoke",
-        "Parmotrema clavuliferum"
-      ],
-      "normalized_terms": [
-        "マツゲゴケ",
-        "まつげごけ",
-        "matsugegoke",
-        "parmotremaclavuliferum"
-      ]
-    },
-    {
       "id": "mushroom_0456",
       "category": "きのこ",
       "name": "オシロイタケ",
@@ -50400,35 +48162,6 @@
         "おしろいたけ",
         "oshiroitake",
         "tyromyceschioneus"
-      ]
-    },
-    {
-      "id": "mushroom_0457",
-      "category": "きのこ",
-      "name": "ロウソクゴケ（広義）",
-      "kana": "ロウソクゴケ",
-      "aliases": [
-        "ロウソクゴケ（広義）"
-      ],
-      "romaji": [
-        "rousokugoke"
-      ],
-      "scientific": "Candelaria concolor",
-      "search_terms": [
-        "ロウソクゴケ（広義）",
-        "ロウソクゴケ",
-        "ろうそくごけ",
-        "ろうそくごけ（広義）",
-        "rousokugoke",
-        "Candelaria concolor"
-      ],
-      "normalized_terms": [
-        "ロウソクゴケ(広義)",
-        "ロウソクゴケ",
-        "ろうそくごけ",
-        "ろうそくごけ(広義)",
-        "rousokugoke",
-        "candelariaconcolor"
       ]
     },
     {
@@ -50582,31 +48315,6 @@
       ]
     },
     {
-      "id": "mushroom_0464",
-      "category": "きのこ",
-      "name": "ツブダイダイゴケ",
-      "kana": "ツブダイダイゴケ",
-      "aliases": [
-        "ツブダイダイゴケ"
-      ],
-      "romaji": [
-        "tsubudaidaigoke"
-      ],
-      "scientific": "Gyalolechia flavovirescens",
-      "search_terms": [
-        "ツブダイダイゴケ",
-        "つぶだいだいごけ",
-        "tsubudaidaigoke",
-        "Gyalolechia flavovirescens"
-      ],
-      "normalized_terms": [
-        "ツブダイダイゴケ",
-        "つぶだいだいごけ",
-        "tsubudaidaigoke",
-        "gyalolechiaflavovirescens"
-      ]
-    },
-    {
       "id": "mushroom_0465",
       "category": "きのこ",
       "name": "フクロキクラゲ",
@@ -50682,56 +48390,6 @@
       ]
     },
     {
-      "id": "mushroom_0468",
-      "category": "きのこ",
-      "name": "ハクテンゴケ",
-      "kana": "ハクテンゴケ",
-      "aliases": [
-        "ハクテンゴケ"
-      ],
-      "romaji": [
-        "hakutengoke"
-      ],
-      "scientific": "Punctelia borreri",
-      "search_terms": [
-        "ハクテンゴケ",
-        "はくてんごけ",
-        "hakutengoke",
-        "Punctelia borreri"
-      ],
-      "normalized_terms": [
-        "ハクテンゴケ",
-        "はくてんごけ",
-        "hakutengoke",
-        "puncteliaborreri"
-      ]
-    },
-    {
-      "id": "mushroom_0469",
-      "category": "きのこ",
-      "name": "レプラゴケ",
-      "kana": "レプラゴケ",
-      "aliases": [
-        "レプラゴケ"
-      ],
-      "romaji": [
-        "repuragoke"
-      ],
-      "scientific": "Lepraria finkii",
-      "search_terms": [
-        "レプラゴケ",
-        "れぷらごけ",
-        "repuragoke",
-        "Lepraria finkii"
-      ],
-      "normalized_terms": [
-        "レプラゴケ",
-        "れぷらごけ",
-        "repuragoke",
-        "leprariafinkii"
-      ]
-    },
-    {
       "id": "mushroom_0470",
       "category": "きのこ",
       "name": "エビウラタケ",
@@ -50779,35 +48437,6 @@
         "あみひかりたけ",
         "amihikaritake",
         "favolaschiamanipularis"
-      ]
-    },
-    {
-      "id": "mushroom_0472",
-      "category": "きのこ",
-      "name": "アオキ星型すす病菌",
-      "kana": "アオキホシガタススビョウキン",
-      "aliases": [
-        "アオキ星型すす病菌"
-      ],
-      "romaji": [
-        "aokihoshigatasusubyoukin"
-      ],
-      "scientific": "Asterina aucubae",
-      "search_terms": [
-        "アオキ星型すす病菌",
-        "アオキホシガタススビョウキン",
-        "あおきほしがたすすびょうきん",
-        "あおき星型すす病菌",
-        "aokihoshigatasusubyoukin",
-        "Asterina aucubae"
-      ],
-      "normalized_terms": [
-        "アオキ星型すす病菌",
-        "アオキホシガタススビョウキン",
-        "あおきほしがたすすびょうきん",
-        "あおき星型すす病菌",
-        "aokihoshigatasusubyoukin",
-        "asterinaaucubae"
       ]
     },
     {
@@ -50961,31 +48590,6 @@
       ]
     },
     {
-      "id": "mushroom_0479",
-      "category": "きのこ",
-      "name": "ヒメジョウゴゴケ",
-      "kana": "ヒメジョウゴゴケ",
-      "aliases": [
-        "ヒメジョウゴゴケ"
-      ],
-      "romaji": [
-        "himejougogoke"
-      ],
-      "scientific": "Cladonia kurokawae",
-      "search_terms": [
-        "ヒメジョウゴゴケ",
-        "ひめじょうごごけ",
-        "himejougogoke",
-        "Cladonia kurokawae"
-      ],
-      "normalized_terms": [
-        "ヒメジョウゴゴケ",
-        "ひめじょうごごけ",
-        "himejougogoke",
-        "cladoniakurokawae"
-      ]
-    },
-    {
       "id": "mushroom_0480",
       "category": "きのこ",
       "name": "ニクイロアナタケ",
@@ -51036,31 +48640,6 @@
       ]
     },
     {
-      "id": "mushroom_0482",
-      "category": "きのこ",
-      "name": "コアカミゴケ",
-      "kana": "コアカミゴケ",
-      "aliases": [
-        "コアカミゴケ"
-      ],
-      "romaji": [
-        "koakamigoke"
-      ],
-      "scientific": "Cladonia macilenta",
-      "search_terms": [
-        "コアカミゴケ",
-        "こあかみごけ",
-        "koakamigoke",
-        "Cladonia macilenta"
-      ],
-      "normalized_terms": [
-        "コアカミゴケ",
-        "こあかみごけ",
-        "koakamigoke",
-        "cladoniamacilenta"
-      ]
-    },
-    {
       "id": "mushroom_0483",
       "category": "きのこ",
       "name": "クリゲノチャヒラタケ",
@@ -51083,35 +48662,6 @@
         "くりげのちゃひらたけ",
         "kurigenochahiratake",
         "crepidotuscrocophyllus"
-      ]
-    },
-    {
-      "id": "mushroom_0484",
-      "category": "きのこ",
-      "name": "メダケ赤衣病菌",
-      "kana": "メダケアカゴロモビョウキン",
-      "aliases": [
-        "メダケ赤衣病菌"
-      ],
-      "romaji": [
-        "medakeakagoromobyoukin"
-      ],
-      "scientific": "Stereostratum corticioides",
-      "search_terms": [
-        "メダケ赤衣病菌",
-        "メダケアカゴロモビョウキン",
-        "めだけあかごろもびょうきん",
-        "めだけ赤衣病菌",
-        "medakeakagoromobyoukin",
-        "Stereostratum corticioides"
-      ],
-      "normalized_terms": [
-        "メダケ赤衣病菌",
-        "メダケアカゴロモビョウキン",
-        "めだけあかごろもびょうきん",
-        "めだけ赤衣病菌",
-        "medakeakagoromobyoukin",
-        "stereostratumcorticioides"
       ]
     },
     {
@@ -51162,33 +48712,6 @@
         "びょうたけ",
         "byoutake",
         "calycinacitrina"
-      ]
-    },
-    {
-      "id": "mushroom_0487",
-      "category": "きのこ",
-      "name": "白きょう病菌",
-      "kana": "ハッキョウビョウキン",
-      "aliases": [
-        "白きょう病菌"
-      ],
-      "romaji": [
-        "hakkyoubyoukin"
-      ],
-      "scientific": "Beauveria bassiana",
-      "search_terms": [
-        "白きょう病菌",
-        "ハッキョウビョウキン",
-        "はっきょうびょうきん",
-        "hakkyoubyoukin",
-        "Beauveria bassiana"
-      ],
-      "normalized_terms": [
-        "白きょう病菌",
-        "ハッキョウビョウキン",
-        "はっきょうびょうきん",
-        "hakkyoubyoukin",
-        "beauveriabassiana"
       ]
     },
     {
@@ -54039,31 +51562,6 @@
         "たまりろ",
         "tamariro",
         "solanumbetaceum"
-      ]
-    },
-    {
-      "id": "rare_fruit_0113",
-      "category": "珍しい果樹",
-      "name": "ロンコン",
-      "kana": "ロンコン",
-      "aliases": [
-        "ロンコン"
-      ],
-      "romaji": [
-        "ronkon"
-      ],
-      "scientific": "Lansium parasiticum",
-      "search_terms": [
-        "ロンコン",
-        "ろんこん",
-        "ronkon",
-        "Lansium parasiticum"
-      ],
-      "normalized_terms": [
-        "ロンコン",
-        "ろんこん",
-        "ronkon",
-        "lansiumparasiticum"
       ]
     },
     {
@@ -58964,31 +56462,6 @@
         "しらやまぎく",
         "shirayamagiku",
         "asterscaber"
-      ]
-    },
-    {
-      "id": "sansai_0153",
-      "category": "山菜",
-      "name": "シロヨメナ",
-      "kana": "シロヨメナ",
-      "aliases": [
-        "シロヨメナ"
-      ],
-      "romaji": [
-        "shiroyomena"
-      ],
-      "scientific": "Aster ageratoides var. ageratoides",
-      "search_terms": [
-        "シロヨメナ",
-        "しろよめな",
-        "shiroyomena",
-        "Aster ageratoides var. ageratoides"
-      ],
-      "normalized_terms": [
-        "シロヨメナ",
-        "しろよめな",
-        "shiroyomena",
-        "asterageratoidesvarageratoides"
       ]
     },
     {
@@ -71726,31 +69199,6 @@
         "なぎなたこうじゅ",
         "naginatakouju",
         "elsholtziaciliata"
-      ]
-    },
-    {
-      "id": "yakuso_0135",
-      "category": "薬草",
-      "name": "ヒキオコシ",
-      "kana": "ヒキオコシ",
-      "aliases": [
-        "ヒキオコシ"
-      ],
-      "romaji": [
-        "hikiokoshi"
-      ],
-      "scientific": "Isodon japonicus var. japonicus",
-      "search_terms": [
-        "ヒキオコシ",
-        "ひきおこし",
-        "hikiokoshi",
-        "Isodon japonicus var. japonicus"
-      ],
-      "normalized_terms": [
-        "ヒキオコシ",
-        "ひきおこし",
-        "hikiokoshi",
-        "isodonjaponicusvarjaponicus"
       ]
     },
     {

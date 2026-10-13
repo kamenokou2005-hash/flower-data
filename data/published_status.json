@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "published_count": 2800,
+  "published_count": 2700,
   "categories": {
     "flower": {
       "category": "花",
-      "count": 491,
-      "last_published_id": "flower_0500",
+      "count": 489,
+      "last_published_id": "herb_0015",
       "image_dir": "images/flower",
       "data_file": "data/records/flower/flower.json"
     },
     "grass": {
       "category": "草",
-      "count": 499,
-      "last_published_id": "grass_0500",
+      "count": 424,
+      "last_published_id": "grass_0499",
       "image_dir": "images/grass",
       "data_file": "data/records/grass/grass.json"
     },
@@ -25,48 +25,48 @@
     },
     "flower_tree": {
       "category": "花の木",
-      "count": 206,
-      "last_published_id": "flower_tree_0200",
+      "count": 207,
+      "last_published_id": "herb_0029",
       "image_dir": "images/flower_tree",
       "data_file": "data/records/flower_tree/flower_tree.json"
     },
     "mushroom": {
       "category": "きのこ",
-      "count": 500,
+      "count": 483,
       "last_published_id": "mushroom_0500",
       "image_dir": "images/mushroom",
       "data_file": "data/records/mushroom/mushroom.json"
     },
     "sansai": {
       "category": "山菜",
-      "count": 222,
+      "count": 221,
       "last_published_id": "sansai_0222",
       "image_dir": "images/sansai",
       "data_file": "data/records/sansai/sansai.json"
     },
     "yakuso": {
       "category": "薬草",
-      "count": 229,
+      "count": 228,
       "last_published_id": "yakuso_0229",
       "image_dir": "images/yakuso",
       "data_file": "data/records/yakuso/yakuso.json"
     },
     "herb": {
       "category": "ハーブ",
-      "count": 204,
+      "count": 200,
       "last_published_id": "herb_0238",
       "image_dir": "images/herb",
       "data_file": "data/records/herb/herb.json"
     },
     "rare_fruit": {
       "category": "珍しい果樹",
-      "count": 146,
+      "count": 145,
       "last_published_id": "rare_fruit_0171",
       "image_dir": "images/rare_fruit",
       "data_file": "data/records/rare_fruit/rare_fruit.json"
     }
   },
-  "generated_at": "2026-10-11T23:31:51.595319",
+  "generated_at": "2026-10-13T09:21:05.752260",
   "remaining_resolution_summary": {
     "photo_replacements": 37,
     "genre_candidates_resolved": 142,
@@ -75,7 +75,9 @@
     "basic_verified": 344,
     "partially_enriched": 9,
     "reviewed_with_limits": 96,
-    "still_needs_research": 4
+    "still_needs_research": 4,
+    "still_needs_research_in_listing": 0,
+    "held_for_research": 4
   },
   "remaining105_summary": {
     "initial": 105,
@@ -83,6 +85,27 @@
     "remaining": 4,
     "reviewed_total": 105,
     "limited_review": 4,
-    "latest_report": "data/photo_review/remaining105_latest_20261012.txt"
+    "latest_report": "data/photo_review/remaining105_latest_20261012.txt",
+    "held_from_listing": 4,
+    "remaining_in_listing": 0
+  },
+  "classification_cleanup_summary": {
+    "original_count": 2800,
+    "excluded": 100,
+    "moves": 3,
+    "taxon_flags_reviewed": 191,
+    "retained_taxon_flags": 181,
+    "active_count": 2700,
+    "genre_exclusions": 91,
+    "identity_holds": 9,
+    "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\classification_cleanup_20261013_092103",
+    "review_method": "191件は既存の分類注記・追加調査記録と過去のサムネイル受入記録に基づき掲載の扱いを再検討した。今回全件の写真を再目視したり、すべての種・変種を独立資料で再同定したものではない。残す項目の分類上の要確認フラグは消さない。",
+    "open_listing_decisions": 0,
+    "taxonomy_limits_retained": 181,
+    "record_images_deleted": 0,
+    "new_genres": 0,
+    "github_verified": false,
+    "completed": true,
+    "master_scientific_name_sync_count": 78
   }
 }

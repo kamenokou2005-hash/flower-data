@@ -216,7 +216,10 @@
       "life_form_original": "tree",
       "native_range_original": "E. Canada to E. U.S.A",
       "biome_original": "temperate"
-    }
+    },
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "rare_fruit_0004",
@@ -642,7 +645,10 @@
     ],
     "related_record_ids": [
       "sansai_0016"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "rare_fruit_0010",
@@ -863,7 +869,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "rare_fruit_0013",
@@ -934,7 +943,10 @@
     ],
     "related_record_ids": [
       "tree_0208"
-    ]
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "rare_fruit_0014",
@@ -1651,7 +1663,10 @@
     "content_followup_review_note": "変種 glabra の分布・生活型・形態は岡山理科大学で確認。日当たりと庭木利用は広義の種の説明として明記。毛のある別変種の分布は転用しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "変種 glabra の分布・生活型・形態は岡山理科大学で確認。日当たりと庭木利用は広義の種の説明として明記。毛のある別変種の分布は転用しない。"
+    "remaining105_review_note": "変種 glabra の分布・生活型・形態は岡山理科大学で確認。日当たりと庭木利用は広義の種の説明として明記。毛のある別変種の分布は転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "rare_fruit_0024",
@@ -2880,7 +2895,10 @@
     "content_followup_review_note": "Native Plant Trustの地域植物誌が扱う亜種は採用学名と同じ subsp. minus と明示されている。地域の生育記録を世界全域の分布・環境には拡張しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "Native Plant Trustの地域植物誌が扱う亜種は採用学名と同じ subsp. minus と明示されている。地域の生育記録を世界全域の分布・環境には拡張しない。"
+    "remaining105_review_note": "Native Plant Trustの地域植物誌が扱う亜種は採用学名と同じ subsp. minus と明示されている。地域の生育記録を世界全域の分布・環境には拡張しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "rare_fruit_0041",
@@ -4349,7 +4367,10 @@
     "content_followup_review_note": "Sambucus nigra の解説を確認。アメリカ原産の S. canadensis の分布や性質と混同しない。果実等の食用・薬用の安全性は補完しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "Sambucus nigra の解説を確認。アメリカ原産の S. canadensis の分布や性質と混同しない。果実等の食用・薬用の安全性は補完しない。"
+    "remaining105_review_note": "Sambucus nigra の解説を確認。アメリカ原産の S. canadensis の分布や性質と混同しない。果実等の食用・薬用の安全性は補完しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "rare_fruit_0067",
@@ -4496,7 +4517,10 @@
       "life_form_original": "tree",
       "native_range_original": "Europe to Caucasus, N. Africa to Iraq",
       "biome_original": "temperate"
-    }
+    },
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "rare_fruit_0069",
@@ -4862,7 +4886,10 @@
     "content_followup_review_note": "英国王立園芸協会のジョスタベリーの具体的な解説を確認。英国での結実月は日本の時期には転用しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "英国王立園芸協会のジョスタベリーの具体的な解説を確認。英国での結実月は日本の時期には転用しない。"
+    "remaining105_review_note": "英国王立園芸協会のジョスタベリーの具体的な解説を確認。英国での結実月は日本の時期には転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "rare_fruit_0075",
@@ -4931,7 +4958,10 @@
     "content_followup_review_note": "大学のボイセンベリーの記載と交配表記を照合。栽培環境は同資料が明示的にボイセンベリーを含める栽培群の共通条件。個別クローンの性質を全株に断定しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "大学のボイセンベリーの記載と交配表記を照合。栽培環境は同資料が明示的にボイセンベリーを含める栽培群の共通条件。個別クローンの性質を全株に断定しない。"
+    "remaining105_review_note": "大学のボイセンベリーの記載と交配表記を照合。栽培環境は同資料が明示的にボイセンベリーを含める栽培群の共通条件。個別クローンの性質を全株に断定しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "rare_fruit_0076",
@@ -5002,7 +5032,10 @@
     "content_followup_review_note": "英国王立園芸協会のローガンベリーの解説を確認。とげなし品種の性質を全体には当てはめず、英国の結実時期は転用しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "英国王立園芸協会のローガンベリーの解説を確認。とげなし品種の性質を全体には当てはめず、英国の結実時期は転用しない。"
+    "remaining105_review_note": "英国王立園芸協会のローガンベリーの解説を確認。とげなし品種の性質を全体には当てはめず、英国の結実時期は転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "rare_fruit_0077",
@@ -7354,78 +7387,6 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
-  },
-  {
-    "id": "rare_fruit_0113",
-    "category": "珍しい果樹",
-    "display_name": "ロンコン",
-    "kana": "ロンコン",
-    "search_aliases": [
-      "ロンコン"
-    ],
-    "family": "Meliaceae科",
-    "genus": "Lansium属",
-    "scientific_name": "Lansium parasiticum",
-    "taxon_id": 552950,
-    "reference_taxon_id": 552950,
-    "taxon_rank": "species",
-    "entity_type": "種",
-    "life_form": "生活型は要確認",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "要確認（ロンコンと登録学名の対応を再照合中）。",
-    "habitat": "要確認（対象とする植物の確認後に記載）。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "写真では、厚みのある光沢の葉。",
-    "trivia": "採用分類ではMeliaceae科のLansium属に属する。学名はLansium parasiticum。",
-    "classification": {
-      "kingdom": "植物界",
-      "clade": "Tracheophyta",
-      "order": "ムクロジ目",
-      "family": "Meliaceae科",
-      "genus": "Lansium属",
-      "species": "Lansium parasiticum"
-    },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n追加調査：ロンコンの和名と登録学名の対応は要確認。Kewは Lansium parasiticum を Epicharis parasitica の異名として扱い、果樹として知られる Lansium domesticum を別種として扱う。既存の分類・画像の採用対象を再照合する必要がある。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/552950",
-    "content_source_urls": [
-      "https://www.inaturalist.org/taxa/552950",
-      "https://powo.science.kew.org/taxon/578885-1",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A578885-1",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77222489-1",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A578879-1"
-    ],
-    "content_source_scope": "unresolved_taxon_scope",
-    "image": {
-      "author": "(c) Vreni Gem O. Caasi, some rights reserved (CC BY)",
-      "license": "CC-BY",
-      "source_url": "https://www.inaturalist.org/photos/351691370",
-      "image_path": "images/0101_0150/rare_fruit_0113.jpeg",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/"
-    },
-    "content_status": "完成",
-    "needs_ai_summary": false,
-    "needs_manual_content_review": true,
-    "needs_manual_taxon_review": false,
-    "needs_manual_image_review": false,
-    "thumbnail_visually_reviewed": true,
-    "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。厚みのある光沢の葉。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-11",
-    "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
-    "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
-    "existing_content_fields_reused": [],
-    "content_followup_source_title": "Lansium parasiticum (Osbeck) K.C.Sahni & Bennet | Plants of the World Online | Kew Science",
-    "content_followup_source_url": "https://powo.science.kew.org/taxon/578885-1",
-    "content_followup_review_status": "分類範囲の再照合が必要",
-    "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "ロンコンの和名と登録学名の対応は要確認。Kewは Lansium parasiticum を Epicharis parasitica の異名として扱い、果樹として知られる Lansium domesticum を別種として扱う。既存の分類・画像の採用対象を再照合する必要がある。",
-    "content_basic_ecology_verified": false,
-    "remaining105_review_status": "要確認",
-    "remaining105_review_note": "ロンコンの和名と登録学名の対応は要確認。Kewは Lansium parasiticum を Epicharis parasitica の異名として扱い、果樹として知られる Lansium domesticum を別種として扱う。既存の分類・画像の採用対象を再照合する必要がある。"
   },
   {
     "id": "rare_fruit_0114",

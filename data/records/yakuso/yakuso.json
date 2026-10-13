@@ -289,7 +289,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "yakuso_0005",
@@ -2660,7 +2663,7 @@
     "display_name": "ウツボグサ",
     "kana": "ウツボグサ",
     "search_aliases": [
-        "ウツボグサ"
+      "ウツボグサ"
     ],
     "family": "Lamiaceae科",
     "genus": "Prunella属",
@@ -2678,26 +2681,26 @@
     "feature_summary": "茎先に紫色の唇形花が穂状に集まる。",
     "trivia": "花穂の形を矢を入れる靫に見立てた名前。",
     "classification": {
-        "kingdom": "植物界",
-        "clade": "Tracheophyta",
-        "order": "Lamiales目",
-        "family": "Lamiaceae科",
-        "genus": "Prunella属",
-        "species": "Prunella vulgaris subsp. asiatica"
+      "kingdom": "植物界",
+      "clade": "Tracheophyta",
+      "order": "Lamiales目",
+      "family": "Lamiaceae科",
+      "genus": "Prunella属",
+      "species": "Prunella vulgaris subsp. asiatica"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0292の説明も照合。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%84%E3%83%9C%E3%82%B0%E3%82%B5",
     "content_source_urls": [
-        "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%84%E3%83%9C%E3%82%B0%E3%82%B5",
-        "https://www.inaturalist.org/taxa/367463"
+      "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%84%E3%83%9C%E3%82%B0%E3%82%B5",
+      "https://www.inaturalist.org/taxa/367463"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
-        "author": "(c) 大澤風季 ohsawa_Fuki, some rights reserved (CC BY)",
-        "license": "CC-BY",
-        "source_url": "https://www.inaturalist.org/photos/734249105",
-        "image_path": "images/0001_0050/yakuso_0038.jpg",
-        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      "author": "(c) 大澤風季 ohsawa_Fuki, some rights reserved (CC BY)",
+      "license": "CC-BY",
+      "source_url": "https://www.inaturalist.org/photos/734249105",
+      "image_path": "images/0001_0050/yakuso_0038.jpg",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -2714,17 +2717,20 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [
-        "flowering_season",
-        "habitat",
-        "distribution",
-        "life_form",
-        "feature_summary",
-        "trivia"
+      "flowering_season",
+      "habitat",
+      "distribution",
+      "life_form",
+      "feature_summary",
+      "trivia"
     ],
     "related_record_ids": [
-        "flower_0292"
-    ]
-},
+      "flower_0292"
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+  },
   {
     "id": "yakuso_0039",
     "category": "薬草",
@@ -2947,7 +2953,7 @@
     "display_name": "シソ",
     "kana": "シソ",
     "search_aliases": [
-        "シソ"
+      "シソ"
     ],
     "family": "Lamiaceae科",
     "genus": "Perilla属",
@@ -2965,26 +2971,26 @@
     "feature_summary": "写真では、紫色の鋸歯の葉。",
     "trivia": "赤ジソや青ジソなどを含み、青ジソの葉は大葉として流通する。",
     "classification": {
-        "kingdom": "植物界",
-        "clade": "Tracheophyta",
-        "order": "Lamiales目",
-        "family": "Lamiaceae科",
-        "genus": "Perilla属",
-        "species": "Perilla frutescens var. crispa"
+      "kingdom": "植物界",
+      "clade": "Tracheophyta",
+      "order": "Lamiales目",
+      "family": "Lamiaceae科",
+      "genus": "Perilla属",
+      "species": "Perilla frutescens var. crispa"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0496の説明も照合。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%BD",
     "content_source_urls": [
-        "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%BD",
-        "https://www.inaturalist.org/taxa/242111"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%BD",
+      "https://www.inaturalist.org/taxa/242111"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
-        "author": "no rights reserved",
-        "license": "CC0",
-        "source_url": "https://www.inaturalist.org/photos/742304524",
-        "image_path": "images/0001_0050/yakuso_0042.jpg",
-        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      "author": "no rights reserved",
+      "license": "CC0",
+      "source_url": "https://www.inaturalist.org/photos/742304524",
+      "image_path": "images/0001_0050/yakuso_0042.jpg",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -3001,24 +3007,27 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [
-        "flowering_season",
-        "habitat",
-        "distribution",
-        "life_form",
-        "feature_summary",
-        "trivia"
+      "flowering_season",
+      "habitat",
+      "distribution",
+      "life_form",
+      "feature_summary",
+      "trivia"
     ],
     "related_record_ids": [
-        "flower_0496"
-    ]
-},
+      "flower_0496"
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+  },
   {
     "id": "yakuso_0043",
     "category": "薬草",
     "display_name": "エゴマ",
     "kana": "エゴマ",
     "search_aliases": [
-        "エゴマ"
+      "エゴマ"
     ],
     "family": "Lamiaceae科",
     "genus": "Perilla属",
@@ -3036,26 +3045,26 @@
     "feature_summary": "写真では、対生する鋸歯の葉。",
     "trivia": "採用分類ではLamiaceae科のPerilla属に属する。",
     "classification": {
-        "kingdom": "植物界",
-        "clade": "Tracheophyta",
-        "order": "Lamiales目",
-        "family": "Lamiaceae科",
-        "genus": "Perilla属",
-        "species": "Perilla frutescens var. frutescens"
+      "kingdom": "植物界",
+      "clade": "Tracheophyta",
+      "order": "Lamiales目",
+      "family": "Lamiaceae科",
+      "genus": "Perilla属",
+      "species": "Perilla frutescens var. frutescens"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0020の説明も照合。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Perilla",
     "content_source_urls": [
-        "https://en.wikipedia.org/wiki/Perilla",
-        "https://www.inaturalist.org/taxa/242112"
+      "https://en.wikipedia.org/wiki/Perilla",
+      "https://www.inaturalist.org/taxa/242112"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
-        "author": "(c) Alex Abair, some rights reserved (CC BY)",
-        "license": "CC-BY",
-        "source_url": "https://www.inaturalist.org/photos/734129663",
-        "image_path": "images/0001_0050/yakuso_0043.jpg",
-        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      "author": "(c) Alex Abair, some rights reserved (CC BY)",
+      "license": "CC-BY",
+      "source_url": "https://www.inaturalist.org/photos/734129663",
+      "image_path": "images/0001_0050/yakuso_0043.jpg",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -3072,17 +3081,20 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [
-        "flowering_season",
-        "habitat",
-        "distribution",
-        "life_form",
-        "feature_summary",
-        "trivia"
+      "flowering_season",
+      "habitat",
+      "distribution",
+      "life_form",
+      "feature_summary",
+      "trivia"
     ],
     "related_record_ids": [
-        "sansai_0020"
-    ]
-},
+      "sansai_0020"
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+  },
   {
     "id": "yakuso_0044",
     "category": "薬草",
@@ -4953,7 +4965,7 @@
     "display_name": "ノコンギク",
     "kana": "ノコンギク",
     "search_aliases": [
-        "ノコンギク"
+      "ノコンギク"
     ],
     "family": "キク科",
     "genus": "Aster属",
@@ -4971,26 +4983,26 @@
     "feature_summary": "写真では、淡紫色の舌状花。",
     "trivia": "ヨメナなど似た野菊との識別には、冠毛の長さや葉・茎の毛などが手掛かりになります。",
     "classification": {
-        "kingdom": "植物界",
-        "clade": "Tracheophyta",
-        "order": "キク目",
-        "family": "キク科",
-        "genus": "Aster属",
-        "species": "Aster microcephalus var. ovatus"
+      "kingdom": "植物界",
+      "clade": "Tracheophyta",
+      "order": "キク目",
+      "family": "キク科",
+      "genus": "Aster属",
+      "species": "Aster microcephalus var. ovatus"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0157の説明も照合。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B3%E3%83%B3%E3%82%AE%E3%82%AF",
     "content_source_urls": [
-        "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B3%E3%83%B3%E3%82%AE%E3%82%AF",
-        "https://www.inaturalist.org/taxa/1433114"
+      "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B3%E3%83%B3%E3%82%AE%E3%82%AF",
+      "https://www.inaturalist.org/taxa/1433114"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
-        "author": "(c) mami_t_t, some rights reserved (CC BY)",
-        "license": "CC-BY",
-        "source_url": "https://www.inaturalist.org/photos/591851476",
-        "image_path": "images/0051_0100/yakuso_0070.jpg",
-        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      "author": "(c) mami_t_t, some rights reserved (CC BY)",
+      "license": "CC-BY",
+      "source_url": "https://www.inaturalist.org/photos/591851476",
+      "image_path": "images/0051_0100/yakuso_0070.jpg",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -5007,17 +5019,20 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [
-        "flowering_season",
-        "habitat",
-        "distribution",
-        "life_form",
-        "feature_summary",
-        "trivia"
+      "flowering_season",
+      "habitat",
+      "distribution",
+      "life_form",
+      "feature_summary",
+      "trivia"
     ],
     "related_record_ids": [
-        "flower_0157"
-    ]
-},
+      "flower_0157"
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+  },
   {
     "id": "yakuso_0071",
     "category": "薬草",
@@ -5663,7 +5678,10 @@
     "content_followup_review_note": "熊本大学の変種名の資料と森林総合研究所のヤブカンゾウ解説を照合。効能や食用方法は補完していない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "熊本大学の変種名の資料と森林総合研究所のヤブカンゾウ解説を照合。効能や食用方法は補完していない。"
+    "remaining105_review_note": "熊本大学の変種名の資料と森林総合研究所のヤブカンゾウ解説を照合。効能や食用方法は補完していない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "yakuso_0080",
@@ -5671,7 +5689,7 @@
     "display_name": "ノカンゾウ",
     "kana": "ノカンゾウ",
     "search_aliases": [
-        "ノカンゾウ"
+      "ノカンゾウ"
     ],
     "family": "Asphodelaceae科",
     "genus": "Hemerocallis属",
@@ -5689,26 +5707,26 @@
     "feature_summary": "細長い葉を出し、夏に一重の橙色の花を咲かせる。",
     "trivia": "採用分類ではAsphodelaceae科のHemerocallis属に属する。",
     "classification": {
-        "kingdom": "植物界",
-        "clade": "Tracheophyta",
-        "order": "キジカクシ目",
-        "family": "Asphodelaceae科",
-        "genus": "Hemerocallis属",
-        "species": "Hemerocallis fulva var. disticha"
+      "kingdom": "植物界",
+      "clade": "Tracheophyta",
+      "order": "キジカクシ目",
+      "family": "Asphodelaceae科",
+      "genus": "Hemerocallis属",
+      "species": "Hemerocallis fulva var. disticha"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0007の説明も照合。",
     "plant_source_url": "https://mikawanoyasou.org/data/nokanzou.htm",
     "content_source_urls": [
-        "https://mikawanoyasou.org/data/nokanzou.htm",
-        "https://www.inaturalist.org/taxa/1414562"
+      "https://mikawanoyasou.org/data/nokanzou.htm",
+      "https://www.inaturalist.org/taxa/1414562"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
-        "author": "(c) 岸本年郎, some rights reserved (CC BY)",
-        "license": "CC-BY",
-        "source_url": "https://www.inaturalist.org/photos/700776822",
-        "image_path": "images/0051_0100/yakuso_0080.jpg",
-        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      "author": "(c) 岸本年郎, some rights reserved (CC BY)",
+      "license": "CC-BY",
+      "source_url": "https://www.inaturalist.org/photos/700776822",
+      "image_path": "images/0051_0100/yakuso_0080.jpg",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -5725,17 +5743,20 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [
-        "flowering_season",
-        "habitat",
-        "distribution",
-        "life_form",
-        "feature_summary",
-        "trivia"
+      "flowering_season",
+      "habitat",
+      "distribution",
+      "life_form",
+      "feature_summary",
+      "trivia"
     ],
     "related_record_ids": [
-        "sansai_0007"
-    ]
-},
+      "sansai_0007"
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+  },
   {
     "id": "yakuso_0081",
     "category": "薬草",
@@ -6305,7 +6326,10 @@
     "content_followup_review_note": "変種名は国立科学博物館のヤマウコギ標本で確認。生態と形態は同じ和名の種レベルの大学資料も参照しており、変種の厳密な同定を意味しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "変種名は国立科学博物館のヤマウコギ標本で確認。生態と形態は同じ和名の種レベルの大学資料も参照しており、変種の厳密な同定を意味しない。"
+    "remaining105_review_note": "変種名は国立科学博物館のヤマウコギ標本で確認。生態と形態は同じ和名の種レベルの大学資料も参照しており、変種の厳密な同定を意味しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "yakuso_0089",
@@ -7527,7 +7551,7 @@
     "display_name": "クロマメノキ",
     "kana": "クロマメノキ",
     "search_aliases": [
-        "クロマメノキ"
+      "クロマメノキ"
     ],
     "family": "ツツジ科",
     "genus": "スノキ属",
@@ -7545,26 +7569,26 @@
     "feature_summary": "写真では、青紫色の果実と紅葉した葉。",
     "trivia": "採用分類ではツツジ科のスノキ属に属する。",
     "classification": {
-        "kingdom": "植物界",
-        "clade": "Tracheophyta",
-        "order": "ツツジ目",
-        "family": "ツツジ科",
-        "genus": "スノキ属",
-        "species": "Vaccinium uliginosum var. japonicum"
+      "kingdom": "植物界",
+      "clade": "Tracheophyta",
+      "order": "ツツジ目",
+      "family": "ツツジ科",
+      "genus": "スノキ属",
+      "species": "Vaccinium uliginosum var. japonicum"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0016の説明も照合。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
     "content_source_urls": [
-        "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
-        "https://www.inaturalist.org/taxa/857265"
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
+      "https://www.inaturalist.org/taxa/857265"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
-        "author": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
-        "license": "CC-BY",
-        "source_url": "https://www.inaturalist.org/photos/719913948",
-        "image_path": "images/0101_0150/yakuso_0106.jpg",
-        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      "author": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
+      "license": "CC-BY",
+      "source_url": "https://www.inaturalist.org/photos/719913948",
+      "image_path": "images/0101_0150/yakuso_0106.jpg",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -7581,24 +7605,27 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [
-        "flowering_season",
-        "habitat",
-        "distribution",
-        "life_form",
-        "feature_summary",
-        "trivia"
+      "flowering_season",
+      "habitat",
+      "distribution",
+      "life_form",
+      "feature_summary",
+      "trivia"
     ],
     "related_record_ids": [
-        "sansai_0016"
-    ]
-},
+      "sansai_0016"
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+  },
   {
     "id": "yakuso_0107",
     "category": "薬草",
     "display_name": "アキグミ",
     "kana": "アキグミ",
     "search_aliases": [
-        "アキグミ"
+      "アキグミ"
     ],
     "family": "グミ科",
     "genus": "グミ属",
@@ -7616,26 +7643,26 @@
     "feature_summary": "写真では、赤い果実が枝から下がる。",
     "trivia": "花びらに見える部分は萼である。",
     "classification": {
-        "kingdom": "植物界",
-        "clade": "Tracheophyta",
-        "order": "バラ目",
-        "family": "グミ科",
-        "genus": "グミ属",
-        "species": "Elaeagnus umbellata var. umbellata"
+      "kingdom": "植物界",
+      "clade": "Tracheophyta",
+      "order": "バラ目",
+      "family": "グミ科",
+      "genus": "グミ属",
+      "species": "Elaeagnus umbellata var. umbellata"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0208の説明も照合。",
     "plant_source_url": "https://mikawanoyasou.org/data/akigumi.htm",
     "content_source_urls": [
-        "https://mikawanoyasou.org/data/akigumi.htm",
-        "https://www.inaturalist.org/taxa/1059298"
+      "https://mikawanoyasou.org/data/akigumi.htm",
+      "https://www.inaturalist.org/taxa/1059298"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
-        "author": "(c) りなべる, some rights reserved (CC BY)",
-        "license": "CC-BY",
-        "source_url": "https://www.inaturalist.org/photos/589621705",
-        "image_path": "images/0101_0150/yakuso_0107.jpg",
-        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      "author": "(c) りなべる, some rights reserved (CC BY)",
+      "license": "CC-BY",
+      "source_url": "https://www.inaturalist.org/photos/589621705",
+      "image_path": "images/0101_0150/yakuso_0107.jpg",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -7652,17 +7679,20 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [
-        "flowering_season",
-        "habitat",
-        "distribution",
-        "life_form",
-        "feature_summary",
-        "trivia"
+      "flowering_season",
+      "habitat",
+      "distribution",
+      "life_form",
+      "feature_summary",
+      "trivia"
     ],
     "related_record_ids": [
-        "tree_0208"
-    ]
-},
+      "tree_0208"
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+  },
   {
     "id": "yakuso_0108",
     "category": "薬草",
@@ -9611,73 +9641,6 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
   },
   {
-    "id": "yakuso_0135",
-    "category": "薬草",
-    "display_name": "ヒキオコシ",
-    "kana": "ヒキオコシ",
-    "search_aliases": [
-      "ヒキオコシ"
-    ],
-    "family": "Lamiaceae科",
-    "genus": "Isodon属",
-    "scientific_name": "Isodon japonicus var. japonicus",
-    "taxon_id": 1055298,
-    "reference_taxon_id": 1055298,
-    "taxon_rank": "variety",
-    "entity_type": "変種",
-    "life_form": "多年草（種 Isodon japonicus の資料による。変種に限定した確認は未完了）。",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "種としては北海道南部から九州・朝鮮半島に分布とされる。登録変種に限定した分布は要確認。",
-    "habitat": "種の資料では、やや乾いた山地に生育。登録変種に限定した確認は未完了。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "Lamiaceae科のIsodon属に分類される植物。形態の詳しい説明は要確認。",
-    "trivia": "採用分類ではLamiaceae科のIsodon属に属する。学名はIsodon japonicus var. japonicus。",
-    "classification": {
-      "kingdom": "植物界",
-      "clade": "Tracheophyta",
-      "order": "Lamiales目",
-      "family": "Lamiaceae科",
-      "genus": "Isodon属",
-      "species": "Isodon japonicus var. japonicus"
-    },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n追加調査：登録は Isodon japonicus var. japonicus。大学の解説は種 Isodon japonicus の範囲であり、基準変種に限定した分布等の照合が未完了。種としての基本情報は参考として確認できた。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/1055298",
-    "content_source_urls": [
-      "https://www.inaturalist.org/taxa/1055298",
-      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003549.php"
-    ],
-    "content_source_scope": "unresolved_taxon_scope",
-    "image": {
-      "author": "(c) 大澤風季 ohsawa_Fuki, some rights reserved (CC BY)",
-      "license": "CC-BY",
-      "source_url": "https://www.inaturalist.org/photos/733616260",
-      "image_path": "images/0101_0150/yakuso_0135.jpg",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/"
-    },
-    "content_status": "完成",
-    "needs_ai_summary": false,
-    "needs_manual_content_review": true,
-    "needs_manual_taxon_review": true,
-    "needs_manual_image_review": false,
-    "thumbnail_visually_reviewed": true,
-    "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。写真と名称に明らかな食い違いは見られない。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-11",
-    "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
-    "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
-    "existing_content_fields_reused": [],
-    "content_followup_review_status": "分類範囲の再照合が必要",
-    "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "登録は Isodon japonicus var. japonicus。大学の解説は種 Isodon japonicus の範囲であり、基準変種に限定した分布等の照合が未完了。種としての基本情報は参考として確認できた。",
-    "content_basic_ecology_verified": false,
-    "remaining105_review_status": "要確認",
-    "remaining105_review_note": "登録は Isodon japonicus var. japonicus。大学の解説は種 Isodon japonicus の範囲であり、基準変種に限定した分布等の照合が未完了。種としての基本情報は参考として確認できた。"
-  },
-  {
     "id": "yakuso_0136",
     "category": "薬草",
     "display_name": "ヤマハッカ",
@@ -10042,7 +10005,7 @@
     "display_name": "キジムシロ",
     "kana": "キジムシロ",
     "search_aliases": [
-        "キジムシロ"
+      "キジムシロ"
     ],
     "family": "バラ科",
     "genus": "Potentilla属",
@@ -10060,26 +10023,26 @@
     "feature_summary": "写真では、黄色い小花と複葉。",
     "trivia": "花後に葉が広がった姿を、キジが休むむしろに見立てた名前です。",
     "classification": {
-        "kingdom": "植物界",
-        "clade": "Tracheophyta",
-        "order": "バラ目",
-        "family": "バラ科",
-        "genus": "Potentilla属",
-        "species": "Potentilla fragarioides var. major"
+      "kingdom": "植物界",
+      "clade": "Tracheophyta",
+      "order": "バラ目",
+      "family": "バラ科",
+      "genus": "Potentilla属",
+      "species": "Potentilla fragarioides var. major"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0228の説明も照合。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B8%E3%83%A0%E3%82%B7%E3%83%AD",
     "content_source_urls": [
-        "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B8%E3%83%A0%E3%82%B7%E3%83%AD",
-        "https://www.inaturalist.org/taxa/461798"
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B8%E3%83%A0%E3%82%B7%E3%83%AD",
+      "https://www.inaturalist.org/taxa/461798"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
-        "author": "no rights reserved",
-        "license": "CC0",
-        "source_url": "https://www.inaturalist.org/photos/667619161",
-        "image_path": "images/0101_0150/yakuso_0141.jpg",
-        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      "author": "no rights reserved",
+      "license": "CC0",
+      "source_url": "https://www.inaturalist.org/photos/667619161",
+      "image_path": "images/0101_0150/yakuso_0141.jpg",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -10096,17 +10059,20 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [
-        "flowering_season",
-        "habitat",
-        "distribution",
-        "life_form",
-        "feature_summary",
-        "trivia"
+      "flowering_season",
+      "habitat",
+      "distribution",
+      "life_form",
+      "feature_summary",
+      "trivia"
     ],
     "related_record_ids": [
-        "flower_0228"
-    ]
-},
+      "flower_0228"
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+  },
   {
     "id": "yakuso_0142",
     "category": "薬草",
@@ -10318,7 +10284,10 @@
     "content_followup_review_note": "大学の Pyrola incarnata の解説が採用亜種名を同物異名に挙げ、京都府の資料でも対応を確認。北米を含む分布の扱いには種群の差があるため北米の詳細は追加しない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "大学の Pyrola incarnata の解説が採用亜種名を同物異名に挙げ、京都府の資料でも対応を確認。北米を含む分布の扱いには種群の差があるため北米の詳細は追加しない。"
+    "remaining105_review_note": "大学の Pyrola incarnata の解説が採用亜種名を同物異名に挙げ、京都府の資料でも対応を確認。北米を含む分布の扱いには種群の差があるため北米の詳細は追加しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "yakuso_0145",
@@ -10326,7 +10295,7 @@
     "display_name": "ネジキ",
     "kana": "ネジキ",
     "search_aliases": [
-        "ネジキ"
+      "ネジキ"
     ],
     "family": "ツツジ科",
     "genus": "ネジキ属",
@@ -10344,26 +10313,26 @@
     "feature_summary": "若い枝や冬芽が赤く、幹や樹皮の裂け目がねじれる。",
     "trivia": "ねじれた幹や樹皮が名前の由来とされる。",
     "classification": {
-        "kingdom": "植物界",
-        "clade": "Tracheophyta",
-        "order": "ツツジ目",
-        "family": "ツツジ科",
-        "genus": "ネジキ属",
-        "species": "Lyonia ovalifolia var. elliptica"
+      "kingdom": "植物界",
+      "clade": "Tracheophyta",
+      "order": "ツツジ目",
+      "family": "ツツジ科",
+      "genus": "ネジキ属",
+      "species": "Lyonia ovalifolia var. elliptica"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_tree_0157の説明も照合。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B8%E3%82%AD",
     "content_source_urls": [
-        "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B8%E3%82%AD",
-        "https://www.inaturalist.org/taxa/428738"
+      "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B8%E3%82%AD",
+      "https://www.inaturalist.org/taxa/428738"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
-        "author": "no rights reserved",
-        "license": "CC0",
-        "source_url": "https://www.inaturalist.org/photos/743551276",
-        "image_path": "images/0101_0150/yakuso_0145.jpg",
-        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      "author": "no rights reserved",
+      "license": "CC0",
+      "source_url": "https://www.inaturalist.org/photos/743551276",
+      "image_path": "images/0101_0150/yakuso_0145.jpg",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -10380,17 +10349,20 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [
-        "flowering_season",
-        "habitat",
-        "distribution",
-        "life_form",
-        "feature_summary",
-        "trivia"
+      "flowering_season",
+      "habitat",
+      "distribution",
+      "life_form",
+      "feature_summary",
+      "trivia"
     ],
     "related_record_ids": [
-        "flower_tree_0157"
-    ]
-},
+      "flower_tree_0157"
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+  },
   {
     "id": "yakuso_0146",
     "category": "薬草",
@@ -10764,7 +10736,7 @@
     "display_name": "キク",
     "kana": "キク",
     "search_aliases": [
-        "キク"
+      "キク"
     ],
     "family": "キク科",
     "genus": "Chrysanthemum属",
@@ -10782,26 +10754,26 @@
     "feature_summary": "秋を中心に多彩な頭状花序を咲かせます。大菊、中菊、小菊など花径や仕立て方が幅広く、花色や花形も非常に多様です。",
     "trivia": "日本では長い栽培史があり、観賞菊の仕立てや菊花展など独自の園芸文化が発達しました。",
     "classification": {
-        "kingdom": "植物界",
-        "clade": "Tracheophyta",
-        "order": "キク目",
-        "family": "キク科",
-        "genus": "Chrysanthemum属",
-        "species": "Chrysanthemum × morifolium"
+      "kingdom": "植物界",
+      "clade": "Tracheophyta",
+      "order": "キク目",
+      "family": "キク科",
+      "genus": "Chrysanthemum属",
+      "species": "Chrysanthemum × morifolium"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0152の説明も照合。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%AF",
     "content_source_urls": [
-        "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%AF",
-        "https://www.inaturalist.org/taxa/53806"
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%AF",
+      "https://www.inaturalist.org/taxa/53806"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
-        "author": "(c) Oleksandr Shynder, some rights reserved (CC BY)",
-        "license": "CC-BY",
-        "source_url": "https://www.inaturalist.org/photos/744760023",
-        "image_path": "images/0151_0200/yakuso_0151.jpg",
-        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      "author": "(c) Oleksandr Shynder, some rights reserved (CC BY)",
+      "license": "CC-BY",
+      "source_url": "https://www.inaturalist.org/photos/744760023",
+      "image_path": "images/0151_0200/yakuso_0151.jpg",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -10818,17 +10790,20 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [
-        "flowering_season",
-        "habitat",
-        "distribution",
-        "life_form",
-        "feature_summary",
-        "trivia"
+      "flowering_season",
+      "habitat",
+      "distribution",
+      "life_form",
+      "feature_summary",
+      "trivia"
     ],
     "related_record_ids": [
-        "flower_0152"
-    ]
-},
+      "flower_0152"
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+  },
   {
     "id": "yakuso_0152",
     "category": "薬草",
@@ -11764,7 +11739,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "yakuso_0165",
@@ -12051,7 +12029,10 @@
     "content_followup_review_note": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。"
+    "remaining105_review_note": "富山大学の var. japonica を扱う解説で確認。用途や薬効は補完していない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "yakuso_0169",
@@ -13554,7 +13535,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "yakuso_0190",
@@ -14130,7 +14114,7 @@
     "display_name": "キケマン",
     "kana": "キケマン",
     "search_aliases": [
-        "キケマン"
+      "キケマン"
     ],
     "family": "Papaveraceae科",
     "genus": "Corydalis属",
@@ -14148,26 +14132,26 @@
     "feature_summary": "黄色い筒状の花がまとまってつき、花には距がある。",
     "trivia": "ツクシキケマンの変種として扱われる。",
     "classification": {
-        "kingdom": "植物界",
-        "clade": "Tracheophyta",
-        "order": "キンポウゲ目",
-        "family": "Papaveraceae科",
-        "genus": "Corydalis属",
-        "species": "Corydalis heterocarpa var. japonica"
+      "kingdom": "植物界",
+      "clade": "Tracheophyta",
+      "order": "キンポウゲ目",
+      "family": "Papaveraceae科",
+      "genus": "Corydalis属",
+      "species": "Corydalis heterocarpa var. japonica"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0275の説明も照合。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B1%E3%83%9E%E3%83%B3",
     "content_source_urls": [
-        "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B1%E3%83%9E%E3%83%B3",
-        "https://www.inaturalist.org/taxa/452145"
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B1%E3%83%9E%E3%83%B3",
+      "https://www.inaturalist.org/taxa/452145"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
-        "author": "(c) りなべる, some rights reserved (CC BY)",
-        "license": "CC-BY",
-        "source_url": "https://www.inaturalist.org/photos/374747960",
-        "image_path": "images/0151_0200/yakuso_0198.jpg",
-        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      "author": "(c) りなべる, some rights reserved (CC BY)",
+      "license": "CC-BY",
+      "source_url": "https://www.inaturalist.org/photos/374747960",
+      "image_path": "images/0151_0200/yakuso_0198.jpg",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -14184,17 +14168,20 @@
     "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [
-        "flowering_season",
-        "habitat",
-        "distribution",
-        "life_form",
-        "feature_summary",
-        "trivia"
+      "flowering_season",
+      "habitat",
+      "distribution",
+      "life_form",
+      "feature_summary",
+      "trivia"
     ],
     "related_record_ids": [
-        "flower_0275"
-    ]
-},
+      "flower_0275"
+    ],
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
+  },
   {
     "id": "yakuso_0199",
     "category": "薬草",
@@ -14407,7 +14394,10 @@
     "content_followup_review_note": "山口県の資料のミヤマキケマン（var. tenuis）本文を確認。近畿以東だけでなく中国地方の記録も反映。古いレッドリストのランクは追加していない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "山口県の資料のミヤマキケマン（var. tenuis）本文を確認。近畿以東だけでなく中国地方の記録も反映。古いレッドリストのランクは追加していない。"
+    "remaining105_review_note": "山口県の資料のミヤマキケマン（var. tenuis）本文を確認。近畿以東だけでなく中国地方の記録も反映。古いレッドリストのランクは追加していない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "yakuso_0202",
@@ -15140,7 +15130,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "yakuso_0212",
@@ -15214,7 +15207,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "yakuso_0213",
@@ -15865,7 +15861,10 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "yakuso_0222",
@@ -16085,7 +16084,10 @@
     "content_followup_review_note": "採用学名の変種 coptophyllus を扱う日光植物園の記録と植物写真資料を照合。食用・薬用の安全性は補完していない。",
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
-    "remaining105_review_note": "採用学名の変種 coptophyllus を扱う日光植物園の記録と植物写真資料を照合。食用・薬用の安全性は補完していない。"
+    "remaining105_review_note": "採用学名の変種 coptophyllus を扱う日光植物園の記録と植物写真資料を照合。食用・薬用の安全性は補完していない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   },
   {
     "id": "yakuso_0225",
@@ -16455,6 +16457,9 @@
       "biome_original": "temperate"
     },
     "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。"
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "classification_listing_review_date": "2026-10-13",
+    "classification_listing_review_status": "要確認の注記を残して掲載",
+    "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。"
   }
 ]
