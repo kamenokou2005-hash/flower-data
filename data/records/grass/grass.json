@@ -9833,7 +9833,7 @@
         "genus": "カラムシ属",
         "species": "Boehmeria nivea"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。元一覧のBoehmeria niveaは広義の種。日本のカラムシをB. nipononivea等に分ける資料もあり、狭義の同定は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。元一覧のBoehmeria niveaは広義の種。日本のカラムシをB. nipononivea等に分ける資料もあり、狭義の同定は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：元一覧のBoehmeria niveaは広義の種。日本のカラムシをB. nipononivea等に分ける資料もあり、狭義の同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/karamusi.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/karamusi.htm",
@@ -9877,7 +9877,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -9899,7 +9899,18 @@
           "rank": "genus",
           "preferred_common_name": "カラムシ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "元一覧のBoehmeria niveaは広義の種。日本のカラムシをB. nipononivea等に分ける資料もあり、狭義の同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。元一覧のBoehmeria niveaは広義の種。日本のカラムシをB. nipononivea等に分ける資料もあり、狭義の同定は要確認。",
+        "scope_notice": "元一覧のBoehmeria niveaは広義の種。日本のカラムシをB. nipononivea等に分ける資料もあり、狭義の同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
       "id": "grass_0161",
@@ -9933,7 +9944,7 @@
         "genus": "カラムシ属",
         "species": "Boehmeria japonica"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ヤブマオをBoehmeria japonicaの変種またはB. longispicaとして扱う資料がある。元一覧の種の範囲を保持。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ヤブマオをBoehmeria japonicaの変種またはB. longispicaとして扱う資料がある。元一覧の種の範囲を保持。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：ヤブマオをBoehmeria japonicaの変種またはB. longispicaとして扱う資料がある。元一覧の種の範囲を保持。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/yabumao.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/yabumao.htm",
@@ -9977,7 +9988,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -9999,7 +10010,18 @@
           "rank": "genus",
           "preferred_common_name": "カラムシ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "ヤブマオをBoehmeria japonicaの変種またはB. longispicaとして扱う資料がある。元一覧の種の範囲を保持。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ヤブマオをBoehmeria japonicaの変種またはB. longispicaとして扱う資料がある。元一覧の種の範囲を保持。",
+        "scope_notice": "ヤブマオをBoehmeria japonicaの変種またはB. longispicaとして扱う資料がある。元一覧の種の範囲を保持。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "grass_0162",
@@ -10463,7 +10485,7 @@
         "genus": "クズ属",
         "species": "Pueraria montana"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のクズはPueraria montana var. lobata等に区別される。元一覧の広義の種を保持し、下位分類の同定は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のクズはPueraria montana var. lobata等に区別される。元一覧の広義の種を保持し、下位分類の同定は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：日本のクズはPueraria montana var. lobata等に区別される。元一覧の広義の種を保持し、下位分類の同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/kuzu.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/kuzu.htm",
@@ -10507,7 +10529,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -10529,7 +10551,18 @@
           "rank": "genus",
           "preferred_common_name": "クズ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "日本のクズはPueraria montana var. lobata等に区別される。元一覧の広義の種を保持し、下位分類の同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のクズはPueraria montana var. lobata等に区別される。元一覧の広義の種を保持し、下位分類の同定は要確認。",
+        "scope_notice": "日本のクズはPueraria montana var. lobata等に区別される。元一覧の広義の種を保持し、下位分類の同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "grass_0170",
@@ -12163,7 +12196,7 @@
         "genus": "イグサ属",
         "species": "Juncus prismatocarpus"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。コウガイゼキショウをJuncus prismatocarpusの亜種に分ける扱いもある。元一覧の種の範囲を保持。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。コウガイゼキショウをJuncus prismatocarpusの亜種に分ける扱いもある。元一覧の種の範囲を保持。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：コウガイゼキショウをJuncus prismatocarpusの亜種に分ける扱いもある。元一覧の種の範囲を保持。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/kougaizekishou.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/kougaizekishou.htm",
@@ -12207,7 +12240,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -12229,7 +12262,18 @@
           "rank": "genus",
           "preferred_common_name": "イグサ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "コウガイゼキショウをJuncus prismatocarpusの亜種に分ける扱いもある。元一覧の種の範囲を保持。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。コウガイゼキショウをJuncus prismatocarpusの亜種に分ける扱いもある。元一覧の種の範囲を保持。",
+        "scope_notice": "コウガイゼキショウをJuncus prismatocarpusの亜種に分ける扱いもある。元一覧の種の範囲を保持。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "grass_0197",
@@ -12324,7 +12368,7 @@
         "genus": "ハリイ属",
         "species": "Eleocharis acicularis"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のマツバイをEleocharis yokoscensis等として区別する資料がある。元一覧の広義のE. acicularisを保持し、画像の下位分類同定は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のマツバイをEleocharis yokoscensis等として区別する資料がある。元一覧の広義のE. acicularisを保持し、画像の下位分類同定は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：日本のマツバイをEleocharis yokoscensis等として区別する資料がある。元一覧の広義のE. acicularisを保持し、画像の下位分類同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/matubai.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/matubai.htm",
@@ -12368,7 +12412,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -12390,7 +12434,18 @@
           "rank": "genus",
           "preferred_common_name": null
         }
-      ]
+      ],
+      "classification_scope_notice": "日本のマツバイをEleocharis yokoscensis等として区別する資料がある。元一覧の広義のE. acicularisを保持し、画像の下位分類同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のマツバイをEleocharis yokoscensis等として区別する資料がある。元一覧の広義のE. acicularisを保持し、画像の下位分類同定は要確認。",
+        "scope_notice": "日本のマツバイをEleocharis yokoscensis等として区別する資料がある。元一覧の広義のE. acicularisを保持し、画像の下位分類同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "grass_0199",
@@ -13223,7 +13278,7 @@
         "genus": "ヤエムグラ属",
         "species": "Galium spurium"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のヤエムグラをGalium spuriumの変種に分ける扱いもある。元一覧の種の範囲を保持。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のヤエムグラをGalium spuriumの変種に分ける扱いもある。元一覧の種の範囲を保持。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：日本のヤエムグラをGalium spuriumの変種に分ける扱いもある。元一覧の種の範囲を保持。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/yaemugura.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/yaemugura.htm",
@@ -13267,7 +13322,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -13289,7 +13344,18 @@
           "rank": "genus",
           "preferred_common_name": "ヤエムグラ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "日本のヤエムグラをGalium spuriumの変種に分ける扱いもある。元一覧の種の範囲を保持。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のヤエムグラをGalium spuriumの変種に分ける扱いもある。元一覧の種の範囲を保持。",
+        "scope_notice": "日本のヤエムグラをGalium spuriumの変種に分ける扱いもある。元一覧の種の範囲を保持。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "grass_0223",
@@ -13813,7 +13879,7 @@
         "genus": "コウヤワラビ属",
         "species": "Onoclea sensibilis"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のコウヤワラビをOnoclea sensibilis var. interruptaとして扱う資料がある。元一覧の種の範囲を保持。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のコウヤワラビをOnoclea sensibilis var. interruptaとして扱う資料がある。元一覧の種の範囲を保持。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：日本のコウヤワラビをOnoclea sensibilis var. interruptaとして扱う資料がある。元一覧の種の範囲を保持。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/sida/kouyawarabi.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/sida/kouyawarabi.htm",
@@ -13857,7 +13923,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -13879,7 +13945,18 @@
           "rank": "genus",
           "preferred_common_name": "コウヤワラビ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "日本のコウヤワラビをOnoclea sensibilis var. interruptaとして扱う資料がある。元一覧の種の範囲を保持。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のコウヤワラビをOnoclea sensibilis var. interruptaとして扱う資料がある。元一覧の種の範囲を保持。",
+        "scope_notice": "日本のコウヤワラビをOnoclea sensibilis var. interruptaとして扱う資料がある。元一覧の種の範囲を保持。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "grass_0232",
@@ -17582,7 +17659,7 @@
         "genus": "カモノハシ属",
         "species": "Ischaemum aristatum"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のカモノハシをIschaemum aristatum var. glaucumとして扱う資料がある。元一覧の広義の種を保持し、変種の同定は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のカモノハシをIschaemum aristatum var. glaucumとして扱う資料がある。元一覧の広義の種を保持し、変種の同定は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：日本のカモノハシをIschaemum aristatum var. glaucumとして扱う資料がある。元一覧の広義の種を保持し、変種の同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A2%E3%83%8E%E3%83%8F%E3%82%B7_%28%E6%A4%8D%E7%89%A9%29",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A2%E3%83%8E%E3%83%8F%E3%82%B7_%28%E6%A4%8D%E7%89%A9%29",
@@ -17626,7 +17703,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -17648,7 +17725,18 @@
           "rank": "genus",
           "preferred_common_name": "カモノハシ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "日本のカモノハシをIschaemum aristatum var. glaucumとして扱う資料がある。元一覧の広義の種を保持し、変種の同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。日本のカモノハシをIschaemum aristatum var. glaucumとして扱う資料がある。元一覧の広義の種を保持し、変種の同定は要確認。",
+        "scope_notice": "日本のカモノハシをIschaemum aristatum var. glaucumとして扱う資料がある。元一覧の広義の種を保持し、変種の同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "grass_0293",
@@ -19327,7 +19415,7 @@
         "genus": "エノコログサ属",
         "species": "Setaria pumila subsp. pallidefusca"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用分類は Setaria pumila subsp. pallidefusca。亜種を分けず S. pumila にまとめる資料もある。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用分類は Setaria pumila subsp. pallidefusca。亜種を分けず S. pumila にまとめる資料もある。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：採用分類は Setaria pumila subsp. pallidefusca。亜種を分けず S. pumila にまとめる資料もある。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/kotubukinenokoro.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/kotubukinenokoro.htm",
@@ -19374,7 +19462,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -19396,7 +19484,18 @@
           "rank": "genus",
           "preferred_common_name": "エノコログサ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "採用分類は Setaria pumila subsp. pallidefusca。亜種を分けず S. pumila にまとめる資料もある。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用分類は Setaria pumila subsp. pallidefusca。亜種を分けず S. pumila にまとめる資料もある。",
+        "scope_notice": "採用分類は Setaria pumila subsp. pallidefusca。亜種を分けず S. pumila にまとめる資料もある。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "grass_0353",
@@ -20138,7 +20237,7 @@
         "genus": "Festuca属",
         "species": "Festuca rubra subsp. rubra"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用分類は Festuca rubra の標準亜種。和名の適用範囲には資料差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用分類は Festuca rubra の標準亜種。和名の適用範囲には資料差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：採用分類は Festuca rubra の標準亜種。和名の適用範囲には資料差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/oousinokegusa.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/oousinokegusa.htm",
@@ -20187,7 +20286,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -20209,7 +20308,18 @@
           "rank": "genus",
           "preferred_common_name": "ウシノケグサ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "採用分類は Festuca rubra の標準亜種。和名の適用範囲には資料差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用分類は Festuca rubra の標準亜種。和名の適用範囲には資料差があるため要確認。",
+        "scope_notice": "採用分類は Festuca rubra の標準亜種。和名の適用範囲には資料差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "grass_0365",
@@ -21589,7 +21699,7 @@
         "genus": "スゲ属",
         "species": "Carex callitrichos var. nana"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。Carex humilis var. nana とする旧分類と、C. callitrichos var. nana とする分類がある。採用済みの taxon_id を保持し、資料との対応は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。Carex humilis var. nana とする旧分類と、C. callitrichos var. nana とする分類がある。採用済みの taxon_id を保持し、資料との対応は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：Carex humilis var. nana とする旧分類と、C. callitrichos var. nana とする分類がある。採用済みの taxon_id を保持し、資料との対応は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/hosobahikagesuge.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/hosobahikagesuge.htm",
@@ -21636,7 +21746,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -21658,7 +21768,18 @@
           "rank": "genus",
           "preferred_common_name": "スゲ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "Carex humilis var. nana とする旧分類と、C. callitrichos var. nana とする分類がある。採用済みの taxon_id を保持し、資料との対応は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。Carex humilis var. nana とする旧分類と、C. callitrichos var. nana とする分類がある。採用済みの taxon_id を保持し、資料との対応は要確認。",
+        "scope_notice": "Carex humilis var. nana とする旧分類と、C. callitrichos var. nana とする分類がある。採用済みの taxon_id を保持し、資料との対応は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "grass_0389",
@@ -26700,7 +26821,7 @@
         "genus": "ヤマノイモ属",
         "species": "Dioscorea septemloba"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。Dioscorea septemloba とする資料がある。採用済み taxon_id と和名の対応を保持し、異名の適用範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。Dioscorea septemloba とする資料がある。採用済み taxon_id と和名の対応を保持し、異名の適用範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：熊本大学の植物データベースでキクバドコロと Dioscorea septemloba の対応を確認。採用学名を維持する。変種や写真の厳密な同定を新たに確定したものではない。",
       "plant_source_url": "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003595.php",
       "content_source_urls": [
         "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003595.php",
@@ -26713,7 +26834,7 @@
         "image_path": "images/0451_0500/grass_0498.jpg"
       },
       "needs_ai_summary": false,
-      "needs_manual_taxon_review": true,
+      "needs_manual_taxon_review": false,
       "taxon_lookup_error": "",
       "content_status": "完成",
       "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
@@ -26747,7 +26868,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "採用分類の参照対応確認済み・最終確認済み",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -26769,7 +26890,20 @@
           "rank": "genus",
           "preferred_common_name": "ヤマノイモ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "熊本大学の植物データベースでキクバドコロと Dioscorea septemloba の対応を確認。採用学名を維持する。変種や写真の厳密な同定を新たに確定したものではない。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "reference_name_correspondence_confirmed",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。Dioscorea septemloba とする資料がある。採用済み taxon_id と和名の対応を保持し、異名の適用範囲は要確認。",
+        "scope_notice": "熊本大学の植物データベースでキクバドコロと Dioscorea septemloba の対応を確認。採用学名を維持する。変種や写真の厳密な同定を新たに確定したものではない。",
+        "additional_primary_source_urls": [
+          "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003595.php"
+        ],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "grass_0499",

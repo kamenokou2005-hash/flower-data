@@ -1542,7 +1542,7 @@
         "genus": "ガマズミ属",
         "species": "Viburnum odoratissimum"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。種レベルで整理。日本のサンゴジュを変種・亜種として区別する扱いもある。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。種レベルで整理。日本のサンゴジュを変種・亜種として区別する扱いもある。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：種レベルで整理。日本のサンゴジュを変種・亜種として区別する扱いもある。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/sangojyu.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/sangojyu.htm",
@@ -1592,7 +1592,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -1614,7 +1614,18 @@
           "rank": "genus",
           "preferred_common_name": "ガマズミ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "種レベルで整理。日本のサンゴジュを変種・亜種として区別する扱いもある。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。種レベルで整理。日本のサンゴジュを変種・亜種として区別する扱いもある。",
+        "scope_notice": "種レベルで整理。日本のサンゴジュを変種・亜種として区別する扱いもある。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "tree_0027",
@@ -2258,7 +2269,7 @@
         "genus": "ニシキギ属",
         "species": "Euonymus hamiltonianus"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。広義の種レベルで整理。日本のマユミを種内分類群として扱う場合もある。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。広義の種レベルで整理。日本のマユミを種内分類群として扱う場合もある。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：広義の種レベルで整理。日本のマユミを種内分類群として扱う場合もある。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/mayumi.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/mayumi.htm",
@@ -2308,7 +2319,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -2330,7 +2341,18 @@
           "rank": "genus",
           "preferred_common_name": "ニシキギ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "広義の種レベルで整理。日本のマユミを種内分類群として扱う場合もある。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。広義の種レベルで整理。日本のマユミを種内分類群として扱う場合もある。",
+        "scope_notice": "広義の種レベルで整理。日本のマユミを種内分類群として扱う場合もある。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "tree_0038",
@@ -6539,7 +6561,7 @@
         "genus": "ヤナギ属",
         "species": "Salix cardiophylla subsp. urbaniana"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。旧資料のToisusu urbanianaに対応する分類群を、採用分類ではSalix cardiophylla subsp. urbanianaとして扱う。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。旧資料のToisusu urbanianaに対応する分類群を、採用分類ではSalix cardiophylla subsp. urbanianaとして扱う。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：旧資料のToisusu urbanianaに対応する分類群を、採用分類ではSalix cardiophylla subsp. urbanianaとして扱う。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "http://www.ha.shotoku.ac.jp/~kawa/KYO/SEIBUTSU/syokubutsu/SogoZukan/hishi/yanagi/ooba/index.html",
       "content_source_urls": [
         "http://www.ha.shotoku.ac.jp/~kawa/KYO/SEIBUTSU/syokubutsu/SogoZukan/hishi/yanagi/ooba/index.html",
@@ -6586,7 +6608,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -6608,7 +6630,18 @@
           "rank": "genus",
           "preferred_common_name": "ヤナギ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "旧資料のToisusu urbanianaに対応する分類群を、採用分類ではSalix cardiophylla subsp. urbanianaとして扱う。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。旧資料のToisusu urbanianaに対応する分類群を、採用分類ではSalix cardiophylla subsp. urbanianaとして扱う。",
+        "scope_notice": "旧資料のToisusu urbanianaに対応する分類群を、採用分類ではSalix cardiophylla subsp. urbanianaとして扱う。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "tree_0104",
@@ -6898,11 +6931,12 @@
         "genus": "コウゾ属",
         "species": "Broussonetia monoica"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ヒメコウゾの学名には資料間の相違がある。採用画像に対応する現行分類を記録し、分類の再確認対象とする。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ヒメコウゾの学名には資料間の相違がある。採用画像に対応する現行分類を記録し、分類の再確認対象とする。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：森林総合研究所の樹木園資料でヒメコウゾと Broussonetia monoica の対応を確認。旧資料の別名を根拠に別の種へ変更しない。",
       "plant_source_url": "https://mikawanoyasou.org/data/himekouzo.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/himekouzo.htm",
-        "https://www.inaturalist.org/taxa/704130"
+        "https://www.inaturalist.org/taxa/704130",
+        "https://www.ffpri.go.jp/kys/business/jumokuen/jumoku/zukan/himekouzo.html"
       ],
       "image": {
         "author": "(c) りなべる, some rights reserved (CC BY)",
@@ -6911,7 +6945,7 @@
         "image_path": "images/0101_0150/tree_0108.jpg"
       },
       "needs_ai_summary": false,
-      "needs_manual_taxon_review": true,
+      "needs_manual_taxon_review": false,
       "taxon_lookup_error": "",
       "content_status": "完成",
       "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
@@ -6945,7 +6979,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "採用分類の参照対応確認済み・最終確認済み",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -6967,7 +7001,20 @@
           "rank": "genus",
           "preferred_common_name": "コウゾ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "森林総合研究所の樹木園資料でヒメコウゾと Broussonetia monoica の対応を確認。旧資料の別名を根拠に別の種へ変更しない。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "reference_name_correspondence_confirmed",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ヒメコウゾの学名には資料間の相違がある。採用画像に対応する現行分類を記録し、分類の再確認対象とする。",
+        "scope_notice": "森林総合研究所の樹木園資料でヒメコウゾと Broussonetia monoica の対応を確認。旧資料の別名を根拠に別の種へ変更しない。",
+        "additional_primary_source_urls": [
+          "https://www.ffpri.go.jp/kys/business/jumokuen/jumoku/zukan/himekouzo.html"
+        ],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "tree_0109",
@@ -7066,7 +7113,7 @@
         "genus": "カエデ属",
         "species": "Acer palmatum"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用学名はAcer palmatum。種内の園芸品種・変種・亜種を総括した解説と狭義の和名は区別する。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用学名はAcer palmatum。種内の園芸品種・変種・亜種を総括した解説と狭義の和名は区別する。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：採用学名はAcer palmatum。種内の園芸品種・変種・亜種を総括した解説と狭義の和名は区別する。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/irohamomiji.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/irohamomiji.htm",
@@ -7113,7 +7160,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -7135,7 +7182,18 @@
           "rank": "genus",
           "preferred_common_name": "カエデ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "採用学名はAcer palmatum。種内の園芸品種・変種・亜種を総括した解説と狭義の和名は区別する。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用学名はAcer palmatum。種内の園芸品種・変種・亜種を総括した解説と狭義の和名は区別する。",
+        "scope_notice": "採用学名はAcer palmatum。種内の園芸品種・変種・亜種を総括した解説と狭義の和名は区別する。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "tree_0111",
@@ -8389,11 +8447,12 @@
         "genus": "マカダミア属",
         "species": "Macadamia integrifolia"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項は採用学名Macadamia integrifoliaに対応する木を扱う。ナッツの総称にはほかの種や交雑系統も含まれる。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項は採用学名Macadamia integrifoliaに対応する木を扱う。ナッツの総称にはほかの種や交雑系統も含まれる。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：ノースカロライナ州立大学の資料で Macadamia integrifolia とマカダミアの対応を確認。本項はこの採用種の範囲とし、マカダミア全体や交雑系統をこの1種にまとめない。",
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%83%80%E3%83%9F%E3%82%A2",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%83%80%E3%83%9F%E3%82%A2",
-        "https://www.inaturalist.org/taxa/287245"
+        "https://www.inaturalist.org/taxa/287245",
+        "https://plants.ces.ncsu.edu/plants/macadamia-integrifolia/"
       ],
       "image": {
         "author": "Scott W. Gavins",
@@ -8405,7 +8464,7 @@
         "observation_url": "https://www.inaturalist.org/observations/183958043"
       },
       "needs_ai_summary": false,
-      "needs_manual_taxon_review": true,
+      "needs_manual_taxon_review": false,
       "taxon_lookup_error": "",
       "content_status": "完成",
       "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
@@ -8439,7 +8498,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "採用分類の参照対応確認済み・最終確認済み",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -8461,7 +8520,20 @@
           "rank": "genus",
           "preferred_common_name": null
         }
-      ]
+      ],
+      "classification_scope_notice": "ノースカロライナ州立大学の資料で Macadamia integrifolia とマカダミアの対応を確認。本項はこの採用種の範囲とし、マカダミア全体や交雑系統をこの1種にまとめない。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "reference_name_correspondence_confirmed",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項は採用学名Macadamia integrifoliaに対応する木を扱う。ナッツの総称にはほかの種や交雑系統も含まれる。",
+        "scope_notice": "ノースカロライナ州立大学の資料で Macadamia integrifolia とマカダミアの対応を確認。本項はこの採用種の範囲とし、マカダミア全体や交雑系統をこの1種にまとめない。",
+        "additional_primary_source_urls": [
+          "https://plants.ces.ncsu.edu/plants/macadamia-integrifolia/"
+        ],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "tree_0131",
@@ -8943,7 +9015,7 @@
         "genus": "カエデ属",
         "species": "Acer pictum"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。広義のAcer pictumとして整理。エンコウカエデなどの種内分類群とは区別する。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。広義のAcer pictumとして整理。エンコウカエデなどの種内分類群とは区別する。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：広義のAcer pictumとして整理。エンコウカエデなどの種内分類群とは区別する。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/itayakaede.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/itayakaede.htm",
@@ -8990,7 +9062,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -9012,7 +9084,18 @@
           "rank": "genus",
           "preferred_common_name": "カエデ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "広義のAcer pictumとして整理。エンコウカエデなどの種内分類群とは区別する。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。広義のAcer pictumとして整理。エンコウカエデなどの種内分類群とは区別する。",
+        "scope_notice": "広義のAcer pictumとして整理。エンコウカエデなどの種内分類群とは区別する。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
       "id": "tree_0139",
@@ -9046,7 +9129,7 @@
         "genus": "カエデ属",
         "species": "Acer pictum subsp. dissectum"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。エンコウカエデは資料により変種などの扱いもある。本項は採用分類の亜種として記録。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。エンコウカエデは資料により変種などの扱いもある。本項は採用分類の亜種として記録。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：エンコウカエデは資料により変種などの扱いもある。本項は採用分類の亜種として記録。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://www.lab.toho-u.ac.jp/phar/yakusou/enkokaede.html",
       "content_source_urls": [
         "https://www.lab.toho-u.ac.jp/phar/yakusou/enkokaede.html",
@@ -9093,7 +9176,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -9115,7 +9198,18 @@
           "rank": "genus",
           "preferred_common_name": "カエデ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "エンコウカエデは資料により変種などの扱いもある。本項は採用分類の亜種として記録。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。エンコウカエデは資料により変種などの扱いもある。本項は採用分類の亜種として記録。",
+        "scope_notice": "エンコウカエデは資料により変種などの扱いもある。本項は採用分類の亜種として記録。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "tree_0140",
@@ -9534,11 +9628,12 @@
         "genus": "スズカケノキ属",
         "species": "Platanus × hispanica"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。モミジバスズカケノキは交雑種。単一の自然種としては扱わない。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。モミジバスズカケノキは交雑種。単一の自然種としては扱わない。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：スタンフォード大学の資料で Platanus × hispanica は交雑種で、P. × acerifolia が同義名と確認。交雑種であること自体は未確認理由としない。",
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%9F%E3%82%B8%E3%83%90%E3%82%B9%E3%82%BA%E3%82%AB%E3%82%B1%E3%83%8E%E3%82%AD",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%9F%E3%82%B8%E3%83%90%E3%82%B9%E3%82%BA%E3%82%AB%E3%82%B1%E3%83%8E%E3%82%AD",
-        "https://www.inaturalist.org/taxa/552449"
+        "https://www.inaturalist.org/taxa/552449",
+        "https://trees.stanford.edu/ENCYC/PLATace.htm"
       ],
       "image": {
         "author": "(c) Viktor Strenada, some rights reserved (CC BY)",
@@ -9547,7 +9642,7 @@
         "image_path": "images/0101_0150/tree_0146.jpg"
       },
       "needs_ai_summary": false,
-      "needs_manual_taxon_review": true,
+      "needs_manual_taxon_review": false,
       "taxon_lookup_error": "",
       "content_status": "完成",
       "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
@@ -9581,7 +9676,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "採用分類の参照対応確認済み・最終確認済み",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -9603,7 +9698,20 @@
           "rank": "genus",
           "preferred_common_name": "スズカケノキ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "スタンフォード大学の資料で Platanus × hispanica は交雑種で、P. × acerifolia が同義名と確認。交雑種であること自体は未確認理由としない。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "reference_name_correspondence_confirmed",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。モミジバスズカケノキは交雑種。単一の自然種としては扱わない。",
+        "scope_notice": "スタンフォード大学の資料で Platanus × hispanica は交雑種で、P. × acerifolia が同義名と確認。交雑種であること自体は未確認理由としない。",
+        "additional_primary_source_urls": [
+          "https://trees.stanford.edu/ENCYC/PLATace.htm"
+        ],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "tree_0147",
@@ -10346,7 +10454,7 @@
         "genus": "ホルトノキ属",
         "species": "Elaeocarpus decipiens"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。資料にElaeocarpus sylvestrisの変種とする扱いもある。採用分類と同義名の関係を再確認対象とする。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。資料にElaeocarpus sylvestrisの変種とする扱いもある。採用分類と同義名の関係を再確認対象とする。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：資料にElaeocarpus sylvestrisの変種とする扱いもある。採用分類と同義名の関係を再確認対象とする。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/horutonoki.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/horutonoki.htm",
@@ -10393,7 +10501,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -10415,7 +10523,18 @@
           "rank": "genus",
           "preferred_common_name": "ホルトノキ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "資料にElaeocarpus sylvestrisの変種とする扱いもある。採用分類と同義名の関係を再確認対象とする。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。資料にElaeocarpus sylvestrisの変種とする扱いもある。採用分類と同義名の関係を再確認対象とする。",
+        "scope_notice": "資料にElaeocarpus sylvestrisの変種とする扱いもある。採用分類と同義名の関係を再確認対象とする。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "tree_0159",
@@ -10513,7 +10632,7 @@
         "genus": "ハンノキ属",
         "species": "Alnus hirsuta var. sibirica"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。解説資料は広義のAlnus hirsutaを使うが、本項は採用変種var. sibiricaに対応する葉の特徴を整理した。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。解説資料は広義のAlnus hirsutaを使うが、本項は採用変種var. sibiricaに対応する葉の特徴を整理した。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：解説資料は広義のAlnus hirsutaを使うが、本項は採用変種var. sibiricaに対応する葉の特徴を整理した。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/betulaceae/yamahannnoki/yamahannoki.htm",
       "content_source_urls": [
         "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/betulaceae/yamahannnoki/yamahannoki.htm",
@@ -10560,7 +10679,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -10582,7 +10701,18 @@
           "rank": "genus",
           "preferred_common_name": "ハンノキ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "解説資料は広義のAlnus hirsutaを使うが、本項は採用変種var. sibiricaに対応する葉の特徴を整理した。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。解説資料は広義のAlnus hirsutaを使うが、本項は採用変種var. sibiricaに対応する葉の特徴を整理した。",
+        "scope_notice": "解説資料は広義のAlnus hirsutaを使うが、本項は採用変種var. sibiricaに対応する葉の特徴を整理した。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "tree_0161",
@@ -10680,7 +10810,7 @@
         "genus": "ハンノキ属",
         "species": "Alnus hirsuta var. hirsuta"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用学名はAlnus hirsuta var. hirsuta。葉の毛は年齢によっても変化する。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用学名はAlnus hirsuta var. hirsuta。葉の毛は年齢によっても変化する。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：採用学名はAlnus hirsuta var. hirsuta。葉の毛は年齢によっても変化する。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://www1.ous.ac.jp/garden/photo1/keyamahannoki.html",
       "content_source_urls": [
         "https://www1.ous.ac.jp/garden/photo1/keyamahannoki.html",
@@ -10727,7 +10857,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -10749,7 +10879,18 @@
           "rank": "genus",
           "preferred_common_name": "ハンノキ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "採用学名はAlnus hirsuta var. hirsuta。葉の毛は年齢によっても変化する。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。採用学名はAlnus hirsuta var. hirsuta。葉の毛は年齢によっても変化する。",
+        "scope_notice": "採用学名はAlnus hirsuta var. hirsuta。葉の毛は年齢によっても変化する。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "tree_0163",
@@ -12706,7 +12847,7 @@
         "genus": "ビロウ属",
         "species": "Livistona chinensis var. subglobosa"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項は採用画像に対応するビロウの変種を扱う。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項は採用画像に対応するビロウの変種を扱う。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：本項は採用画像に対応するビロウの変種を扱う。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AD%E3%82%A6",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AD%E3%82%A6",
@@ -12753,7 +12894,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -12775,7 +12916,18 @@
           "rank": "genus",
           "preferred_common_name": "ビロウ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "本項は採用画像に対応するビロウの変種を扱う。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項は採用画像に対応するビロウの変種を扱う。",
+        "scope_notice": "本項は採用画像に対応するビロウの変種を扱う。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "tree_0194",
@@ -12876,11 +13028,12 @@
         "genus": "シュロ属",
         "species": "Trachycarpus fortunei"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。表示名シュロは属の総称にも使われる。本項の画像・学名・解説はワジュロTrachycarpus fortuneiに限定する。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。表示名シュロは属の総称にも使われる。本項の画像・学名・解説はワジュロTrachycarpus fortuneiに限定する。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：熊本大学の資料でシュロ、別名ワジュロと Trachycarpus fortunei の対応を確認。本項の対象をワジュロとし、シュロ属全体とは区別する。",
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%AD",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%AD",
-        "https://www.inaturalist.org/taxa/64323"
+        "https://www.inaturalist.org/taxa/64323",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003620.php"
       ],
       "image": {
         "author": "no rights reserved",
@@ -12889,7 +13042,7 @@
         "image_path": "images/0151_0200/tree_0195.jpg"
       },
       "needs_ai_summary": false,
-      "needs_manual_taxon_review": true,
+      "needs_manual_taxon_review": false,
       "taxon_lookup_error": "",
       "content_status": "完成",
       "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
@@ -12923,7 +13076,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "採用分類の参照対応確認済み・最終確認済み",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -12945,7 +13098,20 @@
           "rank": "genus",
           "preferred_common_name": "シュロ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "熊本大学の資料でシュロ、別名ワジュロと Trachycarpus fortunei の対応を確認。本項の対象をワジュロとし、シュロ属全体とは区別する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "reference_name_correspondence_confirmed",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。表示名シュロは属の総称にも使われる。本項の画像・学名・解説はワジュロTrachycarpus fortuneiに限定する。",
+        "scope_notice": "熊本大学の資料でシュロ、別名ワジュロと Trachycarpus fortunei の対応を確認。本項の対象をワジュロとし、シュロ属全体とは区別する。",
+        "additional_primary_source_urls": [
+          "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003620.php"
+        ],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
     "id": "tree_0196",
@@ -13645,7 +13811,7 @@
         "genus": "マタタビ属",
         "species": "Actinidia chinensis var. deliciosa"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。キウイフルーツは複数の種や系統を含む総称。本項は採用画像のActinidia chinensis var. deliciosaに限定し、総称を1種へ固定したものではない。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。キウイフルーツは複数の種や系統を含む総称。本項は採用画像のActinidia chinensis var. deliciosaに限定し、総称を1種へ固定したものではない。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：キウイフルーツは複数の種や系統を含む総称。本項は採用画像のActinidia chinensis var. deliciosaに限定し、総称を1種へ固定したものではない。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/kiwifruit.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/kiwifruit.htm",
@@ -13689,7 +13855,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -13711,7 +13877,18 @@
           "rank": "genus",
           "preferred_common_name": "マタタビ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "キウイフルーツは複数の種や系統を含む総称。本項は採用画像のActinidia chinensis var. deliciosaに限定し、総称を1種へ固定したものではない。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。キウイフルーツは複数の種や系統を含む総称。本項は採用画像のActinidia chinensis var. deliciosaに限定し、総称を1種へ固定したものではない。",
+        "scope_notice": "キウイフルーツは複数の種や系統を含む総称。本項は採用画像のActinidia chinensis var. deliciosaに限定し、総称を1種へ固定したものではない。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "tree_0207",
@@ -14295,11 +14472,12 @@
         "genus": "バンジロウ属",
         "species": "Psidium guajava"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項のバンジロウはPsidium guajavaを扱い、グアバ属全体の総称とは区別する。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項のバンジロウはPsidium guajavaを扱い、グアバ属全体の総称とは区別する。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：東邦大学の資料でバンジロウと Psidium guajava の対応を確認。本項はこの種の範囲であり、グアバという総称に含まれる近縁種の説明は混ぜない。",
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B8%E3%83%AD%E3%82%A6",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B8%E3%83%AD%E3%82%A6",
-        "https://www.inaturalist.org/taxa/62859"
+        "https://www.inaturalist.org/taxa/62859",
+        "https://www.lab.toho-u.ac.jp/phar/yakusou/bannjirou.html"
       ],
       "image": {
         "author": "no rights reserved",
@@ -14308,7 +14486,7 @@
         "image_path": "images/0201_0250/tree_0216.jpg"
       },
       "needs_ai_summary": false,
-      "needs_manual_taxon_review": true,
+      "needs_manual_taxon_review": false,
       "taxon_lookup_error": "",
       "content_status": "完成",
       "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
@@ -14339,7 +14517,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "採用分類の参照対応確認済み・最終確認済み",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -14361,7 +14539,20 @@
           "rank": "genus",
           "preferred_common_name": "バンジロウ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "東邦大学の資料でバンジロウと Psidium guajava の対応を確認。本項はこの種の範囲であり、グアバという総称に含まれる近縁種の説明は混ぜない。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "reference_name_correspondence_confirmed",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。本項のバンジロウはPsidium guajavaを扱い、グアバ属全体の総称とは区別する。",
+        "scope_notice": "東邦大学の資料でバンジロウと Psidium guajava の対応を確認。本項はこの種の範囲であり、グアバという総称に含まれる近縁種の説明は混ぜない。",
+        "additional_primary_source_urls": [
+          "https://www.lab.toho-u.ac.jp/phar/yakusou/bannjirou.html"
+        ],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "tree_0217",
@@ -14933,7 +15124,7 @@
         "genus": "ヒマラヤスギ属",
         "species": "Cedrus atlantica"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。近縁のレバノンスギとの種・亜種の区分は資料間で異なる。採用分類の学名を記録する。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。近縁のレバノンスギとの種・亜種の区分は資料間で異なる。採用分類の学名を記録する。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：近縁のレバノンスギとの種・亜種の区分は資料間で異なる。採用分類の学名を記録する。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://en.wikipedia.org/wiki/Cedrus_atlantica",
       "content_source_urls": [
         "https://en.wikipedia.org/wiki/Cedrus_atlantica",
@@ -14977,7 +15168,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -14999,7 +15190,18 @@
           "rank": "genus",
           "preferred_common_name": "ヒマラヤスギ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "近縁のレバノンスギとの種・亜種の区分は資料間で異なる。採用分類の学名を記録する。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。近縁のレバノンスギとの種・亜種の区分は資料間で異なる。採用分類の学名を記録する。",
+        "scope_notice": "近縁のレバノンスギとの種・亜種の区分は資料間で異なる。採用分類の学名を記録する。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "tree_0227",
@@ -15278,11 +15480,12 @@
         "genus": "コナラ属",
         "species": "Quercus alba"
       },
-      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ホワイトオークは複数種の材の総称にも使われる。本項は採用画像のアルバオークQuercus albaに限定する。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ホワイトオークは複数種の材の総称にも使われる。本項は採用画像のアルバオークQuercus albaに限定する。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：ミネソタ大学の資料で white oak と Quercus alba の対応を確認。本項は採用種の範囲とし、同名の木材群全体を1種とみなさない。",
       "plant_source_url": "https://en.wikipedia.org/wiki/Quercus_alba",
       "content_source_urls": [
         "https://en.wikipedia.org/wiki/Quercus_alba",
-        "https://www.inaturalist.org/taxa/54779"
+        "https://www.inaturalist.org/taxa/54779",
+        "https://trees.umn.edu/white-oak-quercus-alba"
       ],
       "image": {
         "author": "no rights reserved",
@@ -15291,7 +15494,7 @@
         "image_path": "images/0201_0250/tree_0231.jpg"
       },
       "needs_ai_summary": false,
-      "needs_manual_taxon_review": true,
+      "needs_manual_taxon_review": false,
       "taxon_lookup_error": "",
       "content_status": "完成",
       "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
@@ -15322,7 +15525,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "採用分類の参照対応確認済み・最終確認済み",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -15344,7 +15547,20 @@
           "rank": "genus",
           "preferred_common_name": "コナラ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "ミネソタ大学の資料で white oak と Quercus alba の対応を確認。本項は採用種の範囲とし、同名の木材群全体を1種とみなさない。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "reference_name_correspondence_confirmed",
+        "prior_reason": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。ホワイトオークは複数種の材の総称にも使われる。本項は採用画像のアルバオークQuercus albaに限定する。",
+        "scope_notice": "ミネソタ大学の資料で white oak と Quercus alba の対応を確認。本項は採用種の範囲とし、同名の木材群全体を1種とみなさない。",
+        "additional_primary_source_urls": [
+          "https://trees.umn.edu/white-oak-quercus-alba"
+        ],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "tree_0232",
@@ -17338,7 +17554,7 @@
         "genus": "ハシバミ属",
         "species": "Corylus heterophylla"
       },
-      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。日本のハシバミはCorylus heterophylla var. thunbergiiとする資料もある。本項は広義の種を参照し、セイヨウハシバミの記述を混ぜない。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。日本のハシバミはCorylus heterophylla var. thunbergiiとする資料もある。本項は広義の種を参照し、セイヨウハシバミの記述を混ぜない。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：日本のハシバミはCorylus heterophylla var. thunbergiiとする資料もある。本項は広義の種を参照し、セイヨウハシバミの記述を混ぜない。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%B7%E3%83%90%E3%83%9F",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%B7%E3%83%90%E3%83%9F",
@@ -17382,7 +17598,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -17404,7 +17620,18 @@
           "rank": "genus",
           "preferred_common_name": "ハシバミ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "日本のハシバミはCorylus heterophylla var. thunbergiiとする資料もある。本項は広義の種を参照し、セイヨウハシバミの記述を混ぜない。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。日本のハシバミはCorylus heterophylla var. thunbergiiとする資料もある。本項は広義の種を参照し、セイヨウハシバミの記述を混ぜない。",
+        "scope_notice": "日本のハシバミはCorylus heterophylla var. thunbergiiとする資料もある。本項は広義の種を参照し、セイヨウハシバミの記述を混ぜない。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "tree_0265",
@@ -18677,7 +18904,7 @@
         "genus": "ヤナギ属",
         "species": "Salix caprea"
       },
-      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。Salix bakkoとして区別する資料とS. capreaに含める資料がある。採用画像と分類参照はS. caprea、国内の生態はバッコヤナギの記述として扱う。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。Salix bakkoとして区別する資料とS. capreaに含める資料がある。採用画像と分類参照はS. caprea、国内の生態はバッコヤナギの記述として扱う。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：Salix bakkoとして区別する資料とS. capreaに含める資料がある。採用画像と分類参照はS. caprea、国内の生態はバッコヤナギの記述として扱う。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%82%B3%E3%83%A4%E3%83%8A%E3%82%AE",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%82%B3%E3%83%A4%E3%83%8A%E3%82%AE",
@@ -18723,7 +18950,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -18745,7 +18972,18 @@
           "rank": "genus",
           "preferred_common_name": "ヤナギ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "Salix bakkoとして区別する資料とS. capreaに含める資料がある。採用画像と分類参照はS. caprea、国内の生態はバッコヤナギの記述として扱う。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。Salix bakkoとして区別する資料とS. capreaに含める資料がある。採用画像と分類参照はS. caprea、国内の生態はバッコヤナギの記述として扱う。",
+        "scope_notice": "Salix bakkoとして区別する資料とS. capreaに含める資料がある。採用画像と分類参照はS. caprea、国内の生態はバッコヤナギの記述として扱う。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "tree_0286",

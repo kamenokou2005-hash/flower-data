@@ -29,7 +29,7 @@
       "genus": "ワラビ属",
       "species": "Pteridium latiusculum subsp. japonicum"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目grass_0041の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目grass_0041の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：同名の既存項目grass_0041の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%A9%E3%83%93",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%A9%E3%83%93",
@@ -84,7 +84,7 @@
       "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
     },
     "classification_reference_check_complete": true,
-    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
     "taxonomy_reference_lineage": [
       {
         "name": "Plantae",
@@ -106,7 +106,18 @@
         "rank": "genus",
         "preferred_common_name": "ワラビ属"
       }
-    ]
+    ],
+    "classification_scope_notice": "同名の既存項目grass_0041の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+    "taxonomy_scope_final_review": {
+      "date": "2026-10-13",
+      "processing_complete": true,
+      "result": "unresolved_scope_retained",
+      "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目grass_0041の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "scope_notice": "同名の既存項目grass_0041の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "additional_primary_source_urls": [],
+      "prior_reference_check_considered": true,
+      "strict_photo_identification_verified": false
+    }
   },
   {
     "id": "sansai_0002",
@@ -340,7 +351,7 @@
       "genus": "Aruncus属",
       "species": "Aruncus dioicus"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%96%E3%82%AD%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%96%E3%82%AD%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E",
@@ -386,7 +397,7 @@
       "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
     },
     "classification_reference_check_complete": true,
-    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
     "taxonomy_reference_lineage": [
       {
         "name": "Plantae",
@@ -408,7 +419,18 @@
         "rank": "genus",
         "preferred_common_name": "ヤマブキショウマ属"
       }
-    ]
+    ],
+    "classification_scope_notice": "和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+    "taxonomy_scope_final_review": {
+      "date": "2026-10-13",
+      "processing_complete": true,
+      "result": "unresolved_scope_retained",
+      "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "scope_notice": "和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "additional_primary_source_urls": [],
+      "prior_reference_check_considered": true,
+      "strict_photo_identification_verified": false
+    }
   },
   {
     "id": "sansai_0006",
@@ -501,11 +523,12 @@
       "genus": "Hemerocallis属",
       "species": "Hemerocallis fulva var. disticha"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：熊本大学の植物データベースでノカンゾウと Hemerocallis fulva var. disticha の対応を確認。資料の旧科名は採用分類へ転記せず、現在の科・属を維持する。",
     "plant_source_url": "https://mikawanoyasou.org/data/nokanzou.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/nokanzou.htm",
-      "https://www.inaturalist.org/taxa/1414562"
+      "https://www.inaturalist.org/taxa/1414562",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003541.php"
     ],
     "content_source_scope": "species",
     "image": {
@@ -518,7 +541,7 @@
     "content_status": "完成",
     "needs_ai_summary": false,
     "needs_manual_content_review": false,
-    "needs_manual_taxon_review": true,
+    "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
@@ -547,7 +570,7 @@
       "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
     },
     "classification_reference_check_complete": true,
-    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "classification_reference_review_status": "採用分類の参照対応確認済み・最終確認済み",
     "taxonomy_reference_lineage": [
       {
         "name": "Plantae",
@@ -569,7 +592,20 @@
         "rank": "genus",
         "preferred_common_name": "ワスレグサ属"
       }
-    ]
+    ],
+    "classification_scope_notice": "熊本大学の植物データベースでノカンゾウと Hemerocallis fulva var. disticha の対応を確認。資料の旧科名は採用分類へ転記せず、現在の科・属を維持する。",
+    "taxonomy_scope_final_review": {
+      "date": "2026-10-13",
+      "processing_complete": true,
+      "result": "reference_name_correspondence_confirmed",
+      "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "scope_notice": "熊本大学の植物データベースでノカンゾウと Hemerocallis fulva var. disticha の対応を確認。資料の旧科名は採用分類へ転記せず、現在の科・属を維持する。",
+      "additional_primary_source_urls": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003541.php"
+      ],
+      "prior_reference_check_considered": true,
+      "strict_photo_identification_verified": false
+    }
   },
   {
     "id": "sansai_0008",
@@ -732,7 +768,7 @@
       "genus": "クワ属",
       "species": "Morus indica"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0107の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0107の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：同名の既存項目tree_0107の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
     "plant_source_url": "https://mikawanoyasou.org/data/yamaguwa.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/yamaguwa.htm",
@@ -787,7 +823,7 @@
       "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
     },
     "classification_reference_check_complete": true,
-    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
     "taxonomy_reference_lineage": [
       {
         "name": "Plantae",
@@ -809,7 +845,18 @@
         "rank": "genus",
         "preferred_common_name": "クワ属"
       }
-    ]
+    ],
+    "classification_scope_notice": "同名の既存項目tree_0107の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+    "taxonomy_scope_final_review": {
+      "date": "2026-10-13",
+      "processing_complete": true,
+      "result": "unresolved_scope_retained",
+      "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0107の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "scope_notice": "同名の既存項目tree_0107の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "additional_primary_source_urls": [],
+      "prior_reference_check_considered": true,
+      "strict_photo_identification_verified": false
+    }
   },
   {
     "id": "sansai_0011",
@@ -841,7 +888,7 @@
       "genus": "クルミ属",
       "species": "Juglans ailantifolia"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%82%B0%E3%83%AB%E3%83%9F",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%82%B0%E3%83%AB%E3%83%9F",
@@ -897,7 +944,7 @@
       "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
     },
     "classification_reference_check_complete": true,
-    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
     "taxonomy_reference_lineage": [
       {
         "name": "Plantae",
@@ -919,7 +966,18 @@
         "rank": "genus",
         "preferred_common_name": "クルミ属"
       }
-    ]
+    ],
+    "classification_scope_notice": "同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+    "taxonomy_scope_final_review": {
+      "date": "2026-10-13",
+      "processing_complete": true,
+      "result": "unresolved_scope_retained",
+      "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "scope_notice": "同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "additional_primary_source_urls": [],
+      "prior_reference_check_considered": true,
+      "strict_photo_identification_verified": false
+    }
   },
   {
     "id": "sansai_0012",
@@ -1206,7 +1264,7 @@
       "genus": "スノキ属",
       "species": "Vaccinium uliginosum var. japonicum"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
@@ -1252,7 +1310,7 @@
       "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
     },
     "classification_reference_check_complete": true,
-    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
     "taxonomy_reference_lineage": [
       {
         "name": "Plantae",
@@ -1274,7 +1332,18 @@
         "rank": "genus",
         "preferred_common_name": "スノキ属"
       }
-    ]
+    ],
+    "classification_scope_notice": "和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+    "taxonomy_scope_final_review": {
+      "date": "2026-10-13",
+      "processing_complete": true,
+      "result": "unresolved_scope_retained",
+      "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "scope_notice": "和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "additional_primary_source_urls": [],
+      "prior_reference_check_considered": true,
+      "strict_photo_identification_verified": false
+    }
   },
   {
     "id": "sansai_0017",
@@ -1507,7 +1576,7 @@
       "genus": "Perilla属",
       "species": "Perilla frutescens var. frutescens"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Perilla",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Perilla",
@@ -1553,7 +1622,7 @@
       "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
     },
     "classification_reference_check_complete": true,
-    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
     "taxonomy_reference_lineage": [
       {
         "name": "Plantae",
@@ -1575,7 +1644,18 @@
         "rank": "genus",
         "preferred_common_name": "シソ属"
       }
-    ]
+    ],
+    "classification_scope_notice": "参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+    "taxonomy_scope_final_review": {
+      "date": "2026-10-13",
+      "processing_complete": true,
+      "result": "unresolved_scope_retained",
+      "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "scope_notice": "参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "additional_primary_source_urls": [],
+      "prior_reference_check_considered": true,
+      "strict_photo_identification_verified": false
+    }
   },
   {
     "id": "sansai_0021",
@@ -3121,7 +3201,7 @@
       "genus": "Polygonatum属",
       "species": "Polygonatum odoratum"
     },
-    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目flower_0484の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+    "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目flower_0484の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：同名の既存項目flower_0484の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%89%E3%82%B3%E3%83%AD",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%89%E3%82%B3%E3%83%AD",
@@ -3176,7 +3256,7 @@
       "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
     },
     "classification_reference_check_complete": true,
-    "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+    "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
     "taxonomy_reference_lineage": [
       {
         "name": "Plantae",
@@ -3198,7 +3278,18 @@
         "rank": "genus",
         "preferred_common_name": "アマドコロ属"
       }
-    ]
+    ],
+    "classification_scope_notice": "同名の既存項目flower_0484の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+    "taxonomy_scope_final_review": {
+      "date": "2026-10-13",
+      "processing_complete": true,
+      "result": "unresolved_scope_retained",
+      "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目flower_0484の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+      "scope_notice": "同名の既存項目flower_0484の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "additional_primary_source_urls": [],
+      "prior_reference_check_considered": true,
+      "strict_photo_identification_verified": false
+    }
   },
   {
     "id": "sansai_0045",

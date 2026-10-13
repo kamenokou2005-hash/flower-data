@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-13T12:00:09.888496",
+  "active_records": 2700,
+  "reviewed": 77,
+  "flags_closed": 9,
+  "unresolved_scope_flags": 68,
+  "non_target_records_unchanged": 2623,
+  "protected_record_fields_unchanged": true,
+  "images_index_and_archive_unchanged": true,
+  "pc_repo_records_match": true,
+  "errors": []
+}

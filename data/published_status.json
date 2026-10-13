@@ -122,5 +122,19 @@
     "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\taxon181_20261013_101120",
     "scope": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。",
     "github_published": false
+  },
+  "taxonomy_scope_final_review_summary": {
+    "date": "2026-10-13",
+    "reviewed": 77,
+    "processing_complete": true,
+    "reference_name_flags_closed": 9,
+    "unresolved_scope_retained": 68,
+    "active_records": 2700,
+    "archived_records_preserved": 100,
+    "image_changes": 0,
+    "genre_changes": 0,
+    "strict_photo_identifications_verified": 0,
+    "scope": "残る77件の既存の分類注意書きと参照確認結果をすべて再確認。9件は一次資料で和名・採用学名の対応を追加確認。68件は分類範囲や写真の種同定の限界を明記して要確認を維持。厳密な写真同定を完了したという意味ではない。",
+    "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\final77_20261013_120008"
   }
 }

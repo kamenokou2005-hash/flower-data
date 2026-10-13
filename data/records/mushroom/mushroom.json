@@ -3538,12 +3538,13 @@
         "genus": "キクラゲ属",
         "species": "Auricularia auricula-judae"
       },
-      "classification_note": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：国内で旧来キクラゲとされた試料が複数の別種に分かれる研究がある。採用参照 Auricularia auricula-judae を国内のキクラゲすべてに適用できるとは確認できない。写真の種はわからないため、別種へ推測で置き換えない。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/kikurage.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/kikurage.htm",
         "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%AF%E3%83%A9%E3%82%B2",
-        "https://www.inaturalist.org/taxa/50813"
+        "https://www.inaturalist.org/taxa/50813",
+        "https://www.jstage.jst.go.jp/article/jjom/59/1/59_jjom.H30-02/_article/-char/ja/"
       ],
       "image": {
         "author": "(c) Jean-Luc Ferrière, some rights reserved (CC BY)",
@@ -3584,7 +3585,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -3606,7 +3607,20 @@
           "rank": "genus",
           "preferred_common_name": "キクラゲ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "国内で旧来キクラゲとされた試料が複数の別種に分かれる研究がある。採用参照 Auricularia auricula-judae を国内のキクラゲすべてに適用できるとは確認できない。写真の種はわからないため、別種へ推測で置き換えない。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+        "scope_notice": "国内で旧来キクラゲとされた試料が複数の別種に分かれる研究がある。採用参照 Auricularia auricula-judae を国内のキクラゲすべてに適用できるとは確認できない。写真の種はわからないため、別種へ推測で置き換えない。",
+        "additional_primary_source_urls": [
+          "https://www.jstage.jst.go.jp/article/jjom/59/1/59_jjom.H30-02/_article/-char/ja/"
+        ],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
       "id": "mushroom_0062",
@@ -3636,12 +3650,13 @@
         "genus": "キクラゲ属",
         "species": "Auricularia polytricha"
       },
-      "classification_note": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：国内で旧来アラゲキクラゲ A. polytricha とされた研究試料は A. cornea に同定されている。本項の写真・採集情報の対応を新たに確定していないため、採用学名を機械的に A. cornea へ変更せず、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/aragekikurage.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/aragekikurage.htm",
         "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%82%B2%E3%82%AD%E3%82%AF%E3%83%A9%E3%82%B2",
-        "https://www.inaturalist.org/taxa/326015"
+        "https://www.inaturalist.org/taxa/326015",
+        "https://www.jstage.jst.go.jp/article/jjom/59/1/59_jjom.H30-02/_article/-char/ja/"
       ],
       "image": {
         "author": "no rights reserved",
@@ -3682,7 +3697,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -3704,7 +3719,20 @@
           "rank": "genus",
           "preferred_common_name": "キクラゲ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "国内で旧来アラゲキクラゲ A. polytricha とされた研究試料は A. cornea に同定されている。本項の写真・採集情報の対応を新たに確定していないため、採用学名を機械的に A. cornea へ変更せず、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+        "scope_notice": "国内で旧来アラゲキクラゲ A. polytricha とされた研究試料は A. cornea に同定されている。本項の写真・採集情報の対応を新たに確定していないため、採用学名を機械的に A. cornea へ変更せず、要確認を維持する。",
+        "additional_primary_source_urls": [
+          "https://www.jstage.jst.go.jp/article/jjom/59/1/59_jjom.H30-02/_article/-char/ja/"
+        ],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0063",
@@ -3966,7 +3994,7 @@
         "genus": "ナラタケ属",
         "species": "Armillaria mellea"
       },
-      "classification_note": "取得したiNaturalist分類と個別解説を照合。本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類と個別解説を照合。本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://en.wikipedia.org/wiki/Armillaria",
       "content_source_urls": [
         "https://en.wikipedia.org/wiki/Armillaria",
@@ -4011,7 +4039,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -4033,7 +4061,18 @@
           "rank": "genus",
           "preferred_common_name": "ナラタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類と個別解説を照合。本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+        "scope_notice": "本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0068",
@@ -4880,12 +4919,13 @@
         "genus": "イッポンシメジ属",
         "species": "Entoloma rhodopolium"
       },
-      "classification_note": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：日本で旧来 Entoloma rhodopolium とされた研究試料は、欧州の狭義種とは異なる3種へ分けられている。本項の写真がどの種かはわからないため、国内和名と欧州種を確定的に同一視せず、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/kusaurabenitake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/kusaurabenitake.htm",
         "https://en.wikipedia.org/wiki/Entoloma_rhodopolium",
-        "https://www.inaturalist.org/taxa/344658"
+        "https://www.inaturalist.org/taxa/344658",
+        "https://www.nature.com/articles/s41598-017-14466-x"
       ],
       "image": {
         "author": "(c) Andrejus Gaidamavičius, some rights reserved (CC BY)",
@@ -4926,7 +4966,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -4948,7 +4988,20 @@
           "rank": "genus",
           "preferred_common_name": "イッポンシメジ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "日本で旧来 Entoloma rhodopolium とされた研究試料は、欧州の狭義種とは異なる3種へ分けられている。本項の写真がどの種かはわからないため、国内和名と欧州種を確定的に同一視せず、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+        "scope_notice": "日本で旧来 Entoloma rhodopolium とされた研究試料は、欧州の狭義種とは異なる3種へ分けられている。本項の写真がどの種かはわからないため、国内和名と欧州種を確定的に同一視せず、要確認を維持する。",
+        "additional_primary_source_urls": [
+          "https://www.nature.com/articles/s41598-017-14466-x"
+        ],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
       "id": "mushroom_0083",
@@ -4978,7 +5031,7 @@
         "genus": "キシメジ属",
         "species": "Tricholoma ustale"
       },
-      "classification_note": "取得したiNaturalist分類と個別解説を照合。本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類と個別解説を照合。本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://en.wikipedia.org/wiki/Tricholoma",
       "content_source_urls": [
         "https://en.wikipedia.org/wiki/Tricholoma",
@@ -5023,7 +5076,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -5045,7 +5098,18 @@
           "rank": "genus",
           "preferred_common_name": "キシメジ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類と個別解説を照合。本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+        "scope_notice": "本種の十分な個別解説を得られていない。形態・発生時期・分布・生態を要確認として保持。 国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0084",
@@ -6249,7 +6313,7 @@
         "genus": "マンネンタケ属",
         "species": "Ganoderma lucidum"
       },
-      "classification_note": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/mannentake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/mannentake.htm",
@@ -6294,7 +6358,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -6316,7 +6380,18 @@
           "rank": "genus",
           "preferred_common_name": "マンネンタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類と個別解説を照合。国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。",
+        "scope_notice": "国内和名と広義の参照学名に分類群の範囲の違いがあり、本項の画像・地域の分類は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0105",
@@ -9239,7 +9314,7 @@
         "genus": "キアミアシイグチ属",
         "species": "Retiboletus griseus"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://en.wikipedia.org/wiki/Retiboletus_griseus",
       "content_source_urls": [
         "https://en.wikipedia.org/wiki/Retiboletus_griseus",
@@ -9281,7 +9356,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -9303,7 +9378,18 @@
           "rank": "genus",
           "preferred_common_name": null
         }
-      ]
+      ],
+      "classification_scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+        "scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
       "id": "mushroom_0154",
@@ -9337,7 +9423,7 @@
         "genus": "ベニイグチ属",
         "species": "Heimioporus japonicus"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/beniiguti.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/beniiguti.htm",
@@ -9379,7 +9465,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -9401,7 +9487,18 @@
           "rank": "genus",
           "preferred_common_name": "ベニイグチ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+        "scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0155",
@@ -10295,7 +10392,7 @@
         "genus": "シロホウライタケ属",
         "species": "Marasmiellus candidus"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 分類APIの系統に属の階級が欠けているため、採用学名の属名を記載。属の所属は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 分類APIの系統に属の階級が欠けているため、採用学名の属名を記載。属の所属は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：分類APIの系統に属の階級が欠けているため、採用学名の属名を記載。属の所属は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/sirohouraitake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/sirohouraitake.htm",
@@ -10337,7 +10434,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -10354,7 +10451,18 @@
           "rank": "family",
           "preferred_common_name": null
         }
-      ]
+      ],
+      "classification_scope_notice": "分類APIの系統に属の階級が欠けているため、採用学名の属名を記載。属の所属は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 分類APIの系統に属の階級が欠けているため、採用学名の属名を記載。属の所属は要確認。",
+        "scope_notice": "分類APIの系統に属の階級が欠けているため、採用学名の属名を記載。属の所属は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
       "id": "mushroom_0170",
@@ -10388,11 +10496,12 @@
         "genus": "テングタケ属",
         "species": "Amanita orientigemmata"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：鳥取大学の菌株カタログでウスキテングタケと Amanita orientigemmata の対応を確認。別資料の異なる綴りを推測で採用しない。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/usukitengutake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/usukitengutake.htm",
-        "https://www.inaturalist.org/taxa/895593"
+        "https://www.inaturalist.org/taxa/895593",
+        "https://fungusdb.muses.tottori-u.ac.jp/catalog/info?id=101666"
       ],
       "image": {
         "author": "(c) Atsushi Nakajima, some rights reserved (CC BY)",
@@ -10403,7 +10512,7 @@
       "content_status": "完成",
       "needs_ai_summary": false,
       "needs_manual_content_review": false,
-      "needs_manual_taxon_review": true,
+      "needs_manual_taxon_review": false,
       "needs_manual_image_review": false,
       "verification_notes": "採用済み元画像・撮影者・権利情報を再利用。未確定情報は要確認。画像目視確認は別の記録で確定。",
       "thumbnail_visually_reviewed": true,
@@ -10430,7 +10539,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "採用分類の参照対応確認済み・最終確認済み",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -10452,7 +10561,20 @@
           "rank": "genus",
           "preferred_common_name": "テングタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "鳥取大学の菌株カタログでウスキテングタケと Amanita orientigemmata の対応を確認。別資料の異なる綴りを推測で採用しない。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "reference_name_correspondence_confirmed",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+        "scope_notice": "鳥取大学の菌株カタログでウスキテングタケと Amanita orientigemmata の対応を確認。別資料の異なる綴りを推測で採用しない。",
+        "additional_primary_source_urls": [
+          "https://fungusdb.muses.tottori-u.ac.jp/catalog/info?id=101666"
+        ],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0171",
@@ -10545,7 +10667,7 @@
         "genus": "テングタケ属",
         "species": "Amanita volvata"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/hukuroturutake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/hukuroturutake.htm",
@@ -10587,7 +10709,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -10609,7 +10731,18 @@
           "rank": "genus",
           "preferred_common_name": "テングタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+        "scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0173",
@@ -10823,7 +10956,7 @@
         "genus": "イッポンシメジ属",
         "species": "Entoloma kermesinum"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/akaibokasatake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/akaibokasatake.htm",
@@ -10865,7 +10998,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -10887,7 +11020,18 @@
           "rank": "genus",
           "preferred_common_name": "イッポンシメジ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+        "scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0177",
@@ -12397,7 +12541,7 @@
         "genus": "クロラッパタケ属",
         "species": "Craterellus lutescens"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/tokiirorappatake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/tokiirorappatake.htm",
@@ -12439,7 +12583,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -12461,7 +12605,18 @@
           "rank": "genus",
           "preferred_common_name": "クロラッパタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+        "scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0203",
@@ -13734,7 +13889,7 @@
         "genus": "トンビマイタケ属",
         "species": "Meripilus giganteus"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://en.wikipedia.org/wiki/Meripilus_giganteus",
       "content_source_urls": [
         "https://en.wikipedia.org/wiki/Meripilus_giganteus",
@@ -13776,7 +13931,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -13798,7 +13953,18 @@
           "rank": "genus",
           "preferred_common_name": "トンビマイタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+        "scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0225",
@@ -14599,7 +14765,7 @@
         "genus": "ツチナメコ属",
         "species": "Cyclocybe erebia"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/tutinameko.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/tutinameko.htm",
@@ -14641,7 +14807,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -14663,7 +14829,18 @@
           "rank": "genus",
           "preferred_common_name": null
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+        "scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0239",
@@ -15403,7 +15580,7 @@
         "genus": "イッポンシメジ属",
         "species": "Entoloma flavescens"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/kiibokasatake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/kiibokasatake.htm",
@@ -15445,7 +15622,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -15467,7 +15644,18 @@
           "rank": "genus",
           "preferred_common_name": "イッポンシメジ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+        "scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0252",
@@ -15560,7 +15748,7 @@
         "genus": "イノスペルマ属",
         "species": "Inosperma cookei"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/kinuhadatomayatake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/kinuhadatomayatake.htm",
@@ -15602,7 +15790,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -15624,7 +15812,18 @@
           "rank": "genus",
           "preferred_common_name": null
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+        "scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0254",
@@ -16367,7 +16566,7 @@
         "genus": "キイロイグチ属",
         "species": "Aureoboletus russellii"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/seitakaiguti.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/seitakaiguti.htm",
@@ -16409,7 +16608,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -16431,7 +16630,18 @@
           "rank": "genus",
           "preferred_common_name": "ヌメリコウジタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+        "scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0267",
@@ -16642,7 +16852,7 @@
         "genus": "ヌメリツバタケ属",
         "species": "Oudemansiella mucida"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/numeritubatake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/numeritubatake.htm",
@@ -16684,7 +16894,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -16706,7 +16916,18 @@
           "rank": "genus",
           "preferred_common_name": null
         }
-      ]
+      ],
+      "classification_scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+        "scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0271",
@@ -17093,7 +17314,7 @@
         "genus": "ヒメキシメジ属",
         "species": "Callistosporium luteo-olivaceum"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/himekisimeji.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/himekisimeji.htm",
@@ -17135,7 +17356,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -17157,7 +17378,18 @@
           "rank": "genus",
           "preferred_common_name": "ヒメキシメジ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+        "scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0278",
@@ -17548,7 +17780,7 @@
         "genus": "ノムシタケ属",
         "species": "Cordyceps cicadae"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://en.wikipedia.org/wiki/Cordyceps_cicadae",
       "content_source_urls": [
         "https://en.wikipedia.org/wiki/Cordyceps_cicadae",
@@ -17593,7 +17825,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -17615,7 +17847,18 @@
           "rank": "genus",
           "preferred_common_name": "ノムシタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+        "scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0285",
@@ -18001,7 +18244,7 @@
         "genus": "ヤマドリタケ属",
         "species": "Boletus aurantiosplendens"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://en.wikipedia.org/wiki/Boletus_aurantiosplendens",
       "content_source_urls": [
         "https://en.wikipedia.org/wiki/Boletus_aurantiosplendens",
@@ -18043,7 +18286,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -18065,7 +18308,18 @@
           "rank": "genus",
           "preferred_common_name": "ヤマドリタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+        "scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0292",
@@ -19277,7 +19531,7 @@
         "genus": "キツネタケ属",
         "species": "Laccaria laccata"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/kitunetake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/kitunetake.htm",
@@ -19319,7 +19573,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -19341,7 +19595,18 @@
           "rank": "genus",
           "preferred_common_name": "キツネタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+        "scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0313",
@@ -19434,7 +19699,7 @@
         "genus": "モリノカレバタケ属",
         "species": "Collybia nuda"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/murasakisimeji.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/murasakisimeji.htm",
@@ -19476,7 +19741,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -19498,7 +19763,18 @@
           "rank": "genus",
           "preferred_common_name": "ヤグラタケモドキ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+        "scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0315",
@@ -20297,7 +20573,7 @@
         "genus": "アケボノアワタケ属",
         "species": "Harrya chromipes"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/akebonoawatake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/akebonoawatake.htm",
@@ -20339,7 +20615,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -20361,7 +20637,18 @@
           "rank": "genus",
           "preferred_common_name": "アケボノアワタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+        "scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
       "id": "mushroom_0329",
@@ -20395,7 +20682,7 @@
         "genus": "ヒメコウジタケ属",
         "species": "Parvixerocomus aokii"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/himekoujitake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/himekoujitake.htm",
@@ -20437,7 +20724,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -20459,7 +20746,18 @@
           "rank": "genus",
           "preferred_common_name": null
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。",
+        "scope_notice": "和名の解説と採用学名に表記の違いがある。異名・種群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0330",
@@ -21611,7 +21909,7 @@
         "genus": "キララタケ属",
         "species": "Coprinellus micaceus"
       },
-      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/kiraratake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/kiraratake.htm",
@@ -21653,7 +21951,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -21675,7 +21973,18 @@
           "rank": "genus",
           "preferred_common_name": "キララタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を参照。個別解説の分類体系・異名と採用分類を区別する。 国内の和名と広義の学名または海外種の解説との範囲は要確認。",
+        "scope_notice": "国内の和名と広義の学名または海外種の解説との範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "mushroom_0350",
@@ -24956,7 +25265,7 @@
         "genus": "Irpex属",
         "species": "Irpex consors"
       },
-      "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/nikuusubatake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/nikuusubatake.htm",
@@ -25002,7 +25311,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -25024,7 +25333,18 @@
           "rank": "genus",
           "preferred_common_name": "ウスバタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+        "scope_notice": "和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id": "mushroom_0405",
@@ -26337,7 +26657,7 @@
         "genus": "Radulomyces属",
         "species": "Radulomyces copelandii"
       },
-      "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/kinoko/sagariharitake.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/kinoko/sagariharitake.htm",
@@ -26383,7 +26703,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -26405,7 +26725,18 @@
           "rank": "genus",
           "preferred_common_name": "アカギンコウヤクタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+        "scope_notice": "和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id": "mushroom_0429",
@@ -28455,7 +28786,7 @@
         "genus": "Favolaschia属",
         "species": "Favolaschia manipularis"
       },
-      "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://en.wikipedia.org/wiki/Filoboletus_manipularis",
       "content_source_urls": [
         "https://en.wikipedia.org/wiki/Filoboletus_manipularis",
@@ -28501,7 +28832,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -28523,7 +28854,18 @@
           "rank": "genus",
           "preferred_common_name": "ラッシタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+        "scope_notice": "和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id": "mushroom_0473",
@@ -29968,7 +30310,7 @@
         "genus": "Plicatura属",
         "species": "Plicatura crispa"
       },
-      "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://en.wikipedia.org/wiki/Plicatura_crispa",
       "content_source_urls": [
         "https://en.wikipedia.org/wiki/Plicatura_crispa",
@@ -30014,7 +30356,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Fungi",
@@ -30036,6 +30378,17 @@
           "rank": "genus",
           "preferred_common_name": "チヂレタケ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+        "scope_notice": "和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     }
 ]

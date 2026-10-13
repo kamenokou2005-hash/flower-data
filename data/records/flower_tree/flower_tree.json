@@ -5816,7 +5816,7 @@
         "genus": "ツツジ属",
         "species": "Rhododendron molle subsp. japonicum"
       },
-      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。日本産レンゲツツジはRhododendron molle subsp. japonicumとして整理。取得した広義R. molleは分類参照のみで、亜種の同定は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n登録の Rhododendron molle subsp. japonicum と参照APIの Rhododendron molle は同じ階級ではない。APIの和名はトウレンゲツツジであり、国内のレンゲツツジの亜種との一致には使わない。観察資料は亜種名を扱うが、参照IDは親種のみを示すため分類要確認は維持。",
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。日本産レンゲツツジはRhododendron molle subsp. japonicumとして整理。取得した広義R. molleは分類参照のみで、亜種の同定は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n登録の Rhododendron molle subsp. japonicum と参照APIの Rhododendron molle は同じ階級ではない。APIの和名はトウレンゲツツジであり、国内のレンゲツツジの亜種との一致には使わない。観察資料は亜種名を扱うが、参照IDは親種のみを示すため分類要確認は維持。\n2026-10-13 最終確認：日本産レンゲツツジはRhododendron molle subsp. japonicumとして整理。取得した広義R. molleは分類参照のみで、亜種の同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/rengetutuji.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/rengetutuji.htm",
@@ -5860,7 +5860,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -5882,7 +5882,18 @@
           "rank": "genus",
           "preferred_common_name": "ツツジ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "日本産レンゲツツジはRhododendron molle subsp. japonicumとして整理。取得した広義R. molleは分類参照のみで、亜種の同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。日本産レンゲツツジはRhododendron molle subsp. japonicumとして整理。取得した広義R. molleは分類参照のみで、亜種の同定は要確認。",
+        "scope_notice": "日本産レンゲツツジはRhododendron molle subsp. japonicumとして整理。取得した広義R. molleは分類参照のみで、亜種の同定は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "flower_tree_0094",
@@ -6227,7 +6238,7 @@
         "genus": "ブルンフェルシア属",
         "species": "Brunfelsia australis"
       },
-      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。ニオイバンマツリに使われた学名に異名・混同がある。B. australisを分類参照とする。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。ニオイバンマツリに使われた学名に異名・混同がある。B. australisを分類参照とする。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：ニオイバンマツリに使われた学名に異名・混同がある。B. australisを分類参照とする。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/nioibanmaturi.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/nioibanmaturi.htm",
@@ -6271,7 +6282,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -6293,7 +6304,18 @@
           "rank": "genus",
           "preferred_common_name": null
         }
-      ]
+      ],
+      "classification_scope_notice": "ニオイバンマツリに使われた学名に異名・混同がある。B. australisを分類参照とする。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。ニオイバンマツリに使われた学名に異名・混同がある。B. australisを分類参照とする。",
+        "scope_notice": "ニオイバンマツリに使われた学名に異名・混同がある。B. australisを分類参照とする。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "flower_tree_0100",
@@ -6561,7 +6583,7 @@
         "genus": "ギョリュウ属",
         "species": "Tamarix chinensis"
       },
-      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。取得分類はTamarix chinensis complex。種としての学名は参照解説に従い、分類群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。取得分類はTamarix chinensis complex。種としての学名は参照解説に従い、分類群の範囲は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：取得分類はTamarix chinensis complex。種としての学名は参照解説に従い、分類群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%83%AA%E3%83%A5%E3%82%A6",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%83%AA%E3%83%A5%E3%82%A6",
@@ -6600,7 +6622,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -6622,7 +6644,18 @@
           "rank": "genus",
           "preferred_common_name": "ギョリュウ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "取得分類はTamarix chinensis complex。種としての学名は参照解説に従い、分類群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。取得分類はTamarix chinensis complex。種としての学名は参照解説に従い、分類群の範囲は要確認。",
+        "scope_notice": "取得分類はTamarix chinensis complex。種としての学名は参照解説に従い、分類群の範囲は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "flower_tree_0105",
@@ -8709,7 +8742,7 @@
         "genus": "メギ属",
         "species": "Berberis japonica"
       },
-      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。旧Mahonia属をBerberis属に含める扱い。原産地の説明に資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。旧Mahonia属をBerberis属に含める扱い。原産地の説明に資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：旧Mahonia属をBerberis属に含める扱い。原産地の説明に資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/hiiraginanten.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/hiiraginanten.htm",
@@ -8755,7 +8788,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -8777,7 +8810,18 @@
           "rank": "genus",
           "preferred_common_name": "メギ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "旧Mahonia属をBerberis属に含める扱い。原産地の説明に資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。旧Mahonia属をBerberis属に含める扱い。原産地の説明に資料間の差があるため要確認。",
+        "scope_notice": "旧Mahonia属をBerberis属に含める扱い。原産地の説明に資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "flower_tree_0143",
@@ -11057,7 +11101,7 @@
         "genus": "トネリコ属",
         "species": "Fraxinus lanuginosa"
       },
-      "classification_note": "取得したiNaturalist分類と個別解説を照合。国内のアオダモをF. lanuginosa f. serrataとする資料もある。採用参照は種であり下位分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類と個別解説を照合。国内のアオダモをF. lanuginosa f. serrataとする資料もある。採用参照は種であり下位分類は要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：国内のアオダモをF. lanuginosa f. serrataとする資料もある。採用参照は種であり下位分類は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AA%E3%83%80%E3%83%A2",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AA%E3%83%80%E3%83%A2",
@@ -11100,7 +11144,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -11122,7 +11166,18 @@
           "rank": "genus",
           "preferred_common_name": "トネリコ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "国内のアオダモをF. lanuginosa f. serrataとする資料もある。採用参照は種であり下位分類は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類と個別解説を照合。国内のアオダモをF. lanuginosa f. serrataとする資料もある。採用参照は種であり下位分類は要確認。",
+        "scope_notice": "国内のアオダモをF. lanuginosa f. serrataとする資料もある。採用参照は種であり下位分類は要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "flower_tree_0184",
@@ -11548,7 +11603,7 @@
         "genus": "カマツカ属",
         "species": "Pourthiaea villosa"
       },
-      "classification_note": "取得したiNaturalist分類と個別解説を照合。カマツカの広義・狭義の範囲と変種の対応を区別。採用参照は広義の種。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。",
+      "classification_note": "取得したiNaturalist分類と個別解説を照合。カマツカの広義・狭義の範囲と変種の対応を区別。採用参照は広義の種。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：カマツカの広義・狭義の範囲と変種の対応を区別。採用参照は広義の種。 本項の分類範囲は確定できないため、要確認を維持する。",
       "plant_source_url": "https://mikawanoyasou.org/data/kamatuka.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/kamatuka.htm",
@@ -11591,7 +11646,7 @@
         "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
       },
       "classification_reference_check_complete": true,
-      "classification_reference_review_status": "参照先確認済み・分類範囲は要確認",
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
       "taxonomy_reference_lineage": [
         {
           "name": "Plantae",
@@ -11613,7 +11668,18 @@
           "rank": "genus",
           "preferred_common_name": "カマツカ属"
         }
-      ]
+      ],
+      "classification_scope_notice": "カマツカの広義・狭義の範囲と変種の対応を区別。採用参照は広義の種。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類と個別解説を照合。カマツカの広義・狭義の範囲と変種の対応を区別。採用参照は広義の種。",
+        "scope_notice": "カマツカの広義・狭義の範囲と変種の対応を区別。採用参照は広義の種。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      }
     },
     {
         "id":  "flower_tree_0192",
