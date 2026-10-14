@@ -3,9 +3,13 @@
     "id": "rare_fruit_0001",
     "category": "珍しい果樹",
     "display_name": "フェイジョア",
-    "kana": "フェイジョア",
+    "kana": "ふぇいじょあ",
     "search_aliases": [
-      "フェイジョア"
+      "フェイジョア",
+      "Feijoa",
+      "フィジョア",
+      "パイナップルグアバ",
+      "Feijoa sellowiana"
     ],
     "family": "フトモモ科",
     "genus": "フェイジョア属",
@@ -14,14 +18,14 @@
     "reference_taxon_id": 1341071,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "常緑低木～小高木",
-    "flowering_season": "5～6月（栽培条件で変わる）",
+    "life_form": "常緑の低木〜小高木",
+    "flowering_season": "主に5〜6月",
     "observation_season": "5～6月（栽培条件で変わる）",
-    "distribution": "南アメリカ原産。日本では栽培される。",
-    "habitat": "果樹園、庭",
-    "common_place": "果樹園、庭",
-    "feature_summary": "緑系の果皮をもつ香りのある果実。果肉は食用。",
-    "trivia": "学名にはAcca sellowianaとFeijoa sellowianaの両方が使われる。",
+    "distribution": "南アメリカ",
+    "habitat": "温暖な地域。日当たりと水はけのよい場所で栽培される。",
+    "common_place": "栽培された庭木、果樹園",
+    "feature_summary": "緑色の卵形〜楕円形の果実がなる。葉の裏は白い毛で覆われ、銀白色に見える。花は白〜淡いピンク色の花弁と、長く目立つ赤い雄しべをもつ。",
+    "trivia": "ニュージーランドでは季節の果物として親しまれ、例年3月中旬〜6月初旬に店頭に並ぶ。熟した実を半分に切り、スプーンで果肉をすくって食べる。甘い果肉には芳香があり、パイナップルを思わせる風味がある。ジュース、パイ、ケーキなどにも使われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -35,15 +39,20 @@
     "content_source_urls": [
       "https://mikawanoyasou.org/data/feijoa.htm",
       "https://www.inaturalist.org/taxa/1341071",
-      "https://plants.ces.ncsu.edu/plants/acca-sellowiana/"
+      "https://plants.ces.ncsu.edu/plants/acca-sellowiana/",
+      "https://www.feijoa.org.nz/",
+      "https://ucanr.edu/node/166965/printable/print",
+      "https://teara.govt.nz/en/photograph/16018/feijoa-fruit"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
-      "author": "(c) Luis G Restrepo, some rights reserved (CC BY)",
-      "license": "CC-BY",
-      "source_url": "https://www.inaturalist.org/photos/744070921",
-      "image_path": "images/0001_0050/rare_fruit_0001.jpg",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      "author": "Sarang 선순",
+      "license": "Public domain",
+      "license_url": "",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Feijoa_2023_4.jpg",
+      "image_path": "images/rare_fruit_new_20261014/rare_fruit_0001.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Feijoa_2023_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -52,12 +61,12 @@
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。白桃色の花弁と赤い雄しべ。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-11",
+    "thumbnail_name_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T11:13:21.144884+09:00",
     "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [
       "flowering_season",
@@ -70,24 +79,32 @@
     "related_record_ids": [
       "tree_0019"
     ],
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
-      "https://plants.ces.ncsu.edu/plants/acca-sellowiana/"
+      "https://mikawanoyasou.org/data/feijoa.htm",
+      "https://www.feijoa.org.nz/",
+      "https://ucanr.edu/node/166965/printable/print",
+      "https://teara.govt.nz/en/photograph/16018/feijoa-fruit"
     ],
-    "fruit_information_review_date": "2026-10-13T21:58:05.995133",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "緑系の果皮をもつ香りのある果実。果肉は食用。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 1
   },
   {
     "id": "rare_fruit_0002",
     "category": "珍しい果樹",
     "display_name": "ポポー",
-    "kana": "ポポー",
+    "kana": "ぽぽー",
     "search_aliases": [
-      "ポポー"
+      "ポポー",
+      "Pawpaw",
+      "ポーポー",
+      "パポー",
+      "ポポーノキ",
+      "アケビガキ"
     ],
     "family": "バンレイシ科",
     "genus": "ポポー属",
@@ -96,14 +113,14 @@
     "reference_taxon_id": 50897,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "低木又は高木",
-    "flowering_season": "3～4月",
+    "life_form": "落葉の低木〜高木",
+    "flowering_season": "3〜4月",
     "observation_season": "3～4月",
-    "distribution": "外来種カナダ、USA原産",
-    "habitat": "栽培種",
-    "common_place": "栽培種",
-    "feature_summary": "熟すと果肉が軟らかくなり、バナナに似た甘味をもつ。",
-    "trivia": "アケビに似た果実から、アケビガキとも呼ばれる。",
+    "distribution": "北アメリカ東部。アメリカ合衆国、カナダ。",
+    "habitat": "湿り気があり、肥沃で水はけのよい土壌。原産地では川沿いや林内に生える。",
+    "common_place": "日本では栽培された庭木や果樹園",
+    "feature_summary": "大きな葉をもち、春に暗い赤紫〜褐色の花を咲かせる。緑色の長円形の果実が、いくつかまとまってつくことがある。熟した果肉は黄色く柔らかく、大きな褐色の種子が入る。秋には葉が黄色く色づく。",
+    "trivia": "アメリカでは地域の果物として食べられている。熟した実を半分に切り、種を取り除いて果肉をスプーンですくう。果肉はカスタードのようになめらかで甘く、バナナやマンゴーを思わせる風味と、果物や花を思わせる香りがある。アイスクリームやシャーベット、ムースにも使われる。熟した実は傷みやすい。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -117,15 +134,18 @@
     "content_source_urls": [
       "https://mikawanoyasou.org/data/pawpaw.htm",
       "https://www.inaturalist.org/taxa/50897",
-      "https://plants.ces.ncsu.edu/plants/asimina-triloba/"
+      "https://plants.ces.ncsu.edu/plants/asimina-triloba/",
+      "https://ag.purdue.edu/department/hla/extension/extension-publications-library/ext-pubs/ho-220-w.html"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
-      "author": "(c) Bryan Rennick, some rights reserved (CC BY)",
-      "license": "CC-BY",
-      "source_url": "https://www.inaturalist.org/photos/746252523",
-      "image_path": "images/0001_0050/rare_fruit_0002.jpg",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      "author": "Scott Bauer, USDA",
+      "license": "Public domain",
+      "license_url": "",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Asimina_triloba3.jpg",
+      "image_path": "images/rare_fruit_new_20261014/rare_fruit_0002.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Asimina_triloba3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -134,12 +154,12 @@
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。大きな葉と複数の幹。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-11",
+    "thumbnail_name_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T11:13:21.144884+09:00",
     "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [
       "flowering_season",
@@ -152,16 +172,18 @@
     "related_record_ids": [
       "tree_0213"
     ],
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
-      "https://plants.ces.ncsu.edu/plants/asimina-triloba/"
+      "https://mikawanoyasou.org/data/pawpaw.htm",
+      "https://plants.ces.ncsu.edu/plants/asimina-triloba/",
+      "https://ag.purdue.edu/department/hla/extension/extension-publications-library/ext-pubs/ho-220-w.html"
     ],
-    "fruit_information_review_date": "2026-10-13T21:58:05.995133",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "熟すと果肉が軟らかくなり、バナナに似た甘味をもつ。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 2
   },
   {
     "id": "rare_fruit_0003",
@@ -1820,9 +1842,10 @@
     "id": "rare_fruit_0021",
     "category": "珍しい果樹",
     "display_name": "アケビ",
-    "kana": "アケビ",
+    "kana": "あけび",
     "search_aliases": [
-      "アケビ"
+      "アケビ",
+      "Akebia / Chocolate vine"
     ],
     "family": "アケビ科",
     "genus": "アケビ属",
@@ -1831,14 +1854,14 @@
     "reference_taxon_id": 126249,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "落葉つる性木本",
-    "flowering_season": "4～5月",
+    "life_form": "落葉のつる性木本",
+    "flowering_season": "4〜5月",
     "observation_season": "4～5月",
-    "distribution": "在来種本州、四国、九州、朝鮮、中国",
+    "distribution": "日本の本州・四国・九州、朝鮮半島、中国",
     "habitat": "山野",
-    "common_place": "山野",
-    "feature_summary": "紫色の長い果実が裂け、白い食用果肉と黒い種子が現れる。",
-    "trivia": "採用分類ではアケビ科のアケビ属に属する。",
+    "common_place": "日本の山野",
+    "feature_summary": "紫色を帯びた長円形の果実が、熟すと縦に裂ける。内部に白い果肉と、多数の光沢のある黒い種子が見える。葉は通常5枚の小葉からなる。",
+    "trivia": "日本でも食べられてきた果実で、熟した実の白い果肉は甘い。ミツバアケビは葉が3枚の小葉に分かれ、ムベは熟しても実が裂けないなど、似た植物と違いがある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -1848,7 +1871,7 @@
       "species": "Akebia quinata"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0038の説明も照合。",
-    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B1%E3%83%93",
+    "plant_source_url": "https://mikawanoyasou.org/data/akebi.htm",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B1%E3%83%93",
       "https://www.inaturalist.org/taxa/126249",
@@ -1888,17 +1911,17 @@
     "related_record_ids": [
       "sansai_0038"
     ],
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
-      "https://plants.ces.ncsu.edu/plants/akebia-quinata/"
+      "https://mikawanoyasou.org/data/akebi.htm"
     ],
-    "fruit_information_review_date": "2026-10-13T21:58:26.654137",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "紫色の長い果実が裂け、白い食用果肉と黒い種子が現れる。旧説明の三小葉は学名 quinata の一般的特徴と合わず、写真別確認候補。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
     "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
-    "fruit_review_photo_description_followup": "旧写真説明の葉形と資料の一般的特徴に不整合があるため、厳密な写真再確認は別途必要。"
+    "fruit_review_photo_description_followup": "旧写真説明の葉形と資料の一般的特徴に不整合があるため、厳密な写真再確認は別途必要。",
+    "content_update_20261014_number": 50
   },
   {
     "id": "rare_fruit_0022",
@@ -3655,25 +3678,22 @@
     "id": "rare_fruit_0045",
     "category": "珍しい果樹",
     "display_name": "マメイサポテ",
-    "kana": "マメイサポテ",
+    "kana": "まめいさぽて",
     "search_aliases": [
-      "マメイサポテ"
+      "マメイサポテ",
+      "Mamey sapote"
     ],
-    "family": "Sapotaceae科",
+    "family": "アカテツ科",
     "genus": "Pouteria属",
     "scientific_name": "Pouteria sapota",
     "taxon_id": 126925,
     "reference_taxon_id": 126925,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：メキシコから中央アメリカ。",
-    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "粗い暗褐色の果皮と、サーモン桃色～濃赤色の軟らかい甘い果肉。",
-    "trivia": "採用分類ではSapotaceae科のPouteria属に属する。学名はPouteria sapota。",
+    "life_form": "高木",
+    "distribution": "メキシコ南部から中央アメリカ",
+    "feature_summary": "粗い暗褐色の果皮をもつ丸形〜長円形の果実。内部にはサーモンピンク〜濃い赤色の果肉と大きな光沢のある種子がある。",
+    "trivia": "熟した果肉は柔らかく甘い。メキシコや中央アメリカで生食され、キューバでは果肉の保存菓子にも利用される。実を半分に切り、果肉をすくって食べるほか、シャーベットやジャムにも使う。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -3683,7 +3703,7 @@
       "species": "Pouteria sapota"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://en.wikipedia.org/wiki/Pouteria",
+    "plant_source_url": "https://hort.purdue.edu/newcrop/morton/sapote_ars.html",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Pouteria",
       "https://www.inaturalist.org/taxa/126925",
@@ -3728,26 +3748,27 @@
       "native_range_original": "Mexico to Central America",
       "biome_original": "wet tropical"
     },
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://hort.purdue.edu/newcrop/morton/sapote_ars.html"
     ],
-    "fruit_information_review_date": "2026-10-13T21:59:15.270846",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "粗い暗褐色の果皮と、サーモン桃色～濃赤色の軟らかい甘い果肉。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 18
   },
   {
     "id": "rare_fruit_0046",
     "category": "珍しい果樹",
     "display_name": "アビウ",
-    "kana": "アビウ",
+    "kana": "あびう",
     "search_aliases": [
-      "アビウ"
+      "アビウ",
+      "Abiu"
     ],
-    "family": "Sapotaceae科",
+    "family": "アカテツ科",
     "genus": "Pouteria属",
     "scientific_name": "Pouteria caimito",
     "taxon_id": 327692,
@@ -3755,13 +3776,9 @@
     "taxon_rank": "species",
     "entity_type": "種",
     "life_form": "樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：トリニダード島から中部・南部 熱帯アメリカ。",
-    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "熟すと淡黄色の果皮、白色～半透明の甘い果肉。未熟果の乳液に関する注意あり。",
-    "trivia": "分類資料では樹木として扱われます。主な生育帯は湿潤な熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "distribution": "南アメリカのアマゾン地域",
+    "feature_summary": "丸形〜卵形の果実が、熟すと淡黄色になる。内部の果肉は白く半透明で、1〜4個の褐色の種子がある。",
+    "trivia": "完熟した果肉には穏やかな甘味と香りがあり、生食される。エクアドルやコロンビアの市場で販売された記録があり、ブラジルのパラー州では氷菓やアイスクリームにも利用される。未熟な実には粘りのある乳液が残るため、十分に熟した果肉を使う。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -3771,7 +3788,7 @@
       "species": "Pouteria caimito"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://en.wikipedia.org/wiki/Pouteria",
+    "plant_source_url": "https://hort.purdue.edu/newcrop/morton/abiu.html",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Pouteria",
       "https://www.inaturalist.org/taxa/327692",
@@ -3780,11 +3797,13 @@
     ],
     "content_source_scope": "species_primary",
     "image": {
-      "author": "(c) Yu-Huang Wang, some rights reserved (CC BY)",
-      "license": "CC-BY",
-      "source_url": "https://www.inaturalist.org/photos/740925718",
-      "image_path": "images/0001_0050/rare_fruit_0046.jpg",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      "author": "Ligia",
+      "license": "Public domain",
+      "license_url": "",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Abiu1.jpg",
+      "image_path": "images/rare_fruit_new_20261014/rare_fruit_0046.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Abiu1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -3793,12 +3812,12 @@
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。細長い葉を茂らせた木。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-11",
+    "thumbnail_name_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T11:13:21.144884+09:00",
     "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Pouteria caimito (Ruiz & Pav.) Radlk. | Plants of the World Online | Kew Science",
@@ -3813,24 +3832,25 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://hort.purdue.edu/newcrop/morton/abiu.html"
     ],
-    "fruit_information_review_date": "2026-10-13T21:59:15.270846",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "熟すと淡黄色の果皮、白色～半透明の甘い果肉。未熟果の乳液に関する注意あり。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 15
   },
   {
     "id": "rare_fruit_0047",
     "category": "珍しい果樹",
     "display_name": "プラサン",
-    "kana": "プラサン",
+    "kana": "ぷらさん",
     "search_aliases": [
-      "プラサン"
+      "プラサン",
+      "Pulasan"
     ],
     "family": "ムクロジ科",
     "genus": "Nephelium属",
@@ -3839,14 +3859,10 @@
     "reference_taxon_id": 427246,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
+    "life_form": "常緑の樹木",
     "distribution": "自然分布（Kew）：東部 ヒマラヤから西部 マレシア地域。",
-    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "赤色系または黄色の厚い突起状の果皮に包まれ、白色から黄白色の食用部分が種子を包みます。",
-    "trivia": "分類資料では樹木として扱われます。主な生育帯は湿潤な熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "feature_summary": "丸い果実が赤紫色に熟し、表面に太く短い突起がある。内部の種子を白い食用部分が包む。",
+    "trivia": "種子の周りの白い部分は多汁で甘く、生食やシロップ漬けに使われる。ランブータンに似るが、表面の突起の形が異なる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -3856,7 +3872,7 @@
       "species": "Nephelium ramboutan-ake"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/427246",
+    "plant_source_url": "https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3043",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/427246",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A942847-1/general-information",
@@ -3898,41 +3914,40 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
-      "https://hort.purdue.edu/newcrop/morton/pulasan.html",
       "https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3043"
     ],
-    "fruit_information_review_date": "2026-10-13T21:59:15.270846",
-    "fruit_information_review_status": "果実情報の一部・名称範囲・用途に追加確認が必要",
-    "fruit_information_review_note": "赤色系または黄色の厚い突起状果皮、白～黄白色の仮種皮。資料の旧学名との対応を追加確認。",
-    "needs_manual_fruit_review": true,
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 25
   },
   {
     "id": "rare_fruit_0048",
     "category": "珍しい果樹",
     "display_name": "ランサ",
-    "kana": "ランサ",
+    "kana": "らんさっと",
     "search_aliases": [
-      "ランサ"
+      "ランサ",
+      "ランサット・ロンコン",
+      "Langsat / Longkong",
+      "ロンコン",
+      "ランサット"
     ],
-    "family": "Meliaceae科",
+    "family": "センダン科",
     "genus": "Lansium属",
     "scientific_name": "Lansium domesticum",
     "taxon_id": 327846,
     "reference_taxon_id": 327846,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：タイのマレー半島部から西部・中部 マレシア地域。",
-    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "楕円形～ほぼ丸形の果実が褐黄色に熟す。皮内の分かれた多汁の仮種皮は甘く食用。",
-    "trivia": "分類資料では樹木として扱われます。主な生育帯は湿潤な熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "life_form": "常緑の樹木",
+    "distribution": "東南アジア",
+    "feature_summary": "黄褐色に熟す丸形〜楕円形の果実が房状につく。内部の多汁の食用部分は房に分かれ、一部に種子が入る。小さな黄白色の花が幹や古い枝に咲く。",
+    "trivia": "食用部分は多汁で甘く、通常は生食する。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -3942,7 +3957,7 @@
       "species": "Lansium domesticum"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
-    "plant_source_url": "https://en.wikipedia.org/wiki/Lansium_domesticum",
+    "plant_source_url": "https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2994",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Lansium_domesticum",
       "https://www.inaturalist.org/taxa/327846",
@@ -3984,40 +3999,37 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2994"
     ],
-    "fruit_information_review_date": "2026-10-13T21:59:15.270846",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "楕円形～ほぼ丸形の果実が褐黄色に熟す。皮内の分かれた多汁の仮種皮は甘く食用。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 31
   },
   {
     "id": "rare_fruit_0049",
     "category": "珍しい果樹",
     "display_name": "サントール",
-    "kana": "サントール",
+    "kana": "さんとーる",
     "search_aliases": [
-      "サントール"
+      "サントール",
+      "Santol"
     ],
-    "family": "Meliaceae科",
+    "family": "センダン科",
     "genus": "Sandoricum属",
     "scientific_name": "Sandoricum koetjape",
     "taxon_id": 181340,
     "reference_taxon_id": 181340,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
+    "life_form": "高木",
     "distribution": "自然分布（Kew）：マレシア地域からニューギニア。",
-    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "丸い黄色～黄金色の果皮、白い半透明の果肉が種子を包む。食用利用の記載。",
-    "trivia": "分類資料では樹木として扱われます。主な生育帯は湿潤な熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "feature_summary": "丸い果実が黄色〜黄金色に熟す。内部の種子を白い半透明の果肉が包む。葉は3枚の小葉からなる複葉。",
+    "trivia": "果肉には甘味や酸味があり、生食やジャム、ゼリー、シロップ漬けに使われる。東南アジアの市場に並ぶ果物として記録されている。食べる際は大きな種子を取り除く。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -4027,7 +4039,7 @@
       "species": "Sandoricum koetjape"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
-    "plant_source_url": "https://en.wikipedia.org/wiki/Sandoricum_koetjape",
+    "plant_source_url": "https://hort.purdue.edu/newcrop/morton/santol.html",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Sandoricum_koetjape",
       "https://www.inaturalist.org/taxa/181340",
@@ -4069,24 +4081,25 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://hort.purdue.edu/newcrop/morton/santol.html"
     ],
-    "fruit_information_review_date": "2026-10-13T21:59:15.270846",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "丸い黄色～黄金色の果皮、白い半透明の果肉が種子を包む。食用利用の記載。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 32
   },
   {
     "id": "rare_fruit_0050",
     "category": "珍しい果樹",
     "display_name": "バオバブ",
-    "kana": "バオバブ",
+    "kana": "ばおばぶ",
     "search_aliases": [
-      "バオバブ"
+      "バオバブ",
+      "Baobab"
     ],
     "family": "アオイ科",
     "genus": "Adansonia属",
@@ -4095,14 +4108,10 @@
     "reference_taxon_id": 81500,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：熱帯の・南部 アフリカ、南部 Arabian Peninsula。",
-    "habitat": "主に季節的に乾燥する熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "黄褐色の毛に覆われる円筒状の果実。白い粉状の果肉が種子を包み、食品利用の記載。",
-    "trivia": "分類資料では樹木として扱われます。主な生育帯は季節的に乾燥する熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "life_form": "高木",
+    "distribution": "アフリカ",
+    "feature_summary": "非常に太い幹をもつ。果実は黄褐色の毛に覆われた長円形で、内部の黒い種子を白い粉状の果肉が包む。白い大きな花が下向きに咲く。",
+    "trivia": "熟した果実の白い粉状の果肉が食用になる。ミルクに混ぜ、風味をつけた粥のような食べ物にする利用が紹介されている。バオバブには複数の種類があるため、この候補はAdansonia digitataに限定する。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -4112,7 +4121,7 @@
       "species": "Adansonia digitata"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
-    "plant_source_url": "https://en.wikipedia.org/wiki/Adansonia_digitata",
+    "plant_source_url": "https://www.nparks.gov.sg/florafaunaweb/flora/2/6/2696",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Adansonia_digitata",
       "https://www.inaturalist.org/taxa/81500",
@@ -4154,16 +4163,16 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://www.nparks.gov.sg/florafaunaweb/flora/2/6/2696"
     ],
-    "fruit_information_review_date": "2026-10-13T21:59:15.270846",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "黄褐色の毛に覆われる円筒状の果実。白い粉状の果肉が種子を包み、食品利用の記載。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 48
   },
   {
     "id": "rare_fruit_0051",
@@ -7486,9 +7495,10 @@
     "id": "rare_fruit_0101",
     "category": "珍しい果樹",
     "display_name": "ビリバ",
-    "kana": "ビリバ",
+    "kana": "びりば",
     "search_aliases": [
-      "ビリバ"
+      "ビリバ",
+      "Biriba"
     ],
     "family": "バンレイシ科",
     "genus": "Annona属",
@@ -7498,13 +7508,9 @@
     "taxon_rank": "species",
     "entity_type": "種",
     "life_form": "樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：中部・南部 メキシコから熱帯アメリカ。",
-    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "黄色の突起のある果皮に包まれ、白く半透明の果肉があります。",
-    "trivia": "分類資料では樹木として扱われます。主な生育帯は湿潤な熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "distribution": "熱帯アメリカ",
+    "feature_summary": "黄色い果皮に小さな突起が並ぶ、円錐形〜心臓形の果実がなる。白い半透明の果肉に、褐色の種子が多数入る。",
+    "trivia": "果肉は多汁で、酸味から甘味まで幅がある。ペルーのイキトスやブラジルのリオデジャネイロ周辺では、市場で販売される果物として記録されている。生食のほか、ブラジルでは果実を発酵させた酒にも利用される。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -7514,7 +7520,7 @@
       "species": "Annona mucosa"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/332442",
+    "plant_source_url": "https://hort.purdue.edu/newcrop/morton/biriba.html",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/332442",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A72259-1",
@@ -7522,11 +7528,13 @@
     ],
     "content_source_scope": "species_primary",
     "image": {
-      "author": "(c) Juan Manuel Cardona Granda, some rights reserved (CC BY)",
-      "license": "CC-BY",
-      "source_url": "https://www.inaturalist.org/photos/740398122",
-      "image_path": "images/0101_0150/rare_fruit_0101.jpg",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      "author": "申義徳博士",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:RolliniaDeliciosa.jpg",
+      "image_path": "images/rare_fruit_new_20261014/rare_fruit_0101.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/RolliniaDeliciosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -7535,12 +7543,12 @@
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。緑色の厚い花被片。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-11",
+    "thumbnail_name_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T11:13:21.144884+09:00",
     "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Annona mucosa Jacq. | Plants of the World Online | Kew Science",
@@ -7555,16 +7563,16 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://hort.purdue.edu/newcrop/morton/biriba.html"
     ],
-    "fruit_information_review_date": "2026-10-13T22:00:10.283730",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "黄色の突起状果皮と白色の半透明果肉。資料にAnnona mucosaの同物異名記載。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 13
   },
   {
     "id": "rare_fruit_0102",
@@ -7655,9 +7663,10 @@
     "id": "rare_fruit_0103",
     "category": "珍しい果樹",
     "display_name": "ジャボチカバ",
-    "kana": "ジャボチカバ",
+    "kana": "じゃぼちかば",
     "search_aliases": [
-      "ジャボチカバ"
+      "ジャボチカバ",
+      "Jaboticaba"
     ],
     "family": "フトモモ科",
     "genus": "Plinia属",
@@ -7666,14 +7675,11 @@
     "reference_taxon_id": 84779,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：東部 ボリビア、ブラジル (ペルナンブーコ州からパラナ州)。",
-    "habitat": "主に季節的に乾燥する熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "幹や枝に丸い暗紫～黒色の果実。厚い果皮と甘い白い果肉。",
-    "trivia": "分類資料では樹木として扱われます。主な生育帯は季節的に乾燥する熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "life_form": "常緑の低木〜高木",
+    "distribution": "ブラジル、ボリビア",
+    "habitat": "熱帯。肥沃で湿り気があり、水はけのよい土壌。",
+    "feature_summary": "幹や太い枝に直接、丸い暗紫色〜黒色の果実がつく。果皮は厚く、内部に白い果肉がある。白〜黄白色の小さな花も幹や枝に咲く。",
+    "trivia": "ブラジルの市場で見られる果物。果肉は甘く、ブドウを思わせるゼリー状の食感があり、生食や加熱した料理に使われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -7683,7 +7689,7 @@
       "species": "Plinia cauliflora"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/84779",
+    "plant_source_url": "https://plants.ces.ncsu.edu/plants/plinia-cauliflora/",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/84779",
       "https://powo.science.kew.org/taxon/203847-2",
@@ -7691,11 +7697,14 @@
     ],
     "content_source_scope": "species_primary",
     "image": {
-      "author": "(c) James Figgy, some rights reserved (CC BY)",
-      "license": "CC-BY",
-      "source_url": "https://www.inaturalist.org/photos/744725367",
-      "image_path": "images/0101_0150/rare_fruit_0103.jpg",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      "author": "mauroguanandi",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jaboticaba_Myrciaria_cauliflora_fruit_2.jpg",
+      "image_path": "images/rare_fruit_new_20261014/rare_fruit_0103.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Jaboticaba_Myrciaria_cauliflora_fruit_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。",
+      "description": "緑色の未熟な果実。熟した果実は暗紫色〜黒色。"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -7704,12 +7713,12 @@
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。幹に密集する黒い果実。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-11",
+    "thumbnail_name_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T11:13:21.144884+09:00",
     "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Plinia cauliflora (Mart.) Kausel | Plants of the World Online | Kew Science",
@@ -7724,24 +7733,25 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://plants.ces.ncsu.edu/plants/plinia-cauliflora/"
     ],
-    "fruit_information_review_date": "2026-10-13T22:01:25.097442",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "幹や枝に丸い暗紫～黒色の果実。厚い果皮と甘い白い果肉。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 3
   },
   {
     "id": "rare_fruit_0104",
     "category": "珍しい果樹",
     "display_name": "グルミチャマ",
-    "kana": "グルミチャマ",
+    "kana": "ぐるみちゃま",
     "search_aliases": [
-      "グルミチャマ"
+      "グルミチャマ",
+      "Grumichama"
     ],
     "family": "フトモモ科",
     "genus": "Eugenia属",
@@ -7750,14 +7760,10 @@
     "reference_taxon_id": 194547,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：東部・南部 ブラジル。",
-    "habitat": "主に季節的に乾燥する熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "緑から赤、熟すと暗紫～黒色になるやや扁平な果実。",
-    "trivia": "分類資料では樹木として扱われます。主な生育帯は季節的に乾燥する熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "life_form": "常緑の高木",
+    "distribution": "ブラジル南部の沿岸地域",
+    "feature_summary": "やや平たい小さな丸い果実が、緑から赤を経て暗紫色〜黒色に熟す。果実の先には萼が残り、内部に大きな種子がある。葉は厚く光沢があり、白い花を咲かせる。",
+    "trivia": "完熟した果実は生食でき、甘味や酸味のあるサクランボを思わせる味に、わずかな芳香が加わる。ハワイではパイやジャム、ゼリーに利用された記録がある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -7767,7 +7773,7 @@
       "species": "Eugenia brasiliensis"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/194547",
+    "plant_source_url": "https://hort.purdue.edu/newcrop/morton/grumichama.html",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/194547",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A593822-1",
@@ -7775,11 +7781,13 @@
     ],
     "content_source_scope": "species_primary",
     "image": {
-      "author": "(c) Nicollas Michels, some rights reserved (CC BY-SA)",
-      "license": "CC-BY-SA",
-      "source_url": "https://www.inaturalist.org/photos/740094851",
-      "image_path": "images/0101_0150/rare_fruit_0104.jpg",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      "author": "Forest and Kim Starr",
+      "license": "CC BY 3.0 us",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Starr-090616-0754-Eugenia_brasiliensis-leaves_and_fruit-Haiku-Maui_(24333949954).jpg",
+      "image_path": "images/rare_fruit_new_20261014/rare_fruit_0104.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Starr-090616-0754-Eugenia_brasiliensis-leaves_and_fruit-Haiku-Maui_%2824333949954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -7788,12 +7796,12 @@
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。白い花と若葉。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-11",
+    "thumbnail_name_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T11:13:21.144884+09:00",
     "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Eugenia brasiliensis Lam. | Plants of the World Online | Kew Science",
@@ -7808,24 +7816,26 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://hort.purdue.edu/newcrop/morton/grumichama.html"
     ],
-    "fruit_information_review_date": "2026-10-13T22:01:25.097442",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "緑から赤、熟すと暗紫～黒色になるやや扁平な果実。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 5
   },
   {
     "id": "rare_fruit_0105",
     "category": "珍しい果樹",
     "display_name": "ピタンガ",
-    "kana": "ピタンガ",
+    "kana": "ぴたんが",
     "search_aliases": [
-      "ピタンガ"
+      "ピタンガ",
+      "Surinam cherry",
+      "スリナムチェリー"
     ],
     "family": "フトモモ科",
     "genus": "Eugenia属",
@@ -7834,14 +7844,10 @@
     "reference_taxon_id": 83642,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "低木または樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：東部・南部 ブラジルから南部 南アメリカ。",
-    "habitat": "主に亜熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "縦に7～8本の溝がある扁平な果実。橙色から赤色・暗紫色系に熟し、橙赤色で多汁の果肉。",
-    "trivia": "分類資料では低木または樹木として扱われます。主な生育帯は亜熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "life_form": "低木〜高木",
+    "distribution": "南アメリカ",
+    "feature_summary": "小さなカボチャのように縦の溝がある丸い果実がなる。熟すと赤色〜暗い赤紫色になり、内部には橙赤色の果肉と大きな種子がある。白い花を咲かせる。",
+    "trivia": "熟した果肉は多汁で、甘味と酸味に独特の樹脂を思わせる香りが加わる。種を取り除いて生食するほか、ジャムやゼリーにも使われる。ブラジルでは果汁を発酵させて酒や酢にする利用も報告されている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -7851,7 +7857,7 @@
       "species": "Eugenia uniflora"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
-    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%BF%E3%83%B3%E3%82%AC",
+    "plant_source_url": "https://hort.purdue.edu/newcrop/morton/surinam_cherry.html",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%BF%E3%83%B3%E3%82%AC",
       "https://www.inaturalist.org/taxa/83642",
@@ -7893,16 +7899,16 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://hort.purdue.edu/newcrop/morton/surinam_cherry.html"
     ],
-    "fruit_information_review_date": "2026-10-13T22:01:25.097442",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "縦に7～8本の溝がある扁平な果実。橙色から赤色・暗紫色系に熟し、橙赤色で多汁の果肉。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 4
   },
   {
     "id": "rare_fruit_0106",
@@ -7995,9 +8001,10 @@
     "id": "rare_fruit_0107",
     "category": "珍しい果樹",
     "display_name": "カムカム",
-    "kana": "カムカム",
+    "kana": "かむかむ",
     "search_aliases": [
-      "カムカム"
+      "カムカム",
+      "Camu camu"
     ],
     "family": "フトモモ科",
     "genus": "Myrciaria属",
@@ -8006,14 +8013,11 @@
     "reference_taxon_id": 563896,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "低木または樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：南部 熱帯アメリカ。",
-    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "酸味のあるベリーのような果実がなり、食用に利用されます。熟した色や大きさの詳細は未確認です。",
-    "trivia": "採用分類ではフトモモ科のMyrciaria属に属する。学名はMyrciaria dubia。",
+    "life_form": "低木",
+    "distribution": "南アメリカのアマゾン地域",
+    "habitat": "川の近くや湿った森林地域",
+    "feature_summary": "直径2〜3cmほどの小さな果実がなる。皮は薄く、熟すと暗い紫色になり、内部に多汁の果肉がある。",
+    "trivia": "非常に酸味が強い果物。ペルーのロレート地方では、果汁を水で薄め、好みに応じて砂糖を加えた飲み物が親しまれている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8023,20 +8027,24 @@
       "species": "Myrciaria dubia"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/563896",
+    "plant_source_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_ficha=13461",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/563896",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A166146-2",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A166146-2/general-information",
-      "https://scholarworks.utrgv.edu/etd/641/"
+      "https://scholarworks.utrgv.edu/etd/641/",
+      "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_ficha=13461",
+      "https://repositorio.inia.gob.pe/items/7fcbdcae-e011-4adb-9e1b-ca8d4ed4d338"
     ],
     "content_source_scope": "species_primary",
     "image": {
-      "author": "(c) Enrique Salazar, some rights reserved (CC BY)",
-      "license": "CC-BY",
-      "source_url": "https://www.inaturalist.org/photos/626013332",
-      "image_path": "images/0101_0150/rare_fruit_0107.jpg",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      "author": "Túllio F",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fruto_de_Myrciaria_dubia.jpg",
+      "image_path": "images/rare_fruit_new_20261014/rare_fruit_0107.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Fruto_de_Myrciaria_dubia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
     },
     "content_status": "完成",
     "needs_ai_summary": false,
@@ -8045,12 +8053,12 @@
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
     "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。小さな赤い果実と枝。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-11",
+    "thumbnail_name_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T11:13:21.144884+09:00",
     "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
     "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
     "existing_content_fields_reused": [],
     "content_followup_source_title": "Myrciaria dubia (Kunth) McVaugh | Plants of the World Online | Kew Science",
@@ -8067,24 +8075,26 @@
       "native_range_original": "S. Tropical America",
       "biome_original": "wet tropical"
     },
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
-      "https://scholarworks.utrgv.edu/etd/641/"
+      "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_ficha=13461",
+      "https://repositorio.inia.gob.pe/items/7fcbdcae-e011-4adb-9e1b-ca8d4ed4d338"
     ],
-    "fruit_information_review_date": "2026-10-13T22:01:25.097442",
-    "fruit_information_review_status": "果実情報の一部・名称範囲・用途に追加確認が必要",
-    "fruit_information_review_note": "酸味のあるベリー様の果実が食用と大学研究資料に記載。栄養や効能の誇張はしない。色・大きさは今回未確認。",
-    "needs_manual_fruit_review": true,
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 9
   },
   {
     "id": "rare_fruit_0108",
     "category": "珍しい果樹",
     "display_name": "ホワイトサポテ",
-    "kana": "ホワイトサポテ",
+    "kana": "ほわいとさぽて",
     "search_aliases": [
-      "ホワイトサポテ"
+      "ホワイトサポテ",
+      "White sapote"
     ],
     "family": "ミカン科",
     "genus": "Casimiroa属",
@@ -8094,13 +8104,9 @@
     "taxon_rank": "species",
     "entity_type": "種",
     "life_form": "樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：メキシコから中央アメリカ。",
-    "habitat": "主に季節的に乾燥する熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "リンゴに似た滑らかな果実がなります。種に限定した果肉の詳細は未確認です。",
-    "trivia": "分類資料では樹木として扱われます。主な生育帯は季節的に乾燥する熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "distribution": "メキシコ",
+    "feature_summary": "リンゴに似た、滑らかな丸い果実がなる。葉は複数の小葉に分かれ、小さな緑黄色の花を咲かせる。",
+    "trivia": "原産地域では完熟した果肉を生食するほか、デザートやミルクシェイクに利用される。切り分けた果肉にクリームや砂糖を添える食べ方も記録されている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8110,7 +8116,7 @@
       "species": "Casimiroa edulis"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/209889",
+    "plant_source_url": "https://hort.purdue.edu/newcrop/morton/white_sapote.html",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/209889",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A771774-1",
@@ -8151,40 +8157,38 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://hort.purdue.edu/newcrop/morton/white_sapote.html"
     ],
-    "fruit_information_review_date": "2026-10-13T22:01:25.097442",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "Casimiroa edulis の節ではリンゴに似た滑らかな果実。他種を含む総論の大きさを転用しない。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 21
   },
   {
     "id": "rare_fruit_0109",
     "category": "珍しい果樹",
     "display_name": "ルクマ",
-    "kana": "ルクマ",
+    "kana": "るくま",
     "search_aliases": [
-      "ルクマ"
+      "ルクマ",
+      "Lucuma"
     ],
-    "family": "Sapotaceae科",
+    "family": "アカテツ科",
     "genus": "Pouteria属",
     "scientific_name": "Pouteria lucuma",
     "taxon_id": 122958,
     "reference_taxon_id": 122958,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "高木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
+    "life_form": "常緑の高木",
     "distribution": "コロンビアからチリ北部に自然分布。",
     "habitat": "主に季節的に乾燥する熱帯の生育帯に生育。コロンビアではアンデスの標高1,500〜3,000mの記録がある。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "褐緑色の薄い果皮、鮮黄色で粉質の甘い果肉。",
-    "trivia": "採用分類ではSapotaceae科のPouteria属に属する。学名はPouteria lucuma。",
+    "feature_summary": "丸形〜卵形の果実に、薄い褐緑色の皮と鮮やかな黄色の果肉がある。果肉はしっかりした粉質で、内部には光沢のある褐色の種子が入る。",
+    "trivia": "完熟した果肉はとても甘い。ペルーでは古くから利用され、果肉を乾燥させた粉末の製造も記録されている。生食やシロップ煮、菓子、アイスクリームに使われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8194,7 +8198,7 @@
       "species": "Pouteria lucuma"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
-    "plant_source_url": "https://en.wikipedia.org/wiki/Pouteria_lucuma",
+    "plant_source_url": "https://hort.purdue.edu/newcrop/morton/lucmo.html",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Pouteria_lucuma",
       "https://www.inaturalist.org/taxa/122958",
@@ -8230,40 +8234,38 @@
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
     "remaining105_review_note": "Kewが採用学名 Pouteria lucuma を Lucuma bifera の異名として明示する資料で基本情報を確認。属名の更新だけで別植物として扱わない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://hort.purdue.edu/newcrop/morton/lucmo.html"
     ],
-    "fruit_information_review_date": "2026-10-13T22:01:25.097442",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "褐緑色の薄い果皮、鮮黄色で粉質の甘い果肉。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 17
   },
   {
     "id": "rare_fruit_0110",
     "category": "珍しい果樹",
     "display_name": "スターアップル",
-    "kana": "スターアップル",
+    "kana": "すたーあっぷる",
     "search_aliases": [
-      "スターアップル"
+      "スターアップル",
+      "Star apple"
     ],
-    "family": "Sapotaceae科",
+    "family": "アカテツ科",
     "genus": "Chrysophyllum属",
     "scientific_name": "Chrysophyllum cainito",
     "taxon_id": 48876,
     "reference_taxon_id": 48876,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "高木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
+    "life_form": "常緑の高木",
     "distribution": "西インド諸島・中央アメリカ原産。カリブ地域、南アメリカ北部、オーストラリア、東南アジアやアフリカの一部にも導入されている。",
     "habitat": "暖かい低地の熱帯環境に適する。日当たりがよく、肥沃で水はけのよい場所で栽培。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "紫色または淡緑色の果皮と白い甘い果肉。切断面の種子室が星形。",
-    "trivia": "採用分類ではSapotaceae科のChrysophyllum属に属する。学名はChrysophyllum cainito。",
+    "feature_summary": "紫色または淡緑色の丸い果実がなる。内部の白い果肉を横に切ると、種子の入る部分が星のような模様になる。葉の裏は金褐色の毛で覆われる。",
+    "trivia": "完熟した果肉は甘く、実を半分に切ってスプーンですくう。皮と種子は取り除く。ジャマイカでは果肉と酸味のあるオレンジ果汁を合わせたデザートにする利用が記録されている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8273,7 +8275,7 @@
       "species": "Chrysophyllum cainito"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
-    "plant_source_url": "https://en.wikipedia.org/wiki/Chrysophyllum_cainito",
+    "plant_source_url": "https://hort.purdue.edu/newcrop/morton/star_apple.html",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Chrysophyllum_cainito",
       "https://www.inaturalist.org/taxa/48876",
@@ -8313,41 +8315,37 @@
     "content_basic_ecology_verified": true,
     "remaining105_review_status": "補完済み",
     "remaining105_review_note": "フロリダ大学の同学名の資料で原産地・導入先・樹木の性質・栽培環境を区別して確認。フロリダの開花月を日本の時期には転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
-      "https://ask.ifas.ufl.edu/publication/HS309/pdf",
       "https://hort.purdue.edu/newcrop/morton/star_apple.html"
     ],
-    "fruit_information_review_date": "2026-10-13T22:01:25.097442",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "紫色または淡緑色の果皮と白い甘い果肉。切断面の種子室が星形。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 20
   },
   {
     "id": "rare_fruit_0111",
     "category": "珍しい果樹",
     "display_name": "ナランジラ",
-    "kana": "ナランジラ",
+    "kana": "ならんじら",
     "search_aliases": [
-      "ナランジラ"
+      "ナランジラ",
+      "Naranjilla / Lulo"
     ],
-    "family": "Solanaceae科",
+    "family": "ナス科",
     "genus": "Solanum属",
     "scientific_name": "Solanum quitoense",
     "taxon_id": 126850,
     "reference_taxon_id": 126850,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "多年生の低木状植物（茎は成長すると木質化する）",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "コロンビア・エクアドル・ペルーなどのアンデス地域に分布。自然分布の詳しい全範囲は要確認。",
+    "life_form": "多年生草本〜半低木",
     "habitat": "アンデスの亜熱帯の林の下層に生育。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "毛のある丸い果実。熟すと鮮橙色の皮、緑～黄色系で多汁・酸味のある果肉。",
-    "trivia": "主な生育帯は季節的に乾燥する熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "feature_summary": "毛のある丸い果実が橙色に熟し、内部に緑〜黄色の多汁の果肉がある。葉は大きく、ビロードのような毛をもつ。",
+    "trivia": "果肉には強い酸味があり、パイナップルとレモンを思わせる風味にたとえられる。コロンビアではルロと呼ばれ、果肉にライム果汁、水、砂糖、氷を合わせたルラーダという飲み物に使われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8357,7 +8355,7 @@
       "species": "Solanum quitoense"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://en.wikipedia.org/wiki/Solanum",
+    "plant_source_url": "https://as.vanderbilt.edu/clacx/garden/plant-database/solanum-quitoense/",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Solanum",
       "https://www.inaturalist.org/taxa/126850",
@@ -8403,41 +8401,37 @@
     "content_followup_review_note": "大学の同学名の記載で生活型とアンデスの生育環境を確認。Kewとの原産地範囲の違いがあるため、自然分布の全範囲は確定していない。",
     "remaining105_review_status": "補完済み",
     "remaining105_review_note": "大学の同学名の記載で生活型とアンデスの生育環境を確認。Kewとの原産地範囲の違いがあるため、自然分布の全範囲は確定していない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
-      "https://as.vanderbilt.edu/clacx/garden/plant-database/solanum-quitoense/",
-      "https://experts.umn.edu/en/publications/characterization-of-a-new-tymovirus-causing-stunting-and-chloroti/"
+      "https://as.vanderbilt.edu/clacx/garden/plant-database/solanum-quitoense/"
     ],
-    "fruit_information_review_date": "2026-10-13T22:01:25.097442",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "毛のある丸い果実。熟すと鮮橙色の皮、緑～黄色系で多汁・酸味のある果肉。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 39
   },
   {
     "id": "rare_fruit_0112",
     "category": "珍しい果樹",
     "display_name": "タマリロ",
-    "kana": "タマリロ",
+    "kana": "たまりろ",
     "search_aliases": [
-      "タマリロ"
+      "タマリロ",
+      "Tamarillo"
     ],
-    "family": "Solanaceae科",
+    "family": "ナス科",
     "genus": "Solanum属",
     "scientific_name": "Solanum betaceum",
     "taxon_id": 280909,
     "reference_taxon_id": 280909,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
+    "life_form": "小高木",
     "distribution": "自然分布（Kew）：南部 熱帯アメリカ。",
-    "habitat": "主に季節的に乾燥する熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "滑らかな卵形で赤・橙・黄・紫色系の果実。長い果柄から下がり、種子周囲の果肉が多汁。",
-    "trivia": "分類資料では樹木として扱われます。主な生育帯は季節的に乾燥する熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "feature_summary": "長い果柄から卵形の果実が下がる。果皮は赤、橙、黄、紫色など品種によって異なり、種子の周囲に多汁の果肉がある。",
+    "trivia": "果肉には酸味から甘味まで幅があり、わずかに樹脂を思わせる香りがある。熟した実を半分に切って果肉をすくうほか、皮を除いてサラダ、ソース、パイなどに使う。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8447,7 +8441,7 @@
       "species": "Solanum betaceum"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://en.wikipedia.org/wiki/Solanum",
+    "plant_source_url": "https://hort.purdue.edu/newcrop/morton/tree_tomato.html",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Solanum",
       "https://www.inaturalist.org/taxa/280909",
@@ -8489,40 +8483,37 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://hort.purdue.edu/newcrop/morton/tree_tomato.html"
     ],
-    "fruit_information_review_date": "2026-10-13T22:01:34.552382",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "滑らかな卵形で赤・橙・黄・紫色系の果実。長い果柄から下がり、種子周囲の果肉が多汁。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 38
   },
   {
     "id": "rare_fruit_0114",
     "category": "珍しい果樹",
     "display_name": "サラック",
-    "kana": "サラック",
+    "kana": "さらっく",
     "search_aliases": [
-      "サラック"
+      "サラック",
+      "Salak / Snake fruit"
     ],
-    "family": "Arecaceae科",
+    "family": "ヤシ科",
     "genus": "Salacca属",
     "scientific_name": "Salacca zalacca",
     "taxon_id": 348724,
     "reference_taxon_id": 348724,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "ヤシ（常緑の木本植物）",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
+    "life_form": "株立ちするヤシ",
     "distribution": "自然分布（Kew）：南部 スマトラ島から南西部 ジャワ島。",
-    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "ヤシの仲間で、丸形から楕円形の果実がなります。鱗状の皮は赤褐色から赤色に熟します。",
-    "trivia": "分類資料では多年生植物または半低木として扱われます。主な生育帯は湿潤な熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "feature_summary": "短く太い茎と、大きな羽状の葉をもつ。果実の皮は赤褐色で、蛇の皮を思わせるうろこ状の模様がある。葉柄にはとげがある。",
+    "trivia": "熟した実は甘く、リンゴ・パイナップル・バナナを合わせたような味にたとえられる。生食のほか、シロップ漬け、砂糖漬け、漬物などにも使われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8532,7 +8523,7 @@
       "species": "Salacca zalacca"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
-    "plant_source_url": "https://en.wikipedia.org/wiki/Salacca_zalacca",
+    "plant_source_url": "https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3289",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Salacca_zalacca",
       "https://www.inaturalist.org/taxa/348724",
@@ -8574,24 +8565,25 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3289"
     ],
-    "fruit_information_review_date": "2026-10-13T22:01:34.552382",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "赤褐色～赤色に熟す鱗状の皮をもつ丸～楕円形果実。ヤシであり旧生活型は見直し候補。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 30
   },
   {
     "id": "rare_fruit_0115",
     "category": "珍しい果樹",
     "display_name": "チェンペダック",
-    "kana": "チェンペダック",
+    "kana": "ちぇんぺだっく",
     "search_aliases": [
-      "チェンペダック"
+      "チェンペダック",
+      "Cempedak"
     ],
     "family": "クワ科",
     "genus": "Artocarpus属",
@@ -8600,14 +8592,10 @@
     "reference_taxon_id": 347392,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
+    "life_form": "高木",
     "distribution": "自然分布（Kew）：タイのマレー半島部からマレシア地域。",
-    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "円筒状の果実が黄色から黄金褐色に熟します。濃い黄色で軟らかく甘い果肉があります。",
-    "trivia": "分類資料では樹木として扱われます。主な生育帯は湿潤な熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "feature_summary": "表面に凹凸のある円筒形〜丸形の大きな果実がなる。熟すと黄緑色〜褐色となり、種子を橙色の食用部分が包む。",
+    "trivia": "熟した食用部分は甘く、強いにおいがある。生食や揚げ物に使い、若い果実は野菜として調理する。種子も、煮る・焼くなど加熱して食べる利用がある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8617,11 +8605,12 @@
       "species": "Artocarpus integer"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/347392",
+    "plant_source_url": "https://www.nparks.gov.sg/florafaunaweb/flora/3/3/3309",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/347392",
       "https://powo.science.kew.org/taxon/582622-1",
-      "https://hort.purdue.edu/newcrop/morton/jackfruit_ars.html"
+      "https://hort.purdue.edu/newcrop/morton/jackfruit_ars.html",
+      "https://www.nparks.gov.sg/florafaunaweb/flora/3/3/3309"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -8658,24 +8647,26 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
-      "https://hort.purdue.edu/newcrop/morton/jackfruit_ars.html"
+      "https://www.nparks.gov.sg/florafaunaweb/flora/3/3/3309"
     ],
-    "fruit_information_review_date": "2026-10-13T22:01:34.552382",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "Artocarpus integer の近縁種節を確認。円筒状の黄～黄金褐色果実、濃黄色で軟らかく甘い果肉。ジャックフルーツ主題の特徴は転用しない。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 34
   },
   {
     "id": "rare_fruit_0116",
     "category": "珍しい果樹",
     "display_name": "マラング",
-    "kana": "マラング",
+    "kana": "まらん",
     "search_aliases": [
-      "マラング"
+      "マラング",
+      "マラン",
+      "Marang"
     ],
     "family": "クワ科",
     "genus": "Artocarpus属",
@@ -8684,14 +8675,10 @@
     "reference_taxon_id": 427965,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：ボルネオ島。",
-    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "ほぼ丸い果実が緑から黄褐色へ熟す。突起で覆われ、多数の種子を白く多汁で甘い果肉が包む。",
-    "trivia": "分類資料では樹木として扱われます。主な生育帯は湿潤な熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "life_form": "常緑の高木",
+    "distribution": "ボルネオ島",
+    "feature_summary": "表面を突起が覆う丸みのある大きな果実が、緑色から黄褐色に熟す。多くの種子を白い多汁の果肉が包む。葉は大きく、両面に粗い毛がある。",
+    "trivia": "白い果肉は甘く、香りがある。熟した果肉を食べるほか、地域では若い果実を野菜として調理する利用もある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8701,7 +8688,7 @@
       "species": "Artocarpus odoratissimus"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/427965",
+    "plant_source_url": "https://www.nparks.gov.sg/florafaunaweb/flora/3/5/3575",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/427965",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A850422-1",
@@ -8742,16 +8729,16 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://www.nparks.gov.sg/florafaunaweb/flora/3/5/3575"
     ],
-    "fruit_information_review_date": "2026-10-13T22:01:34.552382",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "ほぼ丸い果実が緑から黄褐色へ熟す。突起で覆われ、多数の種子を白く多汁で甘い果肉が包む。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 33
   },
   {
     "id": "rare_fruit_0117",
@@ -9605,9 +9592,10 @@
     "id": "rare_fruit_0129",
     "category": "珍しい果樹",
     "display_name": "フィンガーライム",
-    "kana": "フィンガーライム",
+    "kana": "ふぃんがーらいむ",
     "search_aliases": [
-      "フィンガーライム"
+      "フィンガーライム",
+      "Finger lime"
     ],
     "family": "ミカン科",
     "genus": "ミカン属",
@@ -9616,14 +9604,10 @@
     "reference_taxon_id": 122812,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "低木または樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：南東部 クイーンズランド州から北東部 ニューサウスウェールズ州。",
-    "habitat": "主に亜熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "指のような細長い果実。丸い独立した果汁粒が多数入る。",
-    "trivia": "分類資料では低木または樹木として扱われます。主な生育帯は亜熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "life_form": "低木〜小高木",
+    "distribution": "オーストラリア",
+    "feature_summary": "指のように細長い果実がなる。内部には、丸く独立した半透明の果汁の粒が多数入る。枝にはとげがある。",
+    "trivia": "果汁の粒がキャビアのように見えることから、料理の飾りにも使われる。魚介料理やサラダ、デザートに添える利用があり、皮を香辛料に加工することもある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -9633,7 +9617,7 @@
       "species": "Citrus australasica"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/122812",
+    "plant_source_url": "https://www.nparks.gov.sg/florafaunaweb/flora/8/1/8155",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/122812",
       "https://powo.science.kew.org/taxon/771856-1",
@@ -9674,24 +9658,25 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://www.nparks.gov.sg/florafaunaweb/flora/8/1/8155"
     ],
-    "fruit_information_review_date": "2026-10-13T22:01:45.041094",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "指のような細長い果実。丸い独立した果汁粒が多数入る。食用利用記載。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 43
   },
   {
     "id": "rare_fruit_0130",
     "category": "珍しい果樹",
     "display_name": "デザートライム",
-    "kana": "デザートライム",
+    "kana": "でざーとらいむ",
     "search_aliases": [
-      "デザートライム"
+      "デザートライム",
+      "Desert lime"
     ],
     "family": "ミカン科",
     "genus": "ミカン属",
@@ -9700,14 +9685,10 @@
     "reference_taxon_id": 765428,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "低木または樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：クイーンズランド州からニューサウスウェールズ州、南東部 South オーストラリア。",
-    "habitat": "主に砂漠または乾燥した低木地に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "直径約10～20mm、黄緑色のほぼ丸い液果。用途未確認。",
-    "trivia": "分類資料では低木または樹木として扱われます。主な生育帯は砂漠または乾燥した低木地です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "life_form": "低木〜小高木",
+    "distribution": "オーストラリア内陸部",
+    "feature_summary": "灰緑色の細い葉と、とげのある枝をもつ。直径1〜2cmほどの丸い果実が黄緑色に熟し、白い小さな花を咲かせる。",
+    "trivia": "オーストラリア原産の柑橘類の一つで、ブッシュライムやネイティブクムクワットという名前でも紹介される。半乾燥地域に自生する植物。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -9717,12 +9698,13 @@
       "species": "Citrus glauca"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://en.wikipedia.org/wiki/Citrus",
+    "plant_source_url": "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Citrus~glauca&page=nswfl",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Citrus",
       "https://www.inaturalist.org/taxa/765428",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A1002068-1",
-      "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Citrus~glauca&page=nswfl"
+      "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Citrus~glauca&page=nswfl",
+      "https://agrifutures.com.au/product/focus-on-desert-lime/"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -9759,16 +9741,17 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
-      "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Citrus~glauca&page=nswfl"
+      "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Citrus~glauca&page=nswfl",
+      "https://agrifutures.com.au/product/focus-on-desert-lime/"
     ],
-    "fruit_information_review_date": "2026-10-13T22:01:45.041094",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "直径約10～20mm、黄緑色のほぼ丸い液果。用途未確認。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 44
   },
   {
     "id": "rare_fruit_0131",
@@ -10194,25 +10177,22 @@
     "id": "rare_fruit_0136",
     "category": "珍しい果樹",
     "display_name": "ナタールプラム",
-    "kana": "ナタールプラム",
+    "kana": "なたーるぷらむ",
     "search_aliases": [
-      "ナタールプラム"
+      "ナタールプラム",
+      "Natal plum"
     ],
-    "family": "Apocynaceae科",
+    "family": "キョウチクトウ科",
     "genus": "Carissa属",
     "scientific_name": "Carissa macrocarpa",
     "taxon_id": 130215,
     "reference_taxon_id": 130215,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "低木または樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：ケニアから南東部 ケープ地方。",
-    "habitat": "主に砂漠または乾燥した低木地に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "卵形で緑から赤・紫色へ熟す果実。完熟果が食用との記載。",
-    "trivia": "採用分類ではApocynaceae科のCarissa属に属する。学名はCarissa macrocarpa。",
+    "life_form": "常緑の低木",
+    "distribution": "アフリカ",
+    "feature_summary": "とげのある枝と厚く光沢のある葉をもつ。白い星形の花が咲き、卵形の果実が赤色〜赤紫色に熟す。",
+    "trivia": "食用にするのは熟した果実で、生食やジャム、ゼリーに利用される。花にはジャスミンを思わせる香りがある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -10222,11 +10202,12 @@
       "species": "Carissa macrocarpa"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/130215",
+    "plant_source_url": "https://plants.ces.ncsu.edu/plants/carissa-macrocarpa/",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/130215",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77727-1",
-      "https://plants.ces.ncsu.edu/plants/carissa-macrocarpa/"
+      "https://plants.ces.ncsu.edu/plants/carissa-macrocarpa/",
+      "https://pza.sanbi.org/carissa-macrocarpa"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -10265,16 +10246,17 @@
       "native_range_original": "Kenya to SE. Cape Prov",
       "biome_original": "desert or dry shrubland"
     },
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
-      "https://plants.ces.ncsu.edu/plants/carissa-macrocarpa/"
+      "https://plants.ces.ncsu.edu/plants/carissa-macrocarpa/",
+      "https://pza.sanbi.org/carissa-macrocarpa"
     ],
-    "fruit_information_review_date": "2026-10-13T22:02:03.126101",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "卵形で緑から赤・紫色へ熟す果実。完熟果が食用との記載。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
-    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+    "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
+    "content_update_20261014_number": 46
   },
   {
     "id": "rare_fruit_0137",
@@ -10364,9 +10346,10 @@
     "id": "rare_fruit_0139",
     "category": "珍しい果樹",
     "display_name": "ベルベットアップル",
-    "kana": "ベルベットアップル",
+    "kana": "べるべっとあっぷる",
     "search_aliases": [
-      "ベルベットアップル"
+      "ベルベットアップル",
+      "Velvet apple"
     ],
     "family": "カキノキ科",
     "genus": "カキノキ属",
@@ -10375,14 +10358,10 @@
     "reference_taxon_id": 83582,
     "taxon_rank": "species",
     "entity_type": "種",
-    "life_form": "樹木",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
+    "life_form": "常緑の高木",
     "distribution": "自然分布（Kew）：東部・南部 台湾から東部 ボルネオ島。",
-    "habitat": "主に湿潤な熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "短い毛に覆われた桃・黄・橙・赤紫色系の丸～楕円形果実。",
-    "trivia": "分類資料では樹木として扱われます。主な生育帯は湿潤な熱帯です。自然分布と日本での栽培・観察場所は別に扱います。",
+    "feature_summary": "丸形〜楕円形の果実の皮が短い毛で覆われ、ビロードのように見える。内部には白っぽく粉質の果肉がある。葉は単葉で厚く、裏側に毛がある。",
+    "trivia": "皮にはチーズを思わせる強いにおいがあるが、皮を除いた果肉では弱まる。果肉は穏やかに甘く、バナナの風味をもつリンゴにたとえられる。皮と種子を除いて生食したり、フルーツサラダに使う。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -10392,7 +10371,7 @@
       "species": "Diospyros blancoi"
     },
     "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/83582",
+    "plant_source_url": "https://hort.purdue.edu/newcrop/morton/mabolo.html",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/83582",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A322146-1/general-information",
@@ -10433,17 +10412,17 @@
     },
     "content_followup_review_date": "2026-10-12",
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "fruiting_season": "国内の成熟時期は未確認",
     "fruit_source_urls": [
       "https://hort.purdue.edu/newcrop/morton/mabolo.html"
     ],
-    "fruit_information_review_date": "2026-10-13T22:02:03.126101",
-    "fruit_information_review_status": "果実の説明材料あり（全項目の確定ではない）",
-    "fruit_information_review_note": "短い毛に覆われた桃・黄・橙・赤紫色系の丸～楕円形果実。旧説明の複葉は資料の葉形と不整合で写真再確認候補。",
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
     "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。",
-    "fruit_review_photo_description_followup": "旧写真説明の葉形と資料の一般的特徴に不整合があるため、厳密な写真再確認は別途必要。"
+    "fruit_review_photo_description_followup": "旧写真説明の葉形と資料の一般的特徴に不整合があるため、厳密な写真再確認は別途必要。",
+    "content_update_20261014_number": 23
   },
   {
     "id": "rare_fruit_0140",
@@ -12148,5 +12127,308 @@
     "needs_manual_fruit_review": false,
     "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
     "fruit_genre_review_note": "果実を紹介する分類として確認。用途や分類範囲の未確定部分を残す。"
+  },
+  {
+    "id": "rare_fruit_0172",
+    "category": "珍しい果樹",
+    "display_name": "アラサ・ボイ",
+    "scientific_name": "Eugenia stipitata",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "フトモモ科",
+      "genus": "Eugenia",
+      "species": "Eugenia stipitata"
+    },
+    "kana": "あらさぼい",
+    "family": "フトモモ科",
+    "life_form": "低木〜高木",
+    "feature_summary": "丸形〜やや平たい果実が、緑色から黄色〜橙黄色に熟す。皮は薄く、内部に厚く多汁の果肉と複数の種子がある。白い花を咲かせる。",
+    "trivia": "酸味が強く、そのまま食べるよりジュースに加工される。ゼリーにも使われるが、長く加熱すると果実の香りや風味が失われやすい。",
+    "genus": "Eugenia",
+    "search_aliases": [
+      "アラサ・ボイ",
+      "Araza",
+      "アラザ"
+    ],
+    "distribution": "南アメリカのアマゾン地域",
+    "habitat": "湿潤な熱帯林。水はけのよい土壌。",
+    "plant_source_url": "https://apps.worldagroforestry.org/treedb/AFTPDFS/Eugenia_stipitata.pdf",
+    "content_source_urls": [
+      "https://apps.worldagroforestry.org/treedb/AFTPDFS/Eugenia_stipitata.pdf"
+    ],
+    "fruit_source_urls": [
+      "https://apps.worldagroforestry.org/treedb/AFTPDFS/Eugenia_stipitata.pdf"
+    ],
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 8,
+    "image": {
+      "author": "Edvaldopandolfi",
+      "license": "Public domain",
+      "license_url": "",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ara%C3%A7%C3%A1-Boi.jpg",
+      "image_path": "images/rare_fruit_new_20261014/rare_fruit_0172.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Ara%C3%A7%C3%A1-Boi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。",
+      "description": "緑色の果実。熟すと黄色〜橙黄色。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0173",
+    "category": "珍しい果樹",
+    "display_name": "バンレイシ・釈迦頭",
+    "scientific_name": "Annona squamosa",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "バンレイシ科",
+      "genus": "Annona",
+      "species": "Annona squamosa"
+    },
+    "kana": "ばんれいし",
+    "family": "バンレイシ科",
+    "life_form": "小高木",
+    "feature_summary": "丸形〜円錐形の果実は、表面がうろこ状の小さな部分に分かれる。内部に白〜クリーム色の果肉と黒い種子がある。",
+    "trivia": "甘く、カスタードのような果肉を生食する。種子は取り除く。ブラジルやインドで人気があり、マレー地域ではミルクやアイスクリームに加える利用もある。",
+    "genus": "Annona",
+    "search_aliases": [
+      "バンレイシ・釈迦頭",
+      "Sugar apple",
+      "釈迦頭",
+      "シャカトウ"
+    ],
+    "distribution": "熱帯アメリカ",
+    "plant_source_url": "https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2713",
+    "content_source_urls": [
+      "https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2713"
+    ],
+    "fruit_source_urls": [
+      "https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2713"
+    ],
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 11,
+    "image": {
+      "author": "JFVelasquez Floro",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_url": "https://commons.wikimedia.org/wiki/File:9582Atis_Philippines_fruit_06.jpg",
+      "image_path": "images/rare_fruit_new_20261014/rare_fruit_0173.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/9582Atis_Philippines_fruit_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0174",
+    "category": "珍しい果樹",
+    "display_name": "トゲバンレイシ",
+    "scientific_name": "Annona muricata",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "バンレイシ科",
+      "genus": "Annona",
+      "species": "Annona muricata"
+    },
+    "kana": "とげばんれいし",
+    "family": "バンレイシ科",
+    "life_form": "樹木",
+    "feature_summary": "緑色の大きな果実の表面に、曲がった柔らかい突起がある。白い果肉は繊維を含み、内部に大きな種子が入る。",
+    "trivia": "果肉には甘味と酸味がある。種子を除いた果肉をピューレにして利用する。シンガポールでは食べられている果物の一つとして果樹園の紹介にも登場する。",
+    "genus": "Annona",
+    "search_aliases": [
+      "トゲバンレイシ",
+      "Soursop"
+    ],
+    "distribution": "熱帯アメリカ",
+    "plant_source_url": "https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3258",
+    "content_source_urls": [
+      "https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3258",
+      "https://ucanr.edu/datastoreFiles/234-2085.pdf",
+      "https://www.nparks.gov.sg/visit/parks/park-detail/bukit-canberra-themed-gardens/"
+    ],
+    "fruit_source_urls": [
+      "https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3258",
+      "https://ucanr.edu/datastoreFiles/234-2085.pdf",
+      "https://www.nparks.gov.sg/visit/parks/park-detail/bukit-canberra-themed-gardens/"
+    ],
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 12,
+    "image": {
+      "author": "Thavapalan Thuruvan Thuvarakan",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_fruit_called_Cittappalam.jpg",
+      "image_path": "images/rare_fruit_new_20261014/rare_fruit_0174.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/A_fruit_called_Cittappalam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0175",
+    "category": "珍しい果樹",
+    "display_name": "アテモヤ",
+    "scientific_name": "Annona × atemoya",
+    "taxon_rank": "hybrid",
+    "entity_type": "交配種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "バンレイシ科",
+      "genus": "Annona",
+      "species": "Annona × atemoya"
+    },
+    "kana": "あてもや",
+    "family": "バンレイシ科",
+    "life_form": "小高木〜高木",
+    "feature_summary": "バンレイシとチェリモヤを交配した果樹。果実は表面に凹凸があり、内部に柔らかな果肉と種子がある。",
+    "trivia": "甘いカスタードを思わせる風味に、バニラやパイナップルのようなニュアンスがある。主に生食するデザート用の果実で、種子は取り除く。",
+    "genus": "Annona",
+    "search_aliases": [
+      "アテモヤ",
+      "Atemoya"
+    ],
+    "plant_source_url": "https://gardeningsolutions.ifas.ufl.edu/plants/edibles/fruits/atemoya/",
+    "content_source_urls": [
+      "https://gardeningsolutions.ifas.ufl.edu/plants/edibles/fruits/atemoya/",
+      "https://edis.ifas.ufl.edu/publication/MG332/pdf"
+    ],
+    "fruit_source_urls": [
+      "https://gardeningsolutions.ifas.ufl.edu/plants/edibles/fruits/atemoya/",
+      "https://edis.ifas.ufl.edu/publication/MG332/pdf"
+    ],
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 14,
+    "image": {
+      "author": "Serge Melki from Indianapolis, USA",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ashta_in_Lebanon_-_Atemoya_fruit_-_Guanabana_-_Cherimoya_(4039918448).jpg",
+      "image_path": "images/rare_fruit_new_20261014/rare_fruit_0175.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ashta_in_Lebanon_-_Atemoya_fruit_-_Guanabana_-_Cherimoya_%284039918448%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "tree_0268",
+    "category": "珍しい果樹",
+    "display_name": "チェリモヤ",
+    "kana": "ちぇりもや",
+    "search_aliases": [
+      "チェリモヤ",
+      "Cherimoya"
+    ],
+    "family": "バンレイシ科",
+    "genus": "バンレイシ属",
+    "scientific_name": "Annona cherimola",
+    "taxon_id": 126236,
+    "reference_taxon_id": 126236,
+    "taxon_rank": "species",
+    "matched_common_name": "チェリモヤ",
+    "entity_type": "種",
+    "life_form": "樹木",
+    "flowering_season": "春から数か月以上。栽培環境により変動",
+    "observation_season": "葉は展葉から落葉まで。冬は枝・芽・樹形を観察。花・果実は記載の季節を参照",
+    "distribution": "ペルー・エクアドルのアンデス山地原産。各地の熱帯高地・亜熱帯で栽培",
+    "feature_summary": "果肉が柔らかい果実で、内部に大きな種子がある。",
+    "trivia": "果肉はざらつきの少ない柔らかな洋梨を思わせる食感で、酸味は比較的少ない。生食のほか、アイスクリームやシャーベットにも利用される。食用にするのは果肉で、種子は取り除く。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "被子植物（モクレン類）",
+      "order": "モクレン目",
+      "family": "バンレイシ科",
+      "genus": "バンレイシ属",
+      "species": "Annona cherimola"
+    },
+    "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。",
+    "plant_source_url": "https://ucanr.edu/node/125811/printable/print",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%AA%E3%83%A2%E3%83%A4",
+      "https://www.inaturalist.org/taxa/126236",
+      "https://ucanr.edu/node/125811/printable/print"
+    ],
+    "image": {
+      "author": "Marcelo RosaMelo",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Annona_cherimola_fruit,_Pedra_Bela,_Brazil.jpg",
+      "image_path": "images/rare_fruit_new_20261014/tree_0268.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Annona_cherimola_fruit%2C_Pedra_Bela%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "needs_ai_summary": false,
+    "needs_manual_taxon_review": false,
+    "taxon_lookup_error": "",
+    "content_status": "完成",
+    "verification_notes": "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+    "needs_manual_image_review": false,
+    "image_review_status": "明らかな不一致なし",
+    "image_review_note": "2026-10-10 目視確認。垂れる葉と緑色の果実。植物名と写真に明らかな不一致なし。",
+    "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+    "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
+    "thumbnail_name_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "fruit_source_urls": [
+      "https://ucanr.edu/node/125811/printable/print"
+    ],
+    "fruit_information_review_date": "2026-10-14T11:13:21.144884+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 10,
+    "thumbnail_visually_reviewed": true
   }
 ]

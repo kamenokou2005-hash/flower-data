@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at_utc": "2026-10-13T13:03:22.131984+00:00",
-  "completed_count": 2696,
+  "generated_at_utc": "2026-10-14T02:13:23.495043+00:00",
+  "completed_count": 2700,
   "items": [
     {
       "id": "flower_0001",
@@ -49055,49 +49055,107 @@
       "id": "rare_fruit_0001",
       "category": "珍しい果樹",
       "name": "フェイジョア",
-      "kana": "フェイジョア",
+      "kana": "ふぇいじょあ",
       "aliases": [
-        "フェイジョア"
+        "フェイジョア",
+        "Feijoa",
+        "フィジョア",
+        "パイナップルグアバ",
+        "Feijoa sellowiana"
       ],
       "romaji": [
-        "feijoa"
+        "feijoa",
+        "fijoa",
+        "painappuruguaba",
+        "feijoa sellowiana"
       ],
       "scientific": "Feijoa sellowiana",
       "search_terms": [
         "フェイジョア",
         "ふぇいじょあ",
+        "Feijoa",
+        "フィジョア",
+        "パイナップルグアバ",
+        "Feijoa sellowiana",
+        "ふぃじょあ",
+        "ぱいなっぷるぐあば",
         "feijoa",
-        "Feijoa sellowiana"
+        "fijoa",
+        "painappuruguaba",
+        "feijoa sellowiana"
       ],
       "normalized_terms": [
         "フェイジョア",
         "ふぇいじょあ",
         "feijoa",
-        "feijoasellowiana"
+        "フィジョア",
+        "パイナップルグアバ",
+        "feijoasellowiana",
+        "ふぃじょあ",
+        "ぱいなっぷるぐあば",
+        "fijoa",
+        "painappuruguaba"
       ]
     },
     {
       "id": "rare_fruit_0002",
       "category": "珍しい果樹",
       "name": "ポポー",
-      "kana": "ポポー",
+      "kana": "ぽぽー",
       "aliases": [
-        "ポポー"
+        "ポポー",
+        "Pawpaw",
+        "ポーポー",
+        "パポー",
+        "ポポーノキ",
+        "アケビガキ"
       ],
       "romaji": [
-        "popoo"
+        "popoo",
+        "pawpaw",
+        "poopoo",
+        "papoo",
+        "popoonoki",
+        "akebigaki"
       ],
       "scientific": "Asimina triloba",
       "search_terms": [
         "ポポー",
         "ぽぽー",
+        "Pawpaw",
+        "ポーポー",
+        "パポー",
+        "ポポーノキ",
+        "アケビガキ",
+        "ぽーぽー",
+        "ぱぽー",
+        "ぽぽーのき",
+        "あけびがき",
         "popoo",
+        "pawpaw",
+        "poopoo",
+        "papoo",
+        "popoonoki",
+        "akebigaki",
         "Asimina triloba"
       ],
       "normalized_terms": [
         "ポポー",
         "ぽぽー",
+        "pawpaw",
+        "ポーポー",
+        "パポー",
+        "ポポーノキ",
+        "アケビガキ",
+        "ぽーぽー",
+        "ぱぽー",
+        "ぽぽーのき",
+        "あけびがき",
         "popoo",
+        "poopoo",
+        "papoo",
+        "popoonoki",
+        "akebigaki",
         "asiminatriloba"
       ]
     },
@@ -49555,23 +49613,28 @@
       "id": "rare_fruit_0021",
       "category": "珍しい果樹",
       "name": "アケビ",
-      "kana": "アケビ",
+      "kana": "あけび",
       "aliases": [
-        "アケビ"
+        "アケビ",
+        "Akebia / Chocolate vine"
       ],
       "romaji": [
-        "akebi"
+        "akebi",
+        "akebia chocolate vine"
       ],
       "scientific": "Akebia quinata",
       "search_terms": [
         "アケビ",
         "あけび",
+        "Akebia / Chocolate vine",
         "akebi",
+        "akebia chocolate vine",
         "Akebia quinata"
       ],
       "normalized_terms": [
         "アケビ",
         "あけび",
+        "akebiachocolatevine",
         "akebi",
         "akebiaquinata"
       ]
@@ -50080,23 +50143,28 @@
       "id": "rare_fruit_0045",
       "category": "珍しい果樹",
       "name": "マメイサポテ",
-      "kana": "マメイサポテ",
+      "kana": "まめいさぽて",
       "aliases": [
-        "マメイサポテ"
+        "マメイサポテ",
+        "Mamey sapote"
       ],
       "romaji": [
-        "mameisapote"
+        "mameisapote",
+        "mamey sapote"
       ],
       "scientific": "Pouteria sapota",
       "search_terms": [
         "マメイサポテ",
         "まめいさぽて",
+        "Mamey sapote",
         "mameisapote",
+        "mamey sapote",
         "Pouteria sapota"
       ],
       "normalized_terms": [
         "マメイサポテ",
         "まめいさぽて",
+        "mameysapote",
         "mameisapote",
         "pouteriasapota"
       ]
@@ -50105,9 +50173,10 @@
       "id": "rare_fruit_0046",
       "category": "珍しい果樹",
       "name": "アビウ",
-      "kana": "アビウ",
+      "kana": "あびう",
       "aliases": [
-        "アビウ"
+        "アビウ",
+        "Abiu"
       ],
       "romaji": [
         "abiu"
@@ -50116,6 +50185,7 @@
       "search_terms": [
         "アビウ",
         "あびう",
+        "Abiu",
         "abiu",
         "Pouteria caimito"
       ],
@@ -50130,23 +50200,28 @@
       "id": "rare_fruit_0047",
       "category": "珍しい果樹",
       "name": "プラサン",
-      "kana": "プラサン",
+      "kana": "ぷらさん",
       "aliases": [
-        "プラサン"
+        "プラサン",
+        "Pulasan"
       ],
       "romaji": [
-        "purasan"
+        "purasan",
+        "pulasan"
       ],
       "scientific": "Nephelium ramboutan-ake",
       "search_terms": [
         "プラサン",
         "ぷらさん",
+        "Pulasan",
         "purasan",
+        "pulasan",
         "Nephelium ramboutan-ake"
       ],
       "normalized_terms": [
         "プラサン",
         "ぷらさん",
+        "pulasan",
         "purasan",
         "nepheliumramboutanake"
       ]
@@ -50155,24 +50230,53 @@
       "id": "rare_fruit_0048",
       "category": "珍しい果樹",
       "name": "ランサ",
-      "kana": "ランサ",
+      "kana": "らんさっと",
       "aliases": [
-        "ランサ"
+        "ランサ",
+        "ランサット・ロンコン",
+        "Langsat / Longkong",
+        "ロンコン",
+        "ランサット"
       ],
       "romaji": [
-        "ransa"
+        "ransatto",
+        "ransa",
+        "ransatto ronkon",
+        "langsat longkong",
+        "ronkon"
       ],
       "scientific": "Lansium domesticum",
       "search_terms": [
         "ランサ",
+        "らんさっと",
+        "ランサット・ロンコン",
+        "Langsat / Longkong",
+        "ロンコン",
+        "ランサット",
         "らんさ",
+        "らんさっと・ろんこん",
+        "ろんこん",
+        "ransatto",
         "ransa",
+        "ransatto ronkon",
+        "langsat longkong",
+        "ronkon",
         "Lansium domesticum"
       ],
       "normalized_terms": [
         "ランサ",
+        "らんさっと",
+        "ランサットロンコン",
+        "langsatlongkong",
+        "ロンコン",
+        "ランサット",
         "らんさ",
+        "らんさっとろんこん",
+        "ろんこん",
+        "ransatto",
         "ransa",
+        "ransattoronkon",
+        "ronkon",
         "lansiumdomesticum"
       ]
     },
@@ -50180,23 +50284,28 @@
       "id": "rare_fruit_0049",
       "category": "珍しい果樹",
       "name": "サントール",
-      "kana": "サントール",
+      "kana": "さんとーる",
       "aliases": [
-        "サントール"
+        "サントール",
+        "Santol"
       ],
       "romaji": [
-        "santooru"
+        "santooru",
+        "santol"
       ],
       "scientific": "Sandoricum koetjape",
       "search_terms": [
         "サントール",
         "さんとーる",
+        "Santol",
         "santooru",
+        "santol",
         "Sandoricum koetjape"
       ],
       "normalized_terms": [
         "サントール",
         "さんとーる",
+        "santol",
         "santooru",
         "sandoricumkoetjape"
       ]
@@ -50205,23 +50314,28 @@
       "id": "rare_fruit_0050",
       "category": "珍しい果樹",
       "name": "バオバブ",
-      "kana": "バオバブ",
+      "kana": "ばおばぶ",
       "aliases": [
-        "バオバブ"
+        "バオバブ",
+        "Baobab"
       ],
       "romaji": [
-        "baobabu"
+        "baobabu",
+        "baobab"
       ],
       "scientific": "Adansonia digitata",
       "search_terms": [
         "バオバブ",
         "ばおばぶ",
+        "Baobab",
         "baobabu",
+        "baobab",
         "Adansonia digitata"
       ],
       "normalized_terms": [
         "バオバブ",
         "ばおばぶ",
+        "baobab",
         "baobabu",
         "adansoniadigitata"
       ]
@@ -51180,9 +51294,10 @@
       "id": "rare_fruit_0101",
       "category": "珍しい果樹",
       "name": "ビリバ",
-      "kana": "ビリバ",
+      "kana": "びりば",
       "aliases": [
-        "ビリバ"
+        "ビリバ",
+        "Biriba"
       ],
       "romaji": [
         "biriba"
@@ -51191,6 +51306,7 @@
       "search_terms": [
         "ビリバ",
         "びりば",
+        "Biriba",
         "biriba",
         "Annona mucosa"
       ],
@@ -51230,23 +51346,28 @@
       "id": "rare_fruit_0103",
       "category": "珍しい果樹",
       "name": "ジャボチカバ",
-      "kana": "ジャボチカバ",
+      "kana": "じゃぼちかば",
       "aliases": [
-        "ジャボチカバ"
+        "ジャボチカバ",
+        "Jaboticaba"
       ],
       "romaji": [
-        "jabochikaba"
+        "jabochikaba",
+        "jaboticaba"
       ],
       "scientific": "Plinia cauliflora",
       "search_terms": [
         "ジャボチカバ",
         "じゃぼちかば",
+        "Jaboticaba",
         "jabochikaba",
+        "jaboticaba",
         "Plinia cauliflora"
       ],
       "normalized_terms": [
         "ジャボチカバ",
         "じゃぼちかば",
+        "jaboticaba",
         "jabochikaba",
         "pliniacauliflora"
       ]
@@ -51255,23 +51376,28 @@
       "id": "rare_fruit_0104",
       "category": "珍しい果樹",
       "name": "グルミチャマ",
-      "kana": "グルミチャマ",
+      "kana": "ぐるみちゃま",
       "aliases": [
-        "グルミチャマ"
+        "グルミチャマ",
+        "Grumichama"
       ],
       "romaji": [
-        "gurumichama"
+        "gurumichama",
+        "grumichama"
       ],
       "scientific": "Eugenia brasiliensis",
       "search_terms": [
         "グルミチャマ",
         "ぐるみちゃま",
+        "Grumichama",
         "gurumichama",
+        "grumichama",
         "Eugenia brasiliensis"
       ],
       "normalized_terms": [
         "グルミチャマ",
         "ぐるみちゃま",
+        "grumichama",
         "gurumichama",
         "eugeniabrasiliensis"
       ]
@@ -51280,24 +51406,37 @@
       "id": "rare_fruit_0105",
       "category": "珍しい果樹",
       "name": "ピタンガ",
-      "kana": "ピタンガ",
+      "kana": "ぴたんが",
       "aliases": [
-        "ピタンガ"
+        "ピタンガ",
+        "Surinam cherry",
+        "スリナムチェリー"
       ],
       "romaji": [
-        "pitanga"
+        "pitanga",
+        "surinam cherry",
+        "surinamucherii"
       ],
       "scientific": "Eugenia uniflora",
       "search_terms": [
         "ピタンガ",
         "ぴたんが",
+        "Surinam cherry",
+        "スリナムチェリー",
+        "すりなむちぇりー",
         "pitanga",
+        "surinam cherry",
+        "surinamucherii",
         "Eugenia uniflora"
       ],
       "normalized_terms": [
         "ピタンガ",
         "ぴたんが",
+        "surinamcherry",
+        "スリナムチェリー",
+        "すりなむちぇりー",
         "pitanga",
+        "surinamucherii",
         "eugeniauniflora"
       ]
     },
@@ -51330,23 +51469,28 @@
       "id": "rare_fruit_0107",
       "category": "珍しい果樹",
       "name": "カムカム",
-      "kana": "カムカム",
+      "kana": "かむかむ",
       "aliases": [
-        "カムカム"
+        "カムカム",
+        "Camu camu"
       ],
       "romaji": [
-        "kamukamu"
+        "kamukamu",
+        "camu camu"
       ],
       "scientific": "Myrciaria dubia",
       "search_terms": [
         "カムカム",
         "かむかむ",
+        "Camu camu",
         "kamukamu",
+        "camu camu",
         "Myrciaria dubia"
       ],
       "normalized_terms": [
         "カムカム",
         "かむかむ",
+        "camucamu",
         "kamukamu",
         "myrciariadubia"
       ]
@@ -51355,23 +51499,28 @@
       "id": "rare_fruit_0108",
       "category": "珍しい果樹",
       "name": "ホワイトサポテ",
-      "kana": "ホワイトサポテ",
+      "kana": "ほわいとさぽて",
       "aliases": [
-        "ホワイトサポテ"
+        "ホワイトサポテ",
+        "White sapote"
       ],
       "romaji": [
-        "howaitosapote"
+        "howaitosapote",
+        "white sapote"
       ],
       "scientific": "Casimiroa edulis",
       "search_terms": [
         "ホワイトサポテ",
         "ほわいとさぽて",
+        "White sapote",
         "howaitosapote",
+        "white sapote",
         "Casimiroa edulis"
       ],
       "normalized_terms": [
         "ホワイトサポテ",
         "ほわいとさぽて",
+        "whitesapote",
         "howaitosapote",
         "casimiroaedulis"
       ]
@@ -51380,23 +51529,28 @@
       "id": "rare_fruit_0109",
       "category": "珍しい果樹",
       "name": "ルクマ",
-      "kana": "ルクマ",
+      "kana": "るくま",
       "aliases": [
-        "ルクマ"
+        "ルクマ",
+        "Lucuma"
       ],
       "romaji": [
-        "rukuma"
+        "rukuma",
+        "lucuma"
       ],
       "scientific": "Pouteria lucuma",
       "search_terms": [
         "ルクマ",
         "るくま",
+        "Lucuma",
         "rukuma",
+        "lucuma",
         "Pouteria lucuma"
       ],
       "normalized_terms": [
         "ルクマ",
         "るくま",
+        "lucuma",
         "rukuma",
         "pouterialucuma"
       ]
@@ -51405,23 +51559,28 @@
       "id": "rare_fruit_0110",
       "category": "珍しい果樹",
       "name": "スターアップル",
-      "kana": "スターアップル",
+      "kana": "すたーあっぷる",
       "aliases": [
-        "スターアップル"
+        "スターアップル",
+        "Star apple"
       ],
       "romaji": [
-        "sutaaappuru"
+        "sutaaappuru",
+        "star apple"
       ],
       "scientific": "Chrysophyllum cainito",
       "search_terms": [
         "スターアップル",
         "すたーあっぷる",
+        "Star apple",
         "sutaaappuru",
+        "star apple",
         "Chrysophyllum cainito"
       ],
       "normalized_terms": [
         "スターアップル",
         "すたーあっぷる",
+        "starapple",
         "sutaaappuru",
         "chrysophyllumcainito"
       ]
@@ -51430,23 +51589,28 @@
       "id": "rare_fruit_0111",
       "category": "珍しい果樹",
       "name": "ナランジラ",
-      "kana": "ナランジラ",
+      "kana": "ならんじら",
       "aliases": [
-        "ナランジラ"
+        "ナランジラ",
+        "Naranjilla / Lulo"
       ],
       "romaji": [
-        "naranjira"
+        "naranjira",
+        "naranjilla lulo"
       ],
       "scientific": "Solanum quitoense",
       "search_terms": [
         "ナランジラ",
         "ならんじら",
+        "Naranjilla / Lulo",
         "naranjira",
+        "naranjilla lulo",
         "Solanum quitoense"
       ],
       "normalized_terms": [
         "ナランジラ",
         "ならんじら",
+        "naranjillalulo",
         "naranjira",
         "solanumquitoense"
       ]
@@ -51455,23 +51619,28 @@
       "id": "rare_fruit_0112",
       "category": "珍しい果樹",
       "name": "タマリロ",
-      "kana": "タマリロ",
+      "kana": "たまりろ",
       "aliases": [
-        "タマリロ"
+        "タマリロ",
+        "Tamarillo"
       ],
       "romaji": [
-        "tamariro"
+        "tamariro",
+        "tamarillo"
       ],
       "scientific": "Solanum betaceum",
       "search_terms": [
         "タマリロ",
         "たまりろ",
+        "Tamarillo",
         "tamariro",
+        "tamarillo",
         "Solanum betaceum"
       ],
       "normalized_terms": [
         "タマリロ",
         "たまりろ",
+        "tamarillo",
         "tamariro",
         "solanumbetaceum"
       ]
@@ -51480,23 +51649,28 @@
       "id": "rare_fruit_0114",
       "category": "珍しい果樹",
       "name": "サラック",
-      "kana": "サラック",
+      "kana": "さらっく",
       "aliases": [
-        "サラック"
+        "サラック",
+        "Salak / Snake fruit"
       ],
       "romaji": [
-        "sarakku"
+        "sarakku",
+        "salak snake fruit"
       ],
       "scientific": "Salacca zalacca",
       "search_terms": [
         "サラック",
         "さらっく",
+        "Salak / Snake fruit",
         "sarakku",
+        "salak snake fruit",
         "Salacca zalacca"
       ],
       "normalized_terms": [
         "サラック",
         "さらっく",
+        "salaksnakefruit",
         "sarakku",
         "salaccazalacca"
       ]
@@ -51505,23 +51679,28 @@
       "id": "rare_fruit_0115",
       "category": "珍しい果樹",
       "name": "チェンペダック",
-      "kana": "チェンペダック",
+      "kana": "ちぇんぺだっく",
       "aliases": [
-        "チェンペダック"
+        "チェンペダック",
+        "Cempedak"
       ],
       "romaji": [
-        "chenpedakku"
+        "chenpedakku",
+        "cempedak"
       ],
       "scientific": "Artocarpus integer",
       "search_terms": [
         "チェンペダック",
         "ちぇんぺだっく",
+        "Cempedak",
         "chenpedakku",
+        "cempedak",
         "Artocarpus integer"
       ],
       "normalized_terms": [
         "チェンペダック",
         "ちぇんぺだっく",
+        "cempedak",
         "chenpedakku",
         "artocarpusinteger"
       ]
@@ -51530,23 +51709,36 @@
       "id": "rare_fruit_0116",
       "category": "珍しい果樹",
       "name": "マラング",
-      "kana": "マラング",
+      "kana": "まらん",
       "aliases": [
-        "マラング"
+        "マラング",
+        "マラン",
+        "Marang"
       ],
       "romaji": [
-        "marangu"
+        "maran",
+        "marangu",
+        "marang"
       ],
       "scientific": "Artocarpus odoratissimus",
       "search_terms": [
         "マラング",
+        "まらん",
+        "マラン",
+        "Marang",
         "まらんぐ",
+        "maran",
         "marangu",
+        "marang",
         "Artocarpus odoratissimus"
       ],
       "normalized_terms": [
         "マラング",
+        "まらん",
+        "マラン",
+        "marang",
         "まらんぐ",
+        "maran",
         "marangu",
         "artocarpusodoratissimus"
       ]
@@ -51805,23 +51997,28 @@
       "id": "rare_fruit_0129",
       "category": "珍しい果樹",
       "name": "フィンガーライム",
-      "kana": "フィンガーライム",
+      "kana": "ふぃんがーらいむ",
       "aliases": [
-        "フィンガーライム"
+        "フィンガーライム",
+        "Finger lime"
       ],
       "romaji": [
-        "fingaaraimu"
+        "fingaaraimu",
+        "finger lime"
       ],
       "scientific": "Citrus australasica",
       "search_terms": [
         "フィンガーライム",
         "ふぃんがーらいむ",
+        "Finger lime",
         "fingaaraimu",
+        "finger lime",
         "Citrus australasica"
       ],
       "normalized_terms": [
         "フィンガーライム",
         "ふぃんがーらいむ",
+        "fingerlime",
         "fingaaraimu",
         "citrusaustralasica"
       ]
@@ -51830,23 +52027,28 @@
       "id": "rare_fruit_0130",
       "category": "珍しい果樹",
       "name": "デザートライム",
-      "kana": "デザートライム",
+      "kana": "でざーとらいむ",
       "aliases": [
-        "デザートライム"
+        "デザートライム",
+        "Desert lime"
       ],
       "romaji": [
-        "dezaatoraimu"
+        "dezaatoraimu",
+        "desert lime"
       ],
       "scientific": "Citrus glauca",
       "search_terms": [
         "デザートライム",
         "でざーとらいむ",
+        "Desert lime",
         "dezaatoraimu",
+        "desert lime",
         "Citrus glauca"
       ],
       "normalized_terms": [
         "デザートライム",
         "でざーとらいむ",
+        "desertlime",
         "dezaatoraimu",
         "citrusglauca"
       ]
@@ -51980,23 +52182,28 @@
       "id": "rare_fruit_0136",
       "category": "珍しい果樹",
       "name": "ナタールプラム",
-      "kana": "ナタールプラム",
+      "kana": "なたーるぷらむ",
       "aliases": [
-        "ナタールプラム"
+        "ナタールプラム",
+        "Natal plum"
       ],
       "romaji": [
-        "nataarupuramu"
+        "nataarupuramu",
+        "natal plum"
       ],
       "scientific": "Carissa macrocarpa",
       "search_terms": [
         "ナタールプラム",
         "なたーるぷらむ",
+        "Natal plum",
         "nataarupuramu",
+        "natal plum",
         "Carissa macrocarpa"
       ],
       "normalized_terms": [
         "ナタールプラム",
         "なたーるぷらむ",
+        "natalplum",
         "nataarupuramu",
         "carissamacrocarpa"
       ]
@@ -52030,23 +52237,28 @@
       "id": "rare_fruit_0139",
       "category": "珍しい果樹",
       "name": "ベルベットアップル",
-      "kana": "ベルベットアップル",
+      "kana": "べるべっとあっぷる",
       "aliases": [
-        "ベルベットアップル"
+        "ベルベットアップル",
+        "Velvet apple"
       ],
       "romaji": [
-        "berubettoappuru"
+        "berubettoappuru",
+        "velvet apple"
       ],
       "scientific": "Diospyros blancoi",
       "search_terms": [
         "ベルベットアップル",
         "べるべっとあっぷる",
+        "Velvet apple",
         "berubettoappuru",
+        "velvet apple",
         "Diospyros blancoi"
       ],
       "normalized_terms": [
         "ベルベットアップル",
         "べるべっとあっぷる",
+        "velvetapple",
         "berubettoappuru",
         "diospyrosblancoi"
       ]
@@ -52574,6 +52786,144 @@
         "まどろーにょ",
         "madoroonyo",
         "garciniamadruno"
+      ]
+    },
+    {
+      "id": "rare_fruit_0172",
+      "category": "珍しい果樹",
+      "name": "アラサ・ボイ",
+      "kana": "あらさぼい",
+      "aliases": [
+        "アラサ・ボイ",
+        "Araza",
+        "アラザ"
+      ],
+      "romaji": [
+        "arasaboi",
+        "arasa boi",
+        "araza"
+      ],
+      "scientific": "Eugenia stipitata",
+      "search_terms": [
+        "アラサ・ボイ",
+        "あらさぼい",
+        "Araza",
+        "アラザ",
+        "あらさ・ぼい",
+        "あらざ",
+        "arasaboi",
+        "arasa boi",
+        "araza",
+        "Eugenia stipitata"
+      ],
+      "normalized_terms": [
+        "アラサボイ",
+        "あらさぼい",
+        "araza",
+        "アラザ",
+        "あらざ",
+        "arasaboi",
+        "eugeniastipitata"
+      ]
+    },
+    {
+      "id": "rare_fruit_0173",
+      "category": "珍しい果樹",
+      "name": "バンレイシ・釈迦頭",
+      "kana": "ばんれいし",
+      "aliases": [
+        "バンレイシ・釈迦頭",
+        "Sugar apple",
+        "釈迦頭",
+        "シャカトウ"
+      ],
+      "romaji": [
+        "banreishi",
+        "sugar apple",
+        "shakatou"
+      ],
+      "scientific": "Annona squamosa",
+      "search_terms": [
+        "バンレイシ・釈迦頭",
+        "ばんれいし",
+        "Sugar apple",
+        "釈迦頭",
+        "シャカトウ",
+        "ばんれいし・釈迦頭",
+        "しゃかとう",
+        "banreishi",
+        "sugar apple",
+        "shakatou",
+        "Annona squamosa"
+      ],
+      "normalized_terms": [
+        "バンレイシ釈迦頭",
+        "ばんれいし",
+        "sugarapple",
+        "釈迦頭",
+        "シャカトウ",
+        "ばんれいし釈迦頭",
+        "しゃかとう",
+        "banreishi",
+        "shakatou",
+        "annonasquamosa"
+      ]
+    },
+    {
+      "id": "rare_fruit_0174",
+      "category": "珍しい果樹",
+      "name": "トゲバンレイシ",
+      "kana": "とげばんれいし",
+      "aliases": [
+        "トゲバンレイシ",
+        "Soursop"
+      ],
+      "romaji": [
+        "togebanreishi",
+        "soursop"
+      ],
+      "scientific": "Annona muricata",
+      "search_terms": [
+        "トゲバンレイシ",
+        "とげばんれいし",
+        "Soursop",
+        "togebanreishi",
+        "soursop",
+        "Annona muricata"
+      ],
+      "normalized_terms": [
+        "トゲバンレイシ",
+        "とげばんれいし",
+        "soursop",
+        "togebanreishi",
+        "annonamuricata"
+      ]
+    },
+    {
+      "id": "rare_fruit_0175",
+      "category": "珍しい果樹",
+      "name": "アテモヤ",
+      "kana": "あてもや",
+      "aliases": [
+        "アテモヤ",
+        "Atemoya"
+      ],
+      "romaji": [
+        "atemoya"
+      ],
+      "scientific": "Annona × atemoya",
+      "search_terms": [
+        "アテモヤ",
+        "あてもや",
+        "Atemoya",
+        "atemoya",
+        "Annona × atemoya"
+      ],
+      "normalized_terms": [
+        "アテモヤ",
+        "あてもや",
+        "atemoya",
+        "annonaatemoya"
       ]
     },
     {
@@ -64911,34 +65261,40 @@
       "id": "tree_0267",
       "category": "木",
       "name": "リュウガン",
-      "kana": "リュウガン",
+      "kana": "りゅうがん",
       "aliases": [
-        "リュウガン"
+        "リュウガン",
+        "Longan"
       ],
       "romaji": [
-        "ryuugan"
+        "ryuugan",
+        "longan"
       ],
       "scientific": "Dimocarpus longan",
       "search_terms": [
         "リュウガン",
         "りゅうがん",
+        "Longan",
         "ryuugan",
+        "longan",
         "Dimocarpus longan"
       ],
       "normalized_terms": [
         "リュウガン",
         "りゅうがん",
+        "longan",
         "ryuugan",
         "dimocarpuslongan"
       ]
     },
     {
       "id": "tree_0268",
-      "category": "木",
+      "category": "珍しい果樹",
       "name": "チェリモヤ",
-      "kana": "チェリモヤ",
+      "kana": "ちぇりもや",
       "aliases": [
-        "チェリモヤ"
+        "チェリモヤ",
+        "Cherimoya"
       ],
       "romaji": [
         "cherimoya"
@@ -64947,6 +65303,7 @@
       "search_terms": [
         "チェリモヤ",
         "ちぇりもや",
+        "Cherimoya",
         "cherimoya",
         "Annona cherimola"
       ],

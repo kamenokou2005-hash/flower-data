@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "published_count": 2696,
+  "published_count": 2700,
   "categories": {
     "flower": {
       "category": "花",
@@ -18,7 +18,7 @@
     },
     "tree": {
       "category": "木",
-      "count": 303,
+      "count": 302,
       "last_published_id": "tree_0300",
       "image_dir": "images/tree",
       "data_file": "data/records/tree/tree.json"
@@ -60,13 +60,13 @@
     },
     "rare_fruit": {
       "category": "珍しい果樹",
-      "count": 139,
-      "last_published_id": "rare_fruit_0171",
+      "count": 144,
+      "last_published_id": "tree_0268",
       "image_dir": "images/rare_fruit",
       "data_file": "data/records/rare_fruit/rare_fruit.json"
     }
   },
-  "generated_at": "2026-10-13T22:03:19.469682",
+  "generated_at": "2026-10-14T11:13:21.144884+09:00",
   "remaining_resolution_summary": {
     "photo_replacements": 37,
     "genre_candidates_resolved": 142,
@@ -154,5 +154,31 @@
     "applied_at": "2026-10-13T22:03:19.469682",
     "verified_content_commit": "22d8d26f3d4b7d453d0314d1b8a74b974c407c63",
     "verification_errors": 0
+  },
+  "rare_fruit_new_partial_update": {
+    "content_updated_existing": 28,
+    "new_records_added": 4,
+    "new_numbers": [
+      8,
+      11,
+      12,
+      14
+    ],
+    "photo_updated_total": 12,
+    "genre_moved_ids": [
+      "tree_0268"
+    ],
+    "active_count": 2700,
+    "rare_fruit_count": 144,
+    "original_pending": 37,
+    "photo_unassigned": [
+      6
+    ],
+    "new_candidates_pending": 17,
+    "remaining_genre_move_number": 26,
+    "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\rare_fruit_partial_20261014_111320",
+    "github_verified": false,
+    "apk_built": false,
+    "applied_at": "2026-10-14T11:13:21.144884+09:00"
   }
 }

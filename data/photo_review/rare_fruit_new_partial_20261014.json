@@ -1,0 +1,96 @@
+{
+  "summary": {
+    "content_updated_existing": 28,
+    "new_records_added": 4,
+    "new_numbers": [
+      8,
+      11,
+      12,
+      14
+    ],
+    "photo_updated_total": 12,
+    "genre_moved_ids": [
+      "tree_0268"
+    ],
+    "active_count": 2700,
+    "rare_fruit_count": 144,
+    "original_pending": 37,
+    "photo_unassigned": [
+      6
+    ],
+    "new_candidates_pending": 17,
+    "remaining_genre_move_number": 26,
+    "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\rare_fruit_partial_20261014_111320",
+    "github_verified": false,
+    "apk_built": false,
+    "applied_at": "2026-10-14T11:13:21.144884+09:00"
+  },
+  "validation": {
+    "errors": [],
+    "active_count": 2700,
+    "existing_content_updated": 28,
+    "new_count": 4,
+    "new_ids": [
+      "rare_fruit_0172",
+      "rare_fruit_0173",
+      "rare_fruit_0174",
+      "rare_fruit_0175"
+    ],
+    "photo_changed_ids": [
+      "rare_fruit_0001",
+      "rare_fruit_0002",
+      "rare_fruit_0103",
+      "rare_fruit_0104",
+      "rare_fruit_0172",
+      "rare_fruit_0107",
+      "tree_0268",
+      "rare_fruit_0173",
+      "rare_fruit_0174",
+      "rare_fruit_0101",
+      "rare_fruit_0175",
+      "rare_fruit_0046"
+    ],
+    "moved_ids": [
+      "tree_0268"
+    ],
+    "pc_repo_equal": true,
+    "master_ids_equal": true,
+    "viewer_ids_equal": true,
+    "unrelated_records_unchanged": true,
+    "search_count": 2700
+  },
+  "number_to_id": {
+    "1": "rare_fruit_0001",
+    "2": "rare_fruit_0002",
+    "3": "rare_fruit_0103",
+    "4": "rare_fruit_0105",
+    "5": "rare_fruit_0104",
+    "8": "rare_fruit_0172",
+    "9": "rare_fruit_0107",
+    "10": "tree_0268",
+    "11": "rare_fruit_0173",
+    "12": "rare_fruit_0174",
+    "13": "rare_fruit_0101",
+    "14": "rare_fruit_0175",
+    "15": "rare_fruit_0046",
+    "17": "rare_fruit_0109",
+    "18": "rare_fruit_0045",
+    "20": "rare_fruit_0110",
+    "21": "rare_fruit_0108",
+    "23": "rare_fruit_0139",
+    "25": "rare_fruit_0047",
+    "26": "tree_0267",
+    "30": "rare_fruit_0114",
+    "31": "rare_fruit_0048",
+    "32": "rare_fruit_0049",
+    "33": "rare_fruit_0116",
+    "34": "rare_fruit_0115",
+    "38": "rare_fruit_0112",
+    "39": "rare_fruit_0111",
+    "43": "rare_fruit_0129",
+    "44": "rare_fruit_0130",
+    "46": "rare_fruit_0136",
+    "48": "rare_fruit_0050",
+    "50": "rare_fruit_0021"
+  }
+}
