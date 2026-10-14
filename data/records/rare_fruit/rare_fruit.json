@@ -17550,7 +17550,7 @@
     "kana": "あふりかんまんごすちん",
     "family": "フクギ科",
     "life_form": "常緑の低木〜高木",
-    "feature_summary": "常緑の低木〜高木。短く曲がった幹や水平に伸びる枝を持ち、明るい黄色の小さな果実がなる。",
+    "feature_summary": "常緑の低木〜高木。短く曲がった幹や水平に伸びる枝を持ち、黄色〜橙色の小さな果実がなる。",
     "trivia": "果肉は多汁で甘酸っぱく、アンズに似た風味とされる。生食や飲料、アイスクリーム、発酵飲料に利用される。",
     "genus": "Garcinia",
     "search_aliases": [
@@ -18195,7 +18195,8 @@
       "source_url": "https://www.inaturalist.org/photos/596330112",
       "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0275.jpg",
       "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596330112/original.jpg",
-      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。",
+      "description": "枝に付いた緑色の果実。説明の紫〜黒色の実とは段階が異なる。"
     },
     "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
     "thumbnail_name_review_status": "明らかな不一致なし",
