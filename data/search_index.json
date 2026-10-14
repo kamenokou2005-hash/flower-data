@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at_utc": "2026-10-14T02:13:23.495043+00:00",
-  "completed_count": 2700,
+  "generated_at_utc": "2026-10-14T02:58:20.113043+00:00",
+  "completed_count": 2708,
   "items": [
     {
       "id": "flower_0001",
@@ -52927,6 +52927,248 @@
       ]
     },
     {
+      "id": "rare_fruit_0176",
+      "category": "珍しい果樹",
+      "name": "ウバイア",
+      "kana": "うばいあ",
+      "aliases": [
+        "ウバイア",
+        "Uvaia"
+      ],
+      "romaji": [
+        "ubaia",
+        "uvaia"
+      ],
+      "scientific": "Eugenia pyriformis",
+      "search_terms": [
+        "ウバイア",
+        "うばいあ",
+        "Uvaia",
+        "ubaia",
+        "uvaia",
+        "Eugenia pyriformis"
+      ],
+      "normalized_terms": [
+        "ウバイア",
+        "うばいあ",
+        "uvaia",
+        "ubaia",
+        "eugeniapyriformis"
+      ]
+    },
+    {
+      "id": "rare_fruit_0177",
+      "category": "珍しい果樹",
+      "name": "カニステル",
+      "kana": "かにすてる",
+      "aliases": [
+        "カニステル",
+        "Canistel"
+      ],
+      "romaji": [
+        "kanisuteru",
+        "canistel"
+      ],
+      "scientific": "Pouteria campechiana",
+      "search_terms": [
+        "カニステル",
+        "かにすてる",
+        "Canistel",
+        "kanisuteru",
+        "canistel",
+        "Pouteria campechiana"
+      ],
+      "normalized_terms": [
+        "カニステル",
+        "かにすてる",
+        "canistel",
+        "kanisuteru",
+        "pouteriacampechiana"
+      ]
+    },
+    {
+      "id": "rare_fruit_0178",
+      "category": "珍しい果樹",
+      "name": "サポジラ",
+      "kana": "さぽじら",
+      "aliases": [
+        "サポジラ",
+        "Sapodilla"
+      ],
+      "romaji": [
+        "sapojira",
+        "sapodilla"
+      ],
+      "scientific": "Manilkara zapota",
+      "search_terms": [
+        "サポジラ",
+        "さぽじら",
+        "Sapodilla",
+        "sapojira",
+        "sapodilla",
+        "Manilkara zapota"
+      ],
+      "normalized_terms": [
+        "サポジラ",
+        "さぽじら",
+        "sapodilla",
+        "sapojira",
+        "manilkarazapota"
+      ]
+    },
+    {
+      "id": "rare_fruit_0179",
+      "category": "珍しい果樹",
+      "name": "ブラックサポテ",
+      "kana": "ぶらっくさぽて",
+      "aliases": [
+        "ブラックサポテ",
+        "Black sapote",
+        "Diospyros digyna"
+      ],
+      "romaji": [
+        "burakkusapote",
+        "black sapote",
+        "diospyros digyna"
+      ],
+      "scientific": "Diospyros nigra",
+      "search_terms": [
+        "ブラックサポテ",
+        "ぶらっくさぽて",
+        "Black sapote",
+        "Diospyros digyna",
+        "burakkusapote",
+        "black sapote",
+        "diospyros digyna",
+        "Diospyros nigra"
+      ],
+      "normalized_terms": [
+        "ブラックサポテ",
+        "ぶらっくさぽて",
+        "blacksapote",
+        "diospyrosdigyna",
+        "burakkusapote",
+        "diospyrosnigra"
+      ]
+    },
+    {
+      "id": "rare_fruit_0180",
+      "category": "珍しい果樹",
+      "name": "ランブータン",
+      "kana": "らんぶーたん",
+      "aliases": [
+        "ランブータン",
+        "Rambutan"
+      ],
+      "romaji": [
+        "ranbuutan",
+        "rambutan"
+      ],
+      "scientific": "Nephelium lappaceum",
+      "search_terms": [
+        "ランブータン",
+        "らんぶーたん",
+        "Rambutan",
+        "ranbuutan",
+        "rambutan",
+        "Nephelium lappaceum"
+      ],
+      "normalized_terms": [
+        "ランブータン",
+        "らんぶーたん",
+        "rambutan",
+        "ranbuutan",
+        "nepheliumlappaceum"
+      ]
+    },
+    {
+      "id": "rare_fruit_0181",
+      "category": "珍しい果樹",
+      "name": "マンゴスチン",
+      "kana": "まんごすちん",
+      "aliases": [
+        "マンゴスチン",
+        "Mangosteen"
+      ],
+      "romaji": [
+        "mangosuchin",
+        "mangosteen"
+      ],
+      "scientific": "Garcinia mangostana",
+      "search_terms": [
+        "マンゴスチン",
+        "まんごすちん",
+        "Mangosteen",
+        "mangosuchin",
+        "mangosteen",
+        "Garcinia mangostana"
+      ],
+      "normalized_terms": [
+        "マンゴスチン",
+        "まんごすちん",
+        "mangosteen",
+        "mangosuchin",
+        "garciniamangostana"
+      ]
+    },
+    {
+      "id": "rare_fruit_0182",
+      "category": "珍しい果樹",
+      "name": "レモンドロップマンゴスチン",
+      "kana": "れもんどろっぷまんごすちん",
+      "aliases": [
+        "レモンドロップマンゴスチン",
+        "Lemon drop mangosteen"
+      ],
+      "romaji": [
+        "remondoroppumangosuchin",
+        "lemon drop mangosteen"
+      ],
+      "scientific": "Garcinia intermedia",
+      "search_terms": [
+        "レモンドロップマンゴスチン",
+        "れもんどろっぷまんごすちん",
+        "Lemon drop mangosteen",
+        "remondoroppumangosuchin",
+        "lemon drop mangosteen",
+        "Garcinia intermedia"
+      ],
+      "normalized_terms": [
+        "レモンドロップマンゴスチン",
+        "れもんどろっぷまんごすちん",
+        "lemondropmangosteen",
+        "remondoroppumangosuchin",
+        "garciniaintermedia"
+      ]
+    },
+    {
+      "id": "rare_fruit_0183",
+      "category": "珍しい果樹",
+      "name": "アチャチャ",
+      "kana": "あちゃちゃ",
+      "aliases": [
+        "アチャチャ",
+        "Achacha"
+      ],
+      "romaji": [
+        "achacha"
+      ],
+      "scientific": "Garcinia humilis",
+      "search_terms": [
+        "アチャチャ",
+        "あちゃちゃ",
+        "Achacha",
+        "achacha",
+        "Garcinia humilis"
+      ],
+      "normalized_terms": [
+        "アチャチャ",
+        "あちゃちゃ",
+        "achacha",
+        "garciniahumilis"
+      ]
+    },
+    {
       "id": "sansai_0001",
       "category": "山菜",
       "name": "ワラビ",
@@ -65259,7 +65501,7 @@
     },
     {
       "id": "tree_0267",
-      "category": "木",
+      "category": "珍しい果樹",
       "name": "リュウガン",
       "kana": "りゅうがん",
       "aliases": [

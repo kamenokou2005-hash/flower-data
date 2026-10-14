@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "published_count": 2700,
+  "published_count": 2708,
   "categories": {
     "flower": {
       "category": "花",
@@ -18,7 +18,7 @@
     },
     "tree": {
       "category": "木",
-      "count": 302,
+      "count": 301,
       "last_published_id": "tree_0300",
       "image_dir": "images/tree",
       "data_file": "data/records/tree/tree.json"
@@ -60,13 +60,13 @@
     },
     "rare_fruit": {
       "category": "珍しい果樹",
-      "count": 144,
+      "count": 153,
       "last_published_id": "tree_0268",
       "image_dir": "images/rare_fruit",
       "data_file": "data/records/rare_fruit/rare_fruit.json"
     }
   },
-  "generated_at": "2026-10-14T11:13:21.144884+09:00",
+  "generated_at": "2026-10-14T11:58:16.862660+09:00",
   "remaining_resolution_summary": {
     "photo_replacements": 37,
     "genre_candidates_resolved": 142,
@@ -156,29 +156,33 @@
     "verification_errors": 0
   },
   "rare_fruit_new_partial_update": {
-    "content_updated_existing": 28,
-    "new_records_added": 4,
+    "content_updated_existing": 32,
+    "new_records_added": 8,
     "new_numbers": [
-      8,
-      11,
-      12,
-      14
+      7,
+      16,
+      19,
+      22,
+      24,
+      27,
+      28,
+      29
     ],
-    "photo_updated_total": 12,
+    "photo_updated_total": 30,
     "genre_moved_ids": [
-      "tree_0268"
+      "tree_0267"
     ],
-    "active_count": 2700,
-    "rare_fruit_count": 144,
-    "original_pending": 37,
+    "active_count": 2708,
+    "rare_fruit_count": 153,
+    "original_pending": 19,
     "photo_unassigned": [
       6
     ],
-    "new_candidates_pending": 17,
-    "remaining_genre_move_number": 26,
-    "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\rare_fruit_partial_20261014_111320",
+    "new_candidates_pending": 9,
+    "remaining_genre_move_number": null,
+    "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\rare_fruit_remaining_20261014_115816",
     "github_verified": false,
     "apk_built": false,
-    "applied_at": "2026-10-14T11:13:21.144884+09:00"
+    "applied_at": "2026-10-14T11:58:16.862660+09:00"
   }
 }
