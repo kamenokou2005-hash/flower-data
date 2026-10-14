@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at_utc": "2026-10-14T06:50:03.878402+00:00",
-  "completed_count": 2767,
+  "generated_at_utc": "2026-10-14T09:06:30.527745+00:00",
+  "completed_count": 2802,
   "items": [
     {
       "id": "flower_0001",
@@ -55159,6 +55159,1058 @@
         "agbalumo",
         "afurikansutaaappuru",
         "chrysophyllumalbidum"
+      ]
+    },
+    {
+      "id": "rare_fruit_0243",
+      "category": "珍しい果樹",
+      "name": "アマゾングレープ",
+      "kana": "あまぞんぐれーぷ",
+      "aliases": [
+        "アマゾングレープ",
+        "Amazon grape"
+      ],
+      "romaji": [
+        "amazongureepu",
+        "amazon grape"
+      ],
+      "scientific": "Pourouma cecropiifolia",
+      "search_terms": [
+        "アマゾングレープ",
+        "あまぞんぐれーぷ",
+        "Amazon grape",
+        "amazongureepu",
+        "amazon grape",
+        "Pourouma cecropiifolia"
+      ],
+      "normalized_terms": [
+        "アマゾングレープ",
+        "あまぞんぐれーぷ",
+        "amazongrape",
+        "amazongureepu",
+        "pouroumacecropiifolia"
+      ]
+    },
+    {
+      "id": "rare_fruit_0244",
+      "category": "珍しい果樹",
+      "name": "マカンボ",
+      "kana": "まかんぼ",
+      "aliases": [
+        "マカンボ",
+        "Macambo"
+      ],
+      "romaji": [
+        "makanbo",
+        "macambo"
+      ],
+      "scientific": "Theobroma bicolor",
+      "search_terms": [
+        "マカンボ",
+        "まかんぼ",
+        "Macambo",
+        "makanbo",
+        "macambo",
+        "Theobroma bicolor"
+      ],
+      "normalized_terms": [
+        "マカンボ",
+        "まかんぼ",
+        "macambo",
+        "makanbo",
+        "theobromabicolor"
+      ]
+    },
+    {
+      "id": "rare_fruit_0245",
+      "category": "珍しい果樹",
+      "name": "ペキ",
+      "kana": "ぺき",
+      "aliases": [
+        "ペキ",
+        "Pequi"
+      ],
+      "romaji": [
+        "peki",
+        "pequi"
+      ],
+      "scientific": "Caryocar brasiliense",
+      "search_terms": [
+        "ペキ",
+        "ぺき",
+        "Pequi",
+        "peki",
+        "pequi",
+        "Caryocar brasiliense"
+      ],
+      "normalized_terms": [
+        "ペキ",
+        "ぺき",
+        "pequi",
+        "peki",
+        "caryocarbrasiliense"
+      ]
+    },
+    {
+      "id": "rare_fruit_0246",
+      "category": "珍しい果樹",
+      "name": "ピーチパーム",
+      "kana": "ぴーちぱーむ",
+      "aliases": [
+        "ピーチパーム",
+        "Peach palm"
+      ],
+      "romaji": [
+        "piichipaamu",
+        "peach palm"
+      ],
+      "scientific": "Bactris gasipaes",
+      "search_terms": [
+        "ピーチパーム",
+        "ぴーちぱーむ",
+        "Peach palm",
+        "piichipaamu",
+        "peach palm",
+        "Bactris gasipaes"
+      ],
+      "normalized_terms": [
+        "ピーチパーム",
+        "ぴーちぱーむ",
+        "peachpalm",
+        "piichipaamu",
+        "bactrisgasipaes"
+      ]
+    },
+    {
+      "id": "rare_fruit_0247",
+      "category": "珍しい果樹",
+      "name": "ジェリーパーム",
+      "kana": "じぇりーぱーむ",
+      "aliases": [
+        "ジェリーパーム",
+        "Jelly palm"
+      ],
+      "romaji": [
+        "jeriipaamu",
+        "jelly palm"
+      ],
+      "scientific": "Butia odorata",
+      "search_terms": [
+        "ジェリーパーム",
+        "じぇりーぱーむ",
+        "Jelly palm",
+        "jeriipaamu",
+        "jelly palm",
+        "Butia odorata"
+      ],
+      "normalized_terms": [
+        "ジェリーパーム",
+        "じぇりーぱーむ",
+        "jellypalm",
+        "jeriipaamu",
+        "butiaodorata"
+      ]
+    },
+    {
+      "id": "rare_fruit_0248",
+      "category": "珍しい果樹",
+      "name": "ジュサラ",
+      "kana": "じゅさら",
+      "aliases": [
+        "ジュサラ",
+        "Jucara"
+      ],
+      "romaji": [
+        "jusara",
+        "jucara"
+      ],
+      "scientific": "Euterpe edulis",
+      "search_terms": [
+        "ジュサラ",
+        "じゅさら",
+        "Jucara",
+        "jusara",
+        "jucara",
+        "Euterpe edulis"
+      ],
+      "normalized_terms": [
+        "ジュサラ",
+        "じゅさら",
+        "jucara",
+        "jusara",
+        "euterpeedulis"
+      ]
+    },
+    {
+      "id": "rare_fruit_0249",
+      "category": "珍しい果樹",
+      "name": "パルミラヤシ",
+      "kana": "ぱるみらやし",
+      "aliases": [
+        "パルミラヤシ",
+        "Palmyra palm"
+      ],
+      "romaji": [
+        "parumirayashi",
+        "palmyra palm"
+      ],
+      "scientific": "Borassus flabellifer",
+      "search_terms": [
+        "パルミラヤシ",
+        "ぱるみらやし",
+        "Palmyra palm",
+        "parumirayashi",
+        "palmyra palm",
+        "Borassus flabellifer"
+      ],
+      "normalized_terms": [
+        "パルミラヤシ",
+        "ぱるみらやし",
+        "palmyrapalm",
+        "parumirayashi",
+        "borassusflabellifer"
+      ]
+    },
+    {
+      "id": "rare_fruit_0250",
+      "category": "珍しい果樹",
+      "name": "ドウムヤシ",
+      "kana": "どうむやし",
+      "aliases": [
+        "ドウムヤシ",
+        "Doum palm"
+      ],
+      "romaji": [
+        "doumuyashi",
+        "doum palm"
+      ],
+      "scientific": "Hyphaene thebaica",
+      "search_terms": [
+        "ドウムヤシ",
+        "どうむやし",
+        "Doum palm",
+        "doumuyashi",
+        "doum palm",
+        "Hyphaene thebaica"
+      ],
+      "normalized_terms": [
+        "ドウムヤシ",
+        "どうむやし",
+        "doumpalm",
+        "doumuyashi",
+        "hyphaenethebaica"
+      ]
+    },
+    {
+      "id": "rare_fruit_0251",
+      "category": "珍しい果樹",
+      "name": "インドナツメヤシ",
+      "kana": "いんどなつめやし",
+      "aliases": [
+        "インドナツメヤシ",
+        "Indian date palm"
+      ],
+      "romaji": [
+        "indonatsumeyashi",
+        "indian date palm"
+      ],
+      "scientific": "Phoenix sylvestris",
+      "search_terms": [
+        "インドナツメヤシ",
+        "いんどなつめやし",
+        "Indian date palm",
+        "indonatsumeyashi",
+        "indian date palm",
+        "Phoenix sylvestris"
+      ],
+      "normalized_terms": [
+        "インドナツメヤシ",
+        "いんどなつめやし",
+        "indiandatepalm",
+        "indonatsumeyashi",
+        "phoenixsylvestris"
+      ]
+    },
+    {
+      "id": "rare_fruit_0252",
+      "category": "珍しい果樹",
+      "name": "ニッパヤシ",
+      "kana": "にっぱやし",
+      "aliases": [
+        "ニッパヤシ",
+        "Nipa palm"
+      ],
+      "romaji": [
+        "nippayashi",
+        "nipa palm"
+      ],
+      "scientific": "Nypa fruticans",
+      "search_terms": [
+        "ニッパヤシ",
+        "にっぱやし",
+        "Nipa palm",
+        "nippayashi",
+        "nipa palm",
+        "Nypa fruticans"
+      ],
+      "normalized_terms": [
+        "ニッパヤシ",
+        "にっぱやし",
+        "nipapalm",
+        "nippayashi",
+        "nypafruticans"
+      ]
+    },
+    {
+      "id": "rare_fruit_0253",
+      "category": "珍しい果樹",
+      "name": "ハラ",
+      "kana": "はら",
+      "aliases": [
+        "ハラ",
+        "Hala"
+      ],
+      "romaji": [
+        "hara",
+        "hala"
+      ],
+      "scientific": "Pandanus tectorius",
+      "search_terms": [
+        "ハラ",
+        "はら",
+        "Hala",
+        "hara",
+        "hala",
+        "Pandanus tectorius"
+      ],
+      "normalized_terms": [
+        "ハラ",
+        "はら",
+        "hala",
+        "hara",
+        "pandanustectorius"
+      ]
+    },
+    {
+      "id": "rare_fruit_0254",
+      "category": "珍しい果樹",
+      "name": "アセポコ",
+      "kana": "あせぽこ",
+      "aliases": [
+        "アセポコ",
+        "Asepoko"
+      ],
+      "romaji": [
+        "asepoko"
+      ],
+      "scientific": "Pouteria guianensis",
+      "search_terms": [
+        "アセポコ",
+        "あせぽこ",
+        "Asepoko",
+        "asepoko",
+        "Pouteria guianensis"
+      ],
+      "normalized_terms": [
+        "アセポコ",
+        "あせぽこ",
+        "asepoko",
+        "pouteriaguianensis"
+      ]
+    },
+    {
+      "id": "rare_fruit_0255",
+      "category": "珍しい果樹",
+      "name": "オーストラリアン・ブラックアップル",
+      "kana": "おーすとらりあん・ぶらっくあっぷる",
+      "aliases": [
+        "オーストラリアン・ブラックアップル",
+        "Black apple",
+        "Pouteria australis"
+      ],
+      "romaji": [
+        "oosutorarian burakkuappuru",
+        "black apple",
+        "pouteria australis"
+      ],
+      "scientific": "Planchonella australis",
+      "search_terms": [
+        "オーストラリアン・ブラックアップル",
+        "おーすとらりあん・ぶらっくあっぷる",
+        "Black apple",
+        "Pouteria australis",
+        "oosutorarian burakkuappuru",
+        "black apple",
+        "pouteria australis",
+        "Planchonella australis"
+      ],
+      "normalized_terms": [
+        "オーストラリアンブラックアップル",
+        "おーすとらりあんぶらっくあっぷる",
+        "blackapple",
+        "pouteriaaustralis",
+        "oosutorarianburakkuappuru",
+        "planchonellaaustralis"
+      ]
+    },
+    {
+      "id": "rare_fruit_0256",
+      "category": "珍しい果樹",
+      "name": "サテンリーフ",
+      "kana": "さてんりーふ",
+      "aliases": [
+        "サテンリーフ",
+        "Satinleaf"
+      ],
+      "romaji": [
+        "satenriifu",
+        "satinleaf"
+      ],
+      "scientific": "Chrysophyllum oliviforme",
+      "search_terms": [
+        "サテンリーフ",
+        "さてんりーふ",
+        "Satinleaf",
+        "satenriifu",
+        "satinleaf",
+        "Chrysophyllum oliviforme"
+      ],
+      "normalized_terms": [
+        "サテンリーフ",
+        "さてんりーふ",
+        "satinleaf",
+        "satenriifu",
+        "chrysophyllumoliviforme"
+      ]
+    },
+    {
+      "id": "rare_fruit_0257",
+      "category": "珍しい果樹",
+      "name": "キルニ",
+      "kana": "きるに",
+      "aliases": [
+        "キルニ",
+        "Khirni"
+      ],
+      "romaji": [
+        "kiruni",
+        "khirni"
+      ],
+      "scientific": "Manilkara hexandra",
+      "search_terms": [
+        "キルニ",
+        "きるに",
+        "Khirni",
+        "kiruni",
+        "khirni",
+        "Manilkara hexandra"
+      ],
+      "normalized_terms": [
+        "キルニ",
+        "きるに",
+        "khirni",
+        "kiruni",
+        "manilkarahexandra"
+      ]
+    },
+    {
+      "id": "rare_fruit_0258",
+      "category": "珍しい果樹",
+      "name": "サウォ・ケチク",
+      "kana": "さうぉ・けちく",
+      "aliases": [
+        "サウォ・ケチク",
+        "Sawo kecik"
+      ],
+      "romaji": [
+        "sawo kechiku",
+        "sawo kecik"
+      ],
+      "scientific": "Manilkara kauki",
+      "search_terms": [
+        "サウォ・ケチク",
+        "さうぉ・けちく",
+        "Sawo kecik",
+        "sawo kechiku",
+        "sawo kecik",
+        "Manilkara kauki"
+      ],
+      "normalized_terms": [
+        "サウォケチク",
+        "さうぉけちく",
+        "sawokecik",
+        "sawokechiku",
+        "manilkarakauki"
+      ]
+    },
+    {
+      "id": "rare_fruit_0259",
+      "category": "珍しい果樹",
+      "name": "バクル",
+      "kana": "ばくる",
+      "aliases": [
+        "バクル",
+        "Bakul"
+      ],
+      "romaji": [
+        "bakuru",
+        "bakul"
+      ],
+      "scientific": "Mimusops elengi",
+      "search_terms": [
+        "バクル",
+        "ばくる",
+        "Bakul",
+        "bakuru",
+        "bakul",
+        "Mimusops elengi"
+      ],
+      "normalized_terms": [
+        "バクル",
+        "ばくる",
+        "bakul",
+        "bakuru",
+        "mimusopselengi"
+      ]
+    },
+    {
+      "id": "rare_fruit_0260",
+      "category": "珍しい果樹",
+      "name": "コースタル・レッドミルクウッド",
+      "kana": "こーすたる・れっどみるくうっど",
+      "aliases": [
+        "コースタル・レッドミルクウッド",
+        "Coastal red milkwood"
+      ],
+      "romaji": [
+        "koosutaru reddomirukuuddo",
+        "coastal red milkwood"
+      ],
+      "scientific": "Mimusops caffra",
+      "search_terms": [
+        "コースタル・レッドミルクウッド",
+        "こーすたる・れっどみるくうっど",
+        "Coastal red milkwood",
+        "koosutaru reddomirukuuddo",
+        "coastal red milkwood",
+        "Mimusops caffra"
+      ],
+      "normalized_terms": [
+        "コースタルレッドミルクウッド",
+        "こーすたるれっどみるくうっど",
+        "coastalredmilkwood",
+        "koosutarureddomirukuuddo",
+        "mimusopscaffra"
+      ]
+    },
+    {
+      "id": "rare_fruit_0261",
+      "category": "珍しい果樹",
+      "name": "ミムソプス・ゼイヘリ",
+      "kana": "みむそぷす・ぜいへり",
+      "aliases": [
+        "ミムソプス・ゼイヘリ",
+        "Red milkwood"
+      ],
+      "romaji": [
+        "mimusopusu zeiheri",
+        "red milkwood"
+      ],
+      "scientific": "Mimusops zeyheri",
+      "search_terms": [
+        "ミムソプス・ゼイヘリ",
+        "みむそぷす・ぜいへり",
+        "Red milkwood",
+        "mimusopusu zeiheri",
+        "red milkwood",
+        "Mimusops zeyheri"
+      ],
+      "normalized_terms": [
+        "ミムソプスゼイヘリ",
+        "みむそぷすぜいへり",
+        "redmilkwood",
+        "mimusopusuzeiheri",
+        "mimusopszeyheri"
+      ]
+    },
+    {
+      "id": "rare_fruit_0262",
+      "category": "珍しい果樹",
+      "name": "ジャッカルベリー",
+      "kana": "じゃっかるべりー",
+      "aliases": [
+        "ジャッカルベリー",
+        "Jackalberry"
+      ],
+      "romaji": [
+        "jakkaruberii",
+        "jackalberry"
+      ],
+      "scientific": "Diospyros mespiliformis",
+      "search_terms": [
+        "ジャッカルベリー",
+        "じゃっかるべりー",
+        "Jackalberry",
+        "jakkaruberii",
+        "jackalberry",
+        "Diospyros mespiliformis"
+      ],
+      "normalized_terms": [
+        "ジャッカルベリー",
+        "じゃっかるべりー",
+        "jackalberry",
+        "jakkaruberii",
+        "diospyrosmespiliformis"
+      ]
+    },
+    {
+      "id": "rare_fruit_0263",
+      "category": "珍しい果樹",
+      "name": "テキサスガキ",
+      "kana": "てきさすがき",
+      "aliases": [
+        "テキサスガキ",
+        "Texas persimmon"
+      ],
+      "romaji": [
+        "tekisasugaki",
+        "texas persimmon"
+      ],
+      "scientific": "Diospyros texana",
+      "search_terms": [
+        "テキサスガキ",
+        "てきさすがき",
+        "Texas persimmon",
+        "tekisasugaki",
+        "texas persimmon",
+        "Diospyros texana"
+      ],
+      "normalized_terms": [
+        "テキサスガキ",
+        "てきさすがき",
+        "texaspersimmon",
+        "tekisasugaki",
+        "diospyrostexana"
+      ]
+    },
+    {
+      "id": "rare_fruit_0264",
+      "category": "珍しい果樹",
+      "name": "アフリカンマンゴスチン",
+      "kana": "あふりかんまんごすちん",
+      "aliases": [
+        "アフリカンマンゴスチン",
+        "African mangosteen"
+      ],
+      "romaji": [
+        "afurikanmangosuchin",
+        "african mangosteen"
+      ],
+      "scientific": "Garcinia livingstonei",
+      "search_terms": [
+        "アフリカンマンゴスチン",
+        "あふりかんまんごすちん",
+        "African mangosteen",
+        "afurikanmangosuchin",
+        "african mangosteen",
+        "Garcinia livingstonei"
+      ],
+      "normalized_terms": [
+        "アフリカンマンゴスチン",
+        "あふりかんまんごすちん",
+        "africanmangosteen",
+        "afurikanmangosuchin",
+        "garcinialivingstonei"
+      ]
+    },
+    {
+      "id": "rare_fruit_0265",
+      "category": "珍しい果樹",
+      "name": "ボタンマンゴスチン",
+      "kana": "ぼたんまんごすちん",
+      "aliases": [
+        "ボタンマンゴスチン",
+        "Button mangosteen"
+      ],
+      "romaji": [
+        "botanmangosuchin",
+        "button mangosteen"
+      ],
+      "scientific": "Garcinia prainiana",
+      "search_terms": [
+        "ボタンマンゴスチン",
+        "ぼたんまんごすちん",
+        "Button mangosteen",
+        "botanmangosuchin",
+        "button mangosteen",
+        "Garcinia prainiana"
+      ],
+      "normalized_terms": [
+        "ボタンマンゴスチン",
+        "ぼたんまんごすちん",
+        "buttonmangosteen",
+        "botanmangosuchin",
+        "garciniaprainiana"
+      ]
+    },
+    {
+      "id": "rare_fruit_0266",
+      "category": "珍しい果樹",
+      "name": "バクパリ",
+      "kana": "ばくぱり",
+      "aliases": [
+        "バクパリ",
+        "Bacupari"
+      ],
+      "romaji": [
+        "bakupari",
+        "bacupari"
+      ],
+      "scientific": "Garcinia gardneriana",
+      "search_terms": [
+        "バクパリ",
+        "ばくぱり",
+        "Bacupari",
+        "bakupari",
+        "bacupari",
+        "Garcinia gardneriana"
+      ],
+      "normalized_terms": [
+        "バクパリ",
+        "ばくぱり",
+        "bacupari",
+        "bakupari",
+        "garciniagardneriana"
+      ]
+    },
+    {
+      "id": "rare_fruit_0267",
+      "category": "珍しい果樹",
+      "name": "キューバンマンゴスチン",
+      "kana": "きゅーばんまんごすちん",
+      "aliases": [
+        "キューバンマンゴスチン",
+        "Cuban mangosteen"
+      ],
+      "romaji": [
+        "kyuubanmangosuchin",
+        "cuban mangosteen"
+      ],
+      "scientific": "Garcinia aristata",
+      "search_terms": [
+        "キューバンマンゴスチン",
+        "きゅーばんまんごすちん",
+        "Cuban mangosteen",
+        "kyuubanmangosuchin",
+        "cuban mangosteen",
+        "Garcinia aristata"
+      ],
+      "normalized_terms": [
+        "キューバンマンゴスチン",
+        "きゅーばんまんごすちん",
+        "cubanmangosteen",
+        "kyuubanmangosuchin",
+        "garciniaaristata"
+      ]
+    },
+    {
+      "id": "rare_fruit_0268",
+      "category": "珍しい果樹",
+      "name": "アサム・グルグル",
+      "kana": "あさむ・ぐるぐる",
+      "aliases": [
+        "アサム・グルグル",
+        "Asam gelugur"
+      ],
+      "romaji": [
+        "asamu guruguru",
+        "asam gelugur"
+      ],
+      "scientific": "Garcinia atroviridis",
+      "search_terms": [
+        "アサム・グルグル",
+        "あさむ・ぐるぐる",
+        "Asam gelugur",
+        "asamu guruguru",
+        "asam gelugur",
+        "Garcinia atroviridis"
+      ],
+      "normalized_terms": [
+        "アサムグルグル",
+        "あさむぐるぐる",
+        "asamgelugur",
+        "asamuguruguru",
+        "garciniaatroviridis"
+      ]
+    },
+    {
+      "id": "rare_fruit_0269",
+      "category": "珍しい果樹",
+      "name": "アムラ",
+      "kana": "あむら",
+      "aliases": [
+        "アムラ",
+        "Amla"
+      ],
+      "romaji": [
+        "amura",
+        "amla"
+      ],
+      "scientific": "Phyllanthus emblica",
+      "search_terms": [
+        "アムラ",
+        "あむら",
+        "Amla",
+        "amura",
+        "amla",
+        "Phyllanthus emblica"
+      ],
+      "normalized_terms": [
+        "アムラ",
+        "あむら",
+        "amla",
+        "amura",
+        "phyllanthusemblica"
+      ]
+    },
+    {
+      "id": "rare_fruit_0270",
+      "category": "珍しい果樹",
+      "name": "ビリンビ",
+      "kana": "びりんび",
+      "aliases": [
+        "ビリンビ",
+        "Bilimbi"
+      ],
+      "romaji": [
+        "birinbi",
+        "bilimbi"
+      ],
+      "scientific": "Averrhoa bilimbi",
+      "search_terms": [
+        "ビリンビ",
+        "びりんび",
+        "Bilimbi",
+        "birinbi",
+        "bilimbi",
+        "Averrhoa bilimbi"
+      ],
+      "normalized_terms": [
+        "ビリンビ",
+        "びりんび",
+        "bilimbi",
+        "birinbi",
+        "averrhoabilimbi"
+      ]
+    },
+    {
+      "id": "rare_fruit_0271",
+      "category": "珍しい果樹",
+      "name": "スターフルーツ",
+      "kana": "すたーふるーつ",
+      "aliases": [
+        "スターフルーツ",
+        "Starfruit"
+      ],
+      "romaji": [
+        "sutaafuruutsu",
+        "starfruit"
+      ],
+      "scientific": "Averrhoa carambola",
+      "search_terms": [
+        "スターフルーツ",
+        "すたーふるーつ",
+        "Starfruit",
+        "sutaafuruutsu",
+        "starfruit",
+        "Averrhoa carambola"
+      ],
+      "normalized_terms": [
+        "スターフルーツ",
+        "すたーふるーつ",
+        "starfruit",
+        "sutaafuruutsu",
+        "averrhoacarambola"
+      ]
+    },
+    {
+      "id": "rare_fruit_0272",
+      "category": "珍しい果樹",
+      "name": "シトロン",
+      "kana": "しとろん",
+      "aliases": [
+        "シトロン",
+        "Citron"
+      ],
+      "romaji": [
+        "shitoron",
+        "citron"
+      ],
+      "scientific": "Citrus medica",
+      "search_terms": [
+        "シトロン",
+        "しとろん",
+        "Citron",
+        "shitoron",
+        "citron",
+        "Citrus medica"
+      ],
+      "normalized_terms": [
+        "シトロン",
+        "しとろん",
+        "citron",
+        "shitoron",
+        "citrusmedica"
+      ]
+    },
+    {
+      "id": "rare_fruit_0273",
+      "category": "珍しい果樹",
+      "name": "オーストラリアン・ラウンドライム",
+      "kana": "おーすとらりあん・らうんどらいむ",
+      "aliases": [
+        "オーストラリアン・ラウンドライム",
+        "Australian round lime"
+      ],
+      "romaji": [
+        "oosutorarian raundoraimu",
+        "australian round lime"
+      ],
+      "scientific": "Citrus australis",
+      "search_terms": [
+        "オーストラリアン・ラウンドライム",
+        "おーすとらりあん・らうんどらいむ",
+        "Australian round lime",
+        "oosutorarian raundoraimu",
+        "australian round lime",
+        "Citrus australis"
+      ],
+      "normalized_terms": [
+        "オーストラリアンラウンドライム",
+        "おーすとらりあんらうんどらいむ",
+        "australianroundlime",
+        "oosutorarianraundoraimu",
+        "citrusaustralis"
+      ]
+    },
+    {
+      "id": "rare_fruit_0274",
+      "category": "珍しい果樹",
+      "name": "カラファテ",
+      "kana": "からふぁて",
+      "aliases": [
+        "カラファテ",
+        "Calafate"
+      ],
+      "romaji": [
+        "karafate",
+        "calafate"
+      ],
+      "scientific": "Berberis microphylla",
+      "search_terms": [
+        "カラファテ",
+        "からふぁて",
+        "Calafate",
+        "karafate",
+        "calafate",
+        "Berberis microphylla"
+      ],
+      "normalized_terms": [
+        "カラファテ",
+        "からふぁて",
+        "calafate",
+        "karafate",
+        "berberismicrophylla"
+      ]
+    },
+    {
+      "id": "rare_fruit_0275",
+      "category": "珍しい果樹",
+      "name": "マキベリー",
+      "kana": "まきべりー",
+      "aliases": [
+        "マキベリー",
+        "Maqui"
+      ],
+      "romaji": [
+        "makiberii",
+        "maqui"
+      ],
+      "scientific": "Aristotelia chilensis",
+      "search_terms": [
+        "マキベリー",
+        "まきべりー",
+        "Maqui",
+        "makiberii",
+        "maqui",
+        "Aristotelia chilensis"
+      ],
+      "normalized_terms": [
+        "マキベリー",
+        "まきべりー",
+        "maqui",
+        "makiberii",
+        "aristoteliachilensis"
+      ]
+    },
+    {
+      "id": "rare_fruit_0276",
+      "category": "珍しい果樹",
+      "name": "ウグニ・カンドレイ",
+      "kana": "うぐに・かんどれい",
+      "aliases": [
+        "ウグニ・カンドレイ",
+        "White murta"
+      ],
+      "romaji": [
+        "uguni kandorei",
+        "white murta"
+      ],
+      "scientific": "Ugni candollei",
+      "search_terms": [
+        "ウグニ・カンドレイ",
+        "うぐに・かんどれい",
+        "White murta",
+        "uguni kandorei",
+        "white murta",
+        "Ugni candollei"
+      ],
+      "normalized_terms": [
+        "ウグニカンドレイ",
+        "うぐにかんどれい",
+        "whitemurta",
+        "ugunikandorei",
+        "ugnicandollei"
+      ]
+    },
+    {
+      "id": "rare_fruit_0277",
+      "category": "珍しい果樹",
+      "name": "サラル",
+      "kana": "さらる",
+      "aliases": [
+        "サラル",
+        "Salal"
+      ],
+      "romaji": [
+        "sararu",
+        "salal"
+      ],
+      "scientific": "Gaultheria shallon",
+      "search_terms": [
+        "サラル",
+        "さらる",
+        "Salal",
+        "sararu",
+        "salal",
+        "Gaultheria shallon"
+      ],
+      "normalized_terms": [
+        "サラル",
+        "さらる",
+        "salal",
+        "sararu",
+        "gaultheriashallon"
       ]
     },
     {

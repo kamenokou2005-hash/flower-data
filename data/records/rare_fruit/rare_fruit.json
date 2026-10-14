@@ -16349,5 +16349,1976 @@
     "thumbnail_genre_review_note": "果実紹介の用途として確認。",
     "thumbnail_visually_reviewed": true,
     "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0243",
+    "category": "珍しい果樹",
+    "display_name": "アマゾングレープ",
+    "scientific_name": "Pourouma cecropiifolia",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "イラクサ科",
+      "genus": "Pourouma",
+      "species": "Pourouma cecropiifolia"
+    },
+    "kana": "あまぞんぐれーぷ",
+    "family": "イラクサ科",
+    "life_form": "常緑高木",
+    "feature_summary": "低く密な樹冠をつくる常緑高木。紫色の果実が房状につき、白い多汁の果肉と大きな種子を持つ。",
+    "trivia": "アマゾン流域で採集・栽培される。果肉は甘く、ブドウに似た風味とされ、生食のほかジャムやゼリー、果実酒に利用される。",
+    "genus": "Pourouma",
+    "search_aliases": [
+      "アマゾングレープ",
+      "Amazon grape"
+    ],
+    "distribution": "ブラジル、ペルー、コロンビア、エクアドルのアマゾン西部",
+    "habitat": "浸水しにくい雨林",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Pourouma+cecropiifolia",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Pourouma+cecropiifolia"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Pourouma+cecropiifolia"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 101,
+    "image": {
+      "author": "(c) Alan Rockefeller, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_url": "",
+      "source_url": "https://www.inaturalist.org/photos/614267101",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0243.jpg",
+      "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614267101/original.jpg",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0244",
+    "category": "珍しい果樹",
+    "display_name": "マカンボ",
+    "scientific_name": "Theobroma bicolor",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "アオイ科",
+      "genus": "Theobroma",
+      "species": "Theobroma bicolor"
+    },
+    "kana": "まかんぼ",
+    "family": "アオイ科",
+    "life_form": "常緑樹",
+    "feature_summary": "カカオと同じ属の常緑樹。長さ15〜20cmほどの楕円形の果実がなる。",
+    "trivia": "中米で果実のために栽培される。果肉には穏やかな酸味があり、飲み物やデザートに使われる。種子は加熱して食べたり、カカオに似た飲料に利用したりする。",
+    "genus": "Theobroma",
+    "search_aliases": [
+      "マカンボ",
+      "Macambo"
+    ],
+    "distribution": "メキシコから中米、ブラジル、ペルー、エクアドル、コロンビア",
+    "habitat": "湿潤な森林、常緑雨林の下層",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Theobroma+bicolor",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Theobroma+bicolor"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Theobroma+bicolor"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 102,
+    "image": {
+      "author": "Steve Fitzgerald",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Theobroma-bicolor-SF25180-01.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0244.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Theobroma-bicolor-SF25180-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0245",
+    "category": "珍しい果樹",
+    "display_name": "ペキ",
+    "scientific_name": "Caryocar brasiliense",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "Caryocaraceae",
+      "genus": "Caryocar",
+      "species": "Caryocar brasiliense"
+    },
+    "kana": "ぺき",
+    "family": "Caryocaraceae",
+    "life_form": "半落葉性の低木〜小高木",
+    "feature_summary": "丸く広がる樹冠を持つ半落葉性の低木〜小高木。果実には油分の多い果肉がある。",
+    "trivia": "果肉は強い香りと甘味があり、米と一緒に調理する利用がある。果実の核の周囲には細かな鋭いとげがあり、果肉と核を同じようにかじって食べるものではない。",
+    "genus": "Caryocar",
+    "search_aliases": [
+      "ペキ",
+      "Pequi"
+    ],
+    "distribution": "ブラジル、ボリビア、パラグアイ、アルゼンチン北部",
+    "habitat": "サバンナ、草原地域の谷や台地",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Caryocar+brasiliense",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Caryocar+brasiliense"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Caryocar+brasiliense"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 103,
+    "image": {
+      "author": "Almanaque Lusofonista",
+      "license": "CC BY 3.0 br",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Piquifruto.JPG",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0245.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Piquifruto.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。",
+      "description": "枝に付いた緑色の果実を写している。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0246",
+    "category": "珍しい果樹",
+    "display_name": "ピーチパーム",
+    "scientific_name": "Bactris gasipaes",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "ヤシ科",
+      "genus": "Bactris",
+      "species": "Bactris gasipaes"
+    },
+    "kana": "ぴーちぱーむ",
+    "family": "ヤシ科",
+    "life_form": "常緑のヤシ",
+    "feature_summary": "株元から複数の幹を出す常緑のヤシ。幹にはとげがあり、卵形の果実がなる。",
+    "trivia": "南米で食用果実のために広く栽培される。果実は生食せず、加熱して利用する。調理した果肉は粉質でナッツに似た風味があり、粉にしてパンや菓子にも使われる。",
+    "genus": "Bactris",
+    "search_aliases": [
+      "ピーチパーム",
+      "Peach palm"
+    ],
+    "distribution": "南米の中部・北部",
+    "habitat": "河川沿いや森林の開けた場所",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Bactris+gasipaes",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Bactris+gasipaes"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Bactris+gasipaes"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 104,
+    "image": {
+      "author": "No machine-readable author provided. Arria Belli assumed (based on copyright claims).",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Parepou_fruit.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0246.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Parepou_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0247",
+    "category": "珍しい果樹",
+    "display_name": "ジェリーパーム",
+    "scientific_name": "Butia odorata",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "ヤシ科",
+      "genus": "Butia",
+      "species": "Butia odorata"
+    },
+    "kana": "じぇりーぱーむ",
+    "family": "ヤシ科",
+    "life_form": "常緑のヤシ",
+    "feature_summary": "高さ3〜6mほどになる単幹の常緑ヤシ。大きな葉の下に果実がまとまってつく。",
+    "trivia": "ブラジル南部とウルグアイで親しまれる果実。甘く芳香があり、アンズに似た風味とされる。生食やジャム、ゼリー、菓子に利用される。",
+    "genus": "Butia",
+    "search_aliases": [
+      "ジェリーパーム",
+      "Jelly palm"
+    ],
+    "distribution": "ブラジル南部、ウルグアイ",
+    "habitat": "沿岸近くの草原、砂質土壌の開けた場所",
+    "plant_source_url": "https://temperate.theferns.info/plant/Butia+odorata",
+    "content_source_urls": [
+      "https://temperate.theferns.info/plant/Butia+odorata"
+    ],
+    "fruit_source_urls": [
+      "https://temperate.theferns.info/plant/Butia+odorata"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 105,
+    "image": {
+      "author": "David Whyte",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Butia_odorata_33312057.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0247.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Butia_odorata_33312057.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0248",
+    "category": "珍しい果樹",
+    "display_name": "ジュサラ",
+    "scientific_name": "Euterpe edulis",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "ヤシ科",
+      "genus": "Euterpe",
+      "species": "Euterpe edulis"
+    },
+    "kana": "じゅさら",
+    "family": "ヤシ科",
+    "life_form": "ヤシ",
+    "feature_summary": "細い単幹と垂れ下がる葉を持つヤシ。直径約12mmの小さな果実がなる。",
+    "trivia": "ブラジルでは果実を飲料やアイスクリームに利用する。果肉は薄く繊維質。ヤシの芽も利用されるが、単幹のため頂芽を採るとその木は枯れる。",
+    "genus": "Euterpe",
+    "search_aliases": [
+      "ジュサラ",
+      "Jucara"
+    ],
+    "distribution": "ブラジル南部・東部、アルゼンチン、パラグアイ",
+    "habitat": "降水量の多い森林の湿地",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Euterpe+edulis",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Euterpe+edulis"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Euterpe+edulis"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 107,
+    "image": {
+      "author": "(c) Donald Davesne, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_url": "",
+      "source_url": "https://www.inaturalist.org/photos/746126294",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0248.jpg",
+      "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/746126294/original.jpg",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0249",
+    "category": "珍しい果樹",
+    "display_name": "パルミラヤシ",
+    "scientific_name": "Borassus flabellifer",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "ヤシ科",
+      "genus": "Borassus",
+      "species": "Borassus flabellifer"
+    },
+    "kana": "ぱるみらやし",
+    "family": "ヤシ科",
+    "life_form": "常緑のヤシ",
+    "feature_summary": "大型の扇形の葉を持つ単幹の常緑ヤシ。直径15〜20cmほどの大きな果実が房状につく。",
+    "trivia": "若い種子のゼリー状の部分を食べる利用がある。熟した果実の黄色い果肉は独特の香りがあり、菓子などに加工される。花序から得る糖分の多い液はヤシ糖の原料になる。",
+    "genus": "Borassus",
+    "search_aliases": [
+      "パルミラヤシ",
+      "Palmyra palm"
+    ],
+    "distribution": "インド、スリランカ、東南アジアなど",
+    "habitat": "暑く乾燥したモンスーン地域の林や開けた場所",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Borassus+flabellifer",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Borassus+flabellifer"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Borassus+flabellifer"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 108,
+    "image": {
+      "author": "(c) Dinesh Valke, some rights reserved (CC BY-SA)",
+      "license": "CC BY-SA",
+      "license_url": "",
+      "source_url": "https://www.inaturalist.org/photos/333116095",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0249.jpg",
+      "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/333116095/original.jpg",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0250",
+    "category": "珍しい果樹",
+    "display_name": "ドウムヤシ",
+    "scientific_name": "Hyphaene thebaica",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "ヤシ科",
+      "genus": "Hyphaene",
+      "species": "Hyphaene thebaica"
+    },
+    "kana": "どうむやし",
+    "family": "ヤシ科",
+    "life_form": "常緑のヤシ",
+    "feature_summary": "横枝を出すことが特徴の常緑ヤシ。卵形で長さ約8cmの果実がなる。",
+    "trivia": "エジプトで古くから利用されてきたヤシ。果実はジンジャーブレッドに似た風味とされ、生食のほか菓子や糖蜜状の加工品に利用される。",
+    "genus": "Hyphaene",
+    "search_aliases": [
+      "ドウムヤシ",
+      "Doum palm"
+    ],
+    "distribution": "アフリカの乾燥地域",
+    "habitat": "草原、砂漠地域",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Hyphaene+thebaica",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Hyphaene+thebaica"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Hyphaene+thebaica"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 109,
+    "image": {
+      "author": "(c) Juan Carlos Caicedo Hernández, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_url": "",
+      "source_url": "https://www.inaturalist.org/photos/570054680",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0250.jpg",
+      "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/570054680/original.jpg",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0251",
+    "category": "珍しい果樹",
+    "display_name": "インドナツメヤシ",
+    "scientific_name": "Phoenix sylvestris",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "ヤシ科",
+      "genus": "Phoenix",
+      "species": "Phoenix sylvestris"
+    },
+    "kana": "いんどなつめやし",
+    "family": "ヤシ科",
+    "life_form": "常緑のヤシ",
+    "feature_summary": "単幹の常緑ヤシ。羽状の葉が幹の頂部に集まり、葉の基部付近にはとげがある。",
+    "trivia": "果実は甘く、食べる利用の記録がある。一方、食用利用では果実よりも糖を含む液の利用が目立ち、シロップや発酵飲料に加工される。",
+    "genus": "Phoenix",
+    "search_aliases": [
+      "インドナツメヤシ",
+      "Indian date palm"
+    ],
+    "distribution": "パキスタン、インドからネパール、ミャンマー",
+    "habitat": "低地の荒れ地、疎林、河岸、周期的に浸水する場所",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Phoenix+sylvestris",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Phoenix+sylvestris"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Phoenix+sylvestris"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 110,
+    "image": {
+      "author": "HPNadig",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ichalu_with_fruits.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0251.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Ichalu_with_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0252",
+    "category": "珍しい果樹",
+    "display_name": "ニッパヤシ",
+    "scientific_name": "Nypa fruticans",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "ヤシ科",
+      "genus": "Nypa",
+      "species": "Nypa fruticans"
+    },
+    "kana": "にっぱやし",
+    "family": "ヤシ科",
+    "life_form": "常緑のヤシ",
+    "feature_summary": "地上または地下を横に伸びる幹から、大きな葉の集まりを出す常緑ヤシ。沿岸の湿地に生育する。",
+    "trivia": "若い果実の中にある種子の白い部分は甘くゼリー状で、間食として利用される。花序から得られる液は糖やシロップ、酢、発酵飲料に加工される。",
+    "genus": "Nypa",
+    "search_aliases": [
+      "ニッパヤシ",
+      "Nipa palm"
+    ],
+    "distribution": "南アジアから東南アジア、ニューギニア、オーストラリア北部など",
+    "habitat": "マングローブ湿地、潮の影響を受ける沿岸低地",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Nypa+fruticans",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Nypa+fruticans"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Nypa+fruticans"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 111,
+    "image": {
+      "author": "Judgefloro",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_url": "https://commons.wikimedia.org/wiki/File:09378jfNypa_fruticans_flowers_fruits_seedsfvf_09.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0252.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/09378jfNypa_fruticans_flowers_fruits_seedsfvf_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0253",
+    "category": "珍しい果樹",
+    "display_name": "ハラ",
+    "scientific_name": "Pandanus tectorius",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "タコノキ科",
+      "genus": "Pandanus",
+      "species": "Pandanus tectorius"
+    },
+    "kana": "はら",
+    "family": "タコノキ科",
+    "life_form": "常緑の小高木",
+    "feature_summary": "支柱根と剣形の長い葉を持つ常緑の小高木。集合果は多数の硬いくさび形の部分からなる。",
+    "trivia": "太平洋の島々で重要な食用植物。食用向けに選ばれた系統の果肉をジュース、ペースト、乾燥食品などに利用する。系統によって刺激成分の量が異なり、どの果実も同じように生食できるわけではない。",
+    "genus": "Pandanus",
+    "search_aliases": [
+      "ハラ",
+      "Hala"
+    ],
+    "distribution": "東南アジア、オーストラリア、太平洋の島々",
+    "habitat": "海岸の砂地、砂浜の後方",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Pandanus+tectorius",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Pandanus+tectorius"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Pandanus+tectorius"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 112,
+    "image": {
+      "author": "Judgefloro",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_url": "https://commons.wikimedia.org/wiki/File:9806Pandanus_fruit_02.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0253.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/9806Pandanus_fruit_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。",
+      "description": "写真から食用品種かどうかは判断できない。豆知識は食用向けの系統の利用情報。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0254",
+    "category": "珍しい果樹",
+    "display_name": "アセポコ",
+    "scientific_name": "Pouteria guianensis",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "アカテツ科",
+      "genus": "Pouteria",
+      "species": "Pouteria guianensis"
+    },
+    "kana": "あせぽこ",
+    "family": "アカテツ科",
+    "life_form": "高木",
+    "feature_summary": "直立した幹と細い板根を持つ高木。熱帯の雨林に生育する。",
+    "trivia": "野生の果実を採集して食べる利用がある。果肉はしっかりした質感で甘いとされる。",
+    "genus": "Pouteria",
+    "search_aliases": [
+      "アセポコ",
+      "Asepoko"
+    ],
+    "distribution": "南米からトリニダード",
+    "habitat": "雨林",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Pouteria+guianensis",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Pouteria+guianensis"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Pouteria+guianensis"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 114,
+    "image": {
+      "author": "(c) Thomaz Ricardo Favreto Sinani, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_url": "",
+      "source_url": "https://www.inaturalist.org/photos/366229847",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0254.jpg",
+      "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366229847/original.jpeg",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0255",
+    "category": "珍しい果樹",
+    "display_name": "オーストラリアン・ブラックアップル",
+    "scientific_name": "Planchonella australis",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "アカテツ科",
+      "genus": "Planchonella",
+      "species": "Planchonella australis"
+    },
+    "kana": "おーすとらりあん・ぶらっくあっぷる",
+    "family": "アカテツ科",
+    "life_form": "高木",
+    "feature_summary": "オーストラリアの雨林に生育する高木。紫〜青黒色の果実がなり、内部に褐色の種子を含む。",
+    "trivia": "果肉は甘く繊維質で、生食の利用がある。オーストラリア先住民による果実の利用も記録される。Pouteria australisという学名でも検索できる。",
+    "genus": "Planchonella",
+    "search_aliases": [
+      "オーストラリアン・ブラックアップル",
+      "Black apple",
+      "Pouteria australis"
+    ],
+    "distribution": "オーストラリア東部",
+    "habitat": "沿岸・内陸の温暖な雨林",
+    "plant_source_url": "https://resources.austplants.com.au/plant/planchonella-australis-black-apple-wild-plum-yellow-buttonwood-black-plum-yellow-bulletwood/",
+    "content_source_urls": [
+      "https://resources.austplants.com.au/plant/planchonella-australis-black-apple-wild-plum-yellow-buttonwood-black-plum-yellow-bulletwood/",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:788569-1"
+    ],
+    "fruit_source_urls": [
+      "https://resources.austplants.com.au/plant/planchonella-australis-black-apple-wild-plum-yellow-buttonwood-black-plum-yellow-bulletwood/",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:788569-1"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 115,
+    "image": {
+      "author": "(c) O.Neate, some rights reserved (CC BY-SA)",
+      "license": "CC BY-SA",
+      "license_url": "",
+      "source_url": "https://www.inaturalist.org/photos/716488052",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0255.jpg",
+      "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716488052/original.jpg",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0256",
+    "category": "珍しい果樹",
+    "display_name": "サテンリーフ",
+    "scientific_name": "Chrysophyllum oliviforme",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "アカテツ科",
+      "genus": "Chrysophyllum",
+      "species": "Chrysophyllum oliviforme"
+    },
+    "kana": "さてんりーふ",
+    "family": "アカテツ科",
+    "life_form": "常緑の低木〜高木",
+    "feature_summary": "常緑の低木〜高木。暗紫色の小さな果実には硬い種子が1個入る。",
+    "trivia": "果肉は甘く、ナツメヤシの実に似た風味とされる。生食やゼリーに利用される。果皮には乳液があり、ゴム状の質感を持つ。",
+    "genus": "Chrysophyllum",
+    "search_aliases": [
+      "サテンリーフ",
+      "Satinleaf"
+    ],
+    "distribution": "カリブ海西部、アメリカ合衆国フロリダ",
+    "habitat": "石灰岩地の林や茂み",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Chrysophyllum+oliviforme",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Chrysophyllum+oliviforme"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Chrysophyllum+oliviforme"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 116,
+    "image": {
+      "author": "(c) Jay Horn, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_url": "",
+      "source_url": "https://www.inaturalist.org/photos/175438045",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0256.jpg",
+      "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/175438045/original.jpeg",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。",
+      "description": "枝に付いた緑色の果実。説明の暗紫色の果実とは段階が異なる。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0257",
+    "category": "珍しい果樹",
+    "display_name": "キルニ",
+    "scientific_name": "Manilkara hexandra",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "アカテツ科",
+      "genus": "Manilkara",
+      "species": "Manilkara hexandra"
+    },
+    "kana": "きるに",
+    "family": "アカテツ科",
+    "life_form": "低木〜高木",
+    "feature_summary": "高さ3〜12mほどになる低木〜高木。熱帯・亜熱帯で果実のために栽培されることもある。",
+    "trivia": "果実は生食や乾燥して利用される。甘味がある一方、やや渋味もあるとされる。",
+    "genus": "Manilkara",
+    "search_aliases": [
+      "キルニ",
+      "Khirni"
+    ],
+    "distribution": "インド、スリランカ、中国、東南アジアなど",
+    "habitat": "低地の茂み",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Manilkara+hexandra",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Manilkara+hexandra"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Manilkara+hexandra"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 117,
+    "image": {
+      "author": "(c) Dinesh Valke, some rights reserved (CC BY-SA)",
+      "license": "CC BY-SA",
+      "license_url": "",
+      "source_url": "https://www.inaturalist.org/photos/197864637",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0257.jpg",
+      "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/197864637/original.jpg",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0258",
+    "category": "珍しい果樹",
+    "display_name": "サウォ・ケチク",
+    "scientific_name": "Manilkara kauki",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "アカテツ科",
+      "genus": "Manilkara",
+      "species": "Manilkara kauki"
+    },
+    "kana": "さうぉ・けちく",
+    "family": "アカテツ科",
+    "life_form": "常緑樹",
+    "feature_summary": "密な卵形の樹冠を持つ常緑樹。長さ約37mmまでの卵形の果実がなる。",
+    "trivia": "完熟した果肉はクリーム色で甘いが、風味は穏やかとされる。生食、加熱料理、シロップづくりに利用される。宮殿や寺院の周辺に植えられることもある。",
+    "genus": "Manilkara",
+    "search_aliases": [
+      "サウォ・ケチク",
+      "Sawo kecik"
+    ],
+    "distribution": "スリランカ、東南アジア、ニューギニア、オーストラリア北部など",
+    "habitat": "沿岸の比較的乾燥した地域、季節的な河川の岸",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Manilkara+kauki",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Manilkara+kauki"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Manilkara+kauki"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 118,
+    "image": {
+      "author": "coenobita",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Manilkara_kauki_25457539.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0258.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Manilkara_kauki_25457539.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0259",
+    "category": "珍しい果樹",
+    "display_name": "バクル",
+    "scientific_name": "Mimusops elengi",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "アカテツ科",
+      "genus": "Mimusops",
+      "species": "Mimusops elengi"
+    },
+    "kana": "ばくる",
+    "family": "アカテツ科",
+    "life_form": "常緑高木",
+    "feature_summary": "丸く広がる密な樹冠を持つ常緑高木。長さ約35mmまでの卵形〜長楕円形の果実がなる。",
+    "trivia": "果実は生食や保存加工、漬物に利用される。熟した果肉は甘く粉質で、渋味もあるとされる。香りのよい花を持ち、庭や道路沿いの木としても栽培される。",
+    "genus": "Mimusops",
+    "search_aliases": [
+      "バクル",
+      "Bakul"
+    ],
+    "distribution": "南アジア、東南アジア、オーストラリア北部など",
+    "habitat": "湿潤な低地林、海岸近くの林",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Mimusops+elengi",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Mimusops+elengi"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Mimusops+elengi"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 119,
+    "image": {
+      "author": "Aniket",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fruits_of_Mimusops_elengi_tree_at_Ahmedabad.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0259.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Fruits_of_Mimusops_elengi_tree_at_Ahmedabad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0260",
+    "category": "珍しい果樹",
+    "display_name": "コースタル・レッドミルクウッド",
+    "scientific_name": "Mimusops caffra",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "アカテツ科",
+      "genus": "Mimusops",
+      "species": "Mimusops caffra"
+    },
+    "kana": "こーすたる・れっどみるくうっど",
+    "family": "アカテツ科",
+    "life_form": "常緑の低木〜高木",
+    "feature_summary": "枝分かれの多い常緑の低木〜高木。海岸の砂丘や林に生育し、橙色〜赤色の卵形の果実がなる。",
+    "trivia": "果肉は甘く、でんぷん質で粉っぽい質感を持つ。生食やゼリー、発酵飲料に利用される。",
+    "genus": "Mimusops",
+    "search_aliases": [
+      "コースタル・レッドミルクウッド",
+      "Coastal red milkwood"
+    ],
+    "distribution": "モザンビーク、南アフリカ",
+    "habitat": "沿岸の砂丘の茂み、海岸林",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Mimusops+caffra",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Mimusops+caffra"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Mimusops+caffra"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 120,
+    "image": {
+      "author": "Purves, M.",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mimusops_caffra_green_fruit.JPG",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0260.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mimusops_caffra_green_fruit.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。",
+      "description": "枝に付いた緑色の果実。熟した果実の橙色〜赤色とは異なる。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0261",
+    "category": "珍しい果樹",
+    "display_name": "ミムソプス・ゼイヘリ",
+    "scientific_name": "Mimusops zeyheri",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "アカテツ科",
+      "genus": "Mimusops",
+      "species": "Mimusops zeyheri"
+    },
+    "kana": "みむそぷす・ぜいへり",
+    "family": "アカテツ科",
+    "life_form": "常緑の低木〜高木",
+    "feature_summary": "地際から枝分かれする低木から、広く密な樹冠を持つ高木まで姿に幅がある。黄色〜橙色のプラム形の果実がなる。",
+    "trivia": "果実は甘く、粉質の果肉には渋味もある。生食や保存加工、乾燥保存、発酵飲料に利用される。",
+    "genus": "Mimusops",
+    "search_aliases": [
+      "ミムソプス・ゼイヘリ",
+      "Red milkwood"
+    ],
+    "distribution": "アフリカ南部・東部",
+    "habitat": "河畔林、岩場、丘の斜面",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Mimusops+zeyheri",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Mimusops+zeyheri"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Mimusops+zeyheri"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 121,
+    "image": {
+      "author": "User:Slashme",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mimusops_zeyheri,_Fruit_whole.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0261.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mimusops_zeyheri%2C_Fruit_whole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0262",
+    "category": "珍しい果樹",
+    "display_name": "ジャッカルベリー",
+    "scientific_name": "Diospyros mespiliformis",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "カキノキ科",
+      "genus": "Diospyros",
+      "species": "Diospyros mespiliformis"
+    },
+    "kana": "じゃっかるべりー",
+    "family": "カキノキ科",
+    "life_form": "常緑樹",
+    "feature_summary": "丸く密な樹冠を持つ木。生育地によって大きさが異なり、黄色い球形の果実がなる。",
+    "trivia": "果実は甘く、カキに似た風味とされる。生食、加熱、乾燥のほか、発酵飲料に利用される。アフリカで果実が食用に採集される。",
+    "genus": "Diospyros",
+    "search_aliases": [
+      "ジャッカルベリー",
+      "Jackalberry"
+    ],
+    "distribution": "熱帯アフリカからアフリカ南部、イエメン",
+    "habitat": "河畔林、乾いた半常緑林、岩場",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Diospyros+mespiliformis",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Diospyros+mespiliformis"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Diospyros+mespiliformis"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 122,
+    "image": {
+      "author": "JMK",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Diospyros_mespiliformis,_gebreekte_vrug,_b,_Jan_Celliers_Park.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0262.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Diospyros_mespiliformis%2C_gebreekte_vrug%2C_b%2C_Jan_Celliers_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0263",
+    "category": "珍しい果樹",
+    "display_name": "テキサスガキ",
+    "scientific_name": "Diospyros texana",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "カキノキ科",
+      "genus": "Diospyros",
+      "species": "Diospyros texana"
+    },
+    "kana": "てきさすがき",
+    "family": "カキノキ科",
+    "life_form": "低木〜高木",
+    "feature_summary": "低木〜高木。分布域の北側では落葉し、南側では葉が長く残ることがある。黒い果実がなる。",
+    "trivia": "十分に熟した果実は甘く、生食される。テキサスとメキシコ北東部に分布する。",
+    "genus": "Diospyros",
+    "search_aliases": [
+      "テキサスガキ",
+      "Texas persimmon"
+    ],
+    "distribution": "アメリカ合衆国テキサス、メキシコ北東部",
+    "habitat": "石灰岩地の丘、峡谷、疎林",
+    "plant_source_url": "https://temperate.theferns.info/plant/Diospyros+texana",
+    "content_source_urls": [
+      "https://temperate.theferns.info/plant/Diospyros+texana"
+    ],
+    "fruit_source_urls": [
+      "https://temperate.theferns.info/plant/Diospyros+texana"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 123,
+    "image": {
+      "author": "Wyatt915",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Texas_Persimmon_(Diospyros_texana).JPG",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0263.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Texas_Persimmon_%28Diospyros_texana%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0264",
+    "category": "珍しい果樹",
+    "display_name": "アフリカンマンゴスチン",
+    "scientific_name": "Garcinia livingstonei",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "フクギ科",
+      "genus": "Garcinia",
+      "species": "Garcinia livingstonei"
+    },
+    "kana": "あふりかんまんごすちん",
+    "family": "フクギ科",
+    "life_form": "常緑の低木〜高木",
+    "feature_summary": "常緑の低木〜高木。短く曲がった幹や水平に伸びる枝を持ち、明るい黄色の小さな果実がなる。",
+    "trivia": "果肉は多汁で甘酸っぱく、アンズに似た風味とされる。生食や飲料、アイスクリーム、発酵飲料に利用される。",
+    "genus": "Garcinia",
+    "search_aliases": [
+      "アフリカンマンゴスチン",
+      "African mangosteen"
+    ],
+    "distribution": "熱帯アフリカの比較的乾燥した地域",
+    "habitat": "河畔林、岩場、乾燥した丘陵地",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Garcinia+livingstonei",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Garcinia+livingstonei",
+      "https://pza.sanbi.org/garcinia-livingstonei"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Garcinia+livingstonei",
+      "https://pza.sanbi.org/garcinia-livingstonei"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 124,
+    "image": {
+      "author": "JMK",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Garcinia_livingstonei,_vrugte,_Manie_van_der_Schijff_BT,_a.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0264.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Garcinia_livingstonei%2C_vrugte%2C_Manie_van_der_Schijff_BT%2C_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0265",
+    "category": "珍しい果樹",
+    "display_name": "ボタンマンゴスチン",
+    "scientific_name": "Garcinia prainiana",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "フクギ科",
+      "genus": "Garcinia",
+      "species": "Garcinia prainiana"
+    },
+    "kana": "ぼたんまんごすちん",
+    "family": "フクギ科",
+    "life_form": "常緑樹",
+    "feature_summary": "高さ10mほどまでになる常緑樹。直径約5cmまでの橙色の丸い果実がなる。",
+    "trivia": "果肉は甘酸っぱく、生食される。酸味のある果皮も食用に利用される。マレー半島やジャワで小規模な栽培の記録がある。",
+    "genus": "Garcinia",
+    "search_aliases": [
+      "ボタンマンゴスチン",
+      "Button mangosteen"
+    ],
+    "distribution": "マレーシア",
+    "habitat": "低地林",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Garcinia+prainiana",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Garcinia+prainiana"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Garcinia+prainiana"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 125,
+    "image": {
+      "author": "CiXeL at English Wikipedia",
+      "license": "Public domain",
+      "license_url": "",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cherapu.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0265.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Cherapu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0266",
+    "category": "珍しい果樹",
+    "display_name": "バクパリ",
+    "scientific_name": "Garcinia gardneriana",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "フクギ科",
+      "genus": "Garcinia",
+      "species": "Garcinia gardneriana"
+    },
+    "kana": "ばくぱり",
+    "family": "フクギ科",
+    "life_form": "常緑樹",
+    "feature_summary": "密な樹冠を持つ高さ5〜10mほどの常緑樹。白い果肉を持つ果実がなる。",
+    "trivia": "南米で採集され、家庭の庭でも栽培される。果肉は甘味と酸味を持ち、生食される。可食部は多くないとされる。",
+    "genus": "Garcinia",
+    "search_aliases": [
+      "バクパリ",
+      "Bacupari"
+    ],
+    "distribution": "ブラジル、パラグアイ、ボリビア、ペルーなど",
+    "habitat": "浸水しない雨林、河畔林",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Garcinia+gardneriana",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Garcinia+gardneriana"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Garcinia+gardneriana"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 126,
+    "image": {
+      "author": "Carolqk",
+      "license": "Public domain",
+      "license_url": "",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fruta_do_Bacupari.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0266.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Fruta_do_Bacupari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0267",
+    "category": "珍しい果樹",
+    "display_name": "キューバンマンゴスチン",
+    "scientific_name": "Garcinia aristata",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "フクギ科",
+      "genus": "Garcinia",
+      "species": "Garcinia aristata"
+    },
+    "kana": "きゅーばんまんごすちん",
+    "family": "フクギ科",
+    "life_form": "小型の木",
+    "feature_summary": "マンゴスチンと同じ属の小型の木。橙黄色の小さな果実に柔らかな果肉がある。",
+    "trivia": "種苗業者の栽培情報では、果肉は甘く、生食やデザート、飲料に利用できると紹介される。",
+    "genus": "Garcinia",
+    "search_aliases": [
+      "キューバンマンゴスチン",
+      "Cuban mangosteen"
+    ],
+    "distribution": "カリブ海地域",
+    "plant_source_url": "https://www.tradewindsfruit.com/rheedia-aristata-cuban-mangosteen-seeds",
+    "content_source_urls": [
+      "https://www.tradewindsfruit.com/rheedia-aristata-cuban-mangosteen-seeds"
+    ],
+    "fruit_source_urls": [
+      "https://www.tradewindsfruit.com/rheedia-aristata-cuban-mangosteen-seeds"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 127,
+    "image": {
+      "author": "TopTropicals.com",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rheedia_aristata_-_Cuban_Mangosteen,_Garcinia_(52334687208).jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0267.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Rheedia_aristata_-_Cuban_Mangosteen%2C_Garcinia_%2852334687208%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0268",
+    "category": "珍しい果樹",
+    "display_name": "アサム・グルグル",
+    "scientific_name": "Garcinia atroviridis",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "フクギ科",
+      "genus": "Garcinia",
+      "species": "Garcinia atroviridis"
+    },
+    "kana": "あさむ・ぐるぐる",
+    "family": "フクギ科",
+    "life_form": "常緑高木",
+    "feature_summary": "常緑の高木。熟した果実は橙黄色で、内部に強い酸味のある果肉を持つ。",
+    "trivia": "東南アジアでは果実を薄切りにして乾燥し、料理の酸味づけに使う。スープやカレーなどの調味にも利用される。",
+    "genus": "Garcinia",
+    "search_aliases": [
+      "アサム・グルグル",
+      "Asam gelugur"
+    ],
+    "distribution": "インド、ミャンマー、タイ、マレーシア",
+    "habitat": "雨の多い地域の常緑混交林",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Garcinia+atroviridis",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Garcinia+atroviridis"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Garcinia+atroviridis"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 128,
+    "image": {
+      "author": "Mokkie",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Asam_Keping_(Garcinia_atroviridis).jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0268.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Asam_Keping_%28Garcinia_atroviridis%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0269",
+    "category": "珍しい果樹",
+    "display_name": "アムラ",
+    "scientific_name": "Phyllanthus emblica",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "コミカンソウ科",
+      "genus": "Phyllanthus",
+      "species": "Phyllanthus emblica"
+    },
+    "kana": "あむら",
+    "family": "コミカンソウ科",
+    "life_form": "落葉性の低木〜高木",
+    "feature_summary": "通常は低木〜高木になる落葉性の木。枝葉を落とすが、完全に葉がなくなる期間は短い。黄色い果実がなる。",
+    "trivia": "インドなどで果実を利用する。酸味と渋味があり、砂糖や塩と合わせたり、ジャム、ゼリー、チャツネなどに加工したりする。",
+    "genus": "Phyllanthus",
+    "search_aliases": [
+      "アムラ",
+      "Amla"
+    ],
+    "distribution": "中国、インド亜大陸、東南アジア",
+    "habitat": "乾燥した疎林、茂み、村落周辺",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Phyllanthus+emblica",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Phyllanthus+emblica"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Phyllanthus+emblica"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 130,
+    "image": {
+      "author": "Sengai Podhuvan",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fruit,_unripe,_NELI.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0269.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Fruit%2C_unripe%2C_NELI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。",
+      "description": "出典は未熟な果実として紹介している。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0270",
+    "category": "珍しい果樹",
+    "display_name": "ビリンビ",
+    "scientific_name": "Averrhoa bilimbi",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "カタバミ科",
+      "genus": "Averrhoa",
+      "species": "Averrhoa bilimbi"
+    },
+    "kana": "びりんび",
+    "family": "カタバミ科",
+    "life_form": "常緑の低木〜高木",
+    "feature_summary": "低く疎らな樹冠を持つ常緑の低木〜高木。緑黄色で半透明の、円筒形に近い果実がなる。",
+    "trivia": "果実は多汁で非常に酸味が強い。熱帯地域では料理の酸味づけに使い、カレー、ソース、チャツネ、漬物などに加工される。",
+    "genus": "Averrhoa",
+    "search_aliases": [
+      "ビリンビ",
+      "Bilimbi"
+    ],
+    "distribution": "インドネシアのモルッカ諸島",
+    "habitat": "低地の原生林・二次林、河川沿い",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Averrhoa+bilimbi",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Averrhoa+bilimbi"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Averrhoa+bilimbi"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 131,
+    "image": {
+      "author": "Ibrahim Husain Meraj",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Averrhoa_bilimbi_-_fruit_and_flowers_on_tree_trunk.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0270.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Averrhoa_bilimbi_-_fruit_and_flowers_on_tree_trunk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0271",
+    "category": "珍しい果樹",
+    "display_name": "スターフルーツ",
+    "scientific_name": "Averrhoa carambola",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "カタバミ科",
+      "genus": "Averrhoa",
+      "species": "Averrhoa carambola"
+    },
+    "kana": "すたーふるーつ",
+    "family": "カタバミ科",
+    "life_form": "常緑の小高木",
+    "feature_summary": "枝分かれの多い常緑の小高木。熟した果実は黄〜橙黄色で、横に切ると五角の星形になる。",
+    "trivia": "果実は多汁で歯ごたえがあり、生食やフルーツサラダ、ジュースに利用される。甘味・酸味には系統差があり、酸っぱい果実を漬物にする利用もある。",
+    "genus": "Averrhoa",
+    "search_aliases": [
+      "スターフルーツ",
+      "Starfruit"
+    ],
+    "distribution": "マレーシア",
+    "habitat": "湿潤な森林、砂壌土の林",
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Averrhoa+carambola",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Averrhoa+carambola"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Averrhoa+carambola"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 132,
+    "image": {
+      "author": "F A Melhem",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Carambola_fruit_in_paletine.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0271.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Carambola_fruit_in_paletine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。",
+      "description": "木に付いた緑色の果実。熟した黄〜橙黄色の果実とは段階が異なる。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0272",
+    "category": "珍しい果樹",
+    "display_name": "シトロン",
+    "scientific_name": "Citrus medica",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "ミカン科",
+      "genus": "Citrus",
+      "species": "Citrus medica"
+    },
+    "kana": "しとろん",
+    "family": "ミカン科",
+    "life_form": "常緑の低木〜小高木",
+    "feature_summary": "常緑の低木〜小高木。レモン形で大きく、厚い果皮を持つ果実がなる。",
+    "trivia": "果実は酸味が強く、香味づけに使われる。厚い果皮の砂糖漬けはケーキや菓子の材料となり、マーマレードやリキュールにも利用される。",
+    "genus": "Citrus",
+    "search_aliases": [
+      "シトロン",
+      "Citron"
+    ],
+    "plant_source_url": "https://tropical.theferns.info/viewtropical.php?id=Citrus+medica",
+    "content_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Citrus+medica"
+    ],
+    "fruit_source_urls": [
+      "https://tropical.theferns.info/viewtropical.php?id=Citrus+medica"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 133,
+    "image": {
+      "author": "Shantham11",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ripe_fruit_of_Diamante_citron_(Citrus_medica_cv._Diamante).jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0272.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ripe_fruit_of_Diamante_citron_%28Citrus_medica_cv._Diamante%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0273",
+    "category": "珍しい果樹",
+    "display_name": "オーストラリアン・ラウンドライム",
+    "scientific_name": "Citrus australis",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "ミカン科",
+      "genus": "Citrus",
+      "species": "Citrus australis"
+    },
+    "kana": "おーすとらりあん・らうんどらいむ",
+    "family": "ミカン科",
+    "life_form": "低木〜小高木",
+    "feature_summary": "とげのある低木〜小高木。緑〜緑黄色で丸い果実をつけ、表面は粗い。",
+    "trivia": "オーストラリア原産の柑橘。果肉は酸味があり、熟した果実を生食するほか、マーマレードや冷たい飲み物の風味づけに利用する。",
+    "genus": "Citrus",
+    "search_aliases": [
+      "オーストラリアン・ラウンドライム",
+      "Australian round lime"
+    ],
+    "distribution": "オーストラリアのクイーンズランド",
+    "habitat": "乾燥した雨林",
+    "plant_source_url": "https://sown.com.au/citrus-australis-rutaceae-native-lime-round-lime/",
+    "content_source_urls": [
+      "https://sown.com.au/citrus-australis-rutaceae-native-lime-round-lime/"
+    ],
+    "fruit_source_urls": [
+      "https://sown.com.au/citrus-australis-rutaceae-native-lime-round-lime/"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 134,
+    "image": {
+      "author": "Poyt448, Peter Woodard",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Citrus_australis_round_fruit.jpg",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0273.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Citrus_australis_round_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0274",
+    "category": "珍しい果樹",
+    "display_name": "カラファテ",
+    "scientific_name": "Berberis microphylla",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "メギ科",
+      "genus": "Berberis",
+      "species": "Berberis microphylla"
+    },
+    "kana": "からふぁて",
+    "family": "メギ科",
+    "life_form": "常緑低木",
+    "feature_summary": "地際からよく枝分かれする、とげのある常緑低木。黒い小さな果実がなる。",
+    "trivia": "チリ南部とアルゼンチン南部に分布する。果実はそのまま食べたり保存加工したりする。酸味は比較的穏やかで、わずかな渋味があるとされる。",
+    "genus": "Berberis",
+    "search_aliases": [
+      "カラファテ",
+      "Calafate"
+    ],
+    "distribution": "チリ南部、アルゼンチン南部",
+    "habitat": "沿岸の茂み、林縁、草原、道沿い",
+    "plant_source_url": "https://temperate.theferns.info/plant/Berberis+microphylla",
+    "content_source_urls": [
+      "https://temperate.theferns.info/plant/Berberis+microphylla"
+    ],
+    "fruit_source_urls": [
+      "https://temperate.theferns.info/plant/Berberis+microphylla"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 135,
+    "image": {
+      "author": "no rights reserved",
+      "license": "CC0",
+      "license_url": "",
+      "source_url": "https://www.inaturalist.org/photos/616141679",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0274.jpg",
+      "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616141679/original.jpg",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0275",
+    "category": "珍しい果樹",
+    "display_name": "マキベリー",
+    "scientific_name": "Aristotelia chilensis",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "ホルトノキ科",
+      "genus": "Aristotelia",
+      "species": "Aristotelia chilensis"
+    },
+    "kana": "まきべりー",
+    "family": "ホルトノキ科",
+    "life_form": "常緑の低木〜小高木",
+    "feature_summary": "広がる姿の常緑の低木〜小高木。直径約6mmの紫〜黒色の果実がなる。",
+    "trivia": "チリやアルゼンチンの野生果実。甘味と少しの渋味があり、生食や乾燥保存に利用される。果実をつぶして水と合わせる飲み物や、食品用の紫色の色素にも使われる。",
+    "genus": "Aristotelia",
+    "search_aliases": [
+      "マキベリー",
+      "Maqui"
+    ],
+    "distribution": "チリ、アルゼンチン",
+    "habitat": "川沿いや低い山地の湿った斜面",
+    "plant_source_url": "https://temperate.theferns.info/plant/Aristotelia+chilensis",
+    "content_source_urls": [
+      "https://temperate.theferns.info/plant/Aristotelia+chilensis"
+    ],
+    "fruit_source_urls": [
+      "https://temperate.theferns.info/plant/Aristotelia+chilensis"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 136,
+    "image": {
+      "author": "(c) Diego González, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_url": "",
+      "source_url": "https://www.inaturalist.org/photos/596330112",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0275.jpg",
+      "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596330112/original.jpg",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0276",
+    "category": "珍しい果樹",
+    "display_name": "ウグニ・カンドレイ",
+    "scientific_name": "Ugni candollei",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "フトモモ科",
+      "genus": "Ugni",
+      "species": "Ugni candollei"
+    },
+    "kana": "うぐに・かんどれい",
+    "family": "フトモモ科",
+    "life_form": "低木",
+    "feature_summary": "チリ原産の小型の低木。白い5枚の花弁を持つ花が咲く。",
+    "trivia": "チリ原産の食用ベリーとして研究資料に記載される。",
+    "genus": "Ugni",
+    "search_aliases": [
+      "ウグニ・カンドレイ",
+      "White murta"
+    ],
+    "distribution": "チリ",
+    "habitat": "湿潤で日陰のある沿岸や山地",
+    "plant_source_url": "https://chileflora.com/Florachilena/FloraEnglish/HighResPages/EH0613.htm",
+    "content_source_urls": [
+      "https://chileflora.com/Florachilena/FloraEnglish/HighResPages/EH0613.htm",
+      "https://www.sciencedirect.com/science/article/pii/S0031942226001883"
+    ],
+    "fruit_source_urls": [
+      "https://chileflora.com/Florachilena/FloraEnglish/HighResPages/EH0613.htm",
+      "https://www.sciencedirect.com/science/article/pii/S0031942226001883"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 137,
+    "image": {
+      "author": "(c) Inao Vasquez, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_url": "",
+      "source_url": "https://www.inaturalist.org/photos/137759289",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0276.jpg",
+      "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137759289/original.jpeg",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。",
+      "description": "赤い小さな果実が枝に付いた写真。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
+  },
+  {
+    "id": "rare_fruit_0277",
+    "category": "珍しい果樹",
+    "display_name": "サラル",
+    "scientific_name": "Gaultheria shallon",
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "content_status": "完成",
+    "classification": {
+      "kingdom": "植物界",
+      "family": "ツツジ科",
+      "genus": "Gaultheria",
+      "species": "Gaultheria shallon"
+    },
+    "kana": "さらる",
+    "family": "ツツジ科",
+    "life_form": "常緑低木",
+    "feature_summary": "地下茎から茎を出し、密な茂みをつくる常緑低木。黒紫色の小さな実がなる。",
+    "trivia": "果実は甘く多汁で、生食のほか保存加工、パイ、飲み物に利用される。乾燥させ、レーズンのように使う利用もある。",
+    "genus": "Gaultheria",
+    "search_aliases": [
+      "サラル",
+      "Salal"
+    ],
+    "distribution": "北アメリカ西部",
+    "habitat": "海岸や森林の湿った日陰、砂地・泥炭地",
+    "plant_source_url": "https://temperate.theferns.info/plant/Gaultheria+shallon",
+    "content_source_urls": [
+      "https://temperate.theferns.info/plant/Gaultheria+shallon"
+    ],
+    "fruit_source_urls": [
+      "https://temperate.theferns.info/plant/Gaultheria+shallon"
+    ],
+    "fruit_information_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "fruit_information_review_status": "確認できた果実の形と豆知識を更新",
+    "fruit_information_review_note": "50件の新規整理資料から確認できた内容を反映。記載のない項目は追加していない。",
+    "needs_manual_fruit_review": false,
+    "content_update_20261014_number": 138,
+    "image": {
+      "author": "no rights reserved",
+      "license": "CC0",
+      "license_url": "",
+      "source_url": "https://www.inaturalist.org/photos/736141978",
+      "image_path": "images/rare_fruit_101_138_20261014/rare_fruit_0277.jpg",
+      "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/736141978/original.jpg",
+      "modifications": "元画像は取得時の内容を保存。サムネイルは縦横比を保ち200px正方形へ切り抜き、JPEG品質90。余白追加なし。"
+    },
+    "thumbnail_name_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_name_review_status": "明らかな不一致なし",
+    "thumbnail_name_review_note": "実際の200px正方形サムネイルを目視。厳密な種・品種同定の確定ではない。",
+    "thumbnail_genre_review_date": "2026-10-14T18:06:28.272723+09:00",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "果実紹介の用途として確認。",
+    "thumbnail_visually_reviewed": true,
+    "needs_manual_image_review": false
   }
 ]
