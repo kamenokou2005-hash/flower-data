@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at_utc": "2026-10-14T02:58:20.113043+00:00",
-  "completed_count": 2708,
+  "generated_at_utc": "2026-10-14T05:07:12.985171+00:00",
+  "completed_count": 2714,
   "items": [
     {
       "id": "flower_0001",
@@ -53166,6 +53166,225 @@
         "あちゃちゃ",
         "achacha",
         "garciniahumilis"
+      ]
+    },
+    {
+      "id": "rare_fruit_0184",
+      "category": "珍しい果樹",
+      "name": "ナンカ・ジャックフルーツ",
+      "kana": "じゃっくふるーつ",
+      "aliases": [
+        "ナンカ・ジャックフルーツ",
+        "Jackfruit",
+        "ナンカ"
+      ],
+      "romaji": [
+        "jakkufuruutsu",
+        "nanka jakkufuruutsu",
+        "jackfruit",
+        "nanka"
+      ],
+      "scientific": "Artocarpus heterophyllus",
+      "search_terms": [
+        "ナンカ・ジャックフルーツ",
+        "じゃっくふるーつ",
+        "Jackfruit",
+        "ナンカ",
+        "なんか・じゃっくふるーつ",
+        "なんか",
+        "jakkufuruutsu",
+        "nanka jakkufuruutsu",
+        "jackfruit",
+        "nanka",
+        "Artocarpus heterophyllus"
+      ],
+      "normalized_terms": [
+        "ナンカジャックフルーツ",
+        "じゃっくふるーつ",
+        "jackfruit",
+        "ナンカ",
+        "なんかじゃっくふるーつ",
+        "なんか",
+        "jakkufuruutsu",
+        "nankajakkufuruutsu",
+        "nanka",
+        "artocarpusheterophyllus"
+      ]
+    },
+    {
+      "id": "rare_fruit_0185",
+      "category": "珍しい果樹",
+      "name": "パンノキ",
+      "kana": "ぱんのき",
+      "aliases": [
+        "パンノキ",
+        "Breadfruit"
+      ],
+      "romaji": [
+        "pannoki",
+        "breadfruit"
+      ],
+      "scientific": "Artocarpus altilis",
+      "search_terms": [
+        "パンノキ",
+        "ぱんのき",
+        "Breadfruit",
+        "pannoki",
+        "breadfruit",
+        "Artocarpus altilis"
+      ],
+      "normalized_terms": [
+        "パンノキ",
+        "ぱんのき",
+        "breadfruit",
+        "pannoki",
+        "artocarpusaltilis"
+      ]
+    },
+    {
+      "id": "rare_fruit_0186",
+      "category": "珍しい果樹",
+      "name": "ペピーノ",
+      "kana": "ぺぴーの",
+      "aliases": [
+        "ペピーノ",
+        "Pepino"
+      ],
+      "romaji": [
+        "pepiino",
+        "pepino"
+      ],
+      "scientific": "Solanum muricatum",
+      "search_terms": [
+        "ペピーノ",
+        "ぺぴーの",
+        "Pepino",
+        "pepiino",
+        "pepino",
+        "Solanum muricatum"
+      ],
+      "normalized_terms": [
+        "ペピーノ",
+        "ぺぴーの",
+        "pepino",
+        "pepiino",
+        "solanummuricatum"
+      ]
+    },
+    {
+      "id": "rare_fruit_0187",
+      "category": "珍しい果樹",
+      "name": "クビウ",
+      "kana": "くびう",
+      "aliases": [
+        "クビウ",
+        "Cocona"
+      ],
+      "romaji": [
+        "kubiu",
+        "cocona"
+      ],
+      "scientific": "Solanum sessiliflorum",
+      "search_terms": [
+        "クビウ",
+        "くびう",
+        "Cocona",
+        "kubiu",
+        "cocona",
+        "Solanum sessiliflorum"
+      ],
+      "normalized_terms": [
+        "クビウ",
+        "くびう",
+        "cocona",
+        "kubiu",
+        "solanumsessiliflorum"
+      ]
+    },
+    {
+      "id": "rare_fruit_0188",
+      "category": "珍しい果樹",
+      "name": "ショクヨウホオズキ",
+      "kana": "しょくようほおずき",
+      "aliases": [
+        "ショクヨウホオズキ",
+        "Cape gooseberry"
+      ],
+      "romaji": [
+        "shokuyouhoozuki",
+        "cape gooseberry"
+      ],
+      "scientific": "Physalis peruviana",
+      "search_terms": [
+        "ショクヨウホオズキ",
+        "しょくようほおずき",
+        "Cape gooseberry",
+        "shokuyouhoozuki",
+        "cape gooseberry",
+        "Physalis peruviana"
+      ],
+      "normalized_terms": [
+        "ショクヨウホオズキ",
+        "しょくようほおずき",
+        "capegooseberry",
+        "shokuyouhoozuki",
+        "physalisperuviana"
+      ]
+    },
+    {
+      "id": "rare_fruit_0189",
+      "category": "珍しい果樹",
+      "name": "キワノ・ツノニガウリ",
+      "kana": "きわの",
+      "aliases": [
+        "キワノ・ツノニガウリ",
+        "Kiwano / Horned melon",
+        "ツノニガウリ",
+        "ツノメロン",
+        "Cucumis metuliferus"
+      ],
+      "romaji": [
+        "kiwano",
+        "kiwano tsunonigauri",
+        "kiwano horned melon",
+        "tsunonigauri",
+        "tsunomeron",
+        "cucumis metuliferus"
+      ],
+      "scientific": "Cucumis metulifer",
+      "search_terms": [
+        "キワノ・ツノニガウリ",
+        "きわの",
+        "Kiwano / Horned melon",
+        "ツノニガウリ",
+        "ツノメロン",
+        "Cucumis metuliferus",
+        "きわの・つのにがうり",
+        "つのにがうり",
+        "つのめろん",
+        "kiwano",
+        "kiwano tsunonigauri",
+        "kiwano horned melon",
+        "tsunonigauri",
+        "tsunomeron",
+        "cucumis metuliferus",
+        "Cucumis metulifer"
+      ],
+      "normalized_terms": [
+        "キワノツノニガウリ",
+        "きわの",
+        "kiwanohornedmelon",
+        "ツノニガウリ",
+        "ツノメロン",
+        "cucumismetuliferus",
+        "きわのつのにがうり",
+        "つのにがうり",
+        "つのめろん",
+        "kiwano",
+        "kiwanotsunonigauri",
+        "tsunonigauri",
+        "tsunomeron",
+        "cucumismetulifer"
       ]
     },
     {
