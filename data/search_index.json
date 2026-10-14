@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at_utc": "2026-10-14T05:07:12.985171+00:00",
-  "completed_count": 2714,
+  "generated_at_utc": "2026-10-14T05:25:04.245872+00:00",
+  "completed_count": 2718,
   "items": [
     {
       "id": "flower_0001",
@@ -53385,6 +53385,136 @@
         "tsunonigauri",
         "tsunomeron",
         "cucumismetulifer"
+      ]
+    },
+    {
+      "id": "rare_fruit_0190",
+      "category": "珍しい果樹",
+      "name": "ピトンバ",
+      "kana": "ぴとんば",
+      "aliases": [
+        "ピトンバ",
+        "Pitomba",
+        "Pitomba-da-bahia"
+      ],
+      "romaji": [
+        "pitonba",
+        "pitomba",
+        "pitomba-da-bahia"
+      ],
+      "scientific": "Eugenia luschnathiana",
+      "search_terms": [
+        "ピトンバ",
+        "ぴとんば",
+        "Pitomba",
+        "Pitomba-da-bahia",
+        "pitonba",
+        "pitomba",
+        "pitomba-da-bahia",
+        "Eugenia luschnathiana"
+      ],
+      "normalized_terms": [
+        "ピトンバ",
+        "ぴとんば",
+        "pitomba",
+        "pitombadabahia",
+        "pitonba",
+        "eugenialuschnathiana"
+      ]
+    },
+    {
+      "id": "rare_fruit_0191",
+      "category": "珍しい果樹",
+      "name": "ミラクルフルーツ",
+      "kana": "みらくるふるーつ",
+      "aliases": [
+        "ミラクルフルーツ",
+        "Miracle fruit"
+      ],
+      "romaji": [
+        "mirakurufuruutsu",
+        "miracle fruit"
+      ],
+      "scientific": "Synsepalum dulcificum",
+      "search_terms": [
+        "ミラクルフルーツ",
+        "みらくるふるーつ",
+        "Miracle fruit",
+        "mirakurufuruutsu",
+        "miracle fruit",
+        "Synsepalum dulcificum"
+      ],
+      "normalized_terms": [
+        "ミラクルフルーツ",
+        "みらくるふるーつ",
+        "miraclefruit",
+        "mirakurufuruutsu",
+        "synsepalumdulcificum"
+      ]
+    },
+    {
+      "id": "rare_fruit_0192",
+      "category": "珍しい果樹",
+      "name": "ケイアップル",
+      "kana": "けいあっぷる",
+      "aliases": [
+        "ケイアップル",
+        "Kei apple",
+        "Dovyalis caffra"
+      ],
+      "romaji": [
+        "keiappuru",
+        "kei apple",
+        "dovyalis caffra"
+      ],
+      "scientific": "Dovyalis afra",
+      "search_terms": [
+        "ケイアップル",
+        "けいあっぷる",
+        "Kei apple",
+        "Dovyalis caffra",
+        "keiappuru",
+        "kei apple",
+        "dovyalis caffra",
+        "Dovyalis afra"
+      ],
+      "normalized_terms": [
+        "ケイアップル",
+        "けいあっぷる",
+        "keiapple",
+        "dovyaliscaffra",
+        "keiappuru",
+        "dovyalisafra"
+      ]
+    },
+    {
+      "id": "rare_fruit_0193",
+      "category": "珍しい果樹",
+      "name": "モンステラ",
+      "kana": "もんすてら",
+      "aliases": [
+        "モンステラ",
+        "Monstera fruit"
+      ],
+      "romaji": [
+        "monsutera",
+        "monstera fruit"
+      ],
+      "scientific": "Monstera deliciosa",
+      "search_terms": [
+        "モンステラ",
+        "もんすてら",
+        "Monstera fruit",
+        "monsutera",
+        "monstera fruit",
+        "Monstera deliciosa"
+      ],
+      "normalized_terms": [
+        "モンステラ",
+        "もんすてら",
+        "monsterafruit",
+        "monsutera",
+        "monsteradeliciosa"
       ]
     },
     {
