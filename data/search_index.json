@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at_utc": "2026-10-14T10:52:33.742460+00:00",
+  "generated_at_utc": "2026-10-15T01:00:49.101637+00:00",
   "completed_count": 2689,
   "items": [
     {
@@ -32925,26 +32925,36 @@
     {
       "id": "herb_0047",
       "category": "ハーブ",
-      "name": "レモンバジル",
-      "kana": "レモンバジル",
+      "name": "バジル（Ocimum americanum）",
+      "kana": "バジル",
       "aliases": [
-        "レモンバジル"
+        "バジル（Ocimum americanum）",
+        "Ocimum americanum"
       ],
       "romaji": [
-        "remonbajiru"
+        "bajiru",
+        "bajiru(ocimum americanum)",
+        "ocimum americanum"
       ],
       "scientific": "Ocimum americanum",
       "search_terms": [
-        "レモンバジル",
-        "れもんばじる",
-        "remonbajiru",
-        "Ocimum americanum"
+        "バジル（Ocimum americanum）",
+        "バジル",
+        "ばじる",
+        "Ocimum americanum",
+        "ばじる（Ocimum americanum）",
+        "bajiru",
+        "bajiru(ocimum americanum)",
+        "ocimum americanum"
       ],
       "normalized_terms": [
-        "レモンバジル",
-        "れもんばじる",
-        "remonbajiru",
-        "ocimumamericanum"
+        "バジル(ocimumamericanum)",
+        "バジル",
+        "ばじる",
+        "ocimumamericanum",
+        "ばじる(ocimumamericanum)",
+        "bajiru",
+        "bajiru(ocimumamericanum)"
       ]
     },
     {
@@ -36429,26 +36439,29 @@
     {
       "id": "herb_0217",
       "category": "ハーブ",
-      "name": "レモンジンジャー",
-      "kana": "レモンジンジャー",
+      "name": "ゲットウ",
+      "kana": "ゲットウ",
       "aliases": [
-        "レモンジンジャー"
+        "ゲットウ",
+        "Alpinia zerumbet"
       ],
       "romaji": [
-        "remonjinjaa"
+        "gettou",
+        "alpinia zerumbet"
       ],
       "scientific": "Alpinia zerumbet",
       "search_terms": [
-        "レモンジンジャー",
-        "れもんじんじゃー",
-        "remonjinjaa",
-        "Alpinia zerumbet"
+        "ゲットウ",
+        "げっとう",
+        "Alpinia zerumbet",
+        "gettou",
+        "alpinia zerumbet"
       ],
       "normalized_terms": [
-        "レモンジンジャー",
-        "れもんじんじゃー",
-        "remonjinjaa",
-        "alpiniazerumbet"
+        "ゲットウ",
+        "げっとう",
+        "alpiniazerumbet",
+        "gettou"
       ]
     },
     {
@@ -36504,26 +36517,29 @@
     {
       "id": "herb_0220",
       "category": "ハーブ",
-      "name": "アフリカンブルーバジル",
-      "kana": "アフリカンブルーバジル",
+      "name": "カンファーバジル",
+      "kana": "カンファーバジル",
       "aliases": [
-        "アフリカンブルーバジル"
+        "カンファーバジル",
+        "Ocimum kilimandscharicum"
       ],
       "romaji": [
-        "afurikanburuubajiru"
+        "kanfaabajiru",
+        "ocimum kilimandscharicum"
       ],
       "scientific": "Ocimum kilimandscharicum",
       "search_terms": [
-        "アフリカンブルーバジル",
-        "あふりかんぶるーばじる",
-        "afurikanburuubajiru",
-        "Ocimum kilimandscharicum"
+        "カンファーバジル",
+        "かんふぁーばじる",
+        "Ocimum kilimandscharicum",
+        "kanfaabajiru",
+        "ocimum kilimandscharicum"
       ],
       "normalized_terms": [
-        "アフリカンブルーバジル",
-        "あふりかんぶるーばじる",
-        "afurikanburuubajiru",
-        "ocimumkilimandscharicum"
+        "カンファーバジル",
+        "かんふぁーばじる",
+        "ocimumkilimandscharicum",
+        "kanfaabajiru"
       ]
     },
     {

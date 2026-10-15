@@ -307,5 +307,15 @@
     "applied_at": "2026-10-14T19:52:34.719931+09:00",
     "github_verified": false,
     "apk_built": false
+  },
+  "herb_content_revision": {
+    "count": 201,
+    "date": "2026-10-15",
+    "renamed": {
+      "herb_0047": "バジル（Ocimum americanum）",
+      "herb_0217": "ゲットウ",
+      "herb_0220": "カンファーバジル"
+    },
+    "genre_moves": 0
   }
 }
