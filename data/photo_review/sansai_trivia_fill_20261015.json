@@ -1,0 +1,616 @@
+{
+  "data_applied": true,
+  "date": "2026-10-15T20:54:27.487194+09:00",
+  "active_records": 2639,
+  "sansai_records": 181,
+  "blank_before": 58,
+  "blank_after": 0,
+  "trivia_completed": 58,
+  "food_use_evidence_pending": 85,
+  "genres_changed": 0,
+  "scientific_names_changed": 0,
+  "photographs_changed": 0,
+  "github_verified": false,
+  "apk_built": false,
+  "items": [
+    {
+      "id": "sansai_0010",
+      "name": "ヤマグワ",
+      "scientific_name": "Morus indica",
+      "trivia": "「山桑」の名は、山に自生するクワという意味。クワの仲間の実は、多くの花に由来する小さな果実が集まってできている。",
+      "source_urls": [
+        "https://yasouensearch.jp/flower_name/%E3%83%A4%E3%83%9E%E3%82%B0%E3%83%AF/",
+        "https://mikawanoyasou.org/data/yamaguwa.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0014",
+      "name": "ハマエンドウ",
+      "scientific_name": "Lathyrus japonicus",
+      "trivia": "海岸に生え、エンドウに似た花を付けることが名前の由来。種子は水を通しにくい硬い皮に包まれ、そのままでは発芽しにくい性質を持つ。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/hamaendou.htm",
+        "https://www.jstage.jst.go.jp/article/jila1994/62/5/62_5_507/_article/-char/ja"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0017",
+      "name": "バライチゴ",
+      "scientific_name": "Rubus illecebrosus",
+      "trivia": "草のように低く広がるが、茎が木質になる小さな低木。背丈に比べて白い花が大きく、直径4センチほどになる。よく似たヒメバライチゴとは、とげの向きなどが異なる。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/baraitigo.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0021",
+      "name": "オオバショウマ",
+      "scientific_name": "Actaea japonica",
+      "trivia": "大きな葉を持ち、花の姿がサラシナショウマに似ることが「大葉升麻」の名の由来。細長い花の穂は、小さな白い花が集まってできている。",
+      "source_urls": [
+        "https://yasouensearch.jp/flower_name/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E/"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0022",
+      "name": "ノダケ",
+      "scientific_name": "Angelica decursiva",
+      "trivia": "白い花が多いセリの仲間では珍しく、暗い紫色の花を付ける。つぼみの頃は花の集まりが袋状の葉柄に包まれ、帽子をかぶったように見える。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/nodake.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0023",
+      "name": "ヤブタビラコ",
+      "scientific_name": "Lapsanastrum humile",
+      "trivia": "花が終わると、花を包んでいた部分が丸く膨らんで下を向く。タンポポに似た黄色い花を付けるが、果実にはタンポポのような綿毛がない。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/yabutabirako.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0024",
+      "name": "サワハコベ",
+      "scientific_name": "Nubelaria diversiflora",
+      "trivia": "湿った谷筋で、細い茎が地面をはいながら枝分かれする。白い花びらは5枚で、それぞれの先に切れ込みが入っている。",
+      "source_urls": [
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/caryophyllaceae/sawahakobe/sawahakobe.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0045",
+      "name": "ナルコユリ",
+      "scientific_name": "Polygonatum falcatum",
+      "trivia": "並んで垂れ下がる細長い花を、田畑の鳥を追い払う道具「鳴子」に見立てた名前。似たアマドコロとは、茎に角がなく丸いことなどで区別する。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/narukoyuri.htm",
+        "https://fncc.pref.fukui.lg.jp/notice/15132.html"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0079",
+      "name": "オオバタネツケバナ",
+      "scientific_name": "Cardamine scutata",
+      "trivia": "一枚の葉は小葉に分かれ、とくに先端の小葉が大きい。水流のある沢沿いなどに生え、水田の周りに多いタネツケバナとは葉の姿や生える場所が異なる。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/oobatanetukebana.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0080",
+      "name": "タネツケバナ",
+      "scientific_name": "Cardamine occulta",
+      "trivia": "イネの種籾を水に漬け、苗代の準備をする頃に花が咲くことが名前の由来。昔の農作業の季節を知らせる草花の一つだった。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/tanetukebana.htm",
+        "https://chubu.env.go.jp/blog/page_00343.html"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0086",
+      "name": "ハマゼリ",
+      "scientific_name": "Cnidium japonicum",
+      "trivia": "別名はハマニンジン。低い草丈でも葉が細かく分かれ、小さな花の傘がさらに集まる、二重の傘のような花の付き方をする。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/hamazeri.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0096",
+      "name": "ホドイモ",
+      "scientific_name": "Apios fortunei",
+      "trivia": "日本在来のホドイモと、食材としてアピオスと呼ばれるアメリカホドイモは別種。日本のホドイモにも地下にいも状の部分ができるが、近縁種の食べ方をそのまま当てはめることはできない。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/hodoimo.htm",
+        "https://www.num.nagoya-u.ac.jp/media/plants/jun.html"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0101",
+      "name": "クサボケ",
+      "scientific_name": "Chaenomeles japonica",
+      "trivia": "名前に「草」と付くが、実際は低く育つ木。ボケに似ていて小さいことにちなむ名前で、シドミ、コボケ、ジナシなどの別名もある。",
+      "source_urls": [
+        "https://tbg.kahaku.go.jp/recommend/illustrated/result.php?list=jname&mode=easy&name=%E3%82%AF%E3%82%B5%E3%83%9C%E3%82%B1&p=2&ruby=ka"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0109",
+      "name": "クロイチゴ",
+      "scientific_name": "Rubus mesogaeus",
+      "trivia": "赤く見える未熟な実も、熟すと濃い紺色になる。熟した実とまだ赤い実が同じ枝に混じり、小さな果実が集まった形も観察できる。",
+      "source_urls": [
+        "https://www.town.mukawa.lg.jp/secure/9585/2022_10_mukawa.pdf"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0112",
+      "name": "トリアシショウマ",
+      "scientific_name": "Astilbe rubra",
+      "trivia": "「鳥足升麻」は、茎を鳥の足に、葉をショウマに見立てたとされる和名。名前に同じ「ショウマ」が付くサラシナショウマなどとは、別の仲間の植物。",
+      "source_urls": [
+        "https://yasouensearch.jp/flower_name/%E3%83%88%E3%83%AA%E3%82%A2%E3%82%B7%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E/"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0113",
+      "name": "アカショウマ",
+      "scientific_name": "Astilbe thunbergii",
+      "trivia": "「赤」は花の色ではなく、赤みのある根茎にちなむ。花の集まりがサラシナショウマに似ているため「ショウマ」と名付けられたとされる。",
+      "source_urls": [
+        "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/akashouma.html"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0116",
+      "name": "ヒメウワバミソウ",
+      "scientific_name": "Elatostema japonicum",
+      "trivia": "ウワバミソウに似るが小型で、花の時期も早い。雄花の集まりには長い柄があり、葉の付け根から上向きに立つのが特徴。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/himeuwabamisou.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0117",
+      "name": "オオバセンキュウ",
+      "scientific_name": "Angelica genuflexa",
+      "trivia": "茎が葉の付く位置で少し折れ曲がりながら、上へ伸びる。茎の上部では、葉柄の付け根が袋のような鞘になる。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/oobasenkyuu.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0118",
+      "name": "ヤマゼリ",
+      "scientific_name": "Ostericum sieboldii",
+      "trivia": "花後にできる果実は、二つの小さな果実に分かれる。果実の縁には薄い翼状の部分があり、花だけでなく実の形も見分ける手掛かりになる。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/yamazeri.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0120",
+      "name": "ハンゴンソウ",
+      "scientific_name": "Jacobaea cannabifolia",
+      "trivia": "「反魂」は、死者の魂を呼び戻すという意味。深く裂けた葉を手招きする手に見立てたことが、名前の由来とする説がある。",
+      "source_urls": [
+        "https://yasouensearch.jp/flower_name/%E3%83%8F%E3%83%B3%E3%82%B4%E3%83%B3%E3%82%BD%E3%82%A6/"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0132",
+      "name": "エゾウコギ",
+      "scientific_name": "Eleutherococcus senticosus",
+      "trivia": "枝に細いとげが多数付くため、ハリウコギとも呼ばれる。とげの少ない枝もあり、同じ株でも若い幹と太く育った幹で見え方が異なる。",
+      "source_urls": [
+        "https://yasouensearch.jp/flower_name/%E3%82%A8%E3%82%BE%E3%82%A6%E3%82%B3%E3%82%AE/"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0133",
+      "name": "ケヤマウコギ",
+      "scientific_name": "Eleutherococcus divaricatus",
+      "trivia": "若い枝や葉柄、葉の裏などに縮れた毛が多いウコギの仲間。若枝の毛は成長とともに落ちるため、見る場所や季節によって毛の目立ち方が変わる。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/keyamaukogi.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0136",
+      "name": "オオハナウド",
+      "scientific_name": "Heracleum maximum",
+      "trivia": "大きな平たい花の傘は、さらに小さな花の傘が集まったもの。中央の傘に続いて周囲の傘が発達し、開花が進んでいく。",
+      "source_urls": [
+        "https://research.fs.usda.gov/feis/species-reviews/hermax"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0137",
+      "name": "ミチタネツケバナ",
+      "scientific_name": "Cardamine hirsuta",
+      "trivia": "熟したさやが勢いよく裂け、種子をはね飛ばす。裂けたさやはくるくる巻き、花の周りには上向きに伸びた細長い果実が並ぶ。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/mititanetukebana.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0138",
+      "name": "ウシハコベ",
+      "scientific_name": "Stellaria aquatica",
+      "trivia": "似たハコベ類を見分けるときは、花の中心も手掛かりになる。ハコベの花柱が普通3本なのに対し、ウシハコベでは5本ある。",
+      "source_urls": [
+        "https://www.nara-edu.ac.jp/cnee/plants_of_NUE/ichiranhyou/syokubutsupage/hakobe.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0139",
+      "name": "ミヤマハコベ",
+      "scientific_name": "Stellaria sessiliflora",
+      "trivia": "白い花びらは10枚あるように見えるが、実際は5枚。それぞれが深く二つに裂けている。身近なハコベより大きめの花を付ける。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/miyamahakobe.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0142",
+      "name": "カスミザクラ",
+      "scientific_name": "Prunus leveilleana",
+      "trivia": "山で咲く花を、遠くから見た霞にたとえた名前。ヤマザクラより遅い時期に咲くことが多く、葉と花が一緒に開く。",
+      "source_urls": [
+        "https://yasouensearch.jp/flower_name/%E3%82%AB%E3%82%B9%E3%83%9F%E3%82%B6%E3%82%AF%E3%83%A9/",
+        "https://mikawanoyasou.org/data/kasumizakura.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0143",
+      "name": "ゴヨウアケビ",
+      "scientific_name": "Akebia × pentaphylla",
+      "trivia": "アケビとミツバアケビの自然交雑で生じたとされる。小葉は5枚でも、葉の縁の波状の切れ込みや暗紫色の花など、ミツバアケビに似た特徴を持つ。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/goyouakebi.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0146",
+      "name": "ハマカンゾウ",
+      "scientific_name": "Hemerocallis fulva var. littorea",
+      "trivia": "海辺に生えるカンゾウの仲間で、厚みのある細長い葉が冬にも残る。ノカンゾウより遅い季節に花を咲かせる。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/hamakanzou.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0148",
+      "name": "コウヤワラビ",
+      "scientific_name": "Onoclea sensibilis var. interrupta",
+      "trivia": "緑色に広がる葉と、胞子を付ける細い葉を別につくる。胞子を付ける葉の小さな粒状の部分には、胞子の袋が包まれている。",
+      "source_urls": [
+        "https://mikawanoyasou.org/sida/kouyawarabi.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0149",
+      "name": "ヤマラッキョウ",
+      "scientific_name": "Allium thunbergii",
+      "trivia": "山に生えるラッキョウという意味の名前。細い葉の断面は丸ではなく三角形に近く、中は空洞になっている。",
+      "source_urls": [
+        "https://tbg.kahaku.go.jp/today/index.php?month=202111",
+        "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%A9%E3%83%83%E3%82%AD%E3%83%A7%E3%82%A6"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0150",
+      "name": "ワニグチソウ",
+      "scientific_name": "Polygonatum involucratum",
+      "trivia": "花を包む2枚の苞の姿を、寺社の軒下につるす「鰐口」に見立てた名前。鰐口は、ひもで鳴らす平たい金属製の道具のこと。",
+      "source_urls": [
+        "https://yasouensearch.jp/flower_name/%E3%83%AF%E3%83%8B%E3%82%B0%E3%83%81%E3%82%BD%E3%82%A6/",
+        "https://www.narahaku.go.jp/collection/1185-0.html"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0155",
+      "name": "アキノノゲシ",
+      "scientific_name": "Lactuca indica",
+      "trivia": "春から咲くノゲシに似て、秋に咲くことが名前の由来。黄色い一輪に見える部分も、細い舌状の小花が集まってできている。",
+      "source_urls": [
+        "https://yasouensearch.jp/flower_name/%E3%82%A2%E3%82%AD%E3%83%8E%E3%83%8E%E3%82%B2%E3%82%B7/",
+        "https://mikawanoyasou.org/data/akinonogesi.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0156",
+      "name": "ニガナ",
+      "scientific_name": "Ixeridium dentatum subsp. dentatum",
+      "trivia": "葉や茎を傷つけると苦みのある乳液が出ることが、名前の由来とされる。花びらに見える細い部分は一つずつが小花で、数個集まって一つの頭花になる。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/nigana.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0159",
+      "name": "ゼンテイカ",
+      "scientific_name": "Hemerocallis middendorffii var. esculenta",
+      "trivia": "ニッコウキスゲの名でも親しまれる。一つの花は朝開いて夕方にはしぼむが、複数のつぼみが順に開くため、株全体では何日も花を楽しめる。",
+      "source_urls": [
+        "https://tohoku.env.go.jp/blog/2010/07/1084.html",
+        "https://chubu.env.go.jp/blog/2019/07/post-851.html"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0160",
+      "name": "エゾネギ",
+      "scientific_name": "Allium schoenoprasum var. schoenoprasum",
+      "trivia": "よく似たアサツキは、同じ種の別の変種として扱われる。エゾネギはアサツキより花被が長く、葉だけでなく花の姿にも違いがある。",
+      "source_urls": [
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/monocotyledoneae/liliaceae/ezonegi/ezonegi.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0161",
+      "name": "コンロンソウ",
+      "scientific_name": "Cardamine leucantha",
+      "trivia": "「崑崙草」は、白い花を中国の崑崙山脈の雪にたとえた名前とする説がある。小さな4枚の花びらが十字形に並ぶ。",
+      "source_urls": [
+        "https://yasouensearch.jp/flower_name/%E3%82%B3%E3%83%B3%E3%83%AD%E3%83%B3%E3%82%BD%E3%82%A6/"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0168",
+      "name": "ヤエムグラ",
+      "scientific_name": "Galium spurium var. echinospermum",
+      "trivia": "葉が何枚も輪になって並ぶように見えるが、本当の葉は向かい合う一対で、ほかは托葉が葉のようになったもの。茎や果実の小さなかぎ状の毛で、衣服などに引っ掛かる。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/yaemugura.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0169",
+      "name": "イヌガラシ",
+      "scientific_name": "Rorippa indica",
+      "trivia": "黄色い小花の後に、細長いさや状の果実を付ける。果実が少し弓なりになるものが多く、太く短い果実を付けるスカシタゴボウとの比較に役立つ。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/inugarasi.htm",
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/cruciferae/sukasitagobou/sukasitagobou.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0170",
+      "name": "オランダミミナグサ",
+      "scientific_name": "Cerastium glomeratum",
+      "trivia": "「ミミナグサ」は、毛のある小さな葉をネズミの耳に見立てた名前。「オランダ」は外国由来という意味で付けられたとされ、花は茎先にまとまって咲く。",
+      "source_urls": [
+        "https://www.nara-edu.ac.jp/cnee/plants_of_NUE/ichiranhyou/syokubutsupage/orandamiminagusa.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0171",
+      "name": "ツボスミレ",
+      "scientific_name": "Viola arcuata",
+      "trivia": "別名はニョイスミレ。葉の形を僧侶が持つ道具「如意」に見立てた名前で、花が小さくても葉の輪郭を比べる楽しみがある。",
+      "source_urls": [
+        "https://www.takao599museum.jp/treasures/plants/%E3%82%B9%E3%83%9F%E3%83%AC%E7%A7%91/2307/?lang=ja"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0172",
+      "name": "ヒメスミレ",
+      "scientific_name": "Viola inconspicua subsp. nagasakiensis",
+      "trivia": "アスファルトの隙間など、乾きやすい小さな場所にも生えるスミレ。スミレより小型で、葉を支える柄に翼のような張り出しがない。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/himesumire.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0175",
+      "name": "マルバグミ",
+      "scientific_name": "Elaeagnus macrophylla",
+      "trivia": "秋に花が咲き、実は翌春に熟すグミの仲間。白い花びらに見える部分は萼で、葉の裏には銀白色の細かな鱗状の毛が敷き詰められている。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/marubagumi.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0176",
+      "name": "エゾイチゴ",
+      "scientific_name": "Rubus idaeus subsp. strigosus",
+      "trivia": "丸い実は、小さな果実が集まってできている。長生きする地下部から茎が伸び、一般に茎は1年目に葉を広げ、2年目に花や実を付ける。",
+      "source_urls": [
+        "https://research.fs.usda.gov/feis/species-reviews/rubida"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0178",
+      "name": "ヤマシロギク",
+      "scientific_name": "Aster semiamplexicaulis",
+      "trivia": "イナカギクとも呼ばれる。茎や葉に白い柔らかな毛が多く、葉に触れるとビロードのような感触がある。似た白い野菊を見分ける手掛かりになる。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/inakagiku.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0180",
+      "name": "コウゾリナ",
+      "scientific_name": "Picris japonica",
+      "trivia": "茎や葉の硬い毛が手に引っ掛かり、カミソリを思わせることが名前の由来とされる。毛の先端は、小さないかりのように分かれている。",
+      "source_urls": [
+        "https://yasouensearch.jp/flower_name/%E3%82%B3%E3%82%A6%E3%82%BE%E3%83%AA%E3%83%8A/",
+        "https://mikawanoyasou.org/data/kouzorina.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0181",
+      "name": "カントウタンポポ",
+      "scientific_name": "Taraxacum platycarpum subsp. platycarpum",
+      "trivia": "日本在来のタンポポの一つ。花の下を包む総苞片が大きく反り返らないのが特徴で、似たタンポポを観察するときは花の裏側も手掛かりになる。",
+      "source_urls": [
+        "https://hp.brs.nihon-u.ac.jp/~museum/news20240417/"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0185",
+      "name": "シシウド",
+      "scientific_name": "Angelica pubescens",
+      "trivia": "大きな白い花の傘は、たくさんの小花が集まったもの。太い茎の中は空洞で、葉の付け根は袋のように膨らむ。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/sisiudo.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0187",
+      "name": "ヘラオオバコ",
+      "scientific_name": "Plantago lanceolata",
+      "trivia": "細長い葉の形をへらに見立てた名前。穂に集まった小さな花からは、4本の雄しべが長く突き出す。",
+      "source_urls": [
+        "https://yasouensearch.jp/flower_name/%E3%83%98%E3%83%A9%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B3/",
+        "https://mikawanoyasou.org/data/heraoobako.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0191",
+      "name": "チチコグサ",
+      "scientific_name": "Euchiton japonicus",
+      "trivia": "ハハコグサに対して「父子草」と名付けられた。茎先に小さな頭花が密集し、そのすぐ下に細い葉が放射状に付く。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/titikogusa.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0205",
+      "name": "スカシタゴボウ",
+      "scientific_name": "Rorippa palustris",
+      "trivia": "名前にゴボウと付くが、ゴボウのように太い根を持つ植物ではない。イヌガラシより果実が太く短く、ころっとした形になる。",
+      "source_urls": [
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/cruciferae/sukasitagobou/sukasitagobou.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0208",
+      "name": "ヤマニガナ",
+      "scientific_name": "Lactuca raddeana var. elata",
+      "trivia": "細長い草姿はムラサキニガナに似るが、花は黄色。花の後には白い綿毛を持つ小さな果実ができる。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/yamanigana.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0209",
+      "name": "ミミナグサ",
+      "scientific_name": "Cerastium holosteoides",
+      "trivia": "毛のある小さな葉を、ネズミの耳に見立てた名前。白い花びらは5枚で、それぞれの先が二つに裂けている。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/miminagusa.htm",
+        "https://www.nara-edu.ac.jp/cnee/plants_of_NUE/ichiranhyou/syokubutsupage/orandamiminagusa.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0211",
+      "name": "ノミノフスマ",
+      "scientific_name": "Stellaria undulata",
+      "trivia": "漢字では「蚤の衾」。衾は布団のことで、小さな葉をノミの布団に見立てた名前。花びらは5枚だが深く裂け、10枚のように見える。",
+      "source_urls": [
+        "https://chubu.env.go.jp/blog/page_00328.html",
+        "https://www.ktr.mlit.go.jp/ktr_content/content/000074248.pdf"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0212",
+      "name": "ノジスミレ",
+      "scientific_name": "Viola philippica",
+      "trivia": "花の咲く頃の葉は細長く、花が終わると幅が広くなっていく。葉や茎には短い毛があり、全体が白っぽく見える。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/nojisumire.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0213",
+      "name": "アリアケスミレ",
+      "scientific_name": "Viola betonicifolia var. albescens",
+      "trivia": "花色の変化を、夜明けの「有明の空」にたとえた名前。白から淡い紫色の花に、濃い紫色の筋が入る。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/ariakesumire.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0217",
+      "name": "サンカクヅル",
+      "scientific_name": "Vitis flexuosa",
+      "trivia": "別名はギョウジャノミズ。つるの切り口から出る水を行者が利用したことにちなむといわれる。花びらは先端でくっつき、花が開くと帽子が外れるように落ちる。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/sankakuduru.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    },
+    {
+      "id": "sansai_0222",
+      "name": "トネアザミ",
+      "scientific_name": "Cirsium nipponicum var. incomptum",
+      "trivia": "タイアザミとも呼ばれる、ナンブアザミの仲間。花の下を包む総苞から長いとげが外へ反り返り、花が横向きから斜め下向きに咲くことが多い。",
+      "source_urls": [
+        "https://mikawanoyasou.org/data/toneazami.htm"
+      ],
+      "scope_note": "豆知識の根拠を確認。食用根拠や登録分類の未確定は解決したと扱わない。"
+    }
+  ],
+  "data_processing_complete": true,
+  "apk_version": "0.38",
+  "apk_sha256": "ed9fa1c5a6a457ceb290cefe183e3ac3d2c98af4bc5119dcca321dfe2901e313",
+  "review_limit": "No blank trivia in 181 wild vegetable entries. Food-use evidence remains unresolved for 85 entries. No strict photo identification or device UI verification is claimed."
+}

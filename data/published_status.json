@@ -66,7 +66,7 @@
       "data_file": "data/records/rare_fruit/rare_fruit.json"
     }
   },
-  "generated_at": "2026-10-15T20:17:01.069579+09:00",
+  "generated_at": "2026-10-15T20:54:27.493686+09:00",
   "remaining_resolution_summary": {
     "photo_replacements": 37,
     "genre_candidates_resolved": 142,
@@ -470,5 +470,20 @@
       "apk_build",
       "device_delivery"
     ]
+  },
+  "sansai_trivia_fill_20261015": {
+    "data_applied": true,
+    "date": "2026-10-15T20:54:27.487194+09:00",
+    "active_records": 2639,
+    "sansai_records": 181,
+    "blank_before": 58,
+    "blank_after": 0,
+    "trivia_completed": 58,
+    "food_use_evidence_pending": 85,
+    "genres_changed": 0,
+    "scientific_names_changed": 0,
+    "photographs_changed": 0,
+    "github_verified": false,
+    "apk_built": false
   }
 }

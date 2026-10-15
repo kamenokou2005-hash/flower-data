@@ -902,7 +902,7 @@
     "habitat": "丘陵、山林",
     "common_place": "丘陵、山林",
     "feature_summary": "落葉樹。葉は鋸歯があり、深く切れ込むものと切れ込まないものがある。",
-    "trivia": "",
+    "trivia": "「山桑」の名は、山に自生するクワという意味。クワの仲間の実は、多くの花に由来する小さな果実が集まってできている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -915,7 +915,8 @@
     "plant_source_url": "https://mikawanoyasou.org/data/yamaguwa.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/yamaguwa.htm",
-      "https://www.inaturalist.org/taxa/773801"
+      "https://www.inaturalist.org/taxa/773801",
+      "https://yasouensearch.jp/flower_name/%E3%83%A4%E3%83%9E%E3%82%B0%E3%83%AF/"
     ],
     "content_source_scope": "existing_record_species",
     "image": {
@@ -1020,6 +1021,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "登録学名はMorus indica。国内のヤマグワをM. australisとする資料とは範囲が異なり、食用説明を自動で転用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://yasouensearch.jp/flower_name/%E3%83%A4%E3%83%9E%E3%82%B0%E3%83%AF/",
+        "https://mikawanoyasou.org/data/yamaguwa.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -1222,7 +1232,7 @@
     "habitat": "海岸の砂地",
     "common_place": "海岸の砂地",
     "feature_summary": "海岸に生えるつる性の多年草。葉は対になった小葉と先端の巻きひげからなる。",
-    "trivia": "",
+    "trivia": "海岸に生え、エンドウに似た花を付けることが名前の由来。種子は水を通しにくい硬い皮に包まれ、そのままでは発芽しにくい性質を持つ。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -1235,7 +1245,8 @@
     "plant_source_url": "https://mikawanoyasou.org/data/hamaendou.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/hamaendou.htm",
-      "https://www.inaturalist.org/taxa/77638"
+      "https://www.inaturalist.org/taxa/77638",
+      "https://www.jstage.jst.go.jp/article/jila1994/62/5/62_5_507/_article/-char/ja"
     ],
     "content_source_scope": "species",
     "image": {
@@ -1281,6 +1292,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/hamaendou.htm",
+        "https://www.jstage.jst.go.jp/article/jila1994/62/5/62_5_507/_article/-char/ja"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -1304,7 +1324,7 @@
     "habitat": "山地の向陽地",
     "common_place": "山地の向陽地",
     "feature_summary": "低く広がる落葉小低木。羽状複葉をつけ、果実は赤く熟す。",
-    "trivia": "",
+    "trivia": "草のように低く広がるが、茎が木質になる小さな低木。背丈に比べて白い花が大きく、直径4センチほどになる。よく似たヒメバライチゴとは、とげの向きなどが異なる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -1363,6 +1383,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/baraitigo.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -1480,7 +1508,7 @@
     "habitat": "本項の生育環境は要確認",
     "common_place": "本項の生育環境は要確認",
     "feature_summary": "大型の三出複葉をつける多年草。白い花を細長い穂状に咲かせる。",
-    "trivia": "",
+    "trivia": "大きな葉を持ち、花の姿がサラシナショウマに似ることが「大葉升麻」の名の由来。細長い花の穂は、小さな白い花が集まってできている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -1493,7 +1521,8 @@
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E",
-      "https://www.inaturalist.org/taxa/742170"
+      "https://www.inaturalist.org/taxa/742170",
+      "https://yasouensearch.jp/flower_name/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E/"
     ],
     "content_source_scope": "species",
     "image": {
@@ -1539,6 +1568,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://yasouensearch.jp/flower_name/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E/"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -1562,7 +1599,7 @@
     "habitat": "山野の林内、林縁",
     "common_place": "山野の林内、林縁",
     "feature_summary": "葉は三出羽状複葉。秋に暗紫色の小花を散形状に集める。",
-    "trivia": "",
+    "trivia": "白い花が多いセリの仲間では珍しく、暗い紫色の花を付ける。つぼみの頃は花の集まりが袋状の葉柄に包まれ、帽子をかぶったように見える。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -1621,6 +1658,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/nodake.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -1644,7 +1689,7 @@
     "habitat": "道端、草地",
     "common_place": "道端、草地",
     "feature_summary": "小さな黄色い頭花をつける。花後は総苞が丸くなって垂れ下がる。",
-    "trivia": "",
+    "trivia": "花が終わると、花を包んでいた部分が丸く膨らんで下を向く。タンポポに似た黄色い花を付けるが、果実にはタンポポのような綿毛がない。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -1703,6 +1748,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/yabutabirako.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -1726,7 +1779,7 @@
     "habitat": "本項の生育環境は要確認",
     "common_place": "本項の生育環境は要確認",
     "feature_summary": "写真では、幅広い葉と小さな白い花が見える。",
-    "trivia": "",
+    "trivia": "湿った谷筋で、細い茎が地面をはいながら枝分かれする。白い花びらは5枚で、それぞれの先に切れ込みが入っている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -1739,7 +1792,8 @@
     "plant_source_url": "https://en.wikipedia.org/wiki/Nubelaria",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Nubelaria",
-      "https://www.inaturalist.org/taxa/1039790"
+      "https://www.inaturalist.org/taxa/1039790",
+      "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/caryophyllaceae/sawahakobe/sawahakobe.htm"
     ],
     "content_source_scope": "genus",
     "image": {
@@ -1785,6 +1839,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/caryophyllaceae/sawahakobe/sawahakobe.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -3612,7 +3674,7 @@
     "habitat": "丘陵や山地の林内・林縁",
     "common_place": "丘陵や山地の林内・林縁",
     "feature_summary": "細長い葉をつけ、葉腋から白い筒状の花がまとまって垂れる。",
-    "trivia": "",
+    "trivia": "並んで垂れ下がる細長い花を、田畑の鳥を追い払う道具「鳴子」に見立てた名前。似たアマドコロとは、茎に角がなく丸いことなどで区別する。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -3625,7 +3687,9 @@
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%AB%E3%82%B3%E3%83%A6%E3%83%AA",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%AB%E3%82%B3%E3%83%A6%E3%83%AA",
-      "https://www.inaturalist.org/taxa/447626"
+      "https://www.inaturalist.org/taxa/447626",
+      "https://mikawanoyasou.org/data/narukoyuri.htm",
+      "https://fncc.pref.fukui.lg.jp/notice/15132.html"
     ],
     "content_source_scope": "existing_record_species",
     "image": {
@@ -3680,6 +3744,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/narukoyuri.htm",
+        "https://fncc.pref.fukui.lg.jp/notice/15132.html"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -6460,7 +6533,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、白い小花と細長い果実。",
-    "trivia": "",
+    "trivia": "一枚の葉は小葉に分かれ、とくに先端の小葉が大きい。水流のある沢沿いなどに生え、水田の周りに多いタネツケバナとは葉の姿や生える場所が異なる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -6474,7 +6547,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%BF%E3%83%8D%E3%83%84%E3%82%B1%E3%83%90%E3%83%8A",
       "https://www.inaturalist.org/taxa/429294",
-      "https://powo.science.kew.org/taxon/280651-1"
+      "https://powo.science.kew.org/taxon/280651-1",
+      "https://mikawanoyasou.org/data/oobatanetukebana.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -6532,6 +6606,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/oobatanetukebana.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -6556,7 +6638,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、石の隙間の小さな株。",
-    "trivia": "",
+    "trivia": "イネの種籾を水に漬け、苗代の準備をする頃に花が咲くことが名前の由来。昔の農作業の季節を知らせる草花の一つだった。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -6570,7 +6652,9 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%8D%E3%83%84%E3%82%B1%E3%83%90%E3%83%8A",
       "https://www.inaturalist.org/taxa/545305",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A280533-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A280533-1",
+      "https://mikawanoyasou.org/data/tanetukebana.htm",
+      "https://chubu.env.go.jp/blog/page_00343.html"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -6629,6 +6713,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/tanetukebana.htm",
+        "https://chubu.env.go.jp/blog/page_00343.html"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -7086,7 +7179,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、岩の隙間の切れ込む葉。",
-    "trivia": "",
+    "trivia": "別名はハマニンジン。低い草丈でも葉が細かく分かれ、小さな花の傘がさらに集まる、二重の傘のような花の付き方をする。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -7100,7 +7193,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%82%BC%E3%83%AA",
       "https://www.inaturalist.org/taxa/639251",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A840454-1/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A840454-1/general-information",
+      "https://mikawanoyasou.org/data/hamazeri.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -7158,6 +7252,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/hamazeri.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -8002,7 +8104,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、つると小葉。",
-    "trivia": "",
+    "trivia": "日本在来のホドイモと、食材としてアピオスと呼ばれるアメリカホドイモは別種。日本のホドイモにも地下にいも状の部分ができるが、近縁種の食べ方をそのまま当てはめることはできない。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8016,7 +8118,9 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%89%E3%82%A4%E3%83%A2",
       "https://www.inaturalist.org/taxa/429530",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A474884-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A474884-1",
+      "https://mikawanoyasou.org/data/hodoimo.htm",
+      "https://www.num.nagoya-u.ac.jp/media/plants/jun.html"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -8074,6 +8178,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/hodoimo.htm",
+        "https://www.num.nagoya-u.ac.jp/media/plants/jun.html"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -8098,7 +8211,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、赤い花。",
-    "trivia": "",
+    "trivia": "名前に「草」と付くが、実際は低く育つ木。ボケに似ていて小さいことにちなむ名前で、シドミ、コボケ、ジナシなどの別名もある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8112,7 +8225,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B5%E3%83%9C%E3%82%B1",
       "https://www.inaturalist.org/taxa/61236",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77105966-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77105966-1",
+      "https://tbg.kahaku.go.jp/recommend/illustrated/result.php?list=jname&mode=easy&name=%E3%82%AF%E3%82%B5%E3%83%9C%E3%82%B1&p=2&ruby=ka"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -8170,6 +8284,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://tbg.kahaku.go.jp/recommend/illustrated/result.php?list=jname&mode=easy&name=%E3%82%AF%E3%82%B5%E3%83%9C%E3%82%B1&p=2&ruby=ka"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -8194,7 +8316,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、赤い果実と鋸歯の葉。",
-    "trivia": "",
+    "trivia": "赤く見える未熟な実も、熟すと濃い紺色になる。熟した実とまだ赤い実が同じ枝に混じり、小さな果実が集まった形も観察できる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8208,7 +8330,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%81%E3%82%B4",
       "https://www.inaturalist.org/taxa/125491",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A738368-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A738368-1",
+      "https://www.town.mukawa.lg.jp/secure/9585/2022_10_mukawa.pdf"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -8266,6 +8389,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://www.town.mukawa.lg.jp/secure/9585/2022_10_mukawa.pdf"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -8389,7 +8520,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、白い細かな花序と複葉。",
-    "trivia": "",
+    "trivia": "「鳥足升麻」は、茎を鳥の足に、葉をショウマに見立てたとされる和名。名前に同じ「ショウマ」が付くサラシナショウマなどとは、別の仲間の植物。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8403,7 +8534,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%82%A2%E3%82%B7%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E",
       "https://www.inaturalist.org/taxa/503240",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A790315-1/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A790315-1/general-information",
+      "https://yasouensearch.jp/flower_name/%E3%83%88%E3%83%AA%E3%82%A2%E3%82%B7%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E/"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -8462,6 +8594,14 @@
       "reason": "登録学名Astilbe rubraと、国内資料のトリアシショウマの分類範囲を今回確定できず、近縁種の食用情報を転用しない。",
       "strict_photo_identification": false,
       "source_scope_alert": "和名トリアシショウマの若芽食用は資料にあるが、登録Astilbe rubraと日本の狭い種概念の対応が未解決。保留維持。"
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://yasouensearch.jp/flower_name/%E3%83%88%E3%83%AA%E3%82%A2%E3%82%B7%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E/"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -8486,7 +8626,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、細長い淡色の花序。",
-    "trivia": "",
+    "trivia": "「赤」は花の色ではなく、赤みのある根茎にちなむ。花の集まりがサラシナショウマに似ているため「ショウマ」と名付けられたとされる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8500,7 +8640,8 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Astilbe_thunbergii",
       "https://www.inaturalist.org/taxa/635686",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A790323-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A790323-1",
+      "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/akashouma.html"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -8560,6 +8701,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/akashouma.html"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -8782,7 +8931,7 @@
     "habitat": "湿った林内や林縁に生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、鋸歯の強い葉。",
-    "trivia": "",
+    "trivia": "ウワバミソウに似るが小型で、花の時期も早い。雄花の集まりには長い柄があり、葉の付け根から上向きに立つのが特徴。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8797,7 +8946,8 @@
       "https://en.wikipedia.org/wiki/Elatostema",
       "https://www.inaturalist.org/taxa/896450",
       "https://powo.science.kew.org/taxon/851944-1",
-      "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/nettle/elatostema/jap.html"
+      "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/nettle/elatostema/jap.html",
+      "https://mikawanoyasou.org/data/himeuwabamisou.htm"
     ],
     "content_source_scope": "reviewed_taxon_scope",
     "image": {
@@ -8851,6 +9001,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/himeuwabamisou.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -8875,7 +9033,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、大きな鋸歯のある小葉。",
-    "trivia": "",
+    "trivia": "茎が葉の付く位置で少し折れ曲がりながら、上へ伸びる。茎の上部では、葉柄の付け根が袋のような鞘になる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8889,7 +9047,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%BB%E3%83%B3%E3%82%AD%E3%83%A5%E3%82%A6",
       "https://www.inaturalist.org/taxa/75450",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A837628-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A837628-1",
+      "https://mikawanoyasou.org/data/oobasenkyuu.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -8947,6 +9106,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/oobasenkyuu.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -8971,7 +9138,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、白い小花が傘状に集まる。",
-    "trivia": "",
+    "trivia": "花後にできる果実は、二つの小さな果実に分かれる。果実の縁には薄い翼状の部分があり、花だけでなく実の形も見分ける手掛かりになる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8985,7 +9152,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%BC%E3%83%AA",
       "https://www.inaturalist.org/taxa/865348",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A845584-1/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A845584-1/general-information",
+      "https://mikawanoyasou.org/data/yamazeri.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -9044,6 +9212,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/yamazeri.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -9200,7 +9376,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、高い茎と裂けた葉。",
-    "trivia": "",
+    "trivia": "「反魂」は、死者の魂を呼び戻すという意味。深く裂けた葉を手招きする手に見立てたことが、名前の由来とする説がある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -9214,7 +9390,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B4%E3%83%B3%E3%82%BD%E3%82%A6",
       "https://www.inaturalist.org/taxa/912417",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A1171303-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A1171303-2",
+      "https://yasouensearch.jp/flower_name/%E3%83%8F%E3%83%B3%E3%82%B4%E3%83%B3%E3%82%BD%E3%82%A6/"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -9272,6 +9449,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://yasouensearch.jp/flower_name/%E3%83%8F%E3%83%B3%E3%82%B4%E3%83%B3%E3%82%BD%E3%82%A6/"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -10236,7 +10421,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、掌状の複葉。",
-    "trivia": "",
+    "trivia": "枝に細いとげが多数付くため、ハリウコギとも呼ばれる。とげの少ない枝もあり、同じ株でも若い幹と太く育った幹で見え方が異なる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -10250,7 +10435,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%BE%E3%82%A6%E3%82%B3%E3%82%AE",
       "https://www.inaturalist.org/taxa/510045",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A90431-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A90431-1",
+      "https://yasouensearch.jp/flower_name/%E3%82%A8%E3%82%BE%E3%82%A6%E3%82%B3%E3%82%AE/"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -10308,6 +10494,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://yasouensearch.jp/flower_name/%E3%82%A8%E3%82%BE%E3%82%A6%E3%82%B3%E3%82%AE/"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -10332,7 +10526,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、小葉が五枚の複葉。",
-    "trivia": "",
+    "trivia": "若い枝や葉柄、葉の裏などに縮れた毛が多いウコギの仲間。若枝の毛は成長とともに落ちるため、見る場所や季節によって毛の目立ち方が変わる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -10346,7 +10540,8 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Eleutherococcus",
       "https://www.inaturalist.org/taxa/859251",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A90417-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A90417-1",
+      "https://mikawanoyasou.org/data/keyamaukogi.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -10404,6 +10599,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/keyamaukogi.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -10618,7 +10821,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、放射状に伸びる花序の枝。",
-    "trivia": "",
+    "trivia": "大きな平たい花の傘は、さらに小さな花の傘が集まったもの。中央の傘に続いて周囲の傘が発達し、開花が進んでいく。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -10632,7 +10835,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%8F%E3%83%8A%E3%82%A6%E3%83%89",
       "https://www.inaturalist.org/taxa/53094",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A843087-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A843087-1",
+      "https://research.fs.usda.gov/feis/species-reviews/hermax"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -10692,6 +10896,14 @@
       "reason": "登録学名Heracleum maximumと、国内のオオハナウドをH. dulceとする資料の範囲が異なるため、国内種の食用情報を転用しない。",
       "strict_photo_identification": false,
       "source_scope_alert": "登録Heracleum maximumに日本のオオハナウドH. dulceの食用説明を転用しない。"
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://research.fs.usda.gov/feis/species-reviews/hermax"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -10716,7 +10928,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、石の隙間の小さな株。",
-    "trivia": "",
+    "trivia": "熟したさやが勢いよく裂け、種子をはね飛ばす。裂けたさやはくるくる巻き、花の周りには上向きに伸びた細長い果実が並ぶ。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -10730,7 +10942,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%81%E3%82%BF%E3%83%8D%E3%83%84%E3%82%B1%E3%83%90%E3%83%8A",
       "https://www.inaturalist.org/taxa/55829",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A280380-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A280380-1",
+      "https://mikawanoyasou.org/data/mititanetukebana.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -10789,6 +11002,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/mititanetukebana.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -10813,7 +11034,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、白い花と対生する葉。",
-    "trivia": "",
+    "trivia": "似たハコベ類を見分けるときは、花の中心も手掛かりになる。ハコベの花柱が普通3本なのに対し、ウシハコベでは5本ある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -10827,7 +11048,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%B7%E3%83%8F%E3%82%B3%E3%83%99",
       "https://www.inaturalist.org/taxa/430124",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A159056-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A159056-1",
+      "https://www.nara-edu.ac.jp/cnee/plants_of_NUE/ichiranhyou/syokubutsupage/hakobe.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -10885,6 +11107,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://www.nara-edu.ac.jp/cnee/plants_of_NUE/ichiranhyou/syokubutsupage/hakobe.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -10909,7 +11139,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、白い小花が群れて咲く。",
-    "trivia": "",
+    "trivia": "白い花びらは10枚あるように見えるが、実際は5枚。それぞれが深く二つに裂けている。身近なハコベより大きめの花を付ける。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -10923,7 +11153,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A4%E3%83%9E%E3%83%8F%E3%82%B3%E3%83%99",
       "https://www.inaturalist.org/taxa/708676",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A159463-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A159463-1",
+      "https://mikawanoyasou.org/data/miyamahakobe.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -10982,6 +11213,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/miyamahakobe.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -11192,7 +11431,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、鋸歯のある葉。",
-    "trivia": "",
+    "trivia": "山で咲く花を、遠くから見た霞にたとえた名前。ヤマザクラより遅い時期に咲くことが多く、葉と花が一緒に開く。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11206,7 +11445,9 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%83%9F%E3%82%B6%E3%82%AF%E3%83%A9",
       "https://www.inaturalist.org/taxa/342596",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A729903-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A729903-1",
+      "https://yasouensearch.jp/flower_name/%E3%82%AB%E3%82%B9%E3%83%9F%E3%82%B6%E3%82%AF%E3%83%A9/",
+      "https://mikawanoyasou.org/data/kasumizakura.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -11264,6 +11505,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://yasouensearch.jp/flower_name/%E3%82%AB%E3%82%B9%E3%83%9F%E3%82%B6%E3%82%AF%E3%83%A9/",
+        "https://mikawanoyasou.org/data/kasumizakura.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -11288,7 +11538,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、五枚の小葉を持つつる。",
-    "trivia": "",
+    "trivia": "アケビとミツバアケビの自然交雑で生じたとされる。小葉は5枚でも、葉の縁の波状の切れ込みや暗紫色の花など、ミツバアケビに似た特徴を持つ。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11302,7 +11552,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%A8%E3%82%A6%E3%82%A2%E3%82%B1%E3%83%93",
       "https://www.inaturalist.org/taxa/1234856",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77176918-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77176918-1",
+      "https://mikawanoyasou.org/data/goyouakebi.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -11399,6 +11650,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/goyouakebi.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -11423,7 +11682,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、岩地に生える細長い葉の株。",
-    "trivia": "",
+    "trivia": "海辺に生えるカンゾウの仲間で、厚みのある細長い葉が冬にも残る。ノカンゾウより遅い季節に花を咲かせる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11437,7 +11696,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%82%AB%E3%83%B3%E3%82%BE%E3%82%A6",
       "https://www.inaturalist.org/taxa/859241",
-      "https://powo.science.kew.org/taxon/77075268-1"
+      "https://powo.science.kew.org/taxon/77075268-1",
+      "https://mikawanoyasou.org/data/hamakanzou.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -11535,6 +11795,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/hamakanzou.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -11652,7 +11920,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、深く裂ける羽状の葉。",
-    "trivia": "",
+    "trivia": "緑色に広がる葉と、胞子を付ける細い葉を別につくる。胞子を付ける葉の小さな粒状の部分には、胞子の袋が包まれている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11763,6 +12031,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/sida/kouyawarabi.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -11787,7 +12063,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、細長い葉の束。",
-    "trivia": "",
+    "trivia": "山に生えるラッキョウという意味の名前。細い葉の断面は丸ではなく三角形に近く、中は空洞になっている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11801,7 +12077,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%A9%E3%83%83%E3%82%AD%E3%83%A7%E3%82%A6",
       "https://www.inaturalist.org/taxa/55504",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A529010-1/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A529010-1/general-information",
+      "https://tbg.kahaku.go.jp/today/index.php?month=202111"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -11859,6 +12136,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://tbg.kahaku.go.jp/today/index.php?month=202111",
+        "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%A9%E3%83%83%E3%82%AD%E3%83%A7%E3%82%A6"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -11883,7 +12169,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、大きな楕円形の葉と花序。",
-    "trivia": "",
+    "trivia": "花を包む2枚の苞の姿を、寺社の軒下につるす「鰐口」に見立てた名前。鰐口は、ひもで鳴らす平たい金属製の道具のこと。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11897,7 +12183,9 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Polygonatum",
       "https://www.inaturalist.org/taxa/862585",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A540154-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A540154-1",
+      "https://yasouensearch.jp/flower_name/%E3%83%AF%E3%83%8B%E3%82%B0%E3%83%81%E3%82%BD%E3%82%A6/",
+      "https://www.narahaku.go.jp/collection/1185-0.html"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -11955,6 +12243,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://yasouensearch.jp/flower_name/%E3%83%AF%E3%83%8B%E3%82%B0%E3%83%81%E3%82%BD%E3%82%A6/",
+        "https://www.narahaku.go.jp/collection/1185-0.html"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -12283,7 +12580,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、淡黄色の頭花。",
-    "trivia": "",
+    "trivia": "春から咲くノゲシに似て、秋に咲くことが名前の由来。黄色い一輪に見える部分も、細い舌状の小花が集まってできている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -12297,7 +12594,9 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AD%E3%83%8E%E3%83%8E%E3%82%B2%E3%82%B7",
       "https://www.inaturalist.org/taxa/69996",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A228047-1/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A228047-1/general-information",
+      "https://yasouensearch.jp/flower_name/%E3%82%A2%E3%82%AD%E3%83%8E%E3%83%8E%E3%82%B2%E3%82%B7/",
+      "https://mikawanoyasou.org/data/akinonogesi.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -12356,6 +12655,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://yasouensearch.jp/flower_name/%E3%82%A2%E3%82%AD%E3%83%8E%E3%83%8E%E3%82%B2%E3%82%B7/",
+        "https://mikawanoyasou.org/data/akinonogesi.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -12380,7 +12688,7 @@
     "habitat": "日当たりのよい草地や道端などに生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "細い茎が分枝し、少数の黄色い舌状花からなる小さな頭花をつける。茎の葉の付け根は茎を抱く。",
-    "trivia": "",
+    "trivia": "葉や茎を傷つけると苦みのある乳液が出ることが、名前の由来とされる。花びらに見える細い部分は一つずつが小花で、数個集まって一つの頭花になる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -12496,6 +12804,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/nigana.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -12713,7 +13029,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、黄色い六枚の花被片。",
-    "trivia": "",
+    "trivia": "ニッコウキスゲの名でも親しまれる。一つの花は朝開いて夕方にはしぼむが、複数のつぼみが順に開くため、株全体では何日も花を楽しめる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -12727,7 +13043,9 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%B3%E3%83%86%E3%82%A4%E3%82%AB",
       "https://www.inaturalist.org/taxa/1115097",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77189683-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77189683-1",
+      "https://tohoku.env.go.jp/blog/2010/07/1084.html",
+      "https://chubu.env.go.jp/blog/2019/07/post-851.html"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -12825,6 +13143,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://tohoku.env.go.jp/blog/2010/07/1084.html",
+        "https://chubu.env.go.jp/blog/2019/07/post-851.html"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -12849,7 +13176,7 @@
     "habitat": "日当たりがよく適度に湿った草地や、湿原の周辺などに生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、細長い葉の株。",
-    "trivia": "",
+    "trivia": "よく似たアサツキは、同じ種の別の変種として扱われる。エゾネギはアサツキより花被が長く、葉だけでなく花の姿にも違いがある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -12956,6 +13283,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/monocotyledoneae/liliaceae/ezonegi/ezonegi.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -12980,7 +13315,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、三枚の小葉。",
-    "trivia": "",
+    "trivia": "「崑崙草」は、白い花を中国の崑崙山脈の雪にたとえた名前とする説がある。小さな4枚の花びらが十字形に並ぶ。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -12994,7 +13329,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%AD%E3%83%B3%E3%82%BD%E3%82%A6",
       "https://www.inaturalist.org/taxa/483423",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A280441-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A280441-1",
+      "https://yasouensearch.jp/flower_name/%E3%82%B3%E3%83%B3%E3%83%AD%E3%83%B3%E3%82%BD%E3%82%A6/"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -13052,6 +13388,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://yasouensearch.jp/flower_name/%E3%82%B3%E3%83%B3%E3%83%AD%E3%83%B3%E3%82%BD%E3%82%A6/"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -13628,7 +13972,7 @@
     "habitat": "道端、林と畑の境目、畑など、適度な水分と養分がある場所に生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "葉状の部分が一か所に6〜8枚並ぶ。茎の逆向きの小さなとげで、周囲の植物に寄りかかって伸びる。",
-    "trivia": "",
+    "trivia": "葉が何枚も輪になって並ぶように見えるが、本当の葉は向かい合う一対で、ほかは托葉が葉のようになったもの。茎や果実の小さなかぎ状の毛で、衣服などに引っ掛かる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -13734,6 +14078,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/yaemugura.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -13758,7 +14110,7 @@
     "habitat": "主に亜熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、鋸歯のある葉を広げる株。",
-    "trivia": "",
+    "trivia": "黄色い小花の後に、細長いさや状の果実を付ける。果実が少し弓なりになるものが多く、太く短い果実を付けるスカシタゴボウとの比較に役立つ。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -13772,7 +14124,9 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8C%E3%82%AC%E3%83%A9%E3%82%B7",
       "https://www.inaturalist.org/taxa/167965",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A222144-2/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A222144-2/general-information",
+      "https://mikawanoyasou.org/data/inugarasi.htm",
+      "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/cruciferae/sukasitagobou/sukasitagobou.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -13830,6 +14184,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/inugarasi.htm",
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/cruciferae/sukasitagobou/sukasitagobou.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -13854,7 +14217,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、裂けた葉。",
-    "trivia": "",
+    "trivia": "「ミミナグサ」は、毛のある小さな葉をネズミの耳に見立てた名前。「オランダ」は外国由来という意味で付けられたとされ、花は茎先にまとまって咲く。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -13868,7 +14231,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E3%83%9F%E3%83%9F%E3%83%8A%E3%82%B0%E3%82%B5",
       "https://www.inaturalist.org/taxa/52973",
-      "https://powo.science.kew.org/taxon/152274-1"
+      "https://powo.science.kew.org/taxon/152274-1",
+      "https://www.nara-edu.ac.jp/cnee/plants_of_NUE/ichiranhyou/syokubutsupage/orandamiminagusa.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -13926,6 +14290,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://www.nara-edu.ac.jp/cnee/plants_of_NUE/ichiranhyou/syokubutsupage/orandamiminagusa.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -13950,7 +14322,7 @@
     "habitat": "湿った場所に生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "伸びる茎に小型の葉を多数つけ、小さな白い花を咲かせる。季節が進むと開かずに結実する閉鎖花もつける。",
-    "trivia": "",
+    "trivia": "別名はニョイスミレ。葉の形を僧侶が持つ道具「如意」に見立てた名前で、花が小さくても葉の輪郭を比べる楽しみがある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -13967,7 +14339,8 @@
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A867651-1",
       "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/tsubosumire.html",
       "https://efloras.org/florataxon.aspx?flora_id=2&taxon_id=242354516",
-      "https://tbg.kahaku.go.jp/recommend/illustrated/result.php?mode=easy&name=%E3%83%84%E3%83%9C%E3%82%B9%E3%83%9F%E3%83%AC%EF%BC%88%E3%83%8B%E3%83%A7%E3%82%A4%E3%82%B9%E3%83%9F%E3%83%AC%EF%BC%89&order=ruby&p=4&season=4a"
+      "https://tbg.kahaku.go.jp/recommend/illustrated/result.php?mode=easy&name=%E3%83%84%E3%83%9C%E3%82%B9%E3%83%9F%E3%83%AC%EF%BC%88%E3%83%8B%E3%83%A7%E3%82%A4%E3%82%B9%E3%83%9F%E3%83%AC%EF%BC%89&order=ruby&p=4&season=4a",
+      "https://www.takao599museum.jp/treasures/plants/%E3%82%B9%E3%83%9F%E3%83%AC%E7%A7%91/2307/?lang=ja"
     ],
     "content_source_scope": "reviewed_taxon_scope",
     "image": {
@@ -14021,6 +14394,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://www.takao599museum.jp/treasures/plants/%E3%82%B9%E3%83%9F%E3%83%AC%E7%A7%91/2307/?lang=ja"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -14045,7 +14426,7 @@
     "habitat": "人家の周囲や道端などに生育。アスファルトのすき間のような乾いた場所にも生える。",
     "common_place": "生育環境は要確認",
     "feature_summary": "小型のスミレで、葉柄には翼がない。葉の裏面が紫色を帯びることが多く、紫色の花をつける。",
-    "trivia": "",
+    "trivia": "アスファルトの隙間など、乾きやすい小さな場所にも生えるスミレ。スミレより小型で、葉を支える柄に翼のような張り出しがない。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -14155,6 +14536,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/himesumire.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -14179,7 +14568,7 @@
     "habitat": "主に亜熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、厚く丸い葉と小花。",
-    "trivia": "",
+    "trivia": "秋に花が咲き、実は翌春に熟すグミの仲間。白い花びらに見える部分は萼で、葉の裏には銀白色の細かな鱗状の毛が敷き詰められている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -14193,7 +14582,8 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Elaeagnus_macrophylla",
       "https://www.inaturalist.org/taxa/450324",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A323750-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A323750-1",
+      "https://mikawanoyasou.org/data/marubagumi.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -14251,6 +14641,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/marubagumi.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -14275,7 +14673,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、鋸歯のある小葉。",
-    "trivia": "",
+    "trivia": "丸い実は、小さな果実が集まってできている。長生きする地下部から茎が伸び、一般に茎は1年目に葉を広げ、2年目に花や実を付ける。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -14289,7 +14687,8 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Rubus",
       "https://www.inaturalist.org/taxa/125488",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A223189-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A223189-2",
+      "https://research.fs.usda.gov/feis/species-reviews/rubida"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -14387,6 +14786,14 @@
       "reason": "登録学名Rubus idaeus subsp. strigosusと、国内のエゾイチゴの分類範囲を今回確定できず、食用情報を追加しない。",
       "strict_photo_identification": false,
       "source_scope_alert": "登録Rubus idaeus subsp. strigosusと国内エゾイチゴ概念の対応が未解決。"
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://research.fs.usda.gov/feis/species-reviews/rubida"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -14543,7 +14950,7 @@
     "habitat": "日当たりのよい山野や山地の道端に生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "茎や葉には白い軟毛がある。葉の付け根はやや茎を抱き、白い舌状花のある頭花をつける。",
-    "trivia": "",
+    "trivia": "イナカギクとも呼ばれる。茎や葉に白い柔らかな毛が多く、葉に触れるとビロードのような感触がある。似た白い野菊を見分ける手掛かりになる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -14609,6 +15016,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/inakagiku.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -14736,7 +15151,7 @@
     "habitat": "草地や低木の茂る場所に生育。土地が攪乱された後に生えることも多い。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、黄色い頭花と裂けた葉。",
-    "trivia": "",
+    "trivia": "茎や葉の硬い毛が手に引っ掛かり、カミソリを思わせることが名前の由来とされる。毛の先端は、小さないかりのように分かれている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -14751,7 +15166,9 @@
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A6%E3%82%BE%E3%83%AA%E3%83%8A",
       "https://www.inaturalist.org/taxa/1133827",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A927426-1/general-information",
-      "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/aster/picris/hie.html"
+      "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/aster/picris/hie.html",
+      "https://yasouensearch.jp/flower_name/%E3%82%B3%E3%82%A6%E3%82%BE%E3%83%AA%E3%83%8A/",
+      "https://mikawanoyasou.org/data/kouzorina.htm"
     ],
     "content_source_scope": "reviewed_taxon_scope",
     "image": {
@@ -14851,6 +15268,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://yasouensearch.jp/flower_name/%E3%82%B3%E3%82%A6%E3%82%BE%E3%83%AA%E3%83%8A/",
+        "https://mikawanoyasou.org/data/kouzorina.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -14875,7 +15301,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、黄色い頭花。",
-    "trivia": "",
+    "trivia": "日本在来のタンポポの一つ。花の下を包む総苞片が大きく反り返らないのが特徴で、似たタンポポを観察するときは花の裏側も手掛かりになる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -14889,7 +15315,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%88%E3%82%A6%E3%82%BF%E3%83%B3%E3%83%9D%E3%83%9D",
       "https://www.inaturalist.org/taxa/1603699",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77180360-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77180360-1",
+      "https://hp.brs.nihon-u.ac.jp/~museum/news20240417/"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -14986,6 +15413,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://hp.brs.nihon-u.ac.jp/~museum/news20240417/"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -15294,7 +15729,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、複葉と白い花序。",
-    "trivia": "",
+    "trivia": "大きな白い花の傘は、たくさんの小花が集まったもの。太い茎の中は空洞で、葉の付け根は袋のように膨らむ。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -15308,7 +15743,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B7%E3%82%A6%E3%83%89",
       "https://www.inaturalist.org/taxa/482445",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A837743-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A837743-1",
+      "https://mikawanoyasou.org/data/sisiudo.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -15366,6 +15802,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/sisiudo.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -15490,7 +15934,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、地面に広がる細長い葉。",
-    "trivia": "",
+    "trivia": "細長い葉の形をへらに見立てた名前。穂に集まった小さな花からは、4本の雄しべが長く突き出す。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -15504,7 +15948,9 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%A9%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B3",
       "https://www.inaturalist.org/taxa/53178",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A321285-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A321285-2",
+      "https://yasouensearch.jp/flower_name/%E3%83%98%E3%83%A9%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B3/",
+      "https://mikawanoyasou.org/data/heraoobako.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -15562,6 +16008,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://yasouensearch.jp/flower_name/%E3%83%98%E3%83%A9%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B3/",
+        "https://mikawanoyasou.org/data/heraoobako.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -15785,7 +16240,7 @@
     "habitat": "道端や荒れ地など、明るい場所に生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "ほふくする枝で広がる。細い根元の葉は裏側に白い綿毛が多く、表側は緑色に見える。",
-    "trivia": "",
+    "trivia": "ハハコグサに対して「父子草」と名付けられた。茎先に小さな頭花が密集し、そのすぐ下に細い葉が放射状に付く。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -15800,7 +16255,8 @@
       "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%81%E3%82%B3%E3%82%B0%E3%82%B5",
       "https://www.inaturalist.org/taxa/162769",
       "https://powo.science.kew.org/taxon/205302-1",
-      "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/chichikogusa.html"
+      "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/chichikogusa.html",
+      "https://mikawanoyasou.org/data/titikogusa.htm"
     ],
     "content_source_scope": "reviewed_taxon_scope",
     "image": {
@@ -15860,6 +16316,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/titikogusa.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -16872,7 +17336,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、地面近くの小さな株。",
-    "trivia": "",
+    "trivia": "名前にゴボウと付くが、ゴボウのように太い根を持つ植物ではない。イヌガラシより果実が太く短く、ころっとした形になる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -16886,7 +17350,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%82%B7%E3%82%BF%E3%82%B4%E3%83%9C%E3%82%A6",
       "https://www.inaturalist.org/taxa/64162",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A288669-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A288669-1",
+      "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/cruciferae/sukasitagobou/sukasitagobou.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -16944,6 +17409,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/choripetalae/cruciferae/sukasitagobou/sukasitagobou.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -17199,7 +17672,7 @@
     "habitat": "山地の林縁に生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "背が高く、茎は直立する。下部の葉は羽状に裂け、黄色い小さな頭花がまばらにつく。",
-    "trivia": "",
+    "trivia": "細長い草姿はムラサキニガナに似るが、花は黄色。花の後には白い綿毛を持つ小さな果実ができる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -17304,6 +17777,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/yamanigana.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -17328,7 +17809,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、白い小花とつぼみ。",
-    "trivia": "",
+    "trivia": "毛のある小さな葉を、ネズミの耳に見立てた名前。白い花びらは5枚で、それぞれの先が二つに裂けている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -17341,7 +17822,9 @@
     "plant_source_url": "https://www.inaturalist.org/taxa/1005385",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/1005385",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A152312-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A152312-1",
+      "https://mikawanoyasou.org/data/miminagusa.htm",
+      "https://www.nara-edu.ac.jp/cnee/plants_of_NUE/ichiranhyou/syokubutsupage/orandamiminagusa.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -17400,6 +17883,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/miminagusa.htm",
+        "https://www.nara-edu.ac.jp/cnee/plants_of_NUE/ichiranhyou/syokubutsupage/orandamiminagusa.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -17517,7 +18009,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、小さな対生する葉。",
-    "trivia": "",
+    "trivia": "漢字では「蚤の衾」。衾は布団のことで、小さな葉をノミの布団に見立てた名前。花びらは5枚だが深く裂け、10枚のように見える。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -17531,7 +18023,9 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%9F%E3%83%8E%E3%83%95%E3%82%B9%E3%83%9E",
       "https://www.inaturalist.org/taxa/1642481",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A927353-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A927353-1",
+      "https://chubu.env.go.jp/blog/page_00328.html",
+      "https://www.ktr.mlit.go.jp/ktr_content/content/000074248.pdf"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -17590,6 +18084,15 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://chubu.env.go.jp/blog/page_00328.html",
+        "https://www.ktr.mlit.go.jp/ktr_content/content/000074248.pdf"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -17614,7 +18117,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、細長い葉を放射状に広げる。",
-    "trivia": "",
+    "trivia": "花の咲く頃の葉は細長く、花が終わると幅が広くなっていく。葉や茎には短い毛があり、全体が白っぽく見える。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -17628,7 +18131,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B8%E3%82%B9%E3%83%9F%E3%83%AC",
       "https://www.inaturalist.org/taxa/491262",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A868955-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A868955-1",
+      "https://mikawanoyasou.org/data/nojisumire.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -17686,6 +18190,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/nojisumire.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -17710,7 +18222,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、地面に広がる細長い葉。",
-    "trivia": "",
+    "trivia": "花色の変化を、夜明けの「有明の空」にたとえた名前。白から淡い紫色の花に、濃い紫色の筋が入る。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -17724,7 +18236,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%A2%E3%82%B1%E3%82%B9%E3%83%9F%E3%83%AC",
       "https://www.inaturalist.org/taxa/1070701",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77252490-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77252490-1",
+      "https://mikawanoyasou.org/data/ariakesumire.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -17821,6 +18334,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/ariakesumire.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -18031,7 +18552,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、心形の葉とつる。",
-    "trivia": "",
+    "trivia": "別名はギョウジャノミズ。つるの切り口から出る水を行者が利用したことにちなむといわれる。花びらは先端でくっつき、花が開くと帽子が外れるように落ちる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -18045,7 +18566,8 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Vitis_flexuosa",
       "https://www.inaturalist.org/taxa/717170",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A68717-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A68717-1",
+      "https://mikawanoyasou.org/data/sankakuduru.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -18103,6 +18625,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/sankakuduru.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   },
   {
@@ -18414,7 +18944,7 @@
     "habitat": "明るい草原に生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "葉には長く太いとげがある。頭花は横向きに咲き、その基部の総苞片が長く反り返る。",
-    "trivia": "",
+    "trivia": "タイアザミとも呼ばれる、ナンブアザミの仲間。花の下を包む総苞から長いとげが外へ反り返り、花が横向きから斜め下向きに咲くことが多い。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -18429,7 +18959,8 @@
       "https://en.wikipedia.org/wiki/Cirsium",
       "https://www.inaturalist.org/taxa/452090",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A983010-1",
-      "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/toneazami.html"
+      "https://www.ffpri.go.jp/tmk/kengakuannai/midokoro/shokubutsu/toneazami.html",
+      "https://mikawanoyasou.org/data/toneazami.htm"
     ],
     "content_source_scope": "reviewed_taxon_scope",
     "image": {
@@ -18522,6 +19053,14 @@
       "result": "山菜としての根拠を追加確認",
       "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
       "strict_photo_identification": false
+    },
+    "trivia_completion_review": {
+      "date": "2026-10-15",
+      "status": "空欄を確認できた豆知識で補完",
+      "sources": [
+        "https://mikawanoyasou.org/data/toneazami.htm"
+      ],
+      "scope": "食用の根拠や分類範囲の未確認を解決した意味ではない。効能・味・調理法を推測で追加しない。"
     }
   }
 ]
