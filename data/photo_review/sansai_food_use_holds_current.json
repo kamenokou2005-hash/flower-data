@@ -1,0 +1,1913 @@
+[
+  {
+    "id": "sansai_0010",
+    "name": "ヤマグワ",
+    "scientific_name": "Morus indica",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "登録学名はMorus indica。国内のヤマグワをM. australisとする資料とは範囲が異なり、食用説明を自動で転用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "tree_0107",
+        "name": "ヤマグワ",
+        "category_slug": "tree",
+        "scientific_name": "Morus indica"
+      },
+      {
+        "id": "yakuso_0096",
+        "name": "ヤマグワ",
+        "category_slug": "yakuso",
+        "scientific_name": "Morus indica"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0014",
+    "name": "ハマエンドウ",
+    "scientific_name": "Lathyrus japonicus",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0017",
+    "name": "バライチゴ",
+    "scientific_name": "Rubus illecebrosus",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0021",
+    "name": "オオバショウマ",
+    "scientific_name": "Actaea japonica",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0202",
+        "name": "オオバショウマ",
+        "category_slug": "yakuso",
+        "scientific_name": "Actaea japonica"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0022",
+    "name": "ノダケ",
+    "scientific_name": "Angelica decursiva",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0206",
+        "name": "ノダケ",
+        "category_slug": "yakuso",
+        "scientific_name": "Angelica decursiva"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0023",
+    "name": "ヤブタビラコ",
+    "scientific_name": "Lapsanastrum humile",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0024",
+    "name": "サワハコベ",
+    "scientific_name": "Nubelaria diversiflora",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0045",
+    "name": "ナルコユリ",
+    "scientific_name": "Polygonatum falcatum",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_0485",
+        "name": "ナルコユリ",
+        "category_slug": "flower",
+        "scientific_name": "Polygonatum falcatum"
+      },
+      {
+        "id": "yakuso_0084",
+        "name": "ナルコユリ",
+        "category_slug": "yakuso",
+        "scientific_name": "Polygonatum falcatum"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0067",
+    "name": "ハシバミ",
+    "scientific_name": "Corylus heterophylla",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "日本のハシバミと、ヘーゼルナッツとして流通するセイヨウハシバミは区別する。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "tree_0264",
+        "name": "ハシバミ",
+        "category_slug": "tree",
+        "scientific_name": "Corylus heterophylla"
+      },
+      {
+        "id": "yakuso_0100",
+        "name": "ハシバミ",
+        "category_slug": "yakuso",
+        "scientific_name": "Corylus heterophylla"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0079",
+    "name": "オオバタネツケバナ",
+    "scientific_name": "Cardamine scutata",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0080",
+    "name": "タネツケバナ",
+    "scientific_name": "Cardamine occulta",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0086",
+    "name": "ハマゼリ",
+    "scientific_name": "Cnidium japonicum",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0023",
+        "name": "ハマゼリ",
+        "category_slug": "yakuso",
+        "scientific_name": "Cnidium japonicum"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0096",
+    "name": "ホドイモ",
+    "scientific_name": "Apios fortunei",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0101",
+    "name": "クサボケ",
+    "scientific_name": "Chaenomeles japonica",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0109",
+    "name": "クロイチゴ",
+    "scientific_name": "Rubus mesogaeus",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0228",
+        "name": "クロイチゴ",
+        "category_slug": "yakuso",
+        "scientific_name": "Rubus mesogaeus"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0112",
+    "name": "トリアシショウマ",
+    "scientific_name": "Astilbe rubra",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "登録学名Astilbe rubraと、国内資料のトリアシショウマの分類範囲を今回確定できず、近縁種の食用情報を転用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0204",
+        "name": "トリアシショウマ",
+        "category_slug": "yakuso",
+        "scientific_name": "Astilbe rubra"
+      }
+    ],
+    "applied": false,
+    "source_scope_alert": "和名トリアシショウマの若芽食用は資料にあるが、登録Astilbe rubraと日本の狭い種概念の対応が未解決。保留維持。"
+  },
+  {
+    "id": "sansai_0113",
+    "name": "アカショウマ",
+    "scientific_name": "Astilbe thunbergii",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0205",
+        "name": "アカショウマ",
+        "category_slug": "yakuso",
+        "scientific_name": "Astilbe thunbergii"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0116",
+    "name": "ヒメウワバミソウ",
+    "scientific_name": "Elatostema japonicum",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0117",
+    "name": "オオバセンキュウ",
+    "scientific_name": "Angelica genuflexa",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0210",
+        "name": "オオバセンキュウ",
+        "category_slug": "yakuso",
+        "scientific_name": "Angelica genuflexa"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0118",
+    "name": "ヤマゼリ",
+    "scientific_name": "Ostericum sieboldii",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0209",
+        "name": "ヤマゼリ",
+        "category_slug": "yakuso",
+        "scientific_name": "Ostericum sieboldii"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0120",
+    "name": "ハンゴンソウ",
+    "scientific_name": "Jacobaea cannabifolia",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0123",
+    "name": "ゲンノショウコ",
+    "scientific_name": "Geranium thunbergii",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "種子を飛ばした後の果実が神輿の屋根に似ることからミコシグサとも呼ばれる。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_0481",
+        "name": "ゲンノショウコ",
+        "category_slug": "flower",
+        "scientific_name": "Geranium thunbergii"
+      },
+      {
+        "id": "yakuso_0030",
+        "name": "ゲンノショウコ",
+        "category_slug": "yakuso",
+        "scientific_name": "Geranium thunbergii"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0126",
+    "name": "ヤマドリゼンマイ",
+    "scientific_name": "Osmundastrum cinnamomeum var. fokiense",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "胞子葉は春から初夏に出て、夏までに枯れる。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "grass_0438",
+        "name": "ヤマドリゼンマイ",
+        "category_slug": "grass",
+        "scientific_name": "Osmundastrum cinnamomeum var. fokiense"
+      }
+    ],
+    "applied": false,
+    "source_scope_alert": "秋田県の古い調査や山菜図鑑にヤマドリゼンマイの利用資料は見つかった。登録Osmundastrum cinnamomeum var. fokienseと古い学名表記の対応を確認するまで判定保留。"
+  },
+  {
+    "id": "sansai_0127",
+    "name": "イヌガンソク",
+    "scientific_name": "Pentarhizidium orientale",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "緑の栄養葉と、形の異なる胞子葉をつくる。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "grass_0141",
+        "name": "イヌガンソク",
+        "category_slug": "grass",
+        "scientific_name": "Pentarhizidium orientale"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0130",
+    "name": "アマナ",
+    "scientific_name": "Amana edulis",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "以前は Tulipa edulis としてチューリップ属に置かれていた。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_0417",
+        "name": "アマナ",
+        "category_slug": "flower",
+        "scientific_name": "Amana edulis"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0132",
+    "name": "エゾウコギ",
+    "scientific_name": "Eleutherococcus senticosus",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "herb_0206",
+        "name": "シベリアニンジン",
+        "category_slug": "yakuso",
+        "scientific_name": "Eleutherococcus senticosus"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0133",
+    "name": "ケヤマウコギ",
+    "scientific_name": "Eleutherococcus divaricatus",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0135",
+    "name": "ムカゴイラクサ",
+    "scientific_name": "Laportea bulbifera",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "茎や葉に刺毛がある。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "grass_0163",
+        "name": "ムカゴイラクサ",
+        "category_slug": "grass",
+        "scientific_name": "Laportea bulbifera"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0136",
+    "name": "オオハナウド",
+    "scientific_name": "Heracleum maximum",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "登録学名Heracleum maximumと、国内のオオハナウドをH. dulceとする資料の範囲が異なるため、国内種の食用情報を転用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0208",
+        "name": "オオハナウド",
+        "category_slug": "yakuso",
+        "scientific_name": "Heracleum maximum"
+      }
+    ],
+    "applied": false,
+    "source_scope_alert": "登録Heracleum maximumに日本のオオハナウドH. dulceの食用説明を転用しない。"
+  },
+  {
+    "id": "sansai_0137",
+    "name": "ミチタネツケバナ",
+    "scientific_name": "Cardamine hirsuta",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0138",
+    "name": "ウシハコベ",
+    "scientific_name": "Stellaria aquatica",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0139",
+    "name": "ミヤマハコベ",
+    "scientific_name": "Stellaria sessiliflora",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0140",
+    "name": "ヤマザクラ",
+    "scientific_name": "Prunus jamasakura",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "花の時期の若葉は、葉の展開前に咲くサクラとの比較点。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_tree_0060",
+        "name": "ヤマザクラ",
+        "category_slug": "flower_tree",
+        "scientific_name": "Prunus jamasakura"
+      },
+      {
+        "id": "yakuso_0017",
+        "name": "ヤマザクラ",
+        "category_slug": "yakuso",
+        "scientific_name": "Prunus jamasakura"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0141",
+    "name": "オオシマザクラ",
+    "scientific_name": "Prunus speciosa",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "葉は桜餅を包む塩漬けの葉に利用される。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_tree_0061",
+        "name": "オオシマザクラ",
+        "category_slug": "flower_tree",
+        "scientific_name": "Prunus speciosa"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0142",
+    "name": "カスミザクラ",
+    "scientific_name": "Prunus leveilleana",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0143",
+    "name": "ゴヨウアケビ",
+    "scientific_name": "Akebia × pentaphylla",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0146",
+    "name": "ハマカンゾウ",
+    "scientific_name": "Hemerocallis fulva var. littorea",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0211",
+        "name": "ハマカンゾウ",
+        "category_slug": "yakuso",
+        "scientific_name": "Hemerocallis fulva var. littorea"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0147",
+    "name": "ミクリ",
+    "scientific_name": "Sparganium erectum",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回の大学資料は生薬三稜の利用。薬用の記載だけを人の食品としての根拠にしない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "球状の集合果を栗のいがに見立てた名前。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "grass_0089",
+        "name": "ミクリ",
+        "category_slug": "grass",
+        "scientific_name": "Sparganium erectum"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0148",
+    "name": "コウヤワラビ",
+    "scientific_name": "Onoclea sensibilis var. interrupta",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0149",
+    "name": "ヤマラッキョウ",
+    "scientific_name": "Allium thunbergii",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0150",
+    "name": "ワニグチソウ",
+    "scientific_name": "Polygonatum involucratum",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0155",
+    "name": "アキノノゲシ",
+    "scientific_name": "Lactuca indica",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0156",
+    "name": "ニガナ",
+    "scientific_name": "Ixeridium dentatum subsp. dentatum",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0157",
+    "name": "オオジシバリ",
+    "scientific_name": "Ixeris japonica",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "琉球列島ではハマニガナとの交雑が知られ、分類が複雑な集団もあります。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_0226",
+        "name": "オオジシバリ",
+        "category_slug": "flower",
+        "scientific_name": "Ixeris japonica"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0159",
+    "name": "ゼンテイカ",
+    "scientific_name": "Hemerocallis middendorffii var. esculenta",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0212",
+        "name": "ゼンテイカ",
+        "category_slug": "yakuso",
+        "scientific_name": "Hemerocallis middendorffii var. esculenta"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0160",
+    "name": "エゾネギ",
+    "scientific_name": "Allium schoenoprasum var. schoenoprasum",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_0366",
+        "name": "チャイブ",
+        "category_slug": "flower",
+        "scientific_name": "Allium schoenoprasum var. schoenoprasum"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0161",
+    "name": "コンロンソウ",
+    "scientific_name": "Cardamine leucantha",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0162",
+    "name": "ギシギシ",
+    "scientific_name": "Rumex japonicus",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "褐色の果実が穂状に残る。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "grass_0153",
+        "name": "ギシギシ",
+        "category_slug": "grass",
+        "scientific_name": "Rumex japonicus"
+      },
+      {
+        "id": "yakuso_0217",
+        "name": "ギシギシ",
+        "category_slug": "yakuso",
+        "scientific_name": "Rumex japonicus"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0165",
+    "name": "イヌブナ",
+    "scientific_name": "Fagus japonica",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "株立ちになりやすい樹形も観察の手掛かりになる。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "tree_0076",
+        "name": "イヌブナ",
+        "category_slug": "tree",
+        "scientific_name": "Fagus japonica"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0167",
+    "name": "タチツボスミレ",
+    "scientific_name": "Viola grypoceras var. grypoceras",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "日本で最も普通に見られるスミレ類の一つです。『タチツボ』は、立ち上がる茎と坪庭のような身近な場所にも生えることにちなむとされます。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_0047",
+        "name": "タチツボスミレ",
+        "category_slug": "flower",
+        "scientific_name": "Viola grypoceras var. grypoceras"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0168",
+    "name": "ヤエムグラ",
+    "scientific_name": "Galium spurium var. echinospermum",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0169",
+    "name": "イヌガラシ",
+    "scientific_name": "Rorippa indica",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0170",
+    "name": "オランダミミナグサ",
+    "scientific_name": "Cerastium glomeratum",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0171",
+    "name": "ツボスミレ",
+    "scientific_name": "Viola arcuata",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0172",
+    "name": "ヒメスミレ",
+    "scientific_name": "Viola inconspicua subsp. nagasakiensis",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0175",
+    "name": "マルバグミ",
+    "scientific_name": "Elaeagnus macrophylla",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0222",
+        "name": "マルバグミ",
+        "category_slug": "yakuso",
+        "scientific_name": "Elaeagnus macrophylla"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0176",
+    "name": "エゾイチゴ",
+    "scientific_name": "Rubus idaeus subsp. strigosus",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "登録学名Rubus idaeus subsp. strigosusと、国内のエゾイチゴの分類範囲を今回確定できず、食用情報を追加しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0229",
+        "name": "エゾイチゴ",
+        "category_slug": "yakuso",
+        "scientific_name": "Rubus idaeus subsp. strigosus"
+      }
+    ],
+    "applied": false,
+    "source_scope_alert": "登録Rubus idaeus subsp. strigosusと国内エゾイチゴ概念の対応が未解決。"
+  },
+  {
+    "id": "sansai_0177",
+    "name": "キジムシロ",
+    "scientific_name": "Potentilla fragarioides var. major",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "花後に葉が広がった姿を、キジが休むむしろに見立てた名前です。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_0228",
+        "name": "キジムシロ",
+        "category_slug": "flower",
+        "scientific_name": "Potentilla fragarioides var. major"
+      },
+      {
+        "id": "yakuso_0141",
+        "name": "キジムシロ",
+        "category_slug": "yakuso",
+        "scientific_name": "Potentilla fragarioides var. major"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0178",
+    "name": "ヤマシロギク",
+    "scientific_name": "Aster semiamplexicaulis",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0180",
+    "name": "コウゾリナ",
+    "scientific_name": "Picris japonica",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0181",
+    "name": "カントウタンポポ",
+    "scientific_name": "Taraxacum platycarpum subsp. platycarpum",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0183",
+    "name": "ノゲシ",
+    "scientific_name": "Sonchus oleraceus",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "ケシに葉が似ることが名前の由来ですが、分類はキク科です。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_0221",
+        "name": "ノゲシ",
+        "category_slug": "flower",
+        "scientific_name": "Sonchus oleraceus"
+      },
+      {
+        "id": "yakuso_0067",
+        "name": "ノゲシ",
+        "category_slug": "yakuso",
+        "scientific_name": "Sonchus oleraceus"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0184",
+    "name": "オニノゲシ",
+    "scientific_name": "Sonchus asper",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "ノゲシとの識別には、葉の硬さ・光沢と、茎を抱く葉の基部の形が役立ちます。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_0222",
+        "name": "オニノゲシ",
+        "category_slug": "flower",
+        "scientific_name": "Sonchus asper"
+      },
+      {
+        "id": "yakuso_0068",
+        "name": "オニノゲシ",
+        "category_slug": "yakuso",
+        "scientific_name": "Sonchus asper"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0185",
+    "name": "シシウド",
+    "scientific_name": "Angelica pubescens",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0207",
+        "name": "シシウド",
+        "category_slug": "yakuso",
+        "scientific_name": "Angelica pubescens"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0187",
+    "name": "ヘラオオバコ",
+    "scientific_name": "Plantago lanceolata",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "yakuso_0215",
+        "name": "ヘラオオバコ",
+        "category_slug": "yakuso",
+        "scientific_name": "Plantago lanceolata"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0191",
+    "name": "チチコグサ",
+    "scientific_name": "Euchiton japonicus",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0193",
+    "name": "フジアザミ",
+    "scientific_name": "Cirsium purpuratum",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "日本のアザミ類の中でも大型で、富士山周辺の砂礫地を代表する植物の一つです。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_0192",
+        "name": "フジアザミ",
+        "category_slug": "flower",
+        "scientific_name": "Cirsium purpuratum"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0194",
+    "name": "ケヤキ",
+    "scientific_name": "Zelkova serrata",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "街路や公園でも大きく育つ。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "tree_0096",
+        "name": "ケヤキ",
+        "category_slug": "tree",
+        "scientific_name": "Zelkova serrata"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0197",
+    "name": "ミズナラ",
+    "scientific_name": "Quercus mongolica var. crispula",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "ここではモンゴリナラの変種として採用された分類に従う。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "tree_0077",
+        "name": "ミズナラ",
+        "category_slug": "tree",
+        "scientific_name": "Quercus mongolica var. crispula"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0201",
+    "name": "フトイ",
+    "scientific_name": "Schoenoplectus tabernaemontani",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した資料に記載されたのは薬用・観賞・飼料用途で、人の食用部位・食べ方を確認できない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "名は太い藺草を意味するが、イグサ科ではなくカヤツリグサ科である。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "grass_0038",
+        "name": "フトイ",
+        "category_slug": "grass",
+        "scientific_name": "Schoenoplectus tabernaemontani"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0202",
+    "name": "ウキヤガラ",
+    "scientific_name": "Bolboschoenus fluviatilis",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "大学資料は生薬三稜の利用。登録分類と資料の下位分類の差もあり、食用としては確定しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "浅い水辺に群生する。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "grass_0270",
+        "name": "ウキヤガラ",
+        "category_slug": "grass",
+        "scientific_name": "Bolboschoenus fluviatilis"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0204",
+    "name": "コウボウムギ",
+    "scientific_name": "Carex kobomugi",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "でんぷんを抽出する研究や救荒食の記録はあるが、現代の一般的な食べ方・安全な処理法を今回確定できない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "砂浜に大きな群落をつくる。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "grass_0255",
+        "name": "コウボウムギ",
+        "category_slug": "grass",
+        "scientific_name": "Carex kobomugi"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0205",
+    "name": "スカシタゴボウ",
+    "scientific_name": "Rorippa palustris",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0207",
+    "name": "スミレ",
+    "scientific_name": "Viola mandshurica var. mandshurica",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "『スミレ』という名の由来には、花の距の形を昔の大工道具の墨入れに見立てたという説があります。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_0046",
+        "name": "スミレ",
+        "category_slug": "flower",
+        "scientific_name": "Viola mandshurica var. mandshurica"
+      }
+    ],
+    "applied": false,
+    "source_scope_alert": "山形市野草園の「スミレ」URLから取得した本文はスミレサイシンの説明。Viola mandshuricaへ根茎の食用説明を転用しない。"
+  },
+  {
+    "id": "sansai_0208",
+    "name": "ヤマニガナ",
+    "scientific_name": "Lactuca raddeana var. elata",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0209",
+    "name": "ミミナグサ",
+    "scientific_name": "Cerastium holosteoides",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0210",
+    "name": "オニタビラコ",
+    "scientific_name": "Youngia japonica",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "コオニタビラコとは別属で、より背が高く、花後の冠毛でも見分けられます。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_0219",
+        "name": "オニタビラコ",
+        "category_slug": "flower",
+        "scientific_name": "Youngia japonica"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0211",
+    "name": "ノミノフスマ",
+    "scientific_name": "Stellaria undulata",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0212",
+    "name": "ノジスミレ",
+    "scientific_name": "Viola philippica",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0213",
+    "name": "アリアケスミレ",
+    "scientific_name": "Viola betonicifolia var. albescens",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0214",
+    "name": "ヒメコウゾ",
+    "scientific_name": "Broussonetia monoica",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "小さな果実が集まって橙色の実のように見える。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "tree_0108",
+        "name": "ヒメコウゾ",
+        "category_slug": "tree",
+        "scientific_name": "Broussonetia monoica"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0215",
+    "name": "カジノキ",
+    "scientific_name": "Broussonetia papyrifera",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "同じ株でも葉の形が違うことがある。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "tree_0109",
+        "name": "カジノキ",
+        "category_slug": "tree",
+        "scientific_name": "Broussonetia papyrifera"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0217",
+    "name": "サンカクヅル",
+    "scientific_name": "Vitis flexuosa",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  },
+  {
+    "id": "sansai_0221",
+    "name": "ブタナ",
+    "scientific_name": "Hypochaeris radicata",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "ブタナの名は、フランスでの「豚のサラダ」という俗名を訳したものです。",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [
+      {
+        "id": "flower_0223",
+        "name": "ブタナ",
+        "category_slug": "flower",
+        "scientific_name": "Hypochaeris radicata"
+      }
+    ],
+    "applied": false
+  },
+  {
+    "id": "sansai_0222",
+    "name": "トネアザミ",
+    "scientific_name": "Cirsium nipponicum var. incomptum",
+    "current_genre": "山菜",
+    "review_group": "evidence_pending",
+    "review_label": "山菜としての根拠を追加確認",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "candidate_genres": [
+      "未決定"
+    ],
+    "condition": "食用根拠が未確認であることは、食べられないことやジャンル間違いの証明ではない。調査不足を理由に一括移動しない。",
+    "current_trivia": "",
+    "source_urls": [],
+    "source_review_scope": "既存確認記録のジャンル再整理。新規に本文を確認したのはノブキとコオニタビラコ。他項目は新規の食用再確認完了を意味しない。",
+    "exact_scientific_name_existing_records": [],
+    "applied": false
+  }
+]

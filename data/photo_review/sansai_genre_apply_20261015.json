@@ -1,0 +1,312 @@
+{
+  "data_applied": true,
+  "date": "2026-10-15T20:17:01.052040+09:00",
+  "before": 2666,
+  "after": 2639,
+  "counts": {
+    "花": 489,
+    "草": 428,
+    "木": 312,
+    "花の木": 207,
+    "きのこ": 483,
+    "山菜": 181,
+    "ハーブ": 164,
+    "薬草": 241,
+    "珍しい果樹": 134
+  },
+  "merges": [
+    {
+      "retire": "sansai_0009",
+      "keep": "yakuso_0041",
+      "name": "カキドオシ",
+      "destination": "薬草"
+    },
+    {
+      "retire": "sansai_0011",
+      "keep": "tree_0116",
+      "name": "オニグルミ",
+      "destination": "木"
+    },
+    {
+      "retire": "sansai_0019",
+      "keep": "herb_0035",
+      "name": "ミョウガ",
+      "destination": "ハーブ"
+    },
+    {
+      "retire": "sansai_0020",
+      "keep": "herb_0002",
+      "name": "エゴマ",
+      "destination": "ハーブ"
+    },
+    {
+      "retire": "sansai_0066",
+      "keep": "tree_0093",
+      "name": "クリ",
+      "destination": "木"
+    },
+    {
+      "retire": "sansai_0068",
+      "keep": "tree_0266",
+      "name": "ツノハシバミ",
+      "destination": "木"
+    },
+    {
+      "retire": "sansai_0070",
+      "keep": "grass_0489",
+      "name": "エビヅル",
+      "destination": "木"
+    },
+    {
+      "retire": "sansai_0071",
+      "keep": "flower_tree_0017",
+      "name": "ヤマボウシ",
+      "destination": "花の木"
+    },
+    {
+      "retire": "sansai_0075",
+      "keep": "grass_0442",
+      "name": "ヒシ",
+      "destination": "草"
+    },
+    {
+      "retire": "sansai_0076",
+      "keep": "grass_0023",
+      "name": "マコモ",
+      "destination": "草"
+    },
+    {
+      "retire": "sansai_0089",
+      "keep": "grass_0495",
+      "name": "ナガイモ",
+      "destination": "草"
+    },
+    {
+      "retire": "sansai_0097",
+      "keep": "herb_0011",
+      "name": "ニラ",
+      "destination": "ハーブ"
+    },
+    {
+      "retire": "sansai_0098",
+      "keep": "tree_0212",
+      "name": "ムベ",
+      "destination": "木"
+    },
+    {
+      "retire": "sansai_0099",
+      "keep": "tree_0276",
+      "name": "ナツハゼ",
+      "destination": "木"
+    },
+    {
+      "retire": "sansai_0102",
+      "keep": "tree_0209",
+      "name": "ナワシログミ",
+      "destination": "木"
+    },
+    {
+      "retire": "sansai_0103",
+      "keep": "tree_0208",
+      "name": "アキグミ",
+      "destination": "木"
+    },
+    {
+      "retire": "sansai_0104",
+      "keep": "tree_0129",
+      "name": "ナツグミ",
+      "destination": "木"
+    },
+    {
+      "retire": "sansai_0128",
+      "keep": "herb_0033",
+      "name": "シソ",
+      "destination": "ハーブ"
+    },
+    {
+      "retire": "sansai_0129",
+      "keep": "herb_0025",
+      "name": "ハッカ",
+      "destination": "ハーブ"
+    },
+    {
+      "retire": "sansai_0144",
+      "keep": "tree_0186",
+      "name": "ヤマモモ",
+      "destination": "木"
+    },
+    {
+      "retire": "sansai_0164",
+      "keep": "tree_0098",
+      "name": "ムクノキ",
+      "destination": "木"
+    },
+    {
+      "retire": "sansai_0189",
+      "keep": "flower_0121",
+      "name": "ヒユ",
+      "destination": "草"
+    },
+    {
+      "retire": "sansai_0196",
+      "keep": "tree_0075",
+      "name": "ブナ",
+      "destination": "木"
+    },
+    {
+      "retire": "sansai_0198",
+      "keep": "tree_0078",
+      "name": "コナラ",
+      "destination": "木"
+    },
+    {
+      "retire": "sansai_0203",
+      "keep": "flower_tree_0089",
+      "name": "ハマナス",
+      "destination": "花の木"
+    },
+    {
+      "retire": "sansai_0216",
+      "keep": "tree_0282",
+      "name": "ケンポナシ",
+      "destination": "木"
+    },
+    {
+      "retire": "sansai_0220",
+      "keep": "yakuso_0122",
+      "name": "カワラケツメイ",
+      "destination": "薬草"
+    }
+  ],
+  "moves": [
+    {
+      "id": "sansai_0015",
+      "name": "ラッキョウ",
+      "from": "山菜",
+      "to": "草"
+    },
+    {
+      "id": "sansai_0016",
+      "name": "クロマメノキ",
+      "from": "山菜",
+      "to": "木"
+    },
+    {
+      "id": "sansai_0040",
+      "name": "サルナシ",
+      "from": "山菜",
+      "to": "木"
+    },
+    {
+      "id": "sansai_0082",
+      "name": "ヤナギタデ",
+      "from": "山菜",
+      "to": "ハーブ"
+    },
+    {
+      "id": "sansai_0100",
+      "name": "コケモモ",
+      "from": "山菜",
+      "to": "木"
+    },
+    {
+      "id": "sansai_0105",
+      "name": "モミジイチゴ",
+      "from": "山菜",
+      "to": "木"
+    },
+    {
+      "id": "sansai_0106",
+      "name": "クマイチゴ",
+      "from": "山菜",
+      "to": "木"
+    },
+    {
+      "id": "sansai_0107",
+      "name": "ナワシロイチゴ",
+      "from": "山菜",
+      "to": "木"
+    },
+    {
+      "id": "sansai_0108",
+      "name": "フユイチゴ",
+      "from": "山菜",
+      "to": "木"
+    },
+    {
+      "id": "sansai_0110",
+      "name": "サンカヨウ",
+      "from": "山菜",
+      "to": "草"
+    },
+    {
+      "id": "sansai_0145",
+      "name": "ニガイチゴ",
+      "from": "山菜",
+      "to": "木"
+    },
+    {
+      "id": "sansai_0173",
+      "name": "ツルコケモモ",
+      "from": "山菜",
+      "to": "木"
+    },
+    {
+      "id": "sansai_0174",
+      "name": "ガンコウラン",
+      "from": "山菜",
+      "to": "木"
+    }
+  ],
+  "merged_count": 27,
+  "moved_count": 13,
+  "genre_actions": 40,
+  "new_redirects": {
+    "sansai_0009": "yakuso_0041",
+    "sansai_0011": "tree_0116",
+    "sansai_0019": "herb_0035",
+    "sansai_0020": "herb_0002",
+    "sansai_0066": "tree_0093",
+    "sansai_0068": "tree_0266",
+    "sansai_0070": "grass_0489",
+    "sansai_0071": "flower_tree_0017",
+    "sansai_0075": "grass_0442",
+    "sansai_0076": "grass_0023",
+    "sansai_0089": "grass_0495",
+    "sansai_0097": "herb_0011",
+    "sansai_0098": "tree_0212",
+    "sansai_0099": "tree_0276",
+    "sansai_0102": "tree_0209",
+    "sansai_0103": "tree_0208",
+    "sansai_0104": "tree_0129",
+    "sansai_0128": "herb_0033",
+    "sansai_0129": "herb_0025",
+    "sansai_0144": "tree_0186",
+    "sansai_0164": "tree_0098",
+    "sansai_0189": "flower_0121",
+    "sansai_0196": "tree_0075",
+    "sansai_0198": "tree_0078",
+    "sansai_0203": "flower_tree_0089",
+    "sansai_0216": "tree_0282",
+    "sansai_0220": "yakuso_0122"
+  },
+  "old_redirects_preserved": true,
+  "photographs_replaced": 3,
+  "food_use_evidence_pending": 85,
+  "sansai_retained_with_evidence": 96,
+  "trivia_blank_sansai": 58,
+  "trivia_changed_active": 33,
+  "strict_photo_identification_claimed": false,
+  "github_verified": false,
+  "apk_built": false,
+  "pending_operations": [
+    "validation",
+    "github_publish",
+    "apk_build",
+    "device_delivery"
+  ],
+  "data_processing_complete": true,
+  "apk_version": "0.37",
+  "apk_sha256": "e82cb72087a7c07befff7cc2548130e5a14e3ccbadf553fd0bb18eee96a2fd62",
+  "review_limit": "食用根拠85件、豆知識空欄58件は未解決。厳密な写真同定・実機表示確認の完了を意味しない。"
+}

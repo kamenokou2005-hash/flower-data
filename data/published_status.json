@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "published_count": 2666,
+  "published_count": 2639,
   "categories": {
     "flower": {
       "category": "花",
@@ -11,14 +11,14 @@
     },
     "grass": {
       "category": "草",
-      "count": 426,
-      "last_published_id": "rare_fruit_0079",
+      "count": 428,
+      "last_published_id": "sansai_0110",
       "image_dir": "images/grass",
       "data_file": "data/records/grass/grass.json"
     },
     "tree": {
       "category": "木",
-      "count": 302,
+      "count": 312,
       "last_published_id": "yakuso_0186",
       "image_dir": "images/tree",
       "data_file": "data/records/tree/tree.json"
@@ -39,7 +39,7 @@
     },
     "sansai": {
       "category": "山菜",
-      "count": 221,
+      "count": 181,
       "last_published_id": "sansai_0222",
       "image_dir": "images/sansai",
       "data_file": "data/records/sansai/sansai.json"
@@ -53,8 +53,8 @@
     },
     "herb": {
       "category": "ハーブ",
-      "count": 163,
-      "last_published_id": "rare_fruit_0162",
+      "count": 164,
+      "last_published_id": "yakuso_0153",
       "image_dir": "images/herb",
       "data_file": "data/records/herb/herb.json"
     },
@@ -66,7 +66,7 @@
       "data_file": "data/records/rare_fruit/rare_fruit.json"
     }
   },
-  "generated_at": "2026-10-15T16:48:08.230653+09:00",
+  "generated_at": "2026-10-15T20:17:01.069579+09:00",
   "remaining_resolution_summary": {
     "photo_replacements": 37,
     "genre_candidates_resolved": 142,
@@ -406,5 +406,69 @@
     "apk_version": "0.36",
     "apk_sha256": "7f36516fbcb1de2af0ce164142a9a28037de3c720ed8f6d00db37917d747647c",
     "review_basis": "全221件の既存豆知識と現物サムネイルを見直し、根拠のある用途131件を記載。90件の食用用途は未確認のまま。学術的同定や採食可否の判定ではない。"
+  },
+  "sansai_genre_apply_20261015": {
+    "data_applied": true,
+    "date": "2026-10-15T20:17:01.052040+09:00",
+    "before": 2666,
+    "after": 2639,
+    "counts": {
+      "花": 489,
+      "草": 428,
+      "木": 312,
+      "花の木": 207,
+      "きのこ": 483,
+      "山菜": 181,
+      "ハーブ": 164,
+      "薬草": 241,
+      "珍しい果樹": 134
+    },
+    "merged_count": 27,
+    "moved_count": 13,
+    "genre_actions": 40,
+    "new_redirects": {
+      "sansai_0009": "yakuso_0041",
+      "sansai_0011": "tree_0116",
+      "sansai_0019": "herb_0035",
+      "sansai_0020": "herb_0002",
+      "sansai_0066": "tree_0093",
+      "sansai_0068": "tree_0266",
+      "sansai_0070": "grass_0489",
+      "sansai_0071": "flower_tree_0017",
+      "sansai_0075": "grass_0442",
+      "sansai_0076": "grass_0023",
+      "sansai_0089": "grass_0495",
+      "sansai_0097": "herb_0011",
+      "sansai_0098": "tree_0212",
+      "sansai_0099": "tree_0276",
+      "sansai_0102": "tree_0209",
+      "sansai_0103": "tree_0208",
+      "sansai_0104": "tree_0129",
+      "sansai_0128": "herb_0033",
+      "sansai_0129": "herb_0025",
+      "sansai_0144": "tree_0186",
+      "sansai_0164": "tree_0098",
+      "sansai_0189": "flower_0121",
+      "sansai_0196": "tree_0075",
+      "sansai_0198": "tree_0078",
+      "sansai_0203": "flower_tree_0089",
+      "sansai_0216": "tree_0282",
+      "sansai_0220": "yakuso_0122"
+    },
+    "old_redirects_preserved": true,
+    "photographs_replaced": 3,
+    "food_use_evidence_pending": 85,
+    "sansai_retained_with_evidence": 96,
+    "trivia_blank_sansai": 58,
+    "trivia_changed_active": 33,
+    "strict_photo_identification_claimed": false,
+    "github_verified": false,
+    "apk_built": false,
+    "pending_operations": [
+      "validation",
+      "github_publish",
+      "apk_build",
+      "device_delivery"
+    ]
   }
 }

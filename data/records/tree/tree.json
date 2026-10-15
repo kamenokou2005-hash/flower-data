@@ -4727,69 +4727,182 @@
     "thumbnail_genre_review_requires_user_decision": false
 },
     {
-    "id": "tree_0075",
-    "category": "木",
-    "display_name": "ブナ",
-    "kana": "ブナ",
-    "search_aliases": [
+      "id": "tree_0075",
+      "category": "木",
+      "display_name": "ブナ",
+      "kana": "ブナ",
+      "search_aliases": [
         "ブナ"
-    ],
-    "family": "ブナ科",
-    "genus": "ブナ属",
-    "scientific_name": "Fagus crenata",
-    "taxon_id": 362505,
-    "taxon_rank": "species",
-    "matched_common_name": "ブナ",
-    "entity_type": "種",
-    "life_form": "落葉広葉樹",
-    "flowering_season": "5月",
-    "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
-    "fruiting_season": "要確認",
-    "distribution": "在来種（日本固有種）北海道（南部）、本州、四国、九州",
-    "habitat": "山地",
-    "common_place": "山地",
-    "feature_summary": "灰色で滑らかな幹と、縁が波打つ楕円形の葉が特徴。",
-    "trivia": "葉の側脈の数や樹皮をイヌブナと比べるとよい。",
-    "classification": {
+      ],
+      "family": "ブナ科",
+      "genus": "ブナ属",
+      "scientific_name": "Fagus crenata",
+      "taxon_id": 362505,
+      "taxon_rank": "species",
+      "matched_common_name": "ブナ",
+      "entity_type": "種",
+      "life_form": "落葉広葉樹",
+      "flowering_season": "5月",
+      "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
+      "fruiting_season": "要確認",
+      "distribution": "在来種（日本固有種）北海道（南部）、本州、四国、九州",
+      "habitat": "山地",
+      "common_place": "山地",
+      "feature_summary": "灰色で滑らかな幹と、縁が波打つ楕円形の葉が特徴。",
+      "trivia": "葉の側脈の数や樹皮をイヌブナと比べるとよい。\n\n種子は「ソバグリ」とも呼ばれ、食用にされてきた。大きな葉や幹ではなく、小さな堅果の中身を利用する樹木。",
+      "classification": {
         "kingdom": "植物界",
         "clade": "被子植物",
         "order": "ブナ目",
         "family": "ブナ科",
         "genus": "ブナ属",
         "species": "Fagus crenata"
-    },
-    "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
-    "plant_source_url": "https://mikawanoyasou.org/data/buna.htm",
-    "content_source_urls": [
+      },
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
+      "plant_source_url": "https://mikawanoyasou.org/data/buna.htm",
+      "content_source_urls": [
         "https://mikawanoyasou.org/data/buna.htm",
-        "https://www.inaturalist.org/taxa/362505"
-    ],
-    "image": {
+        "https://www.inaturalist.org/taxa/362505",
+        "https://www.rinya.maff.go.jp/tohoku/sidou/jumoku/shubetu/buna.html"
+      ],
+      "image": {
         "author": "(c) りなべる, some rights reserved (CC BY)",
         "license": "CC-BY",
         "source_url": "https://www.inaturalist.org/photos/717094786",
         "image_path": "images/0051_0100/tree_0075.jpg"
+      },
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "taxon_lookup_error": "",
+      "content_status": "完成",
+      "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+      "needs_manual_image_review": false,
+      "image_review_status": "明らかな不一致なし",
+      "image_review_note": "2026-10-10 目視確認。灰白色の幹と広葉。植物名と写真に明らかな不一致なし。",
+      "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+      "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。コメツガとハゼノキの旧元画像2枚および差替え候補4枚は個別に拡大確認した。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 現在のサムネイルを目視。滑らかな灰白色の幹と周囲の葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定する判定ではない。",
+      "thumbnail_genre_review_date": "2026-10-12",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "樹形、幹または枝葉が確認できる。木としての代表写真に明らかな違和感はない。",
+      "thumbnail_genre_review_issue_type": null,
+      "thumbnail_genre_review_suggested_genre": null,
+      "thumbnail_genre_review_requires_user_decision": false,
+      "merged_record_ids": [
+        "sansai_0196"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "sansai_0196",
+          "previous_category": "山菜",
+          "record": {
+            "id": "sansai_0196",
+            "category": "山菜",
+            "display_name": "ブナ",
+            "kana": "ブナ",
+            "search_aliases": [
+              "ブナ"
+            ],
+            "family": "ブナ科",
+            "genus": "ブナ属",
+            "scientific_name": "Fagus crenata",
+            "taxon_id": 362505,
+            "reference_taxon_id": 362505,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "落葉広葉樹",
+            "flowering_season": "5月",
+            "observation_season": "5月",
+            "distribution": "在来種（日本固有種）北海道（南部）、本州、四国、九州",
+            "habitat": "山地",
+            "common_place": "山地",
+            "feature_summary": "写真では、滑らかな灰色の樹皮。",
+            "trivia": "種子は「ソバグリ」とも呼ばれ、食用にされてきた。大きな葉や幹ではなく、小さな堅果の中身を利用する樹木。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "ブナ目",
+              "family": "ブナ科",
+              "genus": "ブナ属",
+              "species": "Fagus crenata"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0075の説明も照合。",
+            "plant_source_url": "https://mikawanoyasou.org/data/buna.htm",
+            "content_source_urls": [
+              "https://mikawanoyasou.org/data/buna.htm",
+              "https://www.inaturalist.org/taxa/362505",
+              "https://www.rinya.maff.go.jp/tohoku/sidou/jumoku/shubetu/buna.html"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "(c) Keith Seifert, some rights reserved (CC BY-SA)",
+              "license": "CC-BY-SA",
+              "source_url": "https://www.inaturalist.org/photos/403189545",
+              "image_path": "images/review_20261015/sansai_0196.jpg",
+              "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "download_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/403189545/large.jpg"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-15",
+            "thumbnail_name_review_date": "2026-10-15",
+            "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+            "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+            "thumbnail_genre_review_date": "2026-10-15",
+            "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+            "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+            "related_record_ids": [
+              "tree_0075"
+            ],
+            "sansai_use_review": {
+              "date": "2026-10-15",
+              "processed": true,
+              "specific_use_source_confirmed": true,
+              "sources": [
+                "https://www.rinya.maff.go.jp/tohoku/sidou/jumoku/shubetu/buna.html"
+              ],
+              "result": "確認した用途に豆知識を修正",
+              "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+            },
+            "sansai_image_review": {
+              "date": "2026-10-15",
+              "source_replaced": true,
+              "square_crop": true,
+              "blurred_padding": false,
+              "strict_species_identification": false
+            },
+            "sansai_genre_review_20261015": {
+              "date": "2026-10-15",
+              "result": "移動・統合候補",
+              "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。",
+              "strict_photo_identification": false,
+              "source_scope_alert": "ブナの若葉の食用という検索候補は、クマ等の餌の説明と混同しない。今回確認できた人の利用は種子であり、若葉の一般的な食用は未確認。"
+            }
+          }
+        }
+      ],
+      "sansai_genre_integration": {
+        "date": "2026-10-15",
+        "from_id": "sansai_0196",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。"
+      }
     },
-    "needs_ai_summary": false,
-    "needs_manual_taxon_review": false,
-    "taxon_lookup_error": "",
-    "content_status": "完成",
-    "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
-    "needs_manual_image_review": false,
-    "image_review_status": "明らかな不一致なし",
-    "image_review_note": "2026-10-10 目視確認。灰白色の幹と広葉。植物名と写真に明らかな不一致なし。",
-    "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
-    "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。コメツガとハゼノキの旧元画像2枚および差替え候補4枚は個別に拡大確認した。",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな不一致なし",
-    "thumbnail_name_review_note": "2026-10-11 現在のサムネイルを目視。滑らかな灰白色の幹と周囲の葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定する判定ではない。",
-    "thumbnail_genre_review_date": "2026-10-12",
-    "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "樹形、幹または枝葉が確認できる。木としての代表写真に明らかな違和感はない。",
-    "thumbnail_genre_review_issue_type": null,
-    "thumbnail_genre_review_suggested_genre": null,
-    "thumbnail_genre_review_requires_user_decision": false
-},
     {
     "id": "tree_0076",
     "category": "木",
@@ -4919,69 +5032,180 @@
     "thumbnail_genre_review_requires_user_decision": false
 },
     {
-    "id": "tree_0078",
-    "category": "木",
-    "display_name": "コナラ",
-    "kana": "コナラ",
-    "search_aliases": [
+      "id": "tree_0078",
+      "category": "木",
+      "display_name": "コナラ",
+      "kana": "コナラ",
+      "search_aliases": [
         "コナラ"
-    ],
-    "family": "ブナ科",
-    "genus": "コナラ属",
-    "scientific_name": "Quercus serrata",
-    "taxon_id": 359972,
-    "taxon_rank": "species",
-    "matched_common_name": "コナラ",
-    "entity_type": "種",
-    "life_form": "落葉高木",
-    "flowering_season": "4～5月",
-    "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
-    "fruiting_season": "要確認",
-    "distribution": "在来種北海道、本州、四国、九州、朝鮮、中国、ロシア、インド",
-    "habitat": "山野の向陽地",
-    "common_place": "山野の向陽地",
-    "feature_summary": "葉にとがった鋸歯があり、ミズナラより葉柄が目立つ。",
-    "trivia": "身近な雑木林をつくる代表的な木の一つ。",
-    "classification": {
+      ],
+      "family": "ブナ科",
+      "genus": "コナラ属",
+      "scientific_name": "Quercus serrata",
+      "taxon_id": 359972,
+      "taxon_rank": "species",
+      "matched_common_name": "コナラ",
+      "entity_type": "種",
+      "life_form": "落葉高木",
+      "flowering_season": "4～5月",
+      "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
+      "fruiting_season": "要確認",
+      "distribution": "在来種北海道、本州、四国、九州、朝鮮、中国、ロシア、インド",
+      "habitat": "山野の向陽地",
+      "common_place": "山野の向陽地",
+      "feature_summary": "葉にとがった鋸歯があり、ミズナラより葉柄が目立つ。",
+      "trivia": "身近な雑木林をつくる代表的な木の一つ。\n\nドングリを食用にするには、あく抜きが必要。スダジイやマテバシイのように、あく抜きせずに食べられる種類とは区別される。",
+      "classification": {
         "kingdom": "植物界",
         "clade": "被子植物",
         "order": "ブナ目",
         "family": "ブナ科",
         "genus": "コナラ属",
         "species": "Quercus serrata"
-    },
-    "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
-    "plant_source_url": "https://mikawanoyasou.org/data/konara.htm",
-    "content_source_urls": [
+      },
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
+      "plant_source_url": "https://mikawanoyasou.org/data/konara.htm",
+      "content_source_urls": [
         "https://mikawanoyasou.org/data/konara.htm",
-        "https://www.inaturalist.org/taxa/359972"
-    ],
-    "image": {
+        "https://www.inaturalist.org/taxa/359972",
+        "https://www.ffpri.go.jp/fsm/research/pubs/joho/past/45.html"
+      ],
+      "image": {
         "author": "(c) りなべる, some rights reserved (CC BY)",
         "license": "CC-BY",
         "source_url": "https://www.inaturalist.org/photos/739292296",
         "image_path": "images/0051_0100/tree_0078.jpg"
+      },
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "taxon_lookup_error": "",
+      "content_status": "完成",
+      "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+      "needs_manual_image_review": false,
+      "image_review_status": "明らかな不一致なし",
+      "image_review_note": "2026-10-10 目視確認。鋸歯のある光沢葉。植物名と写真に明らかな不一致なし。",
+      "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+      "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。コメツガとハゼノキの旧元画像2枚および差替え候補4枚は個別に拡大確認した。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 現在のサムネイルを目視。鋸歯のある葉の小枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定する判定ではない。",
+      "thumbnail_genre_review_date": "2026-10-12",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "樹形、幹または枝葉が確認できる。木としての代表写真に明らかな違和感はない。",
+      "thumbnail_genre_review_issue_type": null,
+      "thumbnail_genre_review_suggested_genre": null,
+      "thumbnail_genre_review_requires_user_decision": false,
+      "merged_record_ids": [
+        "sansai_0198"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "sansai_0198",
+          "previous_category": "山菜",
+          "record": {
+            "id": "sansai_0198",
+            "category": "山菜",
+            "display_name": "コナラ",
+            "kana": "コナラ",
+            "search_aliases": [
+              "コナラ"
+            ],
+            "family": "ブナ科",
+            "genus": "コナラ属",
+            "scientific_name": "Quercus serrata",
+            "taxon_id": 359972,
+            "reference_taxon_id": 359972,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "落葉高木",
+            "flowering_season": "4～5月",
+            "observation_season": "4～5月",
+            "distribution": "在来種北海道、本州、四国、九州、朝鮮、中国、ロシア、インド",
+            "habitat": "山野の向陽地",
+            "common_place": "山野の向陽地",
+            "feature_summary": "写真では、光沢のある葉。",
+            "trivia": "ドングリを食用にするには、あく抜きが必要。スダジイやマテバシイのように、あく抜きせずに食べられる種類とは区別される。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "ブナ目",
+              "family": "ブナ科",
+              "genus": "コナラ属",
+              "species": "Quercus serrata"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0078の説明も照合。",
+            "plant_source_url": "https://mikawanoyasou.org/data/konara.htm",
+            "content_source_urls": [
+              "https://mikawanoyasou.org/data/konara.htm",
+              "https://www.inaturalist.org/taxa/359972",
+              "https://www.ffpri.go.jp/fsm/research/pubs/joho/past/45.html"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "(c) りなべる, some rights reserved (CC BY)",
+              "license": "CC-BY",
+              "source_url": "https://www.inaturalist.org/photos/739292296",
+              "image_path": "images/0151_0200/sansai_0198.jpg",
+              "license_url": "https://creativecommons.org/licenses/by/4.0/"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-15",
+            "thumbnail_name_review_date": "2026-10-15",
+            "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+            "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+            "thumbnail_genre_review_date": "2026-10-15",
+            "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+            "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+            "related_record_ids": [
+              "tree_0078"
+            ],
+            "sansai_use_review": {
+              "date": "2026-10-15",
+              "processed": true,
+              "specific_use_source_confirmed": true,
+              "sources": [
+                "https://www.ffpri.go.jp/fsm/research/pubs/joho/past/45.html"
+              ],
+              "result": "確認した用途に豆知識を修正",
+              "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+            },
+            "sansai_image_review": {
+              "date": "2026-10-15",
+              "source_replaced": false,
+              "square_crop": true,
+              "blurred_padding": false,
+              "strict_species_identification": false
+            },
+            "sansai_genre_review_20261015": {
+              "date": "2026-10-15",
+              "result": "移動・統合候補",
+              "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。",
+              "strict_photo_identification": false
+            }
+          }
+        }
+      ],
+      "sansai_genre_integration": {
+        "date": "2026-10-15",
+        "from_id": "sansai_0198",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。"
+      }
     },
-    "needs_ai_summary": false,
-    "needs_manual_taxon_review": false,
-    "taxon_lookup_error": "",
-    "content_status": "完成",
-    "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
-    "needs_manual_image_review": false,
-    "image_review_status": "明らかな不一致なし",
-    "image_review_note": "2026-10-10 目視確認。鋸歯のある光沢葉。植物名と写真に明らかな不一致なし。",
-    "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
-    "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。コメツガとハゼノキの旧元画像2枚および差替え候補4枚は個別に拡大確認した。",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな不一致なし",
-    "thumbnail_name_review_note": "2026-10-11 現在のサムネイルを目視。鋸歯のある葉の小枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定する判定ではない。",
-    "thumbnail_genre_review_date": "2026-10-12",
-    "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "樹形、幹または枝葉が確認できる。木としての代表写真に明らかな違和感はない。",
-    "thumbnail_genre_review_issue_type": null,
-    "thumbnail_genre_review_suggested_genre": null,
-    "thumbnail_genre_review_requires_user_decision": false
-},
     {
     "id": "tree_0079",
     "category": "木",
@@ -5884,69 +6108,180 @@
     "thumbnail_genre_review_requires_user_decision": false
 },
     {
-    "id": "tree_0093",
-    "category": "木",
-    "display_name": "クリ",
-    "kana": "クリ",
-    "search_aliases": [
+      "id": "tree_0093",
+      "category": "木",
+      "display_name": "クリ",
+      "kana": "クリ",
+      "search_aliases": [
         "クリ"
-    ],
-    "family": "ブナ科",
-    "genus": "クリ属",
-    "scientific_name": "Castanea crenata",
-    "taxon_id": 122786,
-    "taxon_rank": "species",
-    "matched_common_name": "クリ",
-    "entity_type": "種",
-    "life_form": "落葉高木",
-    "flowering_season": "5～6月",
-    "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
-    "fruiting_season": "要確認",
-    "distribution": "在来種北海道、本州、四国、九州、朝鮮",
-    "habitat": "丘陵地、山地",
-    "common_place": "丘陵地、山地",
-    "feature_summary": "細長い葉に鋭い鋸歯があり、裏面は淡い緑色。",
-    "trivia": "野生型と果樹として栽培される品種がある。",
-    "classification": {
+      ],
+      "family": "ブナ科",
+      "genus": "クリ属",
+      "scientific_name": "Castanea crenata",
+      "taxon_id": 122786,
+      "taxon_rank": "species",
+      "matched_common_name": "クリ",
+      "entity_type": "種",
+      "life_form": "落葉高木",
+      "flowering_season": "5～6月",
+      "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
+      "fruiting_season": "要確認",
+      "distribution": "在来種北海道、本州、四国、九州、朝鮮",
+      "habitat": "丘陵地、山地",
+      "common_place": "丘陵地、山地",
+      "feature_summary": "細長い葉に鋭い鋸歯があり、裏面は淡い緑色。",
+      "trivia": "野生型と果樹として栽培される品種がある。\n\nいがに包まれた実の中身を食用にする。食べている部分は主に種子で、実を採る目的でも栽培される樹木。",
+      "classification": {
         "kingdom": "植物界",
         "clade": "被子植物",
         "order": "ブナ目",
         "family": "ブナ科",
         "genus": "クリ属",
         "species": "Castanea crenata"
-    },
-    "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
-    "plant_source_url": "https://mikawanoyasou.org/data/kuri.htm",
-    "content_source_urls": [
+      },
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
+      "plant_source_url": "https://mikawanoyasou.org/data/kuri.htm",
+      "content_source_urls": [
         "https://mikawanoyasou.org/data/kuri.htm",
-        "https://www.inaturalist.org/taxa/122786"
-    ],
-    "image": {
+        "https://www.inaturalist.org/taxa/122786",
+        "https://www.ffpri.go.jp/kys/business/jumokuen/jumoku/zukan/kuri.html"
+      ],
+      "image": {
         "author": "no rights reserved",
         "license": "CC0",
         "source_url": "https://www.inaturalist.org/photos/741379557",
         "image_path": "images/0051_0100/tree_0093.jpg"
+      },
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "taxon_lookup_error": "",
+      "content_status": "完成",
+      "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+      "needs_manual_image_review": false,
+      "image_review_status": "明らかな不一致なし",
+      "image_review_note": "2026-10-10 目視確認。いがに包まれた果実。植物名と写真に明らかな不一致なし。",
+      "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+      "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。コメツガとハゼノキの旧元画像2枚および差替え候補4枚は個別に拡大確認した。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 現在のサムネイルを目視。いがのある実と細長い葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定する判定ではない。",
+      "thumbnail_genre_review_date": "2026-10-12",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "樹形、幹または枝葉が確認できる。木としての代表写真に明らかな違和感はない。",
+      "thumbnail_genre_review_issue_type": null,
+      "thumbnail_genre_review_suggested_genre": null,
+      "thumbnail_genre_review_requires_user_decision": false,
+      "merged_record_ids": [
+        "sansai_0066"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "sansai_0066",
+          "previous_category": "山菜",
+          "record": {
+            "id": "sansai_0066",
+            "category": "山菜",
+            "display_name": "クリ",
+            "kana": "クリ",
+            "search_aliases": [
+              "クリ"
+            ],
+            "family": "ブナ科",
+            "genus": "クリ属",
+            "scientific_name": "Castanea crenata",
+            "taxon_id": 122786,
+            "reference_taxon_id": 122786,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "落葉高木",
+            "flowering_season": "5～6月",
+            "observation_season": "5～6月",
+            "distribution": "在来種北海道、本州、四国、九州、朝鮮",
+            "habitat": "丘陵地、山地",
+            "common_place": "丘陵地、山地",
+            "feature_summary": "写真では、とげのあるいがと細長い葉。",
+            "trivia": "いがに包まれた実の中身を食用にする。食べている部分は主に種子で、実を採る目的でも栽培される樹木。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "ブナ目",
+              "family": "ブナ科",
+              "genus": "クリ属",
+              "species": "Castanea crenata"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0093の説明も照合。",
+            "plant_source_url": "https://mikawanoyasou.org/data/kuri.htm",
+            "content_source_urls": [
+              "https://mikawanoyasou.org/data/kuri.htm",
+              "https://www.inaturalist.org/taxa/122786",
+              "https://www.ffpri.go.jp/kys/business/jumokuen/jumoku/zukan/kuri.html"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "no rights reserved",
+              "license": "CC0",
+              "source_url": "https://www.inaturalist.org/photos/741379557",
+              "image_path": "images/0051_0100/sansai_0066.jpg",
+              "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-15",
+            "thumbnail_name_review_date": "2026-10-15",
+            "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+            "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+            "thumbnail_genre_review_date": "2026-10-15",
+            "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+            "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+            "related_record_ids": [
+              "tree_0093"
+            ],
+            "sansai_use_review": {
+              "date": "2026-10-15",
+              "processed": true,
+              "specific_use_source_confirmed": true,
+              "sources": [
+                "https://www.ffpri.go.jp/kys/business/jumokuen/jumoku/zukan/kuri.html"
+              ],
+              "result": "確認した用途に豆知識を修正",
+              "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+            },
+            "sansai_image_review": {
+              "date": "2026-10-15",
+              "source_replaced": false,
+              "square_crop": true,
+              "blurred_padding": false,
+              "strict_species_identification": false
+            },
+            "sansai_genre_review_20261015": {
+              "date": "2026-10-15",
+              "result": "移動・統合候補",
+              "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。",
+              "strict_photo_identification": false
+            }
+          }
+        }
+      ],
+      "sansai_genre_integration": {
+        "date": "2026-10-15",
+        "from_id": "sansai_0066",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。"
+      }
     },
-    "needs_ai_summary": false,
-    "needs_manual_taxon_review": false,
-    "taxon_lookup_error": "",
-    "content_status": "完成",
-    "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
-    "needs_manual_image_review": false,
-    "image_review_status": "明らかな不一致なし",
-    "image_review_note": "2026-10-10 目視確認。いがに包まれた果実。植物名と写真に明らかな不一致なし。",
-    "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
-    "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。コメツガとハゼノキの旧元画像2枚および差替え候補4枚は個別に拡大確認した。",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな不一致なし",
-    "thumbnail_name_review_note": "2026-10-11 現在のサムネイルを目視。いがのある実と細長い葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定する判定ではない。",
-    "thumbnail_genre_review_date": "2026-10-12",
-    "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "樹形、幹または枝葉が確認できる。木としての代表写真に明らかな違和感はない。",
-    "thumbnail_genre_review_issue_type": null,
-    "thumbnail_genre_review_suggested_genre": null,
-    "thumbnail_genre_review_requires_user_decision": false
-},
     {
     "id": "tree_0094",
     "category": "木",
@@ -6206,69 +6541,180 @@
     "thumbnail_genre_review_requires_user_decision": false
 },
     {
-    "id": "tree_0098",
-    "category": "木",
-    "display_name": "ムクノキ",
-    "kana": "ムクノキ",
-    "search_aliases": [
+      "id": "tree_0098",
+      "category": "木",
+      "display_name": "ムクノキ",
+      "kana": "ムクノキ",
+      "search_aliases": [
         "ムクノキ"
-    ],
-    "family": "アサ科",
-    "genus": "ムクノキ属",
-    "scientific_name": "Aphananthe aspera",
-    "taxon_id": 452068,
-    "taxon_rank": "species",
-    "matched_common_name": "ムクノキ",
-    "entity_type": "種",
-    "life_form": "落葉高木",
-    "flowering_season": "要確認",
-    "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
-    "fruiting_season": "要確認",
-    "distribution": "要確認",
-    "habitat": "要確認",
-    "common_place": "要確認",
-    "feature_summary": "葉の表面がざらつき、縁には鋭い鋸歯がある。",
-    "trivia": "ざらついた葉は、物を磨く用途に使われた。",
-    "classification": {
+      ],
+      "family": "アサ科",
+      "genus": "ムクノキ属",
+      "scientific_name": "Aphananthe aspera",
+      "taxon_id": 452068,
+      "taxon_rank": "species",
+      "matched_common_name": "ムクノキ",
+      "entity_type": "種",
+      "life_form": "落葉高木",
+      "flowering_season": "要確認",
+      "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
+      "fruiting_season": "要確認",
+      "distribution": "要確認",
+      "habitat": "要確認",
+      "common_place": "要確認",
+      "feature_summary": "葉の表面がざらつき、縁には鋭い鋸歯がある。",
+      "trivia": "ざらついた葉は、物を磨く用途に使われた。\n\n黒く熟した果実は甘く、食用になる。ざらつく葉は食べ物ではなく、工芸品を磨く道具にも利用されてきた。",
+      "classification": {
         "kingdom": "植物界",
         "clade": "被子植物",
         "order": "バラ目",
         "family": "アサ科",
         "genus": "ムクノキ属",
         "species": "Aphananthe aspera"
-    },
-    "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
-    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%AF%E3%83%8E%E3%82%AD",
-    "content_source_urls": [
+      },
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
+      "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%AF%E3%83%8E%E3%82%AD",
+      "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%AF%E3%83%8E%E3%82%AD",
-        "https://www.inaturalist.org/taxa/452068"
-    ],
-    "image": {
+        "https://www.inaturalist.org/taxa/452068",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003676.php"
+      ],
+      "image": {
         "author": "(c) WATANABE Hitoshi 渡辺仁, some rights reserved (CC BY)",
         "license": "CC-BY",
         "source_url": "https://www.inaturalist.org/photos/743658114",
         "image_path": "images/0051_0100/tree_0098.jpg"
+      },
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "taxon_lookup_error": "",
+      "content_status": "完成",
+      "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+      "needs_manual_image_review": false,
+      "image_review_status": "明らかな不一致なし",
+      "image_review_note": "2026-10-10 目視確認。鋸歯のある葉。植物名と写真に明らかな不一致なし。",
+      "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+      "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。コメツガとハゼノキの旧元画像2枚および差替え候補4枚は個別に拡大確認した。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 現在のサムネイルを目視。葉のある細い枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定する判定ではない。",
+      "thumbnail_genre_review_date": "2026-10-12",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "樹形、幹または枝葉が確認できる。木としての代表写真に明らかな違和感はない。",
+      "thumbnail_genre_review_issue_type": null,
+      "thumbnail_genre_review_suggested_genre": null,
+      "thumbnail_genre_review_requires_user_decision": false,
+      "merged_record_ids": [
+        "sansai_0164"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "sansai_0164",
+          "previous_category": "山菜",
+          "record": {
+            "id": "sansai_0164",
+            "category": "山菜",
+            "display_name": "ムクノキ",
+            "kana": "ムクノキ",
+            "search_aliases": [
+              "ムクノキ"
+            ],
+            "family": "アサ科",
+            "genus": "ムクノキ属",
+            "scientific_name": "Aphananthe aspera",
+            "taxon_id": 452068,
+            "reference_taxon_id": 452068,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "落葉高木",
+            "flowering_season": "要確認",
+            "observation_season": "要確認",
+            "distribution": "要確認",
+            "habitat": "要確認",
+            "common_place": "要確認",
+            "feature_summary": "写真では、楕円形の葉。",
+            "trivia": "黒く熟した果実は甘く、食用になる。ざらつく葉は食べ物ではなく、工芸品を磨く道具にも利用されてきた。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "バラ目",
+              "family": "アサ科",
+              "genus": "ムクノキ属",
+              "species": "Aphananthe aspera"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0098の説明も照合。",
+            "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%AF%E3%83%8E%E3%82%AD",
+            "content_source_urls": [
+              "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%AF%E3%83%8E%E3%82%AD",
+              "https://www.inaturalist.org/taxa/452068",
+              "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003676.php"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "(c) WATANABE Hitoshi 渡辺仁, some rights reserved (CC BY)",
+              "license": "CC-BY",
+              "source_url": "https://www.inaturalist.org/photos/743658114",
+              "image_path": "images/0151_0200/sansai_0164.jpg",
+              "license_url": "https://creativecommons.org/licenses/by/4.0/"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-15",
+            "thumbnail_name_review_date": "2026-10-15",
+            "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+            "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+            "thumbnail_genre_review_date": "2026-10-15",
+            "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+            "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+            "related_record_ids": [
+              "tree_0098"
+            ],
+            "sansai_use_review": {
+              "date": "2026-10-15",
+              "processed": true,
+              "specific_use_source_confirmed": true,
+              "sources": [
+                "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003676.php"
+              ],
+              "result": "確認した用途に豆知識を修正",
+              "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+            },
+            "sansai_image_review": {
+              "date": "2026-10-15",
+              "source_replaced": false,
+              "square_crop": true,
+              "blurred_padding": false,
+              "strict_species_identification": false
+            },
+            "sansai_genre_review_20261015": {
+              "date": "2026-10-15",
+              "result": "移動・統合候補",
+              "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。",
+              "strict_photo_identification": false
+            }
+          }
+        }
+      ],
+      "sansai_genre_integration": {
+        "date": "2026-10-15",
+        "from_id": "sansai_0164",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。"
+      }
     },
-    "needs_ai_summary": false,
-    "needs_manual_taxon_review": false,
-    "taxon_lookup_error": "",
-    "content_status": "完成",
-    "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
-    "needs_manual_image_review": false,
-    "image_review_status": "明らかな不一致なし",
-    "image_review_note": "2026-10-10 目視確認。鋸歯のある葉。植物名と写真に明らかな不一致なし。",
-    "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
-    "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。コメツガとハゼノキの旧元画像2枚および差替え候補4枚は個別に拡大確認した。",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな不一致なし",
-    "thumbnail_name_review_note": "2026-10-11 現在のサムネイルを目視。葉のある細い枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定する判定ではない。",
-    "thumbnail_genre_review_date": "2026-10-12",
-    "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "樹形、幹または枝葉が確認できる。木としての代表写真に明らかな違和感はない。",
-    "thumbnail_genre_review_issue_type": null,
-    "thumbnail_genre_review_suggested_genre": null,
-    "thumbnail_genre_review_requires_user_decision": false
-},
     {
       "id": "tree_0099",
       "category": "木",
@@ -7516,69 +7962,230 @@
     "thumbnail_genre_review_requires_user_decision": false
 },
     {
-    "id": "tree_0116",
-    "category": "木",
-    "display_name": "オニグルミ",
-    "kana": "オニグルミ",
-    "search_aliases": [
+      "id": "tree_0116",
+      "category": "木",
+      "display_name": "オニグルミ",
+      "kana": "オニグルミ",
+      "search_aliases": [
         "オニグルミ"
-    ],
-    "family": "クルミ科",
-    "genus": "クルミ属",
-    "scientific_name": "Juglans ailantifolia",
-    "taxon_id": 122793,
-    "taxon_rank": "species",
-    "matched_common_name": "オニグルミ",
-    "entity_type": "種",
-    "life_form": "落葉高木",
-    "flowering_season": "5～6月",
-    "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
-    "fruiting_season": "要確認",
-    "distribution": "在来種北海道、本州、四国、九州、沖縄、サハリン",
-    "habitat": "川沿い、窪地",
-    "common_place": "川沿い、窪地",
-    "feature_summary": "大きな羽状複葉をつけ、葉の軸に毛がある。",
-    "trivia": "枝の内部の髄には、はしご状の仕切りが見られる。",
-    "classification": {
+      ],
+      "family": "クルミ科",
+      "genus": "クルミ属",
+      "scientific_name": "Juglans ailantifolia",
+      "taxon_id": 122793,
+      "taxon_rank": "species",
+      "matched_common_name": "オニグルミ",
+      "entity_type": "種",
+      "life_form": "落葉高木",
+      "flowering_season": "5～6月",
+      "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
+      "fruiting_season": "要確認",
+      "distribution": "在来種北海道、本州、四国、九州、沖縄、サハリン",
+      "habitat": "川沿い、窪地",
+      "common_place": "川沿い、窪地",
+      "feature_summary": "大きな羽状複葉をつけ、葉の軸に毛がある。",
+      "trivia": "枝の内部の髄には、はしご状の仕切りが見られる。\n\nかたい殻の中の種子がクルミとして利用される。油分を含む種子を食べる植物で、外側の緑色の皮を食べるわけではない。",
+      "classification": {
         "kingdom": "植物界",
         "clade": "被子植物",
         "order": "ブナ目",
         "family": "クルミ科",
         "genus": "クルミ属",
         "species": "Juglans ailantifolia"
-    },
-    "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
-    "plant_source_url": "https://mikawanoyasou.org/data/onigurumi.htm",
-    "content_source_urls": [
+      },
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
+      "plant_source_url": "https://mikawanoyasou.org/data/onigurumi.htm",
+      "content_source_urls": [
         "https://mikawanoyasou.org/data/onigurumi.htm",
-        "https://www.inaturalist.org/taxa/122793"
-    ],
-    "image": {
+        "https://www.inaturalist.org/taxa/122793",
+        "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%82%B0%E3%83%AB%E3%83%9F",
+        "https://www.ffpri.go.jp/kys/business/jumokuen/jumoku/zukan/onigurumi.html"
+      ],
+      "image": {
         "author": "(c) unipon, some rights reserved (CC BY)",
         "license": "CC-BY",
         "source_url": "https://www.inaturalist.org/photos/741954869",
         "image_path": "images/0101_0150/tree_0116.jpg"
+      },
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "taxon_lookup_error": "",
+      "content_status": "完成",
+      "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+      "needs_manual_image_review": false,
+      "image_review_status": "明らかな不一致なし",
+      "image_review_note": "2026-10-10 目視確認。大きな小葉。植物名と写真に明らかな不一致なし。",
+      "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+      "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。コメツガとハゼノキの旧元画像2枚および差替え候補4枚は個別に拡大確認した。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 現在のサムネイルを目視。大きな小葉をつけた複葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定する判定ではない。",
+      "thumbnail_genre_review_date": "2026-10-12",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "樹形、幹または枝葉が確認できる。木としての代表写真に明らかな違和感はない。",
+      "thumbnail_genre_review_issue_type": null,
+      "thumbnail_genre_review_suggested_genre": null,
+      "thumbnail_genre_review_requires_user_decision": false,
+      "merged_record_ids": [
+        "sansai_0011"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "sansai_0011",
+          "previous_category": "山菜",
+          "record": {
+            "id": "sansai_0011",
+            "category": "山菜",
+            "display_name": "オニグルミ",
+            "kana": "オニグルミ",
+            "search_aliases": [
+              "オニグルミ"
+            ],
+            "family": "クルミ科",
+            "genus": "クルミ属",
+            "scientific_name": "Juglans ailantifolia",
+            "taxon_id": 122793,
+            "reference_taxon_id": 122793,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "落葉木本",
+            "flowering_season": "5～6月",
+            "distribution": "在来種北海道、本州、四国、九州、沖縄、サハリン",
+            "habitat": "川沿い、窪地",
+            "common_place": "川沿い、窪地",
+            "feature_summary": "大きな羽状複葉をつける落葉樹。写真でも複数の小葉が並ぶ様子が見える。",
+            "trivia": "かたい殻の中の種子がクルミとして利用される。油分を含む種子を食べる植物で、外側の緑色の皮を食べるわけではない。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "ブナ目",
+              "family": "クルミ科",
+              "genus": "クルミ属",
+              "species": "Juglans ailantifolia"
+            },
+            "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+            "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%82%B0%E3%83%AB%E3%83%9F",
+            "content_source_urls": [
+              "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%82%B0%E3%83%AB%E3%83%9F",
+              "https://www.inaturalist.org/taxa/122793",
+              "https://mikawanoyasou.org/data/onigurumi.htm",
+              "https://www.ffpri.go.jp/kys/business/jumokuen/jumoku/zukan/onigurumi.html"
+            ],
+            "content_source_scope": "species",
+            "image": {
+              "author": "no rights reserved",
+              "license": "CC0",
+              "source_url": "https://www.inaturalist.org/photos/745693959",
+              "image_path": "images/0001_0050/sansai_0011.jpg",
+              "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": true,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-15",
+            "thumbnail_name_review_date": "2026-10-15",
+            "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+            "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+            "thumbnail_genre_review_date": "2026-10-15",
+            "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+            "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+            "verification_notes": "和名・採用学名・分類・サムネイルを照合。未確定の分布・季節・生態は要確認として残す。",
+            "observation_season": "5～6月",
+            "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+            "related_record_ids": [
+              "tree_0116"
+            ],
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form"
+            ],
+            "classification_listing_review_date": "2026-10-13",
+            "classification_listing_review_status": "要確認の注記を残して掲載",
+            "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+            "taxonomy_reference_check": {
+              "date": "2026-10-13",
+              "source_url": "https://api.inaturalist.org/v1/taxa/122793?locale=ja",
+              "registered_scientific_name": "Juglans ailantifolia",
+              "source_scientific_name": "Juglans ailantifolia",
+              "source_rank": "species",
+              "source_japanese_name": "オニグルミ",
+              "relation": "same_scientific_name",
+              "registration_reference_reviewed": true,
+              "strict_photo_identification_verified": false,
+              "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+            },
+            "classification_reference_check_complete": true,
+            "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
+            "taxonomy_reference_lineage": [
+              {
+                "name": "Plantae",
+                "rank": "kingdom",
+                "preferred_common_name": "植物界"
+              },
+              {
+                "name": "Fagales",
+                "rank": "order",
+                "preferred_common_name": "ブナ目"
+              },
+              {
+                "name": "Juglandaceae",
+                "rank": "family",
+                "preferred_common_name": "クルミ科"
+              },
+              {
+                "name": "Juglans",
+                "rank": "genus",
+                "preferred_common_name": "クルミ属"
+              }
+            ],
+            "classification_scope_notice": "同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+            "taxonomy_scope_final_review": {
+              "date": "2026-10-13",
+              "processing_complete": true,
+              "result": "unresolved_scope_retained",
+              "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+              "scope_notice": "同名の既存項目tree_0116の確認済み説明項目も照合。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+              "additional_primary_source_urls": [],
+              "prior_reference_check_considered": true,
+              "strict_photo_identification_verified": false
+            },
+            "sansai_use_review": {
+              "date": "2026-10-15",
+              "processed": true,
+              "specific_use_source_confirmed": true,
+              "sources": [
+                "https://www.ffpri.go.jp/kys/business/jumokuen/jumoku/zukan/onigurumi.html"
+              ],
+              "result": "確認した用途に豆知識を修正",
+              "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+            },
+            "sansai_image_review": {
+              "date": "2026-10-15",
+              "source_replaced": false,
+              "square_crop": true,
+              "blurred_padding": false,
+              "strict_species_identification": false
+            },
+            "sansai_genre_review_20261015": {
+              "date": "2026-10-15",
+              "result": "移動・統合候補",
+              "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。",
+              "strict_photo_identification": false
+            }
+          }
+        }
+      ],
+      "sansai_genre_integration": {
+        "date": "2026-10-15",
+        "from_id": "sansai_0011",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。"
+      }
     },
-    "needs_ai_summary": false,
-    "needs_manual_taxon_review": false,
-    "taxon_lookup_error": "",
-    "content_status": "完成",
-    "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
-    "needs_manual_image_review": false,
-    "image_review_status": "明らかな不一致なし",
-    "image_review_note": "2026-10-10 目視確認。大きな小葉。植物名と写真に明らかな不一致なし。",
-    "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
-    "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。コメツガとハゼノキの旧元画像2枚および差替え候補4枚は個別に拡大確認した。",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな不一致なし",
-    "thumbnail_name_review_note": "2026-10-11 現在のサムネイルを目視。大きな小葉をつけた複葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定する判定ではない。",
-    "thumbnail_genre_review_date": "2026-10-12",
-    "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "樹形、幹または枝葉が確認できる。木としての代表写真に明らかな違和感はない。",
-    "thumbnail_genre_review_issue_type": null,
-    "thumbnail_genre_review_suggested_genre": null,
-    "thumbnail_genre_review_requires_user_decision": false
-},
     {
     "id": "tree_0117",
     "category": "木",
@@ -8459,7 +9066,7 @@
       "habitat": "平地、丘陵地",
       "common_place": "平地、丘陵地",
       "feature_summary": "葉に銀色や褐色の鱗片があり、淡い色の花をつける。",
-      "trivia": "花びらのように見える部分は萼である。",
+      "trivia": "花びらのように見える部分は萼である。\n\n果実が食用になるグミの仲間。熟した実にも渋みがある。",
       "classification": {
         "kingdom": "植物界",
         "clade": "被子植物",
@@ -8472,7 +9079,8 @@
       "plant_source_url": "https://mikawanoyasou.org/data/natugumi.htm",
       "content_source_urls": [
         "https://mikawanoyasou.org/data/natugumi.htm",
-        "https://www.inaturalist.org/taxa/162213"
+        "https://www.inaturalist.org/taxa/162213",
+        "https://www.ffpri.go.jp/kys/business/jumokuen/jumoku/zukan/natugumi.html"
       ],
       "image": {
         "author": "(c) Yoshihiro Tokue, some rights reserved (CC BY)",
@@ -8500,7 +9108,117 @@
       "thumbnail_genre_review_note": "差し替え後の200px画像を目視。幹・枝・葉が見える写真を選定。実や花だけの写真から変更。 写真改善後に再確認済み。",
       "thumbnail_genre_review_issue_type": "resolved",
       "thumbnail_genre_review_suggested_genre": "木を維持し、樹形・幹・枝葉が分かる写真",
-      "thumbnail_genre_review_requires_user_decision": false
+      "thumbnail_genre_review_requires_user_decision": false,
+      "merged_record_ids": [
+        "sansai_0104"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "sansai_0104",
+          "previous_category": "山菜",
+          "record": {
+            "id": "sansai_0104",
+            "category": "山菜",
+            "display_name": "ナツグミ",
+            "kana": "ナツグミ",
+            "search_aliases": [
+              "ナツグミ"
+            ],
+            "family": "グミ科",
+            "genus": "グミ属",
+            "scientific_name": "Elaeagnus multiflora",
+            "taxon_id": 162213,
+            "reference_taxon_id": 162213,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "落葉低木～落葉小高木",
+            "flowering_season": "4～5月",
+            "observation_season": "4～5月",
+            "distribution": "在来種本州（福島県～静岡県の太平洋岸）、中国",
+            "habitat": "平地、丘陵地",
+            "common_place": "平地、丘陵地",
+            "feature_summary": "写真では、細長い赤い果実。",
+            "trivia": "果実が食用になるグミの仲間。熟した実にも渋みがある。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "バラ目",
+              "family": "グミ科",
+              "genus": "グミ属",
+              "species": "Elaeagnus multiflora"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0129の説明も照合。",
+            "plant_source_url": "https://mikawanoyasou.org/data/natugumi.htm",
+            "content_source_urls": [
+              "https://mikawanoyasou.org/data/natugumi.htm",
+              "https://www.inaturalist.org/taxa/162213",
+              "https://www.ffpri.go.jp/kys/business/jumokuen/jumoku/zukan/natugumi.html"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "(c) Hilda Chan, some rights reserved (CC BY)",
+              "license": "CC-BY",
+              "source_url": "https://www.inaturalist.org/photos/737398640",
+              "image_path": "images/0101_0150/sansai_0104.jpg",
+              "license_url": "https://creativecommons.org/licenses/by/4.0/"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-15",
+            "thumbnail_name_review_date": "2026-10-15",
+            "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+            "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+            "thumbnail_genre_review_date": "2026-10-15",
+            "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+            "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+            "related_record_ids": [
+              "tree_0129"
+            ],
+            "sansai_use_review": {
+              "date": "2026-10-15",
+              "processed": true,
+              "specific_use_source_confirmed": true,
+              "sources": [
+                "https://www.ffpri.go.jp/kys/business/jumokuen/jumoku/zukan/natugumi.html"
+              ],
+              "result": "確認した用途に豆知識を修正",
+              "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+            },
+            "sansai_image_review": {
+              "date": "2026-10-15",
+              "source_replaced": false,
+              "square_crop": true,
+              "blurred_padding": false,
+              "strict_species_identification": false
+            },
+            "sansai_genre_review_20261015": {
+              "date": "2026-10-15",
+              "result": "移動・統合候補",
+              "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。",
+              "strict_photo_identification": false
+            }
+          }
+        }
+      ],
+      "sansai_genre_integration": {
+        "date": "2026-10-15",
+        "from_id": "sansai_0104",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。"
+      }
     },
     {
       "id": "tree_0130",
@@ -12454,69 +13172,180 @@
     "thumbnail_genre_review_requires_user_decision": false
 },
     {
-    "id": "tree_0186",
-    "category": "木",
-    "display_name": "ヤマモモ",
-    "kana": "ヤマモモ",
-    "search_aliases": [
+      "id": "tree_0186",
+      "category": "木",
+      "display_name": "ヤマモモ",
+      "kana": "ヤマモモ",
+      "search_aliases": [
         "ヤマモモ"
-    ],
-    "family": "ヤマモモ科",
-    "genus": "Morella属",
-    "scientific_name": "Morella rubra",
-    "taxon_id": 551083,
-    "taxon_rank": "species",
-    "matched_common_name": "ヤマモモ",
-    "entity_type": "種",
-    "life_form": "常緑高木",
-    "flowering_season": "3～4月",
-    "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
-    "fruiting_season": "要確認",
-    "distribution": "在来種本州（千葉県以西）、四国、九州、朝鮮、中国、台湾、フィリピン",
-    "habitat": "照葉樹林内",
-    "common_place": "照葉樹林内",
-    "feature_summary": "厚い倒卵形の葉と、表面に細かな凹凸のある赤い実をつける。",
-    "trivia": "暖かい地域の照葉樹林で見られる。",
-    "classification": {
+      ],
+      "family": "ヤマモモ科",
+      "genus": "Morella属",
+      "scientific_name": "Morella rubra",
+      "taxon_id": 551083,
+      "taxon_rank": "species",
+      "matched_common_name": "ヤマモモ",
+      "entity_type": "種",
+      "life_form": "常緑高木",
+      "flowering_season": "3～4月",
+      "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
+      "fruiting_season": "要確認",
+      "distribution": "在来種本州（千葉県以西）、四国、九州、朝鮮、中国、台湾、フィリピン",
+      "habitat": "照葉樹林内",
+      "common_place": "照葉樹林内",
+      "feature_summary": "厚い倒卵形の葉と、表面に細かな凹凸のある赤い実をつける。",
+      "trivia": "暖かい地域の照葉樹林で見られる。\n\n熟した果実を食べ、ジャムや果実酒にも加工する。傷みやすく、収穫した実が店頭に並ぶ機会は比較的少ない。",
+      "classification": {
         "kingdom": "植物界",
         "clade": "被子植物",
         "order": "ブナ目",
         "family": "ヤマモモ科",
         "genus": "Morella属",
         "species": "Morella rubra"
-    },
-    "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
-    "plant_source_url": "https://mikawanoyasou.org/data/yamamomo.htm",
-    "content_source_urls": [
+      },
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
+      "plant_source_url": "https://mikawanoyasou.org/data/yamamomo.htm",
+      "content_source_urls": [
         "https://mikawanoyasou.org/data/yamamomo.htm",
-        "https://www.inaturalist.org/taxa/551083"
-    ],
-    "image": {
+        "https://www.inaturalist.org/taxa/551083",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003441.php"
+      ],
+      "image": {
         "author": "no rights reserved",
         "license": "CC0",
         "source_url": "https://www.inaturalist.org/photos/742041865",
         "image_path": "images/0151_0200/tree_0186.jpg"
+      },
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "taxon_lookup_error": "",
+      "content_status": "完成",
+      "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+      "needs_manual_image_review": false,
+      "image_review_status": "明らかな不一致なし",
+      "image_review_note": "2026-10-10 目視確認。細長い葉が茂る枝。植物名と写真に明らかな不一致なし。",
+      "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+      "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。コメツガとハゼノキの旧元画像2枚および差替え候補4枚は個別に拡大確認した。",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな不一致なし",
+      "thumbnail_name_review_note": "2026-10-11 現在のサムネイルを目視。細長い常緑の葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定する判定ではない。",
+      "thumbnail_genre_review_date": "2026-10-12",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "樹形、幹または枝葉が確認できる。木としての代表写真に明らかな違和感はない。",
+      "thumbnail_genre_review_issue_type": null,
+      "thumbnail_genre_review_suggested_genre": null,
+      "thumbnail_genre_review_requires_user_decision": false,
+      "merged_record_ids": [
+        "sansai_0144"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "sansai_0144",
+          "previous_category": "山菜",
+          "record": {
+            "id": "sansai_0144",
+            "category": "山菜",
+            "display_name": "ヤマモモ",
+            "kana": "ヤマモモ",
+            "search_aliases": [
+              "ヤマモモ"
+            ],
+            "family": "ヤマモモ科",
+            "genus": "Morella属",
+            "scientific_name": "Morella rubra",
+            "taxon_id": 551083,
+            "reference_taxon_id": 551083,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "常緑高木",
+            "flowering_season": "3～4月",
+            "observation_season": "3～4月",
+            "distribution": "在来種本州（千葉県以西）、四国、九州、朝鮮、中国、台湾、フィリピン",
+            "habitat": "照葉樹林内",
+            "common_place": "照葉樹林内",
+            "feature_summary": "写真では、厚みのある細長い葉と果実。",
+            "trivia": "熟した果実を食べ、ジャムや果実酒にも加工する。傷みやすく、収穫した実が店頭に並ぶ機会は比較的少ない。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "ブナ目",
+              "family": "ヤマモモ科",
+              "genus": "Morella属",
+              "species": "Morella rubra"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0186の説明も照合。",
+            "plant_source_url": "https://mikawanoyasou.org/data/yamamomo.htm",
+            "content_source_urls": [
+              "https://mikawanoyasou.org/data/yamamomo.htm",
+              "https://www.inaturalist.org/taxa/551083",
+              "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003441.php"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "no rights reserved",
+              "license": "CC0",
+              "source_url": "https://www.inaturalist.org/photos/742041865",
+              "image_path": "images/0101_0150/sansai_0144.jpg",
+              "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-15",
+            "thumbnail_name_review_date": "2026-10-15",
+            "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+            "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+            "thumbnail_genre_review_date": "2026-10-15",
+            "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+            "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+            "related_record_ids": [
+              "tree_0186"
+            ],
+            "sansai_use_review": {
+              "date": "2026-10-15",
+              "processed": true,
+              "specific_use_source_confirmed": true,
+              "sources": [
+                "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003441.php"
+              ],
+              "result": "確認した用途に豆知識を修正",
+              "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+            },
+            "sansai_image_review": {
+              "date": "2026-10-15",
+              "source_replaced": false,
+              "square_crop": true,
+              "blurred_padding": false,
+              "strict_species_identification": false
+            },
+            "sansai_genre_review_20261015": {
+              "date": "2026-10-15",
+              "result": "移動・統合候補",
+              "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。",
+              "strict_photo_identification": false
+            }
+          }
+        }
+      ],
+      "sansai_genre_integration": {
+        "date": "2026-10-15",
+        "from_id": "sansai_0144",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。"
+      }
     },
-    "needs_ai_summary": false,
-    "needs_manual_taxon_review": false,
-    "taxon_lookup_error": "",
-    "content_status": "完成",
-    "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
-    "needs_manual_image_review": false,
-    "image_review_status": "明らかな不一致なし",
-    "image_review_note": "2026-10-10 目視確認。細長い葉が茂る枝。植物名と写真に明らかな不一致なし。",
-    "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
-    "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。コメツガとハゼノキの旧元画像2枚および差替え候補4枚は個別に拡大確認した。",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな不一致なし",
-    "thumbnail_name_review_note": "2026-10-11 現在のサムネイルを目視。細長い常緑の葉。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定する判定ではない。",
-    "thumbnail_genre_review_date": "2026-10-12",
-    "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "樹形、幹または枝葉が確認できる。木としての代表写真に明らかな違和感はない。",
-    "thumbnail_genre_review_issue_type": null,
-    "thumbnail_genre_review_suggested_genre": null,
-    "thumbnail_genre_review_requires_user_decision": false
-},
     {
     "id": "tree_0187",
     "category": "木",
@@ -14053,126 +14882,390 @@
       "thumbnail_genre_review_note": "三行脈の葉と小花。木の幹・枝葉または樹形が見える。"
     },
     {
-        "id":  "tree_0208",
-        "category":  "木",
-        "display_name":  "アキグミ",
-        "kana":  "アキグミ",
-        "search_aliases":  [
-                               "アキグミ"
-                           ],
-        "family":  "グミ科",
-        "genus":  "グミ属",
-        "scientific_name":  "Elaeagnus umbellata var. umbellata",
-        "taxon_id":  1059298,
-        "taxon_rank":  "variety",
-        "matched_common_name":  "アキグミ",
-        "entity_type":  "変種",
-        "life_form":  "落葉低木、小高木",
-        "flowering_season":  "4～6月",
-        "observation_season":  "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
-        "fruiting_season":  "要確認",
-        "distribution":  "在来種本州（関東地方以西）、四国、九州、朝鮮、中国、アフガニスタン、インド、ブータン、ネパール",
-        "habitat":  "川端、道端、造成地、荒地",
-        "common_place":  "川端、道端、造成地、荒地",
-        "feature_summary":  "葉の裏に銀色の鱗片があり、秋に赤い実が熟す。",
-        "trivia":  "花びらに見える部分は萼である。",
-        "classification":  {
-                               "kingdom":  "植物界",
-                               "clade":  "被子植物",
-                               "order":  "バラ目",
-                               "family":  "グミ科",
-                               "genus":  "グミ属",
-                               "species":  "Elaeagnus umbellata var. umbellata"
-                           },
-        "classification_note":  "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
-        "plant_source_url":  "https://mikawanoyasou.org/data/akigumi.htm",
-        "content_source_urls":  [
-                                    "https://mikawanoyasou.org/data/akigumi.htm",
-                                    "https://www.inaturalist.org/taxa/1059298"
-                                ],
-        "image":  {
-                      "author":  "(c) りなべる, some rights reserved (CC BY)",
-                      "license":  "CC-BY",
-                      "source_url":  "https://www.inaturalist.org/photos/589621705",
-                      "image_path":  "images/0201_0250/tree_0208.jpg"
-                  },
-        "needs_ai_summary":  false,
-        "needs_manual_taxon_review":  false,
-        "taxon_lookup_error":  "",
-        "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
-        "needs_manual_image_review":  false,
-        "image_review_status": "明らかな不一致なし",
-        "image_review_note": "2026-10-10 目視確認。斑点のある赤い果実。植物名と写真に明らかな不一致なし。",
-        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
-        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
+      "id": "tree_0208",
+      "category": "木",
+      "display_name": "アキグミ",
+      "kana": "アキグミ",
+      "search_aliases": [
+        "アキグミ"
+      ],
+      "family": "グミ科",
+      "genus": "グミ属",
+      "scientific_name": "Elaeagnus umbellata var. umbellata",
+      "taxon_id": 1059298,
+      "taxon_rank": "variety",
+      "matched_common_name": "アキグミ",
+      "entity_type": "変種",
+      "life_form": "落葉低木、小高木",
+      "flowering_season": "4～6月",
+      "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
+      "fruiting_season": "要確認",
+      "distribution": "在来種本州（関東地方以西）、四国、九州、朝鮮、中国、アフガニスタン、インド、ブータン、ネパール",
+      "habitat": "川端、道端、造成地、荒地",
+      "common_place": "川端、道端、造成地、荒地",
+      "feature_summary": "葉の裏に銀色の鱗片があり、秋に赤い実が熟す。",
+      "trivia": "花びらに見える部分は萼である。\n\n秋に赤く熟した果実を利用する。生食のほか、ジャムや果実酒にも加工される。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "被子植物",
+        "order": "バラ目",
+        "family": "グミ科",
+        "genus": "グミ属",
+        "species": "Elaeagnus umbellata var. umbellata"
+      },
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
+      "plant_source_url": "https://mikawanoyasou.org/data/akigumi.htm",
+      "content_source_urls": [
+        "https://mikawanoyasou.org/data/akigumi.htm",
+        "https://www.inaturalist.org/taxa/1059298",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003569.php",
+        "https://yasouensearch.jp/flower_name/%E3%82%A2%E3%82%AD%E3%82%B0%E3%83%9F/"
+      ],
+      "image": {
+        "author": "(c) りなべる, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/589621705",
+        "image_path": "images/0201_0250/tree_0208.jpg"
+      },
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "taxon_lookup_error": "",
+      "content_status": "完成",
+      "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+      "needs_manual_image_review": false,
+      "image_review_status": "明らかな不一致なし",
+      "image_review_note": "2026-10-10 目視確認。斑点のある赤い果実。植物名と写真に明らかな不一致なし。",
+      "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+      "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
       "thumbnail_name_review_date": "2026-10-11",
       "thumbnail_name_review_status": "明らかな不一致なし",
       "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。葉のある枝と赤い実。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
       "thumbnail_genre_review_date": "2026-10-11",
       "thumbnail_genre_review_status": "適合",
-      "thumbnail_genre_review_note": "葉のある枝と赤い実。木の幹・枝葉または樹形が見える。"
+      "thumbnail_genre_review_note": "葉のある枝と赤い実。木の幹・枝葉または樹形が見える。",
+      "merged_record_ids": [
+        "sansai_0103"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "sansai_0103",
+          "previous_category": "山菜",
+          "record": {
+            "id": "sansai_0103",
+            "category": "山菜",
+            "display_name": "アキグミ",
+            "kana": "アキグミ",
+            "search_aliases": [
+              "アキグミ"
+            ],
+            "family": "グミ科",
+            "genus": "グミ属",
+            "scientific_name": "Elaeagnus umbellata var. umbellata",
+            "taxon_id": 1059298,
+            "reference_taxon_id": 1059298,
+            "taxon_rank": "variety",
+            "entity_type": "変種",
+            "life_form": "落葉低木、小高木",
+            "flowering_season": "4～6月",
+            "observation_season": "4～6月",
+            "distribution": "在来種本州（関東地方以西）、四国、九州、朝鮮、中国、アフガニスタン、インド、ブータン、ネパール",
+            "habitat": "川端、道端、造成地、荒地",
+            "common_place": "川端、道端、造成地、荒地",
+            "feature_summary": "写真では、枝から下がる赤い果実。",
+            "trivia": "秋に赤く熟した果実を利用する。生食のほか、ジャムや果実酒にも加工される。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "バラ目",
+              "family": "グミ科",
+              "genus": "グミ属",
+              "species": "Elaeagnus umbellata var. umbellata"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0208の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+            "plant_source_url": "https://mikawanoyasou.org/data/akigumi.htm",
+            "content_source_urls": [
+              "https://mikawanoyasou.org/data/akigumi.htm",
+              "https://www.inaturalist.org/taxa/1059298",
+              "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003569.php",
+              "https://yasouensearch.jp/flower_name/%E3%82%A2%E3%82%AD%E3%82%B0%E3%83%9F/"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "(c) りなべる, some rights reserved (CC BY)",
+              "license": "CC-BY",
+              "source_url": "https://www.inaturalist.org/photos/589621705",
+              "image_path": "images/0101_0150/sansai_0103.jpg",
+              "license_url": "https://creativecommons.org/licenses/by/4.0/"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-15",
+            "thumbnail_name_review_date": "2026-10-15",
+            "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+            "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+            "thumbnail_genre_review_date": "2026-10-15",
+            "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+            "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+            "related_record_ids": [
+              "tree_0208"
+            ],
+            "classification_listing_review_date": "2026-10-13",
+            "classification_listing_review_status": "要確認の注記を残して掲載",
+            "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+            "taxonomy_reference_check": {
+              "date": "2026-10-13",
+              "source_url": "https://api.inaturalist.org/v1/taxa/1059298?locale=ja",
+              "registered_scientific_name": "Elaeagnus umbellata var. umbellata",
+              "source_scientific_name": "Elaeagnus umbellata umbellata",
+              "source_rank": "variety",
+              "source_japanese_name": "アキグミ",
+              "relation": "same_scientific_name",
+              "registration_reference_reviewed": true,
+              "strict_photo_identification_verified": false,
+              "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+            },
+            "classification_reference_check_complete": true,
+            "classification_reference_review_status": "採用分類の参照対応確認済み",
+            "taxonomy_reference_lineage": [
+              {
+                "name": "Plantae",
+                "rank": "kingdom",
+                "preferred_common_name": "植物界"
+              },
+              {
+                "name": "Rosales",
+                "rank": "order",
+                "preferred_common_name": "バラ目"
+              },
+              {
+                "name": "Elaeagnaceae",
+                "rank": "family",
+                "preferred_common_name": "グミ科"
+              },
+              {
+                "name": "Elaeagnus",
+                "rank": "genus",
+                "preferred_common_name": "グミ属"
+              }
+            ],
+            "sansai_use_review": {
+              "date": "2026-10-15",
+              "processed": true,
+              "specific_use_source_confirmed": true,
+              "sources": [
+                "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003569.php",
+                "https://yasouensearch.jp/flower_name/%E3%82%A2%E3%82%AD%E3%82%B0%E3%83%9F/"
+              ],
+              "result": "確認した用途に豆知識を修正",
+              "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+            },
+            "sansai_image_review": {
+              "date": "2026-10-15",
+              "source_replaced": false,
+              "square_crop": true,
+              "blurred_padding": false,
+              "strict_species_identification": false
+            },
+            "sansai_genre_review_20261015": {
+              "date": "2026-10-15",
+              "result": "移動・統合候補",
+              "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。",
+              "strict_photo_identification": false
+            }
+          }
+        }
+      ],
+      "sansai_genre_integration": {
+        "date": "2026-10-15",
+        "from_id": "sansai_0103",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。"
+      }
     },
     {
-        "id":  "tree_0209",
-        "category":  "木",
-        "display_name":  "ナワシログミ",
-        "kana":  "ナワシログミ",
-        "search_aliases":  [
-                               "ナワシログミ"
-                           ],
-        "family":  "グミ科",
-        "genus":  "グミ属",
-        "scientific_name":  "Elaeagnus pungens",
-        "taxon_id":  162214,
-        "taxon_rank":  "species",
-        "matched_common_name":  "ナワシログミ",
-        "entity_type":  "種",
-        "life_form":  "常緑低木",
-        "flowering_season":  "10～11月",
-        "observation_season":  "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
-        "fruiting_season":  "要確認",
-        "distribution":  "在来種本州（関東地方以西）、四国、九州、中国",
-        "habitat":  "暖地の海岸付近、丘陵地",
-        "common_place":  "暖地の海岸付近、丘陵地",
-        "feature_summary":  "常緑の葉の裏に銀色と褐色の鱗片があり、秋に花をつける。",
-        "trivia":  "実が翌春の苗代の時期に熟すことが名に由来する。",
-        "classification":  {
-                               "kingdom":  "植物界",
-                               "clade":  "被子植物",
-                               "order":  "バラ目",
-                               "family":  "グミ科",
-                               "genus":  "グミ属",
-                               "species":  "Elaeagnus pungens"
-                           },
-        "classification_note":  "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
-        "plant_source_url":  "https://mikawanoyasou.org/data/nawasirogumi.htm",
-        "content_source_urls":  [
-                                    "https://mikawanoyasou.org/data/nawasirogumi.htm",
-                                    "https://www.inaturalist.org/taxa/162214"
-                                ],
-        "image":  {
-                      "author":  "no rights reserved",
-                      "license":  "CC0",
-                      "source_url":  "https://www.inaturalist.org/photos/744899288",
-                      "image_path":  "images/0201_0250/tree_0209.jpg"
-                  },
-        "needs_ai_summary":  false,
-        "needs_manual_taxon_review":  false,
-        "taxon_lookup_error":  "",
-        "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
-        "needs_manual_image_review":  false,
-        "image_review_status": "明らかな不一致なし",
-        "image_review_note": "2026-10-10 目視確認。小型の葉と細い枝。植物名と写真に明らかな不一致なし。",
-        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
-        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
+      "id": "tree_0209",
+      "category": "木",
+      "display_name": "ナワシログミ",
+      "kana": "ナワシログミ",
+      "search_aliases": [
+        "ナワシログミ"
+      ],
+      "family": "グミ科",
+      "genus": "グミ属",
+      "scientific_name": "Elaeagnus pungens",
+      "taxon_id": 162214,
+      "taxon_rank": "species",
+      "matched_common_name": "ナワシログミ",
+      "entity_type": "種",
+      "life_form": "常緑低木",
+      "flowering_season": "10～11月",
+      "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
+      "fruiting_season": "要確認",
+      "distribution": "在来種本州（関東地方以西）、四国、九州、中国",
+      "habitat": "暖地の海岸付近、丘陵地",
+      "common_place": "暖地の海岸付近、丘陵地",
+      "feature_summary": "常緑の葉の裏に銀色と褐色の鱗片があり、秋に花をつける。",
+      "trivia": "実が翌春の苗代の時期に熟すことが名に由来する。\n\n赤く熟した実は食用になる。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "被子植物",
+        "order": "バラ目",
+        "family": "グミ科",
+        "genus": "グミ属",
+        "species": "Elaeagnus pungens"
+      },
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
+      "plant_source_url": "https://mikawanoyasou.org/data/nawasirogumi.htm",
+      "content_source_urls": [
+        "https://mikawanoyasou.org/data/nawasirogumi.htm",
+        "https://www.inaturalist.org/taxa/162214",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003527.php"
+      ],
+      "image": {
+        "author": "no rights reserved",
+        "license": "CC0",
+        "source_url": "https://www.inaturalist.org/photos/744899288",
+        "image_path": "images/0201_0250/tree_0209.jpg"
+      },
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "taxon_lookup_error": "",
+      "content_status": "完成",
+      "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+      "needs_manual_image_review": false,
+      "image_review_status": "明らかな不一致なし",
+      "image_review_note": "2026-10-10 目視確認。小型の葉と細い枝。植物名と写真に明らかな不一致なし。",
+      "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+      "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
       "thumbnail_name_review_date": "2026-10-11",
       "thumbnail_name_review_status": "明らかな不一致なし",
       "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。常緑葉の小枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
       "thumbnail_genre_review_date": "2026-10-11",
       "thumbnail_genre_review_status": "適合",
-      "thumbnail_genre_review_note": "常緑葉の小枝。木の幹・枝葉または樹形が見える。"
+      "thumbnail_genre_review_note": "常緑葉の小枝。木の幹・枝葉または樹形が見える。",
+      "merged_record_ids": [
+        "sansai_0102"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "sansai_0102",
+          "previous_category": "山菜",
+          "record": {
+            "id": "sansai_0102",
+            "category": "山菜",
+            "display_name": "ナワシログミ",
+            "kana": "ナワシログミ",
+            "search_aliases": [
+              "ナワシログミ"
+            ],
+            "family": "グミ科",
+            "genus": "グミ属",
+            "scientific_name": "Elaeagnus pungens",
+            "taxon_id": 162214,
+            "reference_taxon_id": 162214,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "常緑低木",
+            "flowering_season": "10～11月",
+            "observation_season": "10～11月",
+            "distribution": "在来種本州（関東地方以西）、四国、九州、中国",
+            "habitat": "暖地の海岸付近、丘陵地",
+            "common_place": "暖地の海岸付近、丘陵地",
+            "feature_summary": "写真では、光沢のある楕円形の葉。",
+            "trivia": "赤く熟した果実が食用になる。初夏の苗代作りの時期に実が熟すことが名前の由来。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "バラ目",
+              "family": "グミ科",
+              "genus": "グミ属",
+              "species": "Elaeagnus pungens"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0209の説明も照合。",
+            "plant_source_url": "https://mikawanoyasou.org/data/nawasirogumi.htm",
+            "content_source_urls": [
+              "https://mikawanoyasou.org/data/nawasirogumi.htm",
+              "https://www.inaturalist.org/taxa/162214",
+              "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003527.php"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "no rights reserved",
+              "license": "CC0",
+              "source_url": "https://www.inaturalist.org/photos/745541336",
+              "image_path": "images/0101_0150/sansai_0102.jpg",
+              "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-15",
+            "thumbnail_name_review_date": "2026-10-15",
+            "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+            "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+            "thumbnail_genre_review_date": "2026-10-15",
+            "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+            "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+            "related_record_ids": [
+              "tree_0209"
+            ],
+            "sansai_use_review": {
+              "date": "2026-10-15",
+              "processed": true,
+              "specific_use_source_confirmed": true,
+              "sources": [
+                "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003527.php"
+              ],
+              "result": "確認した用途に豆知識を修正",
+              "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+            },
+            "sansai_image_review": {
+              "date": "2026-10-15",
+              "source_replaced": false,
+              "square_crop": true,
+              "blurred_padding": false,
+              "strict_species_identification": false
+            },
+            "sansai_genre_review_20261015": {
+              "date": "2026-10-15",
+              "result": "移動・統合候補",
+              "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。",
+              "strict_photo_identification": false
+            }
+          }
+        }
+      ],
+      "sansai_genre_integration": {
+        "date": "2026-10-15",
+        "from_id": "sansai_0102",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。"
+      }
     },
     {
         "id":  "tree_0210",
@@ -14297,54 +15390,63 @@
       "thumbnail_genre_review_note": "五枚の小葉とつる。木の幹・枝葉または樹形が見える。"
     },
     {
-        "id":  "tree_0212",
-        "category":  "木",
-        "display_name":  "ムベ",
-        "kana":  "ムベ",
-        "search_aliases":  [
-                               "ムベ"
-                           ],
-        "family":  "アケビ科",
-        "genus":  "ムベ属",
-        "scientific_name":  "Stauntonia hexaphylla",
-        "taxon_id":  460701,
-        "taxon_rank":  "species",
-        "matched_common_name":  "ムベ",
-        "entity_type":  "種",
-        "life_form":  "常緑つる性木本",
-        "flowering_season":  "4～5月",
-        "observation_season":  "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
-        "fruiting_season":  "9～10月",
-        "distribution":  "要確認",
-        "habitat":  "要確認",
-        "common_place":  "要確認",
-        "feature_summary":  "常緑のつる性木本で、つやのある小葉が掌状に並ぶ。",
-        "trivia":  "アケビに似た実をつけるが、熟しても裂けない。",
-        "classification":  {
-                               "kingdom":  "植物界",
-                               "clade":  "被子植物",
-                               "order":  "キンポウゲ目",
-                               "family":  "アケビ科",
-                               "genus":  "ムベ属",
-                               "species":  "Stauntonia hexaphylla"
-                           },
-        "classification_note":  "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
-        "plant_source_url":  "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%99",
-        "content_source_urls":  [
-                                    "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%99",
-                                    "https://www.inaturalist.org/taxa/460701"
-                                ],
-        "image":  {"author": "WATANABE Hitoshi 渡辺仁", "license": "CC BY 4.0", "source_url": "https://www.inaturalist.org/photos/448871694", "image_path": "images/0201_0250/tree_0212.jpg", "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。", "license_url": "https://creativecommons.org/licenses/by/4.0/", "observation_url": "https://www.inaturalist.org/observations/250925739"},
-        "needs_ai_summary":  false,
-        "needs_manual_taxon_review":  false,
-        "taxon_lookup_error":  "",
-        "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
-        "needs_manual_image_review":  false,
-        "image_review_status": "明らかな不一致なし",
-        "image_review_note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。複葉とつる状の木質の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Stauntonia hexaphylla。",
-        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
-        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
+      "id": "tree_0212",
+      "category": "木",
+      "display_name": "ムベ",
+      "kana": "ムベ",
+      "search_aliases": [
+        "ムベ"
+      ],
+      "family": "アケビ科",
+      "genus": "ムベ属",
+      "scientific_name": "Stauntonia hexaphylla",
+      "taxon_id": 460701,
+      "taxon_rank": "species",
+      "matched_common_name": "ムベ",
+      "entity_type": "種",
+      "life_form": "常緑つる性木本",
+      "flowering_season": "4～5月",
+      "observation_season": "葉・樹皮・樹形を観察（地域・生育状態により適期は異なる）",
+      "fruiting_season": "9～10月",
+      "distribution": "要確認",
+      "habitat": "要確認",
+      "common_place": "要確認",
+      "feature_summary": "常緑のつる性木本で、つやのある小葉が掌状に並ぶ。",
+      "trivia": "アケビに似た実をつけるが、熟しても裂けない。\n\n熟した実の中の甘い果肉を食べる。アケビに似るが、ムベの実は熟しても自然に裂けない。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "被子植物",
+        "order": "キンポウゲ目",
+        "family": "アケビ科",
+        "genus": "ムベ属",
+        "species": "Stauntonia hexaphylla"
+      },
+      "classification_note": "科・属・学名はiNaturalistの2026-10-08取得データに基づく。",
+      "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%99",
+      "content_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%99",
+        "https://www.inaturalist.org/taxa/460701",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003560.php"
+      ],
+      "image": {
+        "author": "WATANABE Hitoshi 渡辺仁",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/448871694",
+        "image_path": "images/0201_0250/tree_0212.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/250925739"
+      },
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "taxon_lookup_error": "",
+      "content_status": "完成",
+      "verification_notes": "採用済みの元画像と権利情報を保持。識別記述を解説資料と照合し、既存の取り違えを修正。観察時期と開花・果期を区別し、未確定事項は要確認と記載。",
+      "needs_manual_image_review": false,
+      "image_review_status": "明らかな不一致なし",
+      "image_review_note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。複葉とつる状の木質の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Stauntonia hexaphylla。",
+      "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+      "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
       "thumbnail_name_review_date": "2026-10-11",
       "thumbnail_name_review_status": "明らかな不一致なし",
       "thumbnail_name_review_note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。複葉とつる状の木質の枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Stauntonia hexaphylla。",
@@ -14353,7 +15455,118 @@
       "thumbnail_genre_review_note": "複葉とつる状の木質の枝。樹形・幹・枝葉が主役。花が小さく副次的に写る場合も可。",
       "image_review_previous_note": "2026-10-10 目視確認。淡色の細長い花。植物名と写真に明らかな不一致なし。",
       "tree_flower_focus_review_date": "2026-10-11",
-      "tree_flower_focus_review_status": "差替え完了"
+      "tree_flower_focus_review_status": "差替え完了",
+      "merged_record_ids": [
+        "sansai_0098"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "sansai_0098",
+          "previous_category": "山菜",
+          "record": {
+            "id": "sansai_0098",
+            "category": "山菜",
+            "display_name": "ムベ",
+            "kana": "ムベ",
+            "search_aliases": [
+              "ムベ"
+            ],
+            "family": "アケビ科",
+            "genus": "ムベ属",
+            "scientific_name": "Stauntonia hexaphylla",
+            "taxon_id": 460701,
+            "reference_taxon_id": 460701,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "常緑つる性木本",
+            "flowering_season": "4～5月",
+            "observation_season": "4～5月",
+            "distribution": "要確認",
+            "habitat": "要確認",
+            "common_place": "要確認",
+            "feature_summary": "写真では、淡色の花とつる。",
+            "trivia": "熟した実の中の甘い果肉を食べる。アケビに似るが、ムベの実は熟しても自然に裂けない。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "キンポウゲ目",
+              "family": "アケビ科",
+              "genus": "ムベ属",
+              "species": "Stauntonia hexaphylla"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0212の説明も照合。",
+            "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%99",
+            "content_source_urls": [
+              "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%99",
+              "https://www.inaturalist.org/taxa/460701",
+              "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003560.php"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "no rights reserved",
+              "license": "CC0",
+              "source_url": "https://www.inaturalist.org/photos/448100094",
+              "image_path": "images/review_20261015/sansai_0098.jpg",
+              "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "download_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448100094/large.jpeg"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-15",
+            "thumbnail_name_review_date": "2026-10-15",
+            "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+            "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+            "thumbnail_genre_review_date": "2026-10-15",
+            "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+            "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+            "related_record_ids": [
+              "tree_0212"
+            ],
+            "sansai_use_review": {
+              "date": "2026-10-15",
+              "processed": true,
+              "specific_use_source_confirmed": true,
+              "sources": [
+                "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003560.php"
+              ],
+              "result": "確認した用途に豆知識を修正",
+              "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+            },
+            "sansai_image_review": {
+              "date": "2026-10-15",
+              "source_replaced": true,
+              "square_crop": true,
+              "blurred_padding": false,
+              "strict_species_identification": false
+            },
+            "sansai_genre_review_20261015": {
+              "date": "2026-10-15",
+              "result": "移動・統合候補",
+              "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。",
+              "strict_photo_identification": false
+            }
+          }
+        }
+      ],
+      "sansai_genre_integration": {
+        "date": "2026-10-15",
+        "from_id": "sansai_0098",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。"
+      }
     },
     {
         "id":  "tree_0213",
@@ -17798,66 +19011,180 @@
       "thumbnail_genre_review_note": "赤い実をつけた木の全体。木の幹・枝葉または樹形が見える。"
     },
     {
-        "id":  "tree_0266",
-        "category":  "木",
-        "display_name":  "ツノハシバミ",
-        "kana":  "ツノハシバミ",
-        "search_aliases":  [
-                               "ツノハシバミ"
-                           ],
-        "family":  "カバノキ科",
-        "genus":  "ハシバミ属",
-        "scientific_name":  "Corylus sieboldiana",
-        "taxon_id":  326820,
-        "reference_taxon_id":  326820,
-        "taxon_rank":  "species",
-        "matched_common_name":  "ツノハシバミ",
-        "entity_type":  "種",
-        "life_form":  "落葉低木",
-        "flowering_season":  "3～5月（",
-        "observation_season":  "葉は展葉から落葉まで。冬は枝・芽・樹形を観察。花・果実は記載の季節を参照",
-        "fruiting_season":  "9～10月）",
-        "distribution":  "在来種北海道、本州、四国、九州、朝鮮",
-        "habitat":  "山地",
-        "common_place":  "山地",
-        "feature_summary":  "葉には二重の鋸歯があり、堅果を包む総苞が長く筒状に伸びる。",
-        "trivia":  "「角」の名は、果実を包む長いくちばし状の部分を指す。",
-        "classification":  {
-                               "kingdom":  "植物界",
-                               "clade":  "被子植物（真正双子葉類）",
-                               "order":  "ブナ目",
-                               "family":  "カバノキ科",
-                               "genus":  "ハシバミ属",
-                               "species":  "Corylus sieboldiana"
-                           },
-        "classification_note":  "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。",
-        "plant_source_url":  "https://mikawanoyasou.org/data/tunohasibami.htm",
-        "content_source_urls":  [
-                                    "https://mikawanoyasou.org/data/tunohasibami.htm",
-                                    "https://www.inaturalist.org/taxa/326820"
-                                ],
-        "image":  {
-                      "author":  "(c) Violetta Dzizyurova, some rights reserved (CC BY)",
-                      "license":  "CC-BY",
-                      "source_url":  "https://www.inaturalist.org/photos/689528320",
-                      "image_path":  "images/0251_0300/tree_0266.jpg"
-                  },
-        "needs_ai_summary":  false,
-        "needs_manual_taxon_review":  false,
-        "taxon_lookup_error":  "",
-        "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
-        "needs_manual_image_review": false,
-        "image_review_status": "明らかな不一致なし",
-        "image_review_note": "2026-10-10 目視確認。筒状の果実を包む苞。植物名と写真に明らかな不一致なし。",
-        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
-        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
+      "id": "tree_0266",
+      "category": "木",
+      "display_name": "ツノハシバミ",
+      "kana": "ツノハシバミ",
+      "search_aliases": [
+        "ツノハシバミ"
+      ],
+      "family": "カバノキ科",
+      "genus": "ハシバミ属",
+      "scientific_name": "Corylus sieboldiana",
+      "taxon_id": 326820,
+      "reference_taxon_id": 326820,
+      "taxon_rank": "species",
+      "matched_common_name": "ツノハシバミ",
+      "entity_type": "種",
+      "life_form": "落葉低木",
+      "flowering_season": "3～5月（",
+      "observation_season": "葉は展葉から落葉まで。冬は枝・芽・樹形を観察。花・果実は記載の季節を参照",
+      "fruiting_season": "9～10月）",
+      "distribution": "在来種北海道、本州、四国、九州、朝鮮",
+      "habitat": "山地",
+      "common_place": "山地",
+      "feature_summary": "葉には二重の鋸歯があり、堅果を包む総苞が長く筒状に伸びる。",
+      "trivia": "「角」の名は、果実を包む長いくちばし状の部分を指す。\n\n食べるのは、かたい殻の中の種子。そのまま、または煎って利用する。果実を包む長いくちばし状の部分が名前の由来。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "被子植物（真正双子葉類）",
+        "order": "ブナ目",
+        "family": "カバノキ科",
+        "genus": "ハシバミ属",
+        "species": "Corylus sieboldiana"
+      },
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。",
+      "plant_source_url": "https://mikawanoyasou.org/data/tunohasibami.htm",
+      "content_source_urls": [
+        "https://mikawanoyasou.org/data/tunohasibami.htm",
+        "https://www.inaturalist.org/taxa/326820",
+        "https://yasouensearch.jp/flower_name/%E3%83%84%E3%83%8E%E3%83%8F%E3%82%B7%E3%83%90%E3%83%9F/",
+        "https://www.pref.ishikawa.lg.jp/ringyo/tree/data/tunohasi.html"
+      ],
+      "image": {
+        "author": "(c) Violetta Dzizyurova, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/689528320",
+        "image_path": "images/0251_0300/tree_0266.jpg"
+      },
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "taxon_lookup_error": "",
+      "content_status": "完成",
+      "verification_notes": "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "needs_manual_image_review": false,
+      "image_review_status": "明らかな不一致なし",
+      "image_review_note": "2026-10-10 目視確認。筒状の果実を包む苞。植物名と写真に明らかな不一致なし。",
+      "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+      "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
       "thumbnail_name_review_date": "2026-10-11",
       "thumbnail_name_review_status": "明らかな不一致なし",
       "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。葉のある枝と垂れた花序。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
       "thumbnail_genre_review_date": "2026-10-11",
       "thumbnail_genre_review_status": "適合",
-      "thumbnail_genre_review_note": "葉のある枝と垂れた花序。木の幹・枝葉または樹形が見える。"
+      "thumbnail_genre_review_note": "葉のある枝と垂れた花序。木の幹・枝葉または樹形が見える。",
+      "merged_record_ids": [
+        "sansai_0068"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "sansai_0068",
+          "previous_category": "山菜",
+          "record": {
+            "id": "sansai_0068",
+            "category": "山菜",
+            "display_name": "ツノハシバミ",
+            "kana": "ツノハシバミ",
+            "search_aliases": [
+              "ツノハシバミ"
+            ],
+            "family": "カバノキ科",
+            "genus": "ハシバミ属",
+            "scientific_name": "Corylus sieboldiana",
+            "taxon_id": 326820,
+            "reference_taxon_id": 326820,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "落葉低木",
+            "flowering_season": "3～5月（",
+            "observation_season": "3～5月（",
+            "distribution": "在来種北海道、本州、四国、九州、朝鮮",
+            "habitat": "山地",
+            "common_place": "山地",
+            "feature_summary": "写真では、果実を包む細長い総苞。",
+            "trivia": "食べるのは、かたい殻の中の種子。そのまま、または煎って利用する。果実を包む長いくちばし状の部分が名前の由来。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "ブナ目",
+              "family": "カバノキ科",
+              "genus": "ハシバミ属",
+              "species": "Corylus sieboldiana"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0266の説明も照合。",
+            "plant_source_url": "https://mikawanoyasou.org/data/tunohasibami.htm",
+            "content_source_urls": [
+              "https://mikawanoyasou.org/data/tunohasibami.htm",
+              "https://www.inaturalist.org/taxa/326820",
+              "https://yasouensearch.jp/flower_name/%E3%83%84%E3%83%8E%E3%83%8F%E3%82%B7%E3%83%90%E3%83%9F/",
+              "https://www.pref.ishikawa.lg.jp/ringyo/tree/data/tunohasi.html"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "(c) Violetta Dzizyurova, some rights reserved (CC BY)",
+              "license": "CC-BY",
+              "source_url": "https://www.inaturalist.org/photos/689528320",
+              "image_path": "images/0051_0100/sansai_0068.jpg",
+              "license_url": "https://creativecommons.org/licenses/by/4.0/"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-15",
+            "thumbnail_name_review_date": "2026-10-15",
+            "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+            "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+            "thumbnail_genre_review_date": "2026-10-15",
+            "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+            "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+            "related_record_ids": [
+              "tree_0266"
+            ],
+            "sansai_use_review": {
+              "date": "2026-10-15",
+              "processed": true,
+              "specific_use_source_confirmed": true,
+              "sources": [
+                "https://yasouensearch.jp/flower_name/%E3%83%84%E3%83%8E%E3%83%8F%E3%82%B7%E3%83%90%E3%83%9F/",
+                "https://www.pref.ishikawa.lg.jp/ringyo/tree/data/tunohasi.html"
+              ],
+              "result": "確認した用途に豆知識を修正",
+              "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+            },
+            "sansai_image_review": {
+              "date": "2026-10-15",
+              "source_replaced": false,
+              "square_crop": true,
+              "blurred_padding": false,
+              "strict_species_identification": false
+            },
+            "sansai_genre_review_20261015": {
+              "date": "2026-10-15",
+              "result": "移動・統合候補",
+              "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。",
+              "strict_photo_identification": false
+            }
+          }
+        }
+      ],
+      "sansai_genre_integration": {
+        "date": "2026-10-15",
+        "from_id": "sansai_0068",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。"
+      }
     },
     {
         "id":  "tree_0269",
@@ -18290,66 +19617,178 @@
       "thumbnail_genre_review_note": "多数の小葉が並ぶ複葉の若木。木の幹・枝葉または樹形が見える。"
     },
     {
-        "id":  "tree_0276",
-        "category":  "木",
-        "display_name":  "ナツハゼ",
-        "kana":  "ナツハゼ",
-        "search_aliases":  [
-                               "ナツハゼ"
-                           ],
-        "family":  "ツツジ科",
-        "genus":  "スノキ属",
-        "scientific_name":  "Vaccinium oldhamii",
-        "taxon_id":  452337,
-        "reference_taxon_id":  452337,
-        "taxon_rank":  "species",
-        "matched_common_name":  "ナツハゼ",
-        "entity_type":  "種",
-        "life_form":  "落葉低木",
-        "flowering_season":  "5～6月",
-        "observation_season":  "葉は展葉から落葉まで。冬は枝・芽・樹形を観察。花・果実は記載の季節を参照",
-        "fruiting_season":  "8～10月",
-        "distribution":  "在来種北海道、本州、四国、九州、朝鮮、中国",
-        "habitat":  "山地",
-        "common_place":  "山地",
-        "feature_summary":  "若枝や花柄に腺毛があり、赤みを帯びた小さな鐘形の花をつける。果実は黒紫色に熟す。",
-        "trivia":  "ナガボナツハゼとの比較では、腺毛の有無や花序の長さが重要。",
-        "classification":  {
-                               "kingdom":  "植物界",
-                               "clade":  "被子植物（真正双子葉類）",
-                               "order":  "ツツジ目",
-                               "family":  "ツツジ科",
-                               "genus":  "スノキ属",
-                               "species":  "Vaccinium oldhamii"
-                           },
-        "classification_note":  "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。",
-        "plant_source_url":  "https://mikawanoyasou.org/data/natuhaze.htm",
-        "content_source_urls":  [
-                                    "https://mikawanoyasou.org/data/natuhaze.htm",
-                                    "https://www.inaturalist.org/taxa/452337"
-                                ],
-        "image":  {
-                      "author":  "(c) WATANABE Hitoshi 渡辺仁, some rights reserved (CC BY)",
-                      "license":  "CC-BY",
-                      "source_url":  "https://www.inaturalist.org/photos/639447000",
-                      "image_path":  "images/0251_0300/tree_0276.jpg"
-                  },
-        "needs_ai_summary":  false,
-        "needs_manual_taxon_review":  false,
-        "taxon_lookup_error":  "",
-        "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
-        "needs_manual_image_review": false,
-        "image_review_status": "明らかな不一致なし",
-        "image_review_note": "2026-10-10 目視確認。小型の葉と黒い小果実。植物名と写真に明らかな不一致なし。",
-        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
-        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
+      "id": "tree_0276",
+      "category": "木",
+      "display_name": "ナツハゼ",
+      "kana": "ナツハゼ",
+      "search_aliases": [
+        "ナツハゼ"
+      ],
+      "family": "ツツジ科",
+      "genus": "スノキ属",
+      "scientific_name": "Vaccinium oldhamii",
+      "taxon_id": 452337,
+      "reference_taxon_id": 452337,
+      "taxon_rank": "species",
+      "matched_common_name": "ナツハゼ",
+      "entity_type": "種",
+      "life_form": "落葉低木",
+      "flowering_season": "5～6月",
+      "observation_season": "葉は展葉から落葉まで。冬は枝・芽・樹形を観察。花・果実は記載の季節を参照",
+      "fruiting_season": "8～10月",
+      "distribution": "在来種北海道、本州、四国、九州、朝鮮、中国",
+      "habitat": "山地",
+      "common_place": "山地",
+      "feature_summary": "若枝や花柄に腺毛があり、赤みを帯びた小さな鐘形の花をつける。果実は黒紫色に熟す。",
+      "trivia": "ナガボナツハゼとの比較では、腺毛の有無や花序の長さが重要。\n\n熟した果実は甘酸っぱく、生食のほかジャム、ジュース、果実酒に使う。葉を食べる山菜ではなく、実を利用する樹木。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "被子植物（真正双子葉類）",
+        "order": "ツツジ目",
+        "family": "ツツジ科",
+        "genus": "スノキ属",
+        "species": "Vaccinium oldhamii"
+      },
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。",
+      "plant_source_url": "https://mikawanoyasou.org/data/natuhaze.htm",
+      "content_source_urls": [
+        "https://mikawanoyasou.org/data/natuhaze.htm",
+        "https://www.inaturalist.org/taxa/452337",
+        "https://yasouensearch.jp/flower_name/%E3%83%8A%E3%83%84%E3%83%8F%E3%82%BC/"
+      ],
+      "image": {
+        "author": "(c) WATANABE Hitoshi 渡辺仁, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/639447000",
+        "image_path": "images/0251_0300/tree_0276.jpg"
+      },
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "taxon_lookup_error": "",
+      "content_status": "完成",
+      "verification_notes": "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "needs_manual_image_review": false,
+      "image_review_status": "明らかな不一致なし",
+      "image_review_note": "2026-10-10 目視確認。小型の葉と黒い小果実。植物名と写真に明らかな不一致なし。",
+      "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+      "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
       "thumbnail_name_review_date": "2026-10-11",
       "thumbnail_name_review_status": "明らかな不一致なし",
       "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。小さな葉と細い枝。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
       "thumbnail_genre_review_date": "2026-10-11",
       "thumbnail_genre_review_status": "適合",
-      "thumbnail_genre_review_note": "小さな葉と細い枝。木の幹・枝葉または樹形が見える。"
+      "thumbnail_genre_review_note": "小さな葉と細い枝。木の幹・枝葉または樹形が見える。",
+      "merged_record_ids": [
+        "sansai_0099"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "sansai_0099",
+          "previous_category": "山菜",
+          "record": {
+            "id": "sansai_0099",
+            "category": "山菜",
+            "display_name": "ナツハゼ",
+            "kana": "ナツハゼ",
+            "search_aliases": [
+              "ナツハゼ"
+            ],
+            "family": "ツツジ科",
+            "genus": "スノキ属",
+            "scientific_name": "Vaccinium oldhamii",
+            "taxon_id": 452337,
+            "reference_taxon_id": 452337,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "落葉低木",
+            "flowering_season": "5～6月",
+            "observation_season": "5～6月",
+            "distribution": "在来種北海道、本州、四国、九州、朝鮮、中国",
+            "habitat": "山地",
+            "common_place": "山地",
+            "feature_summary": "写真では、枝につく小さな花。",
+            "trivia": "熟した果実は甘酸っぱく、生食のほかジャム、ジュース、果実酒に使う。葉を食べる山菜ではなく、実を利用する樹木。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "ツツジ目",
+              "family": "ツツジ科",
+              "genus": "スノキ属",
+              "species": "Vaccinium oldhamii"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0276の説明も照合。",
+            "plant_source_url": "https://mikawanoyasou.org/data/natuhaze.htm",
+            "content_source_urls": [
+              "https://mikawanoyasou.org/data/natuhaze.htm",
+              "https://www.inaturalist.org/taxa/452337",
+              "https://yasouensearch.jp/flower_name/%E3%83%8A%E3%83%84%E3%83%8F%E3%82%BC/"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "(c) Adam Kamal, some rights reserved (CC BY)",
+              "license": "CC-BY",
+              "source_url": "https://www.inaturalist.org/photos/570879494",
+              "image_path": "images/review_20261015/sansai_0099.jpg",
+              "license_url": "https://creativecommons.org/licenses/by/4.0/",
+              "download_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/570879494/large.jpg"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-15",
+            "thumbnail_name_review_date": "2026-10-15",
+            "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+            "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+            "thumbnail_genre_review_date": "2026-10-15",
+            "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+            "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+            "related_record_ids": [
+              "tree_0276"
+            ],
+            "sansai_use_review": {
+              "date": "2026-10-15",
+              "processed": true,
+              "specific_use_source_confirmed": true,
+              "sources": [
+                "https://yasouensearch.jp/flower_name/%E3%83%8A%E3%83%84%E3%83%8F%E3%82%BC/"
+              ],
+              "result": "確認した用途に豆知識を修正",
+              "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+            },
+            "sansai_image_review": {
+              "date": "2026-10-15",
+              "source_replaced": true,
+              "square_crop": true,
+              "blurred_padding": false,
+              "strict_species_identification": false
+            },
+            "sansai_genre_review_20261015": {
+              "date": "2026-10-15",
+              "result": "移動・統合候補",
+              "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。",
+              "strict_photo_identification": false
+            }
+          }
+        }
+      ],
+      "sansai_genre_integration": {
+        "date": "2026-10-15",
+        "from_id": "sansai_0099",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。"
+      }
     },
     {
         "id":  "tree_0277",
@@ -18751,55 +20190,64 @@
       "thumbnail_genre_review_note": "複葉と枝の分かれ方。木の幹・枝葉または樹形が見える。"
     },
     {
-        "id":  "tree_0282",
-        "category":  "木",
-        "display_name":  "ケンポナシ",
-        "kana":  "ケンポナシ",
-        "search_aliases":  [
-                               "ケンポナシ"
-                           ],
-        "family":  "クロウメモドキ科",
-        "genus":  "ケンポナシ属",
-        "scientific_name":  "Hovenia dulcis",
-        "taxon_id":  163847,
-        "reference_taxon_id":  163847,
-        "taxon_rank":  "species",
-        "matched_common_name":  "ケンポナシ",
-        "entity_type":  "種",
-        "life_form":  "落葉高木",
-        "flowering_season":  "6〜7月",
-        "observation_season":  "葉は展葉から落葉まで。冬は枝・芽・樹形を観察。花・果実は記載の季節を参照",
-        "fruiting_season":  "要確認",
-        "distribution":  "原産・自生分布は要確認",
-        "habitat":  "自生・栽培環境は要確認",
-        "common_place":  "自生・栽培環境は要確認",
-        "feature_summary":  "広い葉と小さな淡緑色の花をつける。果実の柄が肥厚して曲がりくねる。",
-        "trivia":  "甘くなる部分は果実本体ではなく、膨らんだ果柄。",
-        "classification":  {
-                               "kingdom":  "植物界",
-                               "clade":  "被子植物（真正双子葉類）",
-                               "order":  "バラ目",
-                               "family":  "クロウメモドキ科",
-                               "genus":  "ケンポナシ属",
-                               "species":  "Hovenia dulcis"
-                           },
-        "classification_note":  "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。",
-        "plant_source_url":  "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%9D%E3%83%8A%E3%82%B7",
-        "content_source_urls":  [
-                                    "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%9D%E3%83%8A%E3%82%B7",
-                                    "https://www.inaturalist.org/taxa/163847"
-                                ],
-        "image":  {"author": "Marco Mussita", "license": "CC BY 4.0", "source_url": "https://www.inaturalist.org/photos/53779543", "image_path": "images/0251_0300/tree_0282.jpg", "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。", "license_url": "https://creativecommons.org/licenses/by/4.0/", "observation_url": "https://www.inaturalist.org/observations/34190531"},
-        "needs_ai_summary":  false,
-        "needs_manual_taxon_review":  false,
-        "taxon_lookup_error":  "",
-        "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
-        "needs_manual_image_review": false,
-        "image_review_status": "明らかな不一致なし",
-        "image_review_note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。樹冠と葉が茂る木全体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Hovenia dulcis。",
-        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
-        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
+      "id": "tree_0282",
+      "category": "木",
+      "display_name": "ケンポナシ",
+      "kana": "ケンポナシ",
+      "search_aliases": [
+        "ケンポナシ"
+      ],
+      "family": "クロウメモドキ科",
+      "genus": "ケンポナシ属",
+      "scientific_name": "Hovenia dulcis",
+      "taxon_id": 163847,
+      "reference_taxon_id": 163847,
+      "taxon_rank": "species",
+      "matched_common_name": "ケンポナシ",
+      "entity_type": "種",
+      "life_form": "落葉高木",
+      "flowering_season": "6〜7月",
+      "observation_season": "葉は展葉から落葉まで。冬は枝・芽・樹形を観察。花・果実は記載の季節を参照",
+      "fruiting_season": "要確認",
+      "distribution": "原産・自生分布は要確認",
+      "habitat": "自生・栽培環境は要確認",
+      "common_place": "自生・栽培環境は要確認",
+      "feature_summary": "広い葉と小さな淡緑色の花をつける。果実の柄が肥厚して曲がりくねる。",
+      "trivia": "甘くなる部分は果実本体ではなく、膨らんだ果柄。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "被子植物（真正双子葉類）",
+        "order": "バラ目",
+        "family": "クロウメモドキ科",
+        "genus": "ケンポナシ属",
+        "species": "Hovenia dulcis"
+      },
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。",
+      "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%9D%E3%83%8A%E3%82%B7",
+      "content_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%9D%E3%83%8A%E3%82%B7",
+        "https://www.inaturalist.org/taxa/163847",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003609.php"
+      ],
+      "image": {
+        "author": "Marco Mussita",
+        "license": "CC BY 4.0",
+        "source_url": "https://www.inaturalist.org/photos/53779543",
+        "image_path": "images/0251_0300/tree_0282.jpg",
+        "modifications": "元画像は無加工。サムネイルは縦横比を維持して長辺200px、JPEG品質90へ縮小。",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "observation_url": "https://www.inaturalist.org/observations/34190531"
+      },
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "taxon_lookup_error": "",
+      "content_status": "完成",
+      "verification_notes": "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "needs_manual_image_review": false,
+      "image_review_status": "明らかな不一致なし",
+      "image_review_note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。樹冠と葉が茂る木全体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Hovenia dulcis。",
+      "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+      "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
       "thumbnail_name_review_date": "2026-10-11",
       "thumbnail_name_review_status": "明らかな不一致なし",
       "thumbnail_name_review_note": "2026-10-11 花が主役の旧写真を、木の樹形・幹・枝葉が主役の写真へ差替え。元画像の確認用縮小表示と実際の200pxサムネイルを目視。樹冠と葉が茂る木全体。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定を確定した意味ではない。掲載元の分類名: Hovenia dulcis。",
@@ -18808,7 +20256,118 @@
       "thumbnail_genre_review_note": "樹冠と葉が茂る木全体。樹形・幹・枝葉が主役。花が小さく副次的に写る場合も可。",
       "image_review_previous_note": "2026-10-10 目視確認。白い小花の花序。植物名と写真に明らかな不一致なし。",
       "tree_flower_focus_review_date": "2026-10-11",
-      "tree_flower_focus_review_status": "差替え完了"
+      "tree_flower_focus_review_status": "差替え完了",
+      "merged_record_ids": [
+        "sansai_0216"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "sansai_0216",
+          "previous_category": "山菜",
+          "record": {
+            "id": "sansai_0216",
+            "category": "山菜",
+            "display_name": "ケンポナシ",
+            "kana": "ケンポナシ",
+            "search_aliases": [
+              "ケンポナシ"
+            ],
+            "family": "クロウメモドキ科",
+            "genus": "ケンポナシ属",
+            "scientific_name": "Hovenia dulcis",
+            "taxon_id": 163847,
+            "reference_taxon_id": 163847,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "落葉高木",
+            "flowering_season": "6〜7月",
+            "observation_season": "6〜7月",
+            "distribution": "原産・自生分布は要確認",
+            "habitat": "自生・栽培環境は要確認",
+            "common_place": "自生・栽培環境は要確認",
+            "feature_summary": "写真では、白い小花が集まる。",
+            "trivia": "甘いのは丸い果実そのものではなく、果実を支える太く肉質になった果柄。実に見える部分と、食べる部分が異なる樹木。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "バラ目",
+              "family": "クロウメモドキ科",
+              "genus": "ケンポナシ属",
+              "species": "Hovenia dulcis"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0282の説明も照合。",
+            "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%9D%E3%83%8A%E3%82%B7",
+            "content_source_urls": [
+              "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%9D%E3%83%8A%E3%82%B7",
+              "https://www.inaturalist.org/taxa/163847",
+              "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003609.php"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "(c) Marco Mussita, some rights reserved (CC BY)",
+              "license": "CC-BY",
+              "source_url": "https://www.inaturalist.org/photos/53779082",
+              "image_path": "images/review_20261015/sansai_0216.jpg",
+              "license_url": "https://creativecommons.org/licenses/by/4.0/",
+              "download_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53779082/large.jpg"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-15",
+            "thumbnail_name_review_date": "2026-10-15",
+            "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+            "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+            "thumbnail_genre_review_date": "2026-10-15",
+            "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+            "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+            "related_record_ids": [
+              "tree_0282"
+            ],
+            "sansai_use_review": {
+              "date": "2026-10-15",
+              "processed": true,
+              "specific_use_source_confirmed": true,
+              "sources": [
+                "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003609.php"
+              ],
+              "result": "確認した用途に豆知識を修正",
+              "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+            },
+            "sansai_image_review": {
+              "date": "2026-10-15",
+              "source_replaced": true,
+              "square_crop": true,
+              "blurred_padding": false,
+              "strict_species_identification": false
+            },
+            "sansai_genre_review_20261015": {
+              "date": "2026-10-15",
+              "result": "移動・統合候補",
+              "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。",
+              "strict_photo_identification": false
+            }
+          }
+        }
+      ],
+      "sansai_genre_integration": {
+        "date": "2026-10-15",
+        "from_id": "sansai_0216",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。"
+      }
     },
     {
         "id":  "tree_0283",
@@ -20060,7 +21619,7 @@
       "habitat": "山野の林縁",
       "common_place": "山野の林縁",
       "feature_summary": "巻きひげで他の植物に絡む落葉性のつる植物。葉は三〜五裂し、葉裏にクモ毛が多い。",
-      "trivia": "実は秋に黒紫色になる。",
+      "trivia": "実は秋に黒紫色になる。\n\n黒く熟した小さな果実が食用になる野生のブドウ。果肉には酸味がある。",
       "classification": {
         "kingdom": "植物界",
         "clade": "真正双子葉類",
@@ -20073,7 +21632,8 @@
       "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%93%E3%83%85%E3%83%AB",
       "content_source_urls": [
         "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%93%E3%83%85%E3%83%AB",
-        "https://www.inaturalist.org/taxa/448062"
+        "https://www.inaturalist.org/taxa/448062",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003468.php"
       ],
       "image": {
         "author": "(c) 岸本年郎, some rights reserved (CC BY)",
@@ -20099,7 +21659,117 @@
       "thumbnail_genre_review_note": "既存ジャンル内で草から木へ変更。つる性木本として整理。",
       "thumbnail_genre_review_issue_type": "resolved",
       "thumbnail_genre_review_suggested_genre": "木（つる植物）",
-      "thumbnail_genre_review_requires_user_decision": false
+      "thumbnail_genre_review_requires_user_decision": false,
+      "merged_record_ids": [
+        "sansai_0070"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "sansai_0070",
+          "previous_category": "山菜",
+          "record": {
+            "id": "sansai_0070",
+            "category": "山菜",
+            "display_name": "エビヅル",
+            "kana": "エビヅル",
+            "search_aliases": [
+              "エビヅル"
+            ],
+            "family": "ブドウ科",
+            "genus": "Vitis属",
+            "scientific_name": "Vitis ficifolia",
+            "taxon_id": 448062,
+            "reference_taxon_id": 448062,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "落葉つる性木本",
+            "flowering_season": "6-8月",
+            "observation_season": "6-8月",
+            "distribution": "要確認",
+            "habitat": "山野の林縁",
+            "common_place": "山野の林縁",
+            "feature_summary": "写真では、つると葉、細かな花序。",
+            "trivia": "黒く熟した小さな果実が食用になる野生のブドウ。果肉には酸味がある。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "ブドウ目",
+              "family": "ブドウ科",
+              "genus": "Vitis属",
+              "species": "Vitis ficifolia"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目grass_0489の説明も照合。",
+            "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%93%E3%83%85%E3%83%AB",
+            "content_source_urls": [
+              "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%93%E3%83%85%E3%83%AB",
+              "https://www.inaturalist.org/taxa/448062",
+              "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003468.php"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "(c) 岸本年郎, some rights reserved (CC BY)",
+              "license": "CC-BY",
+              "source_url": "https://www.inaturalist.org/photos/740218232",
+              "image_path": "images/0051_0100/sansai_0070.jpg",
+              "license_url": "https://creativecommons.org/licenses/by/4.0/"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-15",
+            "thumbnail_name_review_date": "2026-10-15",
+            "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+            "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+            "thumbnail_genre_review_date": "2026-10-15",
+            "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+            "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+            "related_record_ids": [
+              "grass_0489"
+            ],
+            "sansai_use_review": {
+              "date": "2026-10-15",
+              "processed": true,
+              "specific_use_source_confirmed": true,
+              "sources": [
+                "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003468.php"
+              ],
+              "result": "確認した用途に豆知識を修正",
+              "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+            },
+            "sansai_image_review": {
+              "date": "2026-10-15",
+              "source_replaced": false,
+              "square_crop": true,
+              "blurred_padding": false,
+              "strict_species_identification": false
+            },
+            "sansai_genre_review_20261015": {
+              "date": "2026-10-15",
+              "result": "移動・統合候補",
+              "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。",
+              "strict_photo_identification": false
+            }
+          }
+        }
+      ],
+      "sansai_genre_integration": {
+        "date": "2026-10-15",
+        "from_id": "sansai_0070",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動または既存項目への統合を検討。他部位が食用でないと断定したものではない。"
+      }
     },
     {
       "id": "grass_0500",
@@ -20253,5 +21923,1108 @@
         "to": "木",
         "reason": "薬用資料では非薬用。樹木の姿と、樹皮を鳥もちなどに利用した歴史を紹介。"
       }
+    },
+    {
+      "id": "sansai_0016",
+      "category": "木",
+      "display_name": "クロマメノキ",
+      "kana": "クロマメノキ",
+      "search_aliases": [
+        "クロマメノキ"
+      ],
+      "family": "ツツジ科",
+      "genus": "スノキ属",
+      "scientific_name": "Vaccinium uliginosum var. japonicum",
+      "taxon_id": 857265,
+      "reference_taxon_id": 857265,
+      "taxon_rank": "variety",
+      "entity_type": "変種",
+      "life_form": "落葉木本",
+      "flowering_season": "要確認",
+      "distribution": "本項の分布は要確認",
+      "habitat": "本項の生育環境は要確認",
+      "common_place": "本項の生育環境は要確認",
+      "feature_summary": "寒地の低木。写真では小さな葉と紫黒色の果実が見える。",
+      "trivia": "青黒く熟す果実が食用になる。長野県では「アサマブドウ」とも呼ばれ、地域で親しまれてきた野生の果実。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "Tracheophyta",
+        "order": "ツツジ目",
+        "family": "ツツジ科",
+        "genus": "スノキ属",
+        "species": "Vaccinium uliginosum var. japonicum"
+      },
+      "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。 / ジャンル整理：山菜から木へ。現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+      "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
+      "content_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
+        "https://www.inaturalist.org/taxa/857265",
+        "https://www.town.karuizawa.lg.jp/page/14623.html"
+      ],
+      "content_source_scope": "species",
+      "image": {
+        "author": "(c) Yoshihiro Tokue, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/225226676",
+        "image_path": "images/genre_20261015/sansai_0016.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "download_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/225226676/large.jpeg"
+      },
+      "content_status": "完成",
+      "needs_ai_summary": false,
+      "needs_manual_content_review": false,
+      "needs_manual_taxon_review": true,
+      "needs_manual_image_review": false,
+      "thumbnail_visually_reviewed": true,
+      "thumbnail_review_date": "2026-10-15",
+      "thumbnail_name_review_date": "2026-10-15",
+      "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+      "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+      "thumbnail_genre_review_date": "2026-10-15",
+      "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+      "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+      "verification_notes": "和名・採用学名・分類・サムネイルを照合。未確定の分布・季節・生態は要確認として残す。",
+      "observation_season": "要確認",
+      "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+      "classification_listing_review_date": "2026-10-13",
+      "classification_listing_review_status": "要確認の注記を残して掲載",
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/857265?locale=ja",
+        "registered_scientific_name": "Vaccinium uliginosum var. japonicum",
+        "source_scientific_name": "Vaccinium uliginosum japonicum",
+        "source_rank": "variety",
+        "source_japanese_name": "クロマメノキ",
+        "relation": "same_scientific_name",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Ericales",
+          "rank": "order",
+          "preferred_common_name": "ツツジ目"
+        },
+        {
+          "name": "Ericaceae",
+          "rank": "family",
+          "preferred_common_name": "ツツジ科"
+        },
+        {
+          "name": "Vaccinium",
+          "rank": "genus",
+          "preferred_common_name": "スノキ属"
+        }
+      ],
+      "classification_scope_notice": "和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+      "taxonomy_scope_final_review": {
+        "date": "2026-10-13",
+        "processing_complete": true,
+        "result": "unresolved_scope_retained",
+        "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+        "scope_notice": "和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+        "additional_primary_source_urls": [],
+        "prior_reference_check_considered": true,
+        "strict_photo_identification_verified": false
+      },
+      "sansai_use_review": {
+        "date": "2026-10-15",
+        "processed": true,
+        "specific_use_source_confirmed": true,
+        "sources": [
+          "https://www.town.karuizawa.lg.jp/page/14623.html"
+        ],
+        "result": "確認した用途に豆知識を修正",
+        "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+      },
+      "sansai_image_review": {
+        "date": "2026-10-15",
+        "source_replaced": false,
+        "square_crop": true,
+        "blurred_padding": false,
+        "strict_species_identification": false
+      },
+      "sansai_genre_review_20261015": {
+        "date": "2026-10-15",
+        "result": "移動・統合候補",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+        "strict_photo_identification": false
+      },
+      "genre_review_note": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。"
+    },
+    {
+      "id": "sansai_0040",
+      "category": "木",
+      "display_name": "サルナシ",
+      "kana": "サルナシ",
+      "search_aliases": [
+        "サルナシ"
+      ],
+      "family": "Actinidiaceae科",
+      "genus": "Actinidia属",
+      "scientific_name": "Actinidia arguta",
+      "taxon_id": 158005,
+      "reference_taxon_id": 158005,
+      "taxon_rank": "species",
+      "entity_type": "種",
+      "life_form": "落葉つる性木本",
+      "flowering_season": "5～7月",
+      "distribution": "在来種 日本、朝鮮、中国、台湾",
+      "habitat": "山地",
+      "common_place": "山地",
+      "feature_summary": "落葉性の木本のつる植物。葉柄が赤みを帯び、夏に淡色の花をつける。",
+      "trivia": "熟した果実が食用になり、果実酒にも利用される。キウイフルーツと同じマタタビの仲間で、小さな実を付ける。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "Tracheophyta",
+        "order": "ツツジ目",
+        "family": "Actinidiaceae科",
+        "genus": "Actinidia属",
+        "species": "Actinidia arguta"
+      },
+      "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。 / ジャンル整理：山菜から木へ。現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+      "plant_source_url": "https://mikawanoyasou.org/data/sarunasi.htm",
+      "content_source_urls": [
+        "https://mikawanoyasou.org/data/sarunasi.htm",
+        "https://www.inaturalist.org/taxa/158005",
+        "https://yasouensearch.jp/flower_name/%E3%82%B5%E3%83%AB%E3%83%8A%E3%82%B7/"
+      ],
+      "content_source_scope": "species",
+      "image": {
+        "author": "(c) unipon, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/741494319",
+        "image_path": "images/0001_0050/sansai_0040.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "content_status": "完成",
+      "needs_ai_summary": false,
+      "needs_manual_content_review": false,
+      "needs_manual_taxon_review": false,
+      "needs_manual_image_review": false,
+      "thumbnail_visually_reviewed": true,
+      "thumbnail_review_date": "2026-10-15",
+      "thumbnail_name_review_date": "2026-10-15",
+      "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+      "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+      "thumbnail_genre_review_date": "2026-10-15",
+      "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+      "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+      "verification_notes": "和名・採用学名・分類・サムネイルを照合。未確定の分布・季節・生態は要確認として残す。",
+      "observation_season": "5～7月",
+      "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+      "sansai_use_review": {
+        "date": "2026-10-15",
+        "processed": true,
+        "specific_use_source_confirmed": true,
+        "sources": [
+          "https://yasouensearch.jp/flower_name/%E3%82%B5%E3%83%AB%E3%83%8A%E3%82%B7/"
+        ],
+        "result": "確認した用途に豆知識を修正",
+        "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+      },
+      "sansai_image_review": {
+        "date": "2026-10-15",
+        "source_replaced": false,
+        "square_crop": true,
+        "blurred_padding": false,
+        "strict_species_identification": false
+      },
+      "sansai_genre_review_20261015": {
+        "date": "2026-10-15",
+        "result": "移動・統合候補",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+        "strict_photo_identification": false
+      },
+      "genre_review_note": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。"
+    },
+    {
+      "id": "sansai_0100",
+      "category": "木",
+      "display_name": "コケモモ",
+      "kana": "コケモモ",
+      "search_aliases": [
+        "コケモモ"
+      ],
+      "family": "ツツジ科",
+      "genus": "スノキ属",
+      "scientific_name": "Vaccinium vitis-idaea",
+      "taxon_id": 56312,
+      "reference_taxon_id": 56312,
+      "taxon_rank": "species",
+      "entity_type": "種",
+      "life_form": "半低木",
+      "flowering_season": "要確認",
+      "observation_season": "要確認",
+      "distribution": "自然分布（Kew）：Subarctic・北半球の温帯。",
+      "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+      "common_place": "生育環境は要確認",
+      "feature_summary": "写真では、低い株と赤い果実。",
+      "trivia": "甘酸っぱい果実を食べる。砂糖や塩に漬けて利用する食べ方が知られる。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "Tracheophyta",
+        "order": "ツツジ目",
+        "family": "ツツジ科",
+        "genus": "スノキ属",
+        "species": "Vaccinium vitis-idaea"
+      },
+      "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / ジャンル整理：山菜から木へ。現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+      "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2",
+      "content_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2",
+        "https://www.inaturalist.org/taxa/56312",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A293975-2",
+        "https://yasouensearch.jp/flower_name/%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2/"
+      ],
+      "content_source_scope": "species_primary",
+      "image": {
+        "author": "(c) Мирослав Соболев, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/745532373",
+        "image_path": "images/0051_0100/sansai_0100.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "content_status": "完成",
+      "needs_ai_summary": false,
+      "needs_manual_content_review": false,
+      "needs_manual_taxon_review": false,
+      "needs_manual_image_review": false,
+      "thumbnail_visually_reviewed": true,
+      "thumbnail_review_date": "2026-10-15",
+      "thumbnail_name_review_date": "2026-10-15",
+      "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+      "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+      "thumbnail_genre_review_date": "2026-10-15",
+      "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+      "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+      "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+      "existing_content_fields_reused": [],
+      "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+      "content_followup_source_title": "Vaccinium vitis-idaea L. | Plants of the World Online | Kew Science",
+      "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A293975-2",
+      "content_basic_ecology_verified": true,
+      "content_followup_review_status": "基本情報の出典確認済み",
+      "ecology_source_details": {
+        "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A293975-2",
+        "life_form_original": "subshrub",
+        "native_range_original": "Subarctic & Temp. Northern Hemisphere",
+        "biome_original": "temperate"
+      },
+      "content_followup_review_date": "2026-10-12",
+      "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "sansai_use_review": {
+        "date": "2026-10-15",
+        "processed": true,
+        "specific_use_source_confirmed": true,
+        "sources": [
+          "https://yasouensearch.jp/flower_name/%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2/"
+        ],
+        "result": "確認した用途に豆知識を修正",
+        "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+      },
+      "sansai_image_review": {
+        "date": "2026-10-15",
+        "source_replaced": false,
+        "square_crop": true,
+        "blurred_padding": false,
+        "strict_species_identification": false
+      },
+      "sansai_genre_review_20261015": {
+        "date": "2026-10-15",
+        "result": "移動・統合候補",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+        "strict_photo_identification": false
+      },
+      "genre_review_note": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。"
+    },
+    {
+      "id": "sansai_0105",
+      "category": "木",
+      "display_name": "モミジイチゴ",
+      "kana": "モミジイチゴ",
+      "search_aliases": [
+        "モミジイチゴ"
+      ],
+      "family": "バラ科",
+      "genus": "Rubus属",
+      "scientific_name": "Rubus palmatus var. coptophyllus",
+      "taxon_id": 452046,
+      "reference_taxon_id": 452046,
+      "taxon_rank": "variety",
+      "entity_type": "変種",
+      "life_form": "落葉低木",
+      "flowering_season": "3〜5月（地域や気候によって前後する）。",
+      "observation_season": "要確認",
+      "distribution": "本州中部以北から北海道の一部に分布。",
+      "habitat": "山野や林縁に生育。日光植物園周辺でも野生株が記録されている。",
+      "common_place": "生育環境は要確認",
+      "feature_summary": "葉は3〜5つに裂け、枝には鉤状のとげがある。白い5弁の花が下向きに咲き、果実は橙黄色になる。",
+      "trivia": "黄色く熟した果実を食べるキイチゴ。生食のほか、ジュースやジャムにも利用される。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "Tracheophyta",
+        "order": "バラ目",
+        "family": "バラ科",
+        "genus": "Rubus属",
+        "species": "Rubus palmatus var. coptophyllus"
+      },
+      "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / ジャンル整理：山菜から木へ。現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+      "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%9F%E3%82%B8%E3%82%A4%E3%83%81%E3%82%B4",
+      "content_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%9F%E3%82%B8%E3%82%A4%E3%83%81%E3%82%B4",
+        "https://www.inaturalist.org/taxa/452046",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A2985103-4",
+        "https://nikko-bg.jp/nikko-old/5_jokyo/species/Rubus_palmatus.html",
+        "https://www.botanic.jp/plants-ma/moitig.htm",
+        "https://yasouensearch.jp/flower_name/%E3%83%A2%E3%83%9F%E3%82%B8%E3%82%A4%E3%83%81%E3%82%B4/"
+      ],
+      "content_source_scope": "species_primary",
+      "image": {
+        "author": "(c) WATANABE Hitoshi 渡辺仁, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/456329689",
+        "image_path": "images/genre_20261015/sansai_0105.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "download_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456329689/large.jpeg"
+      },
+      "content_status": "完成",
+      "needs_ai_summary": false,
+      "needs_manual_content_review": false,
+      "needs_manual_taxon_review": false,
+      "needs_manual_image_review": false,
+      "thumbnail_visually_reviewed": true,
+      "thumbnail_review_date": "2026-10-15",
+      "thumbnail_name_review_date": "2026-10-15",
+      "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+      "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+      "thumbnail_genre_review_date": "2026-10-15",
+      "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+      "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+      "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+      "existing_content_fields_reused": [],
+      "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+      "content_followup_source_title": "Rubus palmatus var. coptophyllus (A.Gray) Kuntze | Plants of the World Online | Kew Science",
+      "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A2985103-4",
+      "content_followup_review_status": "基本情報の出典確認済み",
+      "content_followup_review_date": "2026-10-12",
+      "content_followup_review_note": "採用学名の変種 coptophyllus を扱う日光植物園の記録と植物写真資料を照合。食用・薬用の安全性は補完していない。",
+      "content_basic_ecology_verified": true,
+      "remaining105_review_status": "補完済み",
+      "remaining105_review_note": "採用学名の変種 coptophyllus を扱う日光植物園の記録と植物写真資料を照合。食用・薬用の安全性は補完していない。",
+      "classification_listing_review_date": "2026-10-13",
+      "classification_listing_review_status": "要確認の注記を残して掲載",
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/452046?locale=ja",
+        "registered_scientific_name": "Rubus palmatus var. coptophyllus",
+        "source_scientific_name": "Rubus palmatus coptophyllus",
+        "source_rank": "variety",
+        "source_japanese_name": "モミジイチゴ",
+        "relation": "same_scientific_name",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "採用分類の参照対応確認済み",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Rosales",
+          "rank": "order",
+          "preferred_common_name": "バラ目"
+        },
+        {
+          "name": "Rosaceae",
+          "rank": "family",
+          "preferred_common_name": "バラ科"
+        },
+        {
+          "name": "Rubus",
+          "rank": "genus",
+          "preferred_common_name": "キイチゴ属"
+        }
+      ],
+      "sansai_use_review": {
+        "date": "2026-10-15",
+        "processed": true,
+        "specific_use_source_confirmed": true,
+        "sources": [
+          "https://yasouensearch.jp/flower_name/%E3%83%A2%E3%83%9F%E3%82%B8%E3%82%A4%E3%83%81%E3%82%B4/"
+        ],
+        "result": "確認した用途に豆知識を修正",
+        "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+      },
+      "sansai_image_review": {
+        "date": "2026-10-15",
+        "source_replaced": true,
+        "square_crop": true,
+        "blurred_padding": false,
+        "strict_species_identification": false
+      },
+      "sansai_genre_review_20261015": {
+        "date": "2026-10-15",
+        "result": "移動・統合候補",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+        "strict_photo_identification": false
+      },
+      "genre_review_note": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。"
+    },
+    {
+      "id": "sansai_0106",
+      "category": "木",
+      "display_name": "クマイチゴ",
+      "kana": "クマイチゴ",
+      "search_aliases": [
+        "クマイチゴ"
+      ],
+      "family": "バラ科",
+      "genus": "Rubus属",
+      "scientific_name": "Rubus crataegifolius",
+      "taxon_id": 448109,
+      "reference_taxon_id": 448109,
+      "taxon_rank": "species",
+      "entity_type": "種",
+      "life_form": "低木",
+      "flowering_season": "要確認",
+      "observation_season": "要確認",
+      "distribution": "自然分布（Kew）：南部 Siberiaから朝鮮半島、日本。",
+      "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+      "common_place": "生育環境は要確認",
+      "feature_summary": "写真では、切れ込みと鋸歯のある葉。",
+      "trivia": "赤く熟した果実が食用になるキイチゴ。果実はいくつもの小さな核果が集まってできている。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "Tracheophyta",
+        "order": "バラ目",
+        "family": "バラ科",
+        "genus": "Rubus属",
+        "species": "Rubus crataegifolius"
+      },
+      "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / ジャンル整理：山菜から木へ。現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+      "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%9E%E3%82%A4%E3%83%81%E3%82%B4",
+      "content_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%9E%E3%82%A4%E3%83%81%E3%82%B4",
+        "https://www.inaturalist.org/taxa/448109",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A736083-1",
+        "https://yasouensearch.jp/flower_name/%E3%82%AF%E3%83%9E%E3%82%A4%E3%83%81%E3%82%B4/"
+      ],
+      "content_source_scope": "species_primary",
+      "image": {
+        "author": "no rights reserved",
+        "license": "CC0",
+        "source_url": "https://www.inaturalist.org/photos/666889745",
+        "image_path": "images/review_20261015/sansai_0106.jpg",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "download_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/666889745/large.jpg"
+      },
+      "content_status": "完成",
+      "needs_ai_summary": false,
+      "needs_manual_content_review": false,
+      "needs_manual_taxon_review": false,
+      "needs_manual_image_review": false,
+      "thumbnail_visually_reviewed": true,
+      "thumbnail_review_date": "2026-10-15",
+      "thumbnail_name_review_date": "2026-10-15",
+      "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+      "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+      "thumbnail_genre_review_date": "2026-10-15",
+      "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+      "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+      "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+      "existing_content_fields_reused": [],
+      "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+      "content_followup_source_title": "Rubus crataegifolius Bunge | Plants of the World Online | Kew Science",
+      "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A736083-1",
+      "content_basic_ecology_verified": true,
+      "content_followup_review_status": "基本情報の出典確認済み",
+      "ecology_source_details": {
+        "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A736083-1",
+        "life_form_original": "shrub",
+        "native_range_original": "S. Siberia to Korea, Japan",
+        "biome_original": "temperate"
+      },
+      "content_followup_review_date": "2026-10-12",
+      "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "sansai_use_review": {
+        "date": "2026-10-15",
+        "processed": true,
+        "specific_use_source_confirmed": true,
+        "sources": [
+          "https://yasouensearch.jp/flower_name/%E3%82%AF%E3%83%9E%E3%82%A4%E3%83%81%E3%82%B4/"
+        ],
+        "result": "確認した用途に豆知識を修正",
+        "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+      },
+      "sansai_image_review": {
+        "date": "2026-10-15",
+        "source_replaced": true,
+        "square_crop": true,
+        "blurred_padding": false,
+        "strict_species_identification": false
+      },
+      "sansai_genre_review_20261015": {
+        "date": "2026-10-15",
+        "result": "移動・統合候補",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+        "strict_photo_identification": false
+      },
+      "genre_review_note": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。"
+    },
+    {
+      "id": "sansai_0107",
+      "category": "木",
+      "display_name": "ナワシロイチゴ",
+      "kana": "ナワシロイチゴ",
+      "search_aliases": [
+        "ナワシロイチゴ"
+      ],
+      "family": "バラ科",
+      "genus": "Rubus属",
+      "scientific_name": "Rubus parvifolius",
+      "taxon_id": 51645,
+      "reference_taxon_id": 51645,
+      "taxon_rank": "species",
+      "entity_type": "種",
+      "life_form": "半低木",
+      "flowering_season": "要確認",
+      "observation_season": "要確認",
+      "distribution": "自然分布（Kew）：中国からベトナム、サハリンから温帯の 東部 アジア、東部・南東部 オーストラリア。",
+      "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+      "common_place": "生育環境は要確認",
+      "feature_summary": "写真では、小葉とつる。",
+      "trivia": "深い赤色に熟した果実が食用になる。粒が少し粗く、いくつかの小さな核果が集まって一つの実のように見える。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "Tracheophyta",
+        "order": "バラ目",
+        "family": "バラ科",
+        "genus": "Rubus属",
+        "species": "Rubus parvifolius"
+      },
+      "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / ジャンル整理：山菜から木へ。現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+      "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%AF%E3%82%B7%E3%83%AD%E3%82%A4%E3%83%81%E3%82%B4",
+      "content_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%AF%E3%82%B7%E3%83%AD%E3%82%A4%E3%83%81%E3%82%B4",
+        "https://www.inaturalist.org/taxa/51645",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A738967-1",
+        "https://yasouensearch.jp/flower_name/%E3%83%8A%E3%83%AF%E3%82%B7%E3%83%AD%E3%82%A4%E3%83%81%E3%82%B4/"
+      ],
+      "content_source_scope": "species_primary",
+      "image": {
+        "author": "no rights reserved",
+        "license": "CC0",
+        "source_url": "https://www.inaturalist.org/photos/744712910",
+        "image_path": "images/0101_0150/sansai_0107.jpg",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "content_status": "完成",
+      "needs_ai_summary": false,
+      "needs_manual_content_review": false,
+      "needs_manual_taxon_review": false,
+      "needs_manual_image_review": false,
+      "thumbnail_visually_reviewed": true,
+      "thumbnail_review_date": "2026-10-15",
+      "thumbnail_name_review_date": "2026-10-15",
+      "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+      "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+      "thumbnail_genre_review_date": "2026-10-15",
+      "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+      "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+      "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+      "existing_content_fields_reused": [],
+      "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+      "content_followup_source_title": "Rubus parvifolius L. | Plants of the World Online | Kew Science",
+      "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A738967-1",
+      "content_basic_ecology_verified": true,
+      "content_followup_review_status": "基本情報の出典確認済み",
+      "ecology_source_details": {
+        "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A738967-1",
+        "life_form_original": "subshrub",
+        "native_range_original": "China to Vietnam, Sakhalin to Temp. E. Asia, E. & SE. Australia",
+        "biome_original": "temperate"
+      },
+      "content_followup_review_date": "2026-10-12",
+      "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "sansai_use_review": {
+        "date": "2026-10-15",
+        "processed": true,
+        "specific_use_source_confirmed": true,
+        "sources": [
+          "https://yasouensearch.jp/flower_name/%E3%83%8A%E3%83%AF%E3%82%B7%E3%83%AD%E3%82%A4%E3%83%81%E3%82%B4/"
+        ],
+        "result": "確認した用途に豆知識を修正",
+        "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+      },
+      "sansai_image_review": {
+        "date": "2026-10-15",
+        "source_replaced": false,
+        "square_crop": true,
+        "blurred_padding": false,
+        "strict_species_identification": false
+      },
+      "sansai_genre_review_20261015": {
+        "date": "2026-10-15",
+        "result": "移動・統合候補",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+        "strict_photo_identification": false
+      },
+      "genre_review_note": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。"
+    },
+    {
+      "id": "sansai_0108",
+      "category": "木",
+      "display_name": "フユイチゴ",
+      "kana": "フユイチゴ",
+      "search_aliases": [
+        "フユイチゴ"
+      ],
+      "family": "バラ科",
+      "genus": "Rubus属",
+      "scientific_name": "Rubus buergeri",
+      "taxon_id": 208837,
+      "reference_taxon_id": 208837,
+      "taxon_rank": "species",
+      "entity_type": "種",
+      "life_form": "低木",
+      "flowering_season": "要確認",
+      "observation_season": "要確認",
+      "distribution": "自然分布（Kew）：南部 中国から温帯の 東部 アジア。",
+      "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+      "common_place": "生育環境は要確認",
+      "feature_summary": "写真では、鋸歯の葉と果実の集まり。",
+      "trivia": "赤く熟した果実が食用になるキイチゴ。多くのキイチゴと違い、秋から冬に実が熟す。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "Tracheophyta",
+        "order": "バラ目",
+        "family": "バラ科",
+        "genus": "Rubus属",
+        "species": "Rubus buergeri"
+      },
+      "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / ジャンル整理：山菜から木へ。現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+      "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A6%E3%82%A4%E3%83%81%E3%82%B4",
+      "content_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A6%E3%82%A4%E3%83%81%E3%82%B4",
+        "https://www.inaturalist.org/taxa/208837",
+        "https://powo.science.kew.org/taxon/735581-1",
+        "https://www.rinya.maff.go.jp/kinki/koho/koho_si/morinohiroba/pdf/no1200.pdf"
+      ],
+      "content_source_scope": "species_primary",
+      "image": {
+        "author": "(c) harum.koh, some rights reserved (CC BY-SA)",
+        "license": "CC-BY-SA",
+        "source_url": "https://www.inaturalist.org/photos/85546481",
+        "image_path": "images/review_20261015/sansai_0108.jpg",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "download_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/85546481/large.jpeg"
+      },
+      "content_status": "完成",
+      "needs_ai_summary": false,
+      "needs_manual_content_review": false,
+      "needs_manual_taxon_review": false,
+      "needs_manual_image_review": false,
+      "thumbnail_visually_reviewed": true,
+      "thumbnail_review_date": "2026-10-15",
+      "thumbnail_name_review_date": "2026-10-15",
+      "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+      "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+      "thumbnail_genre_review_date": "2026-10-15",
+      "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+      "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+      "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+      "existing_content_fields_reused": [],
+      "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+      "content_followup_source_title": "Rubus buergeri Miq. | Plants of the World Online | Kew Science",
+      "content_followup_source_url": "https://powo.science.kew.org/taxon/735581-1",
+      "content_basic_ecology_verified": true,
+      "content_followup_review_status": "基本情報の出典確認済み",
+      "ecology_source_details": {
+        "source_url": "https://powo.science.kew.org/taxon/735581-1",
+        "life_form_original": "shrub",
+        "native_range_original": "S. China to Temp. E. Asia",
+        "biome_original": "temperate"
+      },
+      "content_followup_review_date": "2026-10-12",
+      "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "sansai_use_review": {
+        "date": "2026-10-15",
+        "processed": true,
+        "specific_use_source_confirmed": true,
+        "sources": [
+          "https://www.rinya.maff.go.jp/kinki/koho/koho_si/morinohiroba/pdf/no1200.pdf"
+        ],
+        "result": "確認した用途に豆知識を修正",
+        "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+      },
+      "sansai_image_review": {
+        "date": "2026-10-15",
+        "source_replaced": true,
+        "square_crop": true,
+        "blurred_padding": false,
+        "strict_species_identification": false
+      },
+      "sansai_genre_review_20261015": {
+        "date": "2026-10-15",
+        "result": "移動・統合候補",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+        "strict_photo_identification": false
+      },
+      "genre_review_note": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。"
+    },
+    {
+      "id": "sansai_0145",
+      "category": "木",
+      "display_name": "ニガイチゴ",
+      "kana": "ニガイチゴ",
+      "search_aliases": [
+        "ニガイチゴ"
+      ],
+      "family": "バラ科",
+      "genus": "Rubus属",
+      "scientific_name": "Rubus microphyllus",
+      "taxon_id": 452494,
+      "reference_taxon_id": 452494,
+      "taxon_rank": "species",
+      "entity_type": "種",
+      "life_form": "低木",
+      "flowering_season": "要確認",
+      "observation_season": "要確認",
+      "distribution": "自然分布（Kew）：中部・南部 日本。",
+      "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+      "common_place": "生育環境は要確認",
+      "feature_summary": "写真では、鋸歯のある葉と赤い実。",
+      "trivia": "果実には甘さと苦みがある。名前のとおり、甘いキイチゴとしてだけでは説明できない風味を持つ。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "Tracheophyta",
+        "order": "バラ目",
+        "family": "バラ科",
+        "genus": "Rubus属",
+        "species": "Rubus microphyllus"
+      },
+      "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / ジャンル整理：山菜から木へ。現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+      "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AC%E3%82%A4%E3%83%81%E3%82%B4",
+      "content_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AC%E3%82%A4%E3%83%81%E3%82%B4",
+        "https://www.inaturalist.org/taxa/452494",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A738391-1",
+        "https://www.pref.ishikawa.lg.jp/ringyo/tree/data/nigaitig.html"
+      ],
+      "content_source_scope": "species_primary",
+      "image": {
+        "author": "(c) Kristof Zyskowski, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/707566722",
+        "image_path": "images/0101_0150/sansai_0145.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "content_status": "完成",
+      "needs_ai_summary": false,
+      "needs_manual_content_review": false,
+      "needs_manual_taxon_review": false,
+      "needs_manual_image_review": false,
+      "thumbnail_visually_reviewed": true,
+      "thumbnail_review_date": "2026-10-15",
+      "thumbnail_name_review_date": "2026-10-15",
+      "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+      "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+      "thumbnail_genre_review_date": "2026-10-15",
+      "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+      "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+      "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+      "existing_content_fields_reused": [],
+      "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+      "content_followup_source_title": "Rubus microphyllus L.f. | Plants of the World Online | Kew Science",
+      "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A738391-1",
+      "content_basic_ecology_verified": true,
+      "content_followup_review_status": "基本情報の出典確認済み",
+      "ecology_source_details": {
+        "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A738391-1",
+        "life_form_original": "shrub",
+        "native_range_original": "Central & S. Japan",
+        "biome_original": "temperate"
+      },
+      "content_followup_review_date": "2026-10-12",
+      "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "sansai_use_review": {
+        "date": "2026-10-15",
+        "processed": true,
+        "specific_use_source_confirmed": true,
+        "sources": [
+          "https://www.pref.ishikawa.lg.jp/ringyo/tree/data/nigaitig.html"
+        ],
+        "result": "確認した用途に豆知識を修正",
+        "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+      },
+      "sansai_image_review": {
+        "date": "2026-10-15",
+        "source_replaced": false,
+        "square_crop": true,
+        "blurred_padding": false,
+        "strict_species_identification": false
+      },
+      "sansai_genre_review_20261015": {
+        "date": "2026-10-15",
+        "result": "移動・統合候補",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+        "strict_photo_identification": false
+      },
+      "genre_review_note": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。"
+    },
+    {
+      "id": "sansai_0173",
+      "category": "木",
+      "display_name": "ツルコケモモ",
+      "kana": "ツルコケモモ",
+      "search_aliases": [
+        "ツルコケモモ"
+      ],
+      "family": "ツツジ科",
+      "genus": "スノキ属",
+      "scientific_name": "Vaccinium oxycoccos",
+      "taxon_id": 126560,
+      "reference_taxon_id": 126560,
+      "taxon_rank": "species",
+      "entity_type": "種",
+      "life_form": "半低木",
+      "flowering_season": "要確認",
+      "observation_season": "要確認",
+      "distribution": "自然分布（Kew）：Subarctic・北半球の温帯。",
+      "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+      "common_place": "生育環境は要確認",
+      "feature_summary": "写真では、小さな厚い葉を持つ枝。",
+      "trivia": "熟した果実を生食するほか、ジャムや果実酒に加工する。地面を這う小さな低木で、実を利用する。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "Tracheophyta",
+        "order": "ツツジ目",
+        "family": "ツツジ科",
+        "genus": "スノキ属",
+        "species": "Vaccinium oxycoccos"
+      },
+      "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / ジャンル整理：山菜から木へ。現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+      "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AB%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2",
+      "content_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AB%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2",
+        "https://www.inaturalist.org/taxa/126560",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A261956-2",
+        "https://yasouensearch.jp/flower_name/%E3%83%84%E3%83%AB%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2/"
+      ],
+      "content_source_scope": "species_primary",
+      "image": {
+        "author": "(c) Norma Malinowski, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/99888384",
+        "image_path": "images/genre_20261015/sansai_0173.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "download_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/99888384/large.jpg"
+      },
+      "content_status": "完成",
+      "needs_ai_summary": false,
+      "needs_manual_content_review": false,
+      "needs_manual_taxon_review": false,
+      "needs_manual_image_review": false,
+      "thumbnail_visually_reviewed": true,
+      "thumbnail_review_date": "2026-10-15",
+      "thumbnail_name_review_date": "2026-10-15",
+      "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+      "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+      "thumbnail_genre_review_date": "2026-10-15",
+      "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+      "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+      "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+      "existing_content_fields_reused": [],
+      "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+      "content_followup_source_title": "Vaccinium oxycoccos L. | Plants of the World Online | Kew Science",
+      "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A261956-2",
+      "content_basic_ecology_verified": true,
+      "content_followup_review_status": "基本情報の出典確認済み",
+      "ecology_source_details": {
+        "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A261956-2",
+        "life_form_original": "subshrub",
+        "native_range_original": "Subarctic & Temp. Northern Hemisphere",
+        "biome_original": "temperate"
+      },
+      "content_followup_review_date": "2026-10-12",
+      "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "sansai_use_review": {
+        "date": "2026-10-15",
+        "processed": true,
+        "specific_use_source_confirmed": true,
+        "sources": [
+          "https://yasouensearch.jp/flower_name/%E3%83%84%E3%83%AB%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2/"
+        ],
+        "result": "確認した用途に豆知識を修正",
+        "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+      },
+      "sansai_image_review": {
+        "date": "2026-10-15",
+        "source_replaced": false,
+        "square_crop": true,
+        "blurred_padding": false,
+        "strict_species_identification": false
+      },
+      "sansai_genre_review_20261015": {
+        "date": "2026-10-15",
+        "result": "移動・統合候補",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+        "strict_photo_identification": false
+      },
+      "genre_review_note": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。"
+    },
+    {
+      "id": "sansai_0174",
+      "category": "木",
+      "display_name": "ガンコウラン",
+      "kana": "ガンコウラン",
+      "search_aliases": [
+        "ガンコウラン"
+      ],
+      "family": "ツツジ科",
+      "genus": "Empetrum属",
+      "scientific_name": "Empetrum nigrum subsp. asiaticum",
+      "taxon_id": 1035801,
+      "reference_taxon_id": 1035801,
+      "taxon_rank": "subspecies",
+      "entity_type": "亜種",
+      "life_form": "半低木",
+      "flowering_season": "要確認",
+      "observation_season": "要確認",
+      "distribution": "自然分布（Kew）：ロシア極東から北部 中国・朝鮮半島、北部・中部 日本。",
+      "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+      "common_place": "生育環境は要確認",
+      "feature_summary": "写真では、針状の細い葉。",
+      "trivia": "黒く熟した果実が食用になる高山の低木。細い葉を野菜として食べるものではなく、小さな実を利用する。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "Tracheophyta",
+        "order": "ツツジ目",
+        "family": "ツツジ科",
+        "genus": "Empetrum属",
+        "species": "Empetrum nigrum subsp. asiaticum"
+      },
+      "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / ジャンル整理：山菜から木へ。現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+      "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%82%B3%E3%82%A6%E3%83%A9%E3%83%B3",
+      "content_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%82%B3%E3%82%A6%E3%83%A9%E3%83%B3",
+        "https://www.inaturalist.org/taxa/1035801",
+        "https://powo.science.kew.org/taxon/997275-1",
+        "https://www.rinya.maff.go.jp/tohoku/sidou/jumoku/shubetu/gankouran.html"
+      ],
+      "content_source_scope": "species_primary",
+      "image": {
+        "author": "(c) Timur Kalininsky, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/705667851",
+        "image_path": "images/0151_0200/sansai_0174.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "content_status": "完成",
+      "needs_ai_summary": false,
+      "needs_manual_content_review": false,
+      "needs_manual_taxon_review": false,
+      "needs_manual_image_review": false,
+      "thumbnail_visually_reviewed": true,
+      "thumbnail_review_date": "2026-10-15",
+      "thumbnail_name_review_date": "2026-10-15",
+      "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+      "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+      "thumbnail_genre_review_date": "2026-10-15",
+      "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+      "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+      "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+      "existing_content_fields_reused": [],
+      "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+      "content_followup_source_title": "Empetrum nigrum subsp. asiaticum (Nakai ex H.Itô) Kuvaev | Plants of the World Online | Kew Science",
+      "content_followup_source_url": "https://powo.science.kew.org/taxon/997275-1",
+      "content_basic_ecology_verified": true,
+      "content_followup_review_status": "基本情報の出典確認済み",
+      "ecology_source_details": {
+        "source_url": "https://powo.science.kew.org/taxon/997275-1",
+        "life_form_original": "subshrub",
+        "native_range_original": "Russian Far East to N. China and Korea, N. & Central Japan",
+        "biome_original": "temperate"
+      },
+      "content_followup_review_date": "2026-10-12",
+      "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "classification_listing_review_date": "2026-10-13",
+      "classification_listing_review_status": "要確認の注記を残して掲載",
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/1035801?locale=ja",
+        "registered_scientific_name": "Empetrum nigrum subsp. asiaticum",
+        "source_scientific_name": "Empetrum nigrum asiaticum",
+        "source_rank": "subspecies",
+        "source_japanese_name": "ガンコウラン",
+        "relation": "same_scientific_name",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "採用分類の参照対応確認済み",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Ericales",
+          "rank": "order",
+          "preferred_common_name": "ツツジ目"
+        },
+        {
+          "name": "Ericaceae",
+          "rank": "family",
+          "preferred_common_name": "ツツジ科"
+        },
+        {
+          "name": "Empetrum",
+          "rank": "genus",
+          "preferred_common_name": "ガンコウラン属"
+        }
+      ],
+      "sansai_use_review": {
+        "date": "2026-10-15",
+        "processed": true,
+        "specific_use_source_confirmed": true,
+        "sources": [
+          "https://www.rinya.maff.go.jp/tohoku/sidou/jumoku/shubetu/gankouran.html"
+        ],
+        "result": "確認した用途に豆知識を修正",
+        "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+      },
+      "sansai_image_review": {
+        "date": "2026-10-15",
+        "source_replaced": false,
+        "square_crop": true,
+        "blurred_padding": false,
+        "strict_species_identification": false
+      },
+      "sansai_genre_review_20261015": {
+        "date": "2026-10-15",
+        "result": "移動・統合候補",
+        "reason": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。",
+        "strict_photo_identification": false
+      },
+      "genre_review_note": "現在確認できた食用の記録は果実・種子・果柄が中心。このアプリで若菜等を中心とする山菜に整理する場合、木へ移動を検討。他部位が食用でないと断定したものではない。"
     }
 ]

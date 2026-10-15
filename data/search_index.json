@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at_utc": "2026-10-15T06:21:24.759290+00:00",
-  "completed_count": 2666,
+  "generated_at_utc": "2026-10-15T11:17:00.157984+00:00",
+  "completed_count": 2639,
   "items": [
     {
       "id": "flower_0001",
@@ -2887,24 +2887,33 @@
       "name": "ハゲイトウ",
       "kana": "ハゲイトウ",
       "aliases": [
-        "葉鶏頭"
+        "葉鶏頭",
+        "ヒユ",
+        "ハゲイトウ"
       ],
       "romaji": [
-        "hageitou"
+        "hageitou",
+        "hiyu"
       ],
       "scientific": "Amaranthus tricolor",
       "search_terms": [
         "ハゲイトウ",
         "はげいとう",
         "葉鶏頭",
+        "ヒユ",
+        "ひゆ",
         "hageitou",
+        "hiyu",
         "Amaranthus tricolor"
       ],
       "normalized_terms": [
         "ハゲイトウ",
         "はげいとう",
         "葉鶏頭",
+        "ヒユ",
+        "ひゆ",
         "hageitou",
+        "hiyu",
         "amaranthustricolor"
       ]
     },
@@ -21201,7 +21210,8 @@
       "kana": "まこも",
       "aliases": [
         "マコモ",
-        "ハナガツミ"
+        "ハナガツミ",
+        "まこも"
       ],
       "romaji": [
         "makomo",
@@ -53481,31 +53491,6 @@
       ]
     },
     {
-      "id": "sansai_0009",
-      "category": "山菜",
-      "name": "カキドオシ",
-      "kana": "カキドオシ",
-      "aliases": [
-        "カキドオシ"
-      ],
-      "romaji": [
-        "kakidooshi"
-      ],
-      "scientific": "Glechoma grandis",
-      "search_terms": [
-        "カキドオシ",
-        "かきどおし",
-        "kakidooshi",
-        "Glechoma grandis"
-      ],
-      "normalized_terms": [
-        "カキドオシ",
-        "かきどおし",
-        "kakidooshi",
-        "glechomagrandis"
-      ]
-    },
-    {
       "id": "sansai_0010",
       "category": "山菜",
       "name": "ヤマグワ",
@@ -53528,31 +53513,6 @@
         "やまぐわ",
         "yamaguwa",
         "morusindica"
-      ]
-    },
-    {
-      "id": "sansai_0011",
-      "category": "山菜",
-      "name": "オニグルミ",
-      "kana": "オニグルミ",
-      "aliases": [
-        "オニグルミ"
-      ],
-      "romaji": [
-        "onigurumi"
-      ],
-      "scientific": "Juglans ailantifolia",
-      "search_terms": [
-        "オニグルミ",
-        "おにぐるみ",
-        "onigurumi",
-        "Juglans ailantifolia"
-      ],
-      "normalized_terms": [
-        "オニグルミ",
-        "おにぐるみ",
-        "onigurumi",
-        "juglansailantifolia"
       ]
     },
     {
@@ -53632,7 +53592,7 @@
     },
     {
       "id": "sansai_0015",
-      "category": "山菜",
+      "category": "草",
       "name": "ラッキョウ",
       "kana": "ラッキョウ",
       "aliases": [
@@ -53657,7 +53617,7 @@
     },
     {
       "id": "sansai_0016",
-      "category": "山菜",
+      "category": "木",
       "name": "クロマメノキ",
       "kana": "クロマメノキ",
       "aliases": [
@@ -53728,56 +53688,6 @@
         "ゆきのした",
         "yukinoshita",
         "saxifragastolonifera"
-      ]
-    },
-    {
-      "id": "sansai_0019",
-      "category": "山菜",
-      "name": "ミョウガ",
-      "kana": "ミョウガ",
-      "aliases": [
-        "ミョウガ"
-      ],
-      "romaji": [
-        "myouga"
-      ],
-      "scientific": "Zingiber mioga",
-      "search_terms": [
-        "ミョウガ",
-        "みょうが",
-        "myouga",
-        "Zingiber mioga"
-      ],
-      "normalized_terms": [
-        "ミョウガ",
-        "みょうが",
-        "myouga",
-        "zingibermioga"
-      ]
-    },
-    {
-      "id": "sansai_0020",
-      "category": "山菜",
-      "name": "エゴマ",
-      "kana": "エゴマ",
-      "aliases": [
-        "エゴマ"
-      ],
-      "romaji": [
-        "egoma"
-      ],
-      "scientific": "Perilla frutescens var. frutescens",
-      "search_terms": [
-        "エゴマ",
-        "えごま",
-        "egoma",
-        "Perilla frutescens var. frutescens"
-      ],
-      "normalized_terms": [
-        "エゴマ",
-        "えごま",
-        "egoma",
-        "perillafrutescensvarfrutescens"
       ]
     },
     {
@@ -54257,7 +54167,7 @@
     },
     {
       "id": "sansai_0040",
-      "category": "山菜",
+      "category": "木",
       "name": "サルナシ",
       "kana": "サルナシ",
       "aliases": [
@@ -54906,31 +54816,6 @@
       ]
     },
     {
-      "id": "sansai_0066",
-      "category": "山菜",
-      "name": "クリ",
-      "kana": "クリ",
-      "aliases": [
-        "クリ"
-      ],
-      "romaji": [
-        "kuri"
-      ],
-      "scientific": "Castanea crenata",
-      "search_terms": [
-        "クリ",
-        "くり",
-        "kuri",
-        "Castanea crenata"
-      ],
-      "normalized_terms": [
-        "クリ",
-        "くり",
-        "kuri",
-        "castaneacrenata"
-      ]
-    },
-    {
       "id": "sansai_0067",
       "category": "山菜",
       "name": "ハシバミ",
@@ -54956,31 +54841,6 @@
       ]
     },
     {
-      "id": "sansai_0068",
-      "category": "山菜",
-      "name": "ツノハシバミ",
-      "kana": "ツノハシバミ",
-      "aliases": [
-        "ツノハシバミ"
-      ],
-      "romaji": [
-        "tsunohashibami"
-      ],
-      "scientific": "Corylus sieboldiana",
-      "search_terms": [
-        "ツノハシバミ",
-        "つのはしばみ",
-        "tsunohashibami",
-        "Corylus sieboldiana"
-      ],
-      "normalized_terms": [
-        "ツノハシバミ",
-        "つのはしばみ",
-        "tsunohashibami",
-        "corylussieboldiana"
-      ]
-    },
-    {
       "id": "sansai_0069",
       "category": "山菜",
       "name": "ヤマブドウ",
@@ -55003,56 +54863,6 @@
         "やまぶどう",
         "yamabudou",
         "vitiscoignetiae"
-      ]
-    },
-    {
-      "id": "sansai_0070",
-      "category": "山菜",
-      "name": "エビヅル",
-      "kana": "エビヅル",
-      "aliases": [
-        "エビヅル"
-      ],
-      "romaji": [
-        "ebizuru"
-      ],
-      "scientific": "Vitis ficifolia",
-      "search_terms": [
-        "エビヅル",
-        "えびづる",
-        "ebizuru",
-        "Vitis ficifolia"
-      ],
-      "normalized_terms": [
-        "エビヅル",
-        "えびづる",
-        "ebizuru",
-        "vitisficifolia"
-      ]
-    },
-    {
-      "id": "sansai_0071",
-      "category": "山菜",
-      "name": "ヤマボウシ",
-      "kana": "ヤマボウシ",
-      "aliases": [
-        "ヤマボウシ"
-      ],
-      "romaji": [
-        "yamaboushi"
-      ],
-      "scientific": "Cornus kousa",
-      "search_terms": [
-        "ヤマボウシ",
-        "やまぼうし",
-        "yamaboushi",
-        "Cornus kousa"
-      ],
-      "normalized_terms": [
-        "ヤマボウシ",
-        "やまぼうし",
-        "yamaboushi",
-        "cornuskousa"
       ]
     },
     {
@@ -55128,56 +54938,6 @@
         "じゅんさい",
         "junsai",
         "braseniaschreberi"
-      ]
-    },
-    {
-      "id": "sansai_0075",
-      "category": "山菜",
-      "name": "ヒシ",
-      "kana": "ヒシ",
-      "aliases": [
-        "ヒシ"
-      ],
-      "romaji": [
-        "hishi"
-      ],
-      "scientific": "Trapa japonica",
-      "search_terms": [
-        "ヒシ",
-        "ひし",
-        "hishi",
-        "Trapa japonica"
-      ],
-      "normalized_terms": [
-        "ヒシ",
-        "ひし",
-        "hishi",
-        "trapajaponica"
-      ]
-    },
-    {
-      "id": "sansai_0076",
-      "category": "山菜",
-      "name": "マコモ",
-      "kana": "まこも",
-      "aliases": [
-        "マコモ"
-      ],
-      "romaji": [
-        "makomo"
-      ],
-      "scientific": "Zizania latifolia",
-      "search_terms": [
-        "マコモ",
-        "まこも",
-        "makomo",
-        "Zizania latifolia"
-      ],
-      "normalized_terms": [
-        "マコモ",
-        "まこも",
-        "makomo",
-        "zizanialatifolia"
       ]
     },
     {
@@ -55307,7 +55067,7 @@
     },
     {
       "id": "sansai_0082",
-      "category": "山菜",
+      "category": "ハーブ",
       "name": "ヤナギタデ",
       "kana": "ヤナギタデ",
       "aliases": [
@@ -55478,31 +55238,6 @@
         "ぼたんぼうふう",
         "botanboufuu",
         "peucedanumjaponicum"
-      ]
-    },
-    {
-      "id": "sansai_0089",
-      "category": "山菜",
-      "name": "ナガイモ",
-      "kana": "ナガイモ",
-      "aliases": [
-        "ナガイモ"
-      ],
-      "romaji": [
-        "nagaimo"
-      ],
-      "scientific": "Dioscorea polystachya",
-      "search_terms": [
-        "ナガイモ",
-        "ながいも",
-        "nagaimo",
-        "Dioscorea polystachya"
-      ],
-      "normalized_terms": [
-        "ナガイモ",
-        "ながいも",
-        "nagaimo",
-        "dioscoreapolystachya"
       ]
     },
     {
@@ -55681,83 +55416,8 @@
       ]
     },
     {
-      "id": "sansai_0097",
-      "category": "山菜",
-      "name": "ニラ",
-      "kana": "ニラ",
-      "aliases": [
-        "ニラ"
-      ],
-      "romaji": [
-        "nira"
-      ],
-      "scientific": "Allium tuberosum",
-      "search_terms": [
-        "ニラ",
-        "にら",
-        "nira",
-        "Allium tuberosum"
-      ],
-      "normalized_terms": [
-        "ニラ",
-        "にら",
-        "nira",
-        "alliumtuberosum"
-      ]
-    },
-    {
-      "id": "sansai_0098",
-      "category": "山菜",
-      "name": "ムベ",
-      "kana": "ムベ",
-      "aliases": [
-        "ムベ"
-      ],
-      "romaji": [
-        "mube"
-      ],
-      "scientific": "Stauntonia hexaphylla",
-      "search_terms": [
-        "ムベ",
-        "むべ",
-        "mube",
-        "Stauntonia hexaphylla"
-      ],
-      "normalized_terms": [
-        "ムベ",
-        "むべ",
-        "mube",
-        "stauntoniahexaphylla"
-      ]
-    },
-    {
-      "id": "sansai_0099",
-      "category": "山菜",
-      "name": "ナツハゼ",
-      "kana": "ナツハゼ",
-      "aliases": [
-        "ナツハゼ"
-      ],
-      "romaji": [
-        "natsuhaze"
-      ],
-      "scientific": "Vaccinium oldhamii",
-      "search_terms": [
-        "ナツハゼ",
-        "なつはぜ",
-        "natsuhaze",
-        "Vaccinium oldhamii"
-      ],
-      "normalized_terms": [
-        "ナツハゼ",
-        "なつはぜ",
-        "natsuhaze",
-        "vacciniumoldhamii"
-      ]
-    },
-    {
       "id": "sansai_0100",
-      "category": "山菜",
+      "category": "木",
       "name": "コケモモ",
       "kana": "コケモモ",
       "aliases": [
@@ -55806,83 +55466,8 @@
       ]
     },
     {
-      "id": "sansai_0102",
-      "category": "山菜",
-      "name": "ナワシログミ",
-      "kana": "ナワシログミ",
-      "aliases": [
-        "ナワシログミ"
-      ],
-      "romaji": [
-        "nawashirogumi"
-      ],
-      "scientific": "Elaeagnus pungens",
-      "search_terms": [
-        "ナワシログミ",
-        "なわしろぐみ",
-        "nawashirogumi",
-        "Elaeagnus pungens"
-      ],
-      "normalized_terms": [
-        "ナワシログミ",
-        "なわしろぐみ",
-        "nawashirogumi",
-        "elaeagnuspungens"
-      ]
-    },
-    {
-      "id": "sansai_0103",
-      "category": "山菜",
-      "name": "アキグミ",
-      "kana": "アキグミ",
-      "aliases": [
-        "アキグミ"
-      ],
-      "romaji": [
-        "akigumi"
-      ],
-      "scientific": "Elaeagnus umbellata var. umbellata",
-      "search_terms": [
-        "アキグミ",
-        "あきぐみ",
-        "akigumi",
-        "Elaeagnus umbellata var. umbellata"
-      ],
-      "normalized_terms": [
-        "アキグミ",
-        "あきぐみ",
-        "akigumi",
-        "elaeagnusumbellatavarumbellata"
-      ]
-    },
-    {
-      "id": "sansai_0104",
-      "category": "山菜",
-      "name": "ナツグミ",
-      "kana": "ナツグミ",
-      "aliases": [
-        "ナツグミ"
-      ],
-      "romaji": [
-        "natsugumi"
-      ],
-      "scientific": "Elaeagnus multiflora",
-      "search_terms": [
-        "ナツグミ",
-        "なつぐみ",
-        "natsugumi",
-        "Elaeagnus multiflora"
-      ],
-      "normalized_terms": [
-        "ナツグミ",
-        "なつぐみ",
-        "natsugumi",
-        "elaeagnusmultiflora"
-      ]
-    },
-    {
       "id": "sansai_0105",
-      "category": "山菜",
+      "category": "木",
       "name": "モミジイチゴ",
       "kana": "モミジイチゴ",
       "aliases": [
@@ -55907,7 +55492,7 @@
     },
     {
       "id": "sansai_0106",
-      "category": "山菜",
+      "category": "木",
       "name": "クマイチゴ",
       "kana": "クマイチゴ",
       "aliases": [
@@ -55932,7 +55517,7 @@
     },
     {
       "id": "sansai_0107",
-      "category": "山菜",
+      "category": "木",
       "name": "ナワシロイチゴ",
       "kana": "ナワシロイチゴ",
       "aliases": [
@@ -55957,7 +55542,7 @@
     },
     {
       "id": "sansai_0108",
-      "category": "山菜",
+      "category": "木",
       "name": "フユイチゴ",
       "kana": "フユイチゴ",
       "aliases": [
@@ -56007,7 +55592,7 @@
     },
     {
       "id": "sansai_0110",
-      "category": "山菜",
+      "category": "草",
       "name": "サンカヨウ",
       "kana": "サンカヨウ",
       "aliases": [
@@ -56456,56 +56041,6 @@
       ]
     },
     {
-      "id": "sansai_0128",
-      "category": "山菜",
-      "name": "シソ",
-      "kana": "シソ",
-      "aliases": [
-        "シソ"
-      ],
-      "romaji": [
-        "shiso"
-      ],
-      "scientific": "Perilla frutescens var. crispa",
-      "search_terms": [
-        "シソ",
-        "しそ",
-        "shiso",
-        "Perilla frutescens var. crispa"
-      ],
-      "normalized_terms": [
-        "シソ",
-        "しそ",
-        "shiso",
-        "perillafrutescensvarcrispa"
-      ]
-    },
-    {
-      "id": "sansai_0129",
-      "category": "山菜",
-      "name": "ハッカ",
-      "kana": "ハッカ",
-      "aliases": [
-        "ハッカ"
-      ],
-      "romaji": [
-        "hakka"
-      ],
-      "scientific": "Mentha canadensis",
-      "search_terms": [
-        "ハッカ",
-        "はっか",
-        "hakka",
-        "Mentha canadensis"
-      ],
-      "normalized_terms": [
-        "ハッカ",
-        "はっか",
-        "hakka",
-        "menthacanadensis"
-      ]
-    },
-    {
       "id": "sansai_0130",
       "category": "山菜",
       "name": "アマナ",
@@ -56856,33 +56391,8 @@
       ]
     },
     {
-      "id": "sansai_0144",
-      "category": "山菜",
-      "name": "ヤマモモ",
-      "kana": "ヤマモモ",
-      "aliases": [
-        "ヤマモモ"
-      ],
-      "romaji": [
-        "yamamomo"
-      ],
-      "scientific": "Morella rubra",
-      "search_terms": [
-        "ヤマモモ",
-        "やまもも",
-        "yamamomo",
-        "Morella rubra"
-      ],
-      "normalized_terms": [
-        "ヤマモモ",
-        "やまもも",
-        "yamamomo",
-        "morellarubra"
-      ]
-    },
-    {
       "id": "sansai_0145",
-      "category": "山菜",
+      "category": "木",
       "name": "ニガイチゴ",
       "kana": "ニガイチゴ",
       "aliases": [
@@ -57331,31 +56841,6 @@
       ]
     },
     {
-      "id": "sansai_0164",
-      "category": "山菜",
-      "name": "ムクノキ",
-      "kana": "ムクノキ",
-      "aliases": [
-        "ムクノキ"
-      ],
-      "romaji": [
-        "mukunoki"
-      ],
-      "scientific": "Aphananthe aspera",
-      "search_terms": [
-        "ムクノキ",
-        "むくのき",
-        "mukunoki",
-        "Aphananthe aspera"
-      ],
-      "normalized_terms": [
-        "ムクノキ",
-        "むくのき",
-        "mukunoki",
-        "aphanantheaspera"
-      ]
-    },
-    {
       "id": "sansai_0165",
       "category": "山菜",
       "name": "イヌブナ",
@@ -57557,7 +57042,7 @@
     },
     {
       "id": "sansai_0173",
-      "category": "山菜",
+      "category": "木",
       "name": "ツルコケモモ",
       "kana": "ツルコケモモ",
       "aliases": [
@@ -57582,7 +57067,7 @@
     },
     {
       "id": "sansai_0174",
-      "category": "山菜",
+      "category": "木",
       "name": "ガンコウラン",
       "kana": "ガンコウラン",
       "aliases": [
@@ -57956,31 +57441,6 @@
       ]
     },
     {
-      "id": "sansai_0189",
-      "category": "山菜",
-      "name": "ヒユ",
-      "kana": "ヒユ",
-      "aliases": [
-        "ヒユ"
-      ],
-      "romaji": [
-        "hiyu"
-      ],
-      "scientific": "Amaranthus tricolor",
-      "search_terms": [
-        "ヒユ",
-        "ひゆ",
-        "hiyu",
-        "Amaranthus tricolor"
-      ],
-      "normalized_terms": [
-        "ヒユ",
-        "ひゆ",
-        "hiyu",
-        "amaranthustricolor"
-      ]
-    },
-    {
       "id": "sansai_0190",
       "category": "山菜",
       "name": "ハハコグサ",
@@ -58131,31 +57591,6 @@
       ]
     },
     {
-      "id": "sansai_0196",
-      "category": "山菜",
-      "name": "ブナ",
-      "kana": "ブナ",
-      "aliases": [
-        "ブナ"
-      ],
-      "romaji": [
-        "buna"
-      ],
-      "scientific": "Fagus crenata",
-      "search_terms": [
-        "ブナ",
-        "ぶな",
-        "buna",
-        "Fagus crenata"
-      ],
-      "normalized_terms": [
-        "ブナ",
-        "ぶな",
-        "buna",
-        "faguscrenata"
-      ]
-    },
-    {
       "id": "sansai_0197",
       "category": "山菜",
       "name": "ミズナラ",
@@ -58178,31 +57613,6 @@
         "みずなら",
         "mizunara",
         "quercusmongolicavarcrispula"
-      ]
-    },
-    {
-      "id": "sansai_0198",
-      "category": "山菜",
-      "name": "コナラ",
-      "kana": "コナラ",
-      "aliases": [
-        "コナラ"
-      ],
-      "romaji": [
-        "konara"
-      ],
-      "scientific": "Quercus serrata",
-      "search_terms": [
-        "コナラ",
-        "こなら",
-        "konara",
-        "Quercus serrata"
-      ],
-      "normalized_terms": [
-        "コナラ",
-        "こなら",
-        "konara",
-        "quercusserrata"
       ]
     },
     {
@@ -58303,31 +57713,6 @@
         "うきやがら",
         "ukiyagara",
         "bolboschoenusfluviatilis"
-      ]
-    },
-    {
-      "id": "sansai_0203",
-      "category": "山菜",
-      "name": "ハマナス",
-      "kana": "ハマナス",
-      "aliases": [
-        "ハマナス"
-      ],
-      "romaji": [
-        "hamanasu"
-      ],
-      "scientific": "Rosa rugosa",
-      "search_terms": [
-        "ハマナス",
-        "はまなす",
-        "hamanasu",
-        "Rosa rugosa"
-      ],
-      "normalized_terms": [
-        "ハマナス",
-        "はまなす",
-        "hamanasu",
-        "rosarugosa"
       ]
     },
     {
@@ -58631,31 +58016,6 @@
       ]
     },
     {
-      "id": "sansai_0216",
-      "category": "山菜",
-      "name": "ケンポナシ",
-      "kana": "ケンポナシ",
-      "aliases": [
-        "ケンポナシ"
-      ],
-      "romaji": [
-        "kenponashi"
-      ],
-      "scientific": "Hovenia dulcis",
-      "search_terms": [
-        "ケンポナシ",
-        "けんぽなし",
-        "kenponashi",
-        "Hovenia dulcis"
-      ],
-      "normalized_terms": [
-        "ケンポナシ",
-        "けんぽなし",
-        "kenponashi",
-        "hoveniadulcis"
-      ]
-    },
-    {
       "id": "sansai_0217",
       "category": "山菜",
       "name": "サンカクヅル",
@@ -58728,31 +58088,6 @@
         "こがま",
         "kogama",
         "typhaorientalis"
-      ]
-    },
-    {
-      "id": "sansai_0220",
-      "category": "山菜",
-      "name": "カワラケツメイ",
-      "kana": "カワラケツメイ",
-      "aliases": [
-        "カワラケツメイ"
-      ],
-      "romaji": [
-        "kawaraketsumei"
-      ],
-      "scientific": "Chamaecrista nomame",
-      "search_terms": [
-        "カワラケツメイ",
-        "かわらけつめい",
-        "kawaraketsumei",
-        "Chamaecrista nomame"
-      ],
-      "normalized_terms": [
-        "カワラケツメイ",
-        "かわらけつめい",
-        "kawaraketsumei",
-        "chamaecristanomame"
       ]
     },
     {

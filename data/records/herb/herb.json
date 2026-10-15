@@ -156,9 +156,7 @@
       "feature_summary",
       "trivia"
     ],
-    "related_record_ids": [
-      "sansai_0020"
-    ],
+    "related_record_ids": [],
     "classification_listing_review_date": "2026-10-13",
     "classification_listing_review_status": "要確認の注記を残して掲載",
     "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
@@ -210,7 +208,8 @@
       "specific_medicinal_use_confirmed": null
     },
     "merged_record_ids": [
-      "yakuso_0043"
+      "yakuso_0043",
+      "sansai_0020"
     ],
     "merged_record_snapshots": [
       {
@@ -334,8 +333,152 @@
             "specific_medicinal_use_confirmed": true
           }
         }
+      },
+      {
+        "id": "sansai_0020",
+        "previous_category": "山菜",
+        "record": {
+          "id": "sansai_0020",
+          "category": "山菜",
+          "display_name": "エゴマ",
+          "kana": "エゴマ",
+          "search_aliases": [
+            "エゴマ"
+          ],
+          "family": "Lamiaceae科",
+          "genus": "Perilla属",
+          "scientific_name": "Perilla frutescens var. frutescens",
+          "taxon_id": 242112,
+          "reference_taxon_id": 242112,
+          "taxon_rank": "variety",
+          "entity_type": "変種",
+          "life_form": "植物（生活型の詳細は要確認）",
+          "flowering_season": "要確認",
+          "distribution": "本項の分布は要確認",
+          "habitat": "本項の生育環境は要確認",
+          "common_place": "本項の生育環境は要確認",
+          "feature_summary": "写真では、鋸歯のある葉が対になってついている。",
+          "trivia": "種子を食用にしたり、搾ってエゴマ油にしたりする。シソに似るが、食用油を採る用途でも古くから利用されてきた。",
+          "classification": {
+            "kingdom": "植物界",
+            "clade": "Tracheophyta",
+            "order": "Lamiales目",
+            "family": "Lamiaceae科",
+            "genus": "Perilla属",
+            "species": "Perilla frutescens var. frutescens"
+          },
+          "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。\n2026-10-13 分類参照確認：参照先は確認できたが、和名・国内の種群・下位分類などの未確定範囲は要確認を維持。学名を推測で変更しない。\n2026-10-13 最終確認：参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+          "plant_source_url": "https://en.wikipedia.org/wiki/Perilla",
+          "content_source_urls": [
+            "https://en.wikipedia.org/wiki/Perilla",
+            "https://www.inaturalist.org/taxa/242112",
+            "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006795.php"
+          ],
+          "content_source_scope": "genus",
+          "image": {
+            "author": "(c) Alex Abair, some rights reserved (CC BY)",
+            "license": "CC-BY",
+            "source_url": "https://www.inaturalist.org/photos/734129663",
+            "image_path": "images/0001_0050/sansai_0020.jpg",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/"
+          },
+          "content_status": "完成",
+          "needs_ai_summary": false,
+          "needs_manual_content_review": true,
+          "needs_manual_taxon_review": true,
+          "needs_manual_image_review": false,
+          "thumbnail_visually_reviewed": true,
+          "thumbnail_review_date": "2026-10-15",
+          "thumbnail_name_review_date": "2026-10-15",
+          "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+          "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+          "thumbnail_genre_review_date": "2026-10-15",
+          "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+          "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+          "verification_notes": "和名・採用学名・分類・サムネイルを照合。未確定の分布・季節・生態は要確認として残す。",
+          "observation_season": "要確認",
+          "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+          "classification_listing_review_date": "2026-10-13",
+          "classification_listing_review_status": "要確認の注記を残して掲載",
+          "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+          "taxonomy_reference_check": {
+            "date": "2026-10-13",
+            "source_url": "https://api.inaturalist.org/v1/taxa/242112?locale=ja",
+            "registered_scientific_name": "Perilla frutescens var. frutescens",
+            "source_scientific_name": "Perilla frutescens frutescens",
+            "source_rank": "variety",
+            "source_japanese_name": "エゴマ",
+            "relation": "same_scientific_name",
+            "registration_reference_reviewed": true,
+            "strict_photo_identification_verified": false,
+            "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+          },
+          "classification_reference_check_complete": true,
+          "classification_reference_review_status": "最終確認済み・分類範囲は要確認",
+          "taxonomy_reference_lineage": [
+            {
+              "name": "Plantae",
+              "rank": "kingdom",
+              "preferred_common_name": "植物界"
+            },
+            {
+              "name": "Lamiales",
+              "rank": "order",
+              "preferred_common_name": "シソ目"
+            },
+            {
+              "name": "Lamiaceae",
+              "rank": "family",
+              "preferred_common_name": "シソ科"
+            },
+            {
+              "name": "Perilla",
+              "rank": "genus",
+              "preferred_common_name": "シソ属"
+            }
+          ],
+          "classification_scope_notice": "参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+          "taxonomy_scope_final_review": {
+            "date": "2026-10-13",
+            "processing_complete": true,
+            "result": "unresolved_scope_retained",
+            "prior_reason": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。",
+            "scope_notice": "参照資料は属の解説または分類情報に限られる。種固有の形態・生態は要確認。特徴文は写真で見える姿の説明。和名の範囲と種・亜種・変種の扱いに資料間の差があるため要確認。 本項の分類範囲は確定できないため、要確認を維持する。",
+            "additional_primary_source_urls": [],
+            "prior_reference_check_considered": true,
+            "strict_photo_identification_verified": false
+          },
+          "sansai_use_review": {
+            "date": "2026-10-15",
+            "processed": true,
+            "specific_use_source_confirmed": true,
+            "sources": [
+              "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006795.php"
+            ],
+            "result": "確認した用途に豆知識を修正",
+            "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+          },
+          "sansai_image_review": {
+            "date": "2026-10-15",
+            "source_replaced": false,
+            "square_crop": true,
+            "blurred_padding": false,
+            "strict_species_identification": false
+          },
+          "sansai_genre_review_20261015": {
+            "date": "2026-10-15",
+            "result": "移動・統合候補",
+            "reason": "種子・油・香味用途を、既存エゴマ項目へまとめる候補。山菜の若菜利用としての根拠を現在の説明は示していない。",
+            "strict_photo_identification": false
+          }
+        }
       }
-    ]
+    ],
+    "sansai_genre_integration": {
+      "date": "2026-10-15",
+      "from_id": "sansai_0020",
+      "reason": "種子・油・香味用途を、既存エゴマ項目へまとめる候補。山菜の若菜利用としての根拠を現在の説明は示していない。"
+    }
   },
   {
     "id": "herb_0003",
@@ -1560,6 +1703,117 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "merged_record_ids": [
+      "sansai_0097"
+    ],
+    "merged_record_snapshots": [
+      {
+        "id": "sansai_0097",
+        "previous_category": "山菜",
+        "record": {
+          "id": "sansai_0097",
+          "category": "山菜",
+          "display_name": "ニラ",
+          "kana": "ニラ",
+          "search_aliases": [
+            "ニラ"
+          ],
+          "family": "ヒガンバナ科",
+          "genus": "ネギ属",
+          "scientific_name": "Allium tuberosum",
+          "taxon_id": 122343,
+          "reference_taxon_id": 122343,
+          "taxon_rank": "species",
+          "entity_type": "種",
+          "life_form": "多年草",
+          "flowering_season": "8〜10月",
+          "observation_season": "8〜10月",
+          "distribution": "中国原産・日本などで栽培",
+          "habitat": "畑・庭",
+          "common_place": "畑・庭",
+          "feature_summary": "写真では、白い小花が集まる。",
+          "trivia": "香りの強い葉を食べる野菜。高知では、豚肉などと炒める「にら豚」が親しまれている。似た葉の有毒植物との取り違えに注意が必要。",
+          "classification": {
+            "kingdom": "植物界",
+            "clade": "Tracheophyta",
+            "order": "キジカクシ目",
+            "family": "ヒガンバナ科",
+            "genus": "ネギ属",
+            "species": "Allium tuberosum"
+          },
+          "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0367の説明も照合。",
+          "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A9",
+          "content_source_urls": [
+            "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A9",
+            "https://www.inaturalist.org/taxa/122343",
+            "https://www.maff.go.jp/j/pr/aff/2104/producer01.html"
+          ],
+          "content_source_scope": "existing_curated_record",
+          "image": {
+            "author": "no rights reserved",
+            "license": "CC0",
+            "source_url": "https://www.inaturalist.org/photos/230313158",
+            "image_path": "images/review_20261015/sansai_0097.jpg",
+            "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "download_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/230313158/large.jpg"
+          },
+          "content_status": "完成",
+          "needs_ai_summary": false,
+          "needs_manual_content_review": false,
+          "needs_manual_taxon_review": false,
+          "needs_manual_image_review": false,
+          "thumbnail_visually_reviewed": true,
+          "thumbnail_review_date": "2026-10-15",
+          "thumbnail_name_review_date": "2026-10-15",
+          "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+          "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+          "thumbnail_genre_review_date": "2026-10-15",
+          "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+          "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+          "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+          "existing_content_fields_reused": [
+            "flowering_season",
+            "habitat",
+            "distribution",
+            "life_form",
+            "feature_summary",
+            "trivia"
+          ],
+          "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+          "related_record_ids": [
+            "flower_0367"
+          ],
+          "sansai_use_review": {
+            "date": "2026-10-15",
+            "processed": true,
+            "specific_use_source_confirmed": true,
+            "sources": [
+              "https://www.maff.go.jp/j/pr/aff/2104/producer01.html"
+            ],
+            "result": "確認した用途に豆知識を修正",
+            "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+          },
+          "sansai_image_review": {
+            "date": "2026-10-15",
+            "source_replaced": true,
+            "square_crop": true,
+            "blurred_padding": false,
+            "strict_species_identification": false
+          },
+          "sansai_genre_review_20261015": {
+            "date": "2026-10-15",
+            "result": "移動・統合候補",
+            "reason": "香味野菜としての利用を既存ニラ項目へまとめる整理案。野生化だけを山菜掲載の積極的根拠にはしない。",
+            "strict_photo_identification": false
+          }
+        }
+      }
+    ],
+    "sansai_genre_integration": {
+      "date": "2026-10-15",
+      "from_id": "sansai_0097",
+      "reason": "香味野菜としての利用を既存ニラ項目へまとめる整理案。野生化だけを山菜掲載の積極的根拠にはしない。"
     }
   },
   {
@@ -2612,7 +2866,8 @@
       "specific_medicinal_use_confirmed": null
     },
     "merged_record_ids": [
-      "yakuso_0005"
+      "yakuso_0005",
+      "sansai_0129"
     ],
     "merged_record_snapshots": [
       {
@@ -2700,8 +2955,116 @@
             "specific_medicinal_use_confirmed": true
           }
         }
+      },
+      {
+        "id": "sansai_0129",
+        "previous_category": "山菜",
+        "record": {
+          "id": "sansai_0129",
+          "category": "山菜",
+          "display_name": "ハッカ",
+          "kana": "ハッカ",
+          "search_aliases": [
+            "ハッカ"
+          ],
+          "family": "Lamiaceae科",
+          "genus": "Mentha属",
+          "scientific_name": "Mentha canadensis",
+          "taxon_id": 77991,
+          "reference_taxon_id": 77991,
+          "taxon_rank": "species",
+          "entity_type": "種",
+          "life_form": "多年草",
+          "flowering_season": "要確認",
+          "observation_season": "要確認",
+          "distribution": "自然分布（Kew）：中部・東部 Siberiaから中国・日本、北部 アメリカ。",
+          "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+          "common_place": "生育環境は要確認",
+          "feature_summary": "写真では、対になった鋸歯のある葉。",
+          "trivia": "薄荷油やメントールが、菓子や飲料の香り付けに使われる。清涼感のある香りを利用する植物で、一般的な葉野菜とは用途が異なる。",
+          "classification": {
+            "kingdom": "植物界",
+            "clade": "Tracheophyta",
+            "order": "Lamiales目",
+            "family": "Lamiaceae科",
+            "genus": "Mentha属",
+            "species": "Mentha canadensis"
+          },
+          "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+          "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%AB",
+          "content_source_urls": [
+            "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%AB",
+            "https://www.inaturalist.org/taxa/77991",
+            "https://powo.science.kew.org/taxon/450311-1",
+            "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003415.php"
+          ],
+          "content_source_scope": "species_primary",
+          "image": {
+            "author": "(c) Mary E. Macaulay, P.Eng., some rights reserved (CC BY)",
+            "license": "CC-BY",
+            "source_url": "https://www.inaturalist.org/photos/745572064",
+            "image_path": "images/0101_0150/sansai_0129.jpg",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/"
+          },
+          "content_status": "完成",
+          "needs_ai_summary": false,
+          "needs_manual_content_review": false,
+          "needs_manual_taxon_review": false,
+          "needs_manual_image_review": false,
+          "thumbnail_visually_reviewed": true,
+          "thumbnail_review_date": "2026-10-15",
+          "thumbnail_name_review_date": "2026-10-15",
+          "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+          "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+          "thumbnail_genre_review_date": "2026-10-15",
+          "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+          "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+          "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+          "existing_content_fields_reused": [],
+          "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+          "content_followup_source_title": "Mentha canadensis L. | Plants of the World Online | Kew Science",
+          "content_followup_source_url": "https://powo.science.kew.org/taxon/450311-1",
+          "content_basic_ecology_verified": true,
+          "content_followup_review_status": "基本情報の出典確認済み",
+          "ecology_source_details": {
+            "source_url": "https://powo.science.kew.org/taxon/450311-1",
+            "life_form_original": "perennial",
+            "native_range_original": "Central & E. Siberia to China and Japan, N. America",
+            "biome_original": "temperate"
+          },
+          "content_followup_review_date": "2026-10-12",
+          "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+          "sansai_use_review": {
+            "date": "2026-10-15",
+            "processed": true,
+            "specific_use_source_confirmed": true,
+            "sources": [
+              "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003415.php"
+            ],
+            "result": "確認した用途に豆知識を修正",
+            "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+          },
+          "sansai_image_review": {
+            "date": "2026-10-15",
+            "source_replaced": false,
+            "square_crop": true,
+            "blurred_padding": false,
+            "strict_species_identification": false
+          },
+          "sansai_genre_review_20261015": {
+            "date": "2026-10-15",
+            "result": "移動・統合候補",
+            "reason": "香料・清涼感を中心に既存ハッカ項目へ統合する候補。",
+            "strict_photo_identification": false
+          }
+        }
       }
-    ]
+    ],
+    "sansai_genre_integration": {
+      "date": "2026-10-15",
+      "from_id": "sansai_0129",
+      "reason": "香料・清涼感を中心に既存ハッカ項目へ統合する候補。"
+    }
   },
   {
     "id": "herb_0026",
@@ -3406,7 +3769,8 @@
       "specific_medicinal_use_confirmed": null
     },
     "merged_record_ids": [
-      "yakuso_0042"
+      "yakuso_0042",
+      "sansai_0128"
     ],
     "merged_record_snapshots": [
       {
@@ -3530,8 +3894,152 @@
             "specific_medicinal_use_confirmed": true
           }
         }
+      },
+      {
+        "id": "sansai_0128",
+        "previous_category": "山菜",
+        "record": {
+          "id": "sansai_0128",
+          "category": "山菜",
+          "display_name": "シソ",
+          "kana": "シソ",
+          "search_aliases": [
+            "シソ"
+          ],
+          "family": "Lamiaceae科",
+          "genus": "Perilla属",
+          "scientific_name": "Perilla frutescens var. crispa",
+          "taxon_id": 242111,
+          "reference_taxon_id": 242111,
+          "taxon_rank": "variety",
+          "entity_type": "変種",
+          "life_form": "一年草",
+          "flowering_season": "8〜10月",
+          "observation_season": "8〜10月",
+          "distribution": "中国大陸原産とされる栽培植物。日本などで栽培",
+          "habitat": "畑・家庭菜園・庭で栽培",
+          "common_place": "畑・家庭菜園・庭で栽培",
+          "feature_summary": "写真では、紫色の鋸歯のある葉。",
+          "trivia": "葉を食べるほか、梅干しの色付けや香り付けに使う。青ジソと赤ジソなどがあり、色や香りを料理に生かす。",
+          "classification": {
+            "kingdom": "植物界",
+            "clade": "Tracheophyta",
+            "order": "Lamiales目",
+            "family": "Lamiaceae科",
+            "genus": "Perilla属",
+            "species": "Perilla frutescens var. crispa"
+          },
+          "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0496の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+          "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%BD",
+          "content_source_urls": [
+            "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%BD",
+            "https://www.inaturalist.org/taxa/242111",
+            "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003386.php"
+          ],
+          "content_source_scope": "existing_curated_record",
+          "image": {
+            "author": "no rights reserved",
+            "license": "CC0",
+            "source_url": "https://www.inaturalist.org/photos/742304524",
+            "image_path": "images/0101_0150/sansai_0128.jpg",
+            "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+          },
+          "content_status": "完成",
+          "needs_ai_summary": false,
+          "needs_manual_content_review": false,
+          "needs_manual_taxon_review": false,
+          "needs_manual_image_review": false,
+          "thumbnail_visually_reviewed": true,
+          "thumbnail_review_date": "2026-10-15",
+          "thumbnail_name_review_date": "2026-10-15",
+          "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+          "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+          "thumbnail_genre_review_date": "2026-10-15",
+          "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+          "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+          "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+          "existing_content_fields_reused": [
+            "flowering_season",
+            "habitat",
+            "distribution",
+            "life_form",
+            "feature_summary",
+            "trivia"
+          ],
+          "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+          "related_record_ids": [
+            "flower_0496"
+          ],
+          "classification_listing_review_date": "2026-10-13",
+          "classification_listing_review_status": "要確認の注記を残して掲載",
+          "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+          "taxonomy_reference_check": {
+            "date": "2026-10-13",
+            "source_url": "https://api.inaturalist.org/v1/taxa/242111?locale=ja",
+            "registered_scientific_name": "Perilla frutescens var. crispa",
+            "source_scientific_name": "Perilla frutescens crispa",
+            "source_rank": "variety",
+            "source_japanese_name": "シソ",
+            "relation": "same_scientific_name",
+            "registration_reference_reviewed": true,
+            "strict_photo_identification_verified": false,
+            "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+          },
+          "classification_reference_check_complete": true,
+          "classification_reference_review_status": "採用分類の参照対応確認済み",
+          "taxonomy_reference_lineage": [
+            {
+              "name": "Plantae",
+              "rank": "kingdom",
+              "preferred_common_name": "植物界"
+            },
+            {
+              "name": "Lamiales",
+              "rank": "order",
+              "preferred_common_name": "シソ目"
+            },
+            {
+              "name": "Lamiaceae",
+              "rank": "family",
+              "preferred_common_name": "シソ科"
+            },
+            {
+              "name": "Perilla",
+              "rank": "genus",
+              "preferred_common_name": "シソ属"
+            }
+          ],
+          "sansai_use_review": {
+            "date": "2026-10-15",
+            "processed": true,
+            "specific_use_source_confirmed": true,
+            "sources": [
+              "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003386.php"
+            ],
+            "result": "確認した用途に豆知識を修正",
+            "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+          },
+          "sansai_image_review": {
+            "date": "2026-10-15",
+            "source_replaced": false,
+            "square_crop": true,
+            "blurred_padding": false,
+            "strict_species_identification": false
+          },
+          "sansai_genre_review_20261015": {
+            "date": "2026-10-15",
+            "result": "移動・統合候補",
+            "reason": "香り・色付けの利用を中心に既存シソ項目へ統合する候補。食用の葉を持つこと自体は否定しない。",
+            "strict_photo_identification": false
+          }
+        }
       }
-    ]
+    ],
+    "sansai_genre_integration": {
+      "date": "2026-10-15",
+      "from_id": "sansai_0128",
+      "reason": "香り・色付けの利用を中心に既存シソ項目へ統合する候補。食用の葉を持つこと自体は否定しない。"
+    }
   },
   {
     "id": "herb_0034",
@@ -3727,7 +4235,7 @@
     "habitat": "湿り気のある半日陰。庭や畑で栽培",
     "common_place": "湿り気のある半日陰。庭や畑で栽培",
     "feature_summary": "写真では、細長い葉。",
-    "trivia": "地面近くに出る花のつぼみを薬味に使う。太くなった地下茎を食べるショウガとは、利用する部位が異なる。",
+    "trivia": "地面近くに出る花のつぼみを薬味に使う。太くなった地下茎を食べるショウガとは、利用する部位が異なる。\n\n普段「ミョウガ」として食べているのは、葉ではなく花が開く前の花穂。若い茎を軟らかく育てた「ミョウガタケ」も食用になる。 若い茎を軟らかく育てたミョウガタケも食用になる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -3741,7 +4249,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/zingiber-mioga/",
       "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A7%E3%82%A6%E3%82%AC",
-      "https://www.inaturalist.org/taxa/151801"
+      "https://www.inaturalist.org/taxa/151801",
+      "https://yasouensearch.jp/flower_name/%E3%83%9F%E3%83%A7%E3%82%A6%E3%82%AC/"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -3773,9 +4282,7 @@
       "feature_summary",
       "trivia"
     ],
-    "related_record_ids": [
-      "sansai_0019"
-    ],
+    "related_record_ids": [],
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
@@ -3786,6 +4293,114 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "merged_record_ids": [
+      "sansai_0019"
+    ],
+    "merged_record_snapshots": [
+      {
+        "id": "sansai_0019",
+        "previous_category": "山菜",
+        "record": {
+          "id": "sansai_0019",
+          "category": "山菜",
+          "display_name": "ミョウガ",
+          "kana": "ミョウガ",
+          "search_aliases": [
+            "ミョウガ"
+          ],
+          "family": "Zingiberaceae科",
+          "genus": "Zingiber属",
+          "scientific_name": "Zingiber mioga",
+          "taxon_id": 151801,
+          "reference_taxon_id": 151801,
+          "taxon_rank": "species",
+          "entity_type": "種",
+          "life_form": "多年草",
+          "flowering_season": "8〜10月",
+          "distribution": "東アジアに分布。日本では食用栽培",
+          "habitat": "湿り気のある半日陰。庭や畑で栽培",
+          "common_place": "湿り気のある半日陰。庭や畑で栽培",
+          "feature_summary": "細長い葉をつける宿根性の多年草。",
+          "trivia": "普段「ミョウガ」として食べているのは、葉ではなく花が開く前の花穂。若い茎を軟らかく育てた「ミョウガタケ」も食用になる。",
+          "classification": {
+            "kingdom": "植物界",
+            "clade": "Tracheophyta",
+            "order": "Zingiberales目",
+            "family": "Zingiberaceae科",
+            "genus": "Zingiber属",
+            "species": "Zingiber mioga"
+          },
+          "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。同名の既存項目flower_0498の確認済み説明項目も照合。",
+          "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A7%E3%82%A6%E3%82%AC",
+          "content_source_urls": [
+            "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A7%E3%82%A6%E3%82%AC",
+            "https://www.inaturalist.org/taxa/151801",
+            "https://yasouensearch.jp/flower_name/%E3%83%9F%E3%83%A7%E3%82%A6%E3%82%AC/"
+          ],
+          "content_source_scope": "species",
+          "image": {
+            "author": "(c) りなべる, some rights reserved (CC BY)",
+            "license": "CC-BY",
+            "source_url": "https://www.inaturalist.org/photos/658915618",
+            "image_path": "images/0001_0050/sansai_0019.jpg",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/"
+          },
+          "content_status": "完成",
+          "needs_ai_summary": false,
+          "needs_manual_content_review": false,
+          "needs_manual_taxon_review": false,
+          "needs_manual_image_review": false,
+          "thumbnail_visually_reviewed": true,
+          "thumbnail_review_date": "2026-10-15",
+          "thumbnail_name_review_date": "2026-10-15",
+          "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+          "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+          "thumbnail_genre_review_date": "2026-10-15",
+          "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+          "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+          "verification_notes": "和名・採用学名・分類・サムネイルを照合。未確定の分布・季節・生態は要確認として残す。",
+          "observation_season": "8〜10月",
+          "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+          "related_record_ids": [
+            "flower_0498"
+          ],
+          "existing_content_fields_reused": [
+            "flowering_season",
+            "habitat",
+            "distribution",
+            "life_form"
+          ],
+          "sansai_use_review": {
+            "date": "2026-10-15",
+            "processed": true,
+            "specific_use_source_confirmed": true,
+            "sources": [
+              "https://yasouensearch.jp/flower_name/%E3%83%9F%E3%83%A7%E3%82%A6%E3%82%AC/"
+            ],
+            "result": "確認した用途に豆知識を修正",
+            "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+          },
+          "sansai_image_review": {
+            "date": "2026-10-15",
+            "source_replaced": false,
+            "square_crop": true,
+            "blurred_padding": false,
+            "strict_species_identification": false
+          },
+          "sansai_genre_review_20261015": {
+            "date": "2026-10-15",
+            "result": "移動・統合候補",
+            "reason": "香味野菜の花穂・若茎として既存ミョウガ項目へまとめる整理案。山菜利用が不可能という判定ではない。",
+            "strict_photo_identification": false
+          }
+        }
+      }
+    ],
+    "sansai_genre_integration": {
+      "date": "2026-10-15",
+      "from_id": "sansai_0019",
+      "reason": "香味野菜の花穂・若茎として既存ミョウガ項目へまとめる整理案。山菜利用が不可能という判定ではない。"
     }
   },
   {
@@ -16174,5 +16789,106 @@
       ],
       "scope": "Rheum rhabarbarum edible petiole"
     }
+  },
+  {
+    "id": "sansai_0082",
+    "category": "ハーブ",
+    "display_name": "ヤナギタデ",
+    "kana": "ヤナギタデ",
+    "search_aliases": [
+      "ヤナギタデ"
+    ],
+    "family": "タデ科",
+    "genus": "Persicaria属",
+    "scientific_name": "Persicaria hydropiper",
+    "taxon_id": 78452,
+    "reference_taxon_id": 78452,
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "life_form": "一年草",
+    "flowering_season": "要確認",
+    "observation_season": "要確認",
+    "distribution": "自然分布（Kew）：北西部 アフリカ、温帯の ユーラシアから西部・中部 マレシア地域、オーストラリア。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+    "common_place": "生育環境は要確認",
+    "feature_summary": "写真では、細長い葉をつけた茎。",
+    "trivia": "葉に辛みがあり、香辛料として利用されてきた。平安時代からの利用が知られ、江戸時代にはさまざまな栽培品種も作られた。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "Tracheophyta",
+      "order": "ナデシコ目",
+      "family": "タデ科",
+      "genus": "Persicaria属",
+      "species": "Persicaria hydropiper"
+    },
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / ジャンル整理：山菜からハーブへ。主に辛みのある葉の香辛料利用。山野で採る記録もあるため誤分類と断定せず、このアプリで用途を分ける整理案。",
+    "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%8A%E3%82%AE%E3%82%BF%E3%83%87",
+    "content_source_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%8A%E3%82%AE%E3%82%BF%E3%83%87",
+      "https://www.inaturalist.org/taxa/78452",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77069479-1/general-information",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003679.php"
+    ],
+    "content_source_scope": "species_primary",
+    "image": {
+      "author": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
+      "license": "CC-BY",
+      "source_url": "https://www.inaturalist.org/photos/529644056",
+      "image_path": "images/review_20261015/sansai_0082.jpg",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "download_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529644056/large.jpg"
+    },
+    "content_status": "完成",
+    "needs_ai_summary": false,
+    "needs_manual_content_review": false,
+    "needs_manual_taxon_review": false,
+    "needs_manual_image_review": false,
+    "thumbnail_visually_reviewed": true,
+    "thumbnail_review_date": "2026-10-15",
+    "thumbnail_name_review_date": "2026-10-15",
+    "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+    "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+    "thumbnail_genre_review_date": "2026-10-15",
+    "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+    "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+    "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+    "existing_content_fields_reused": [],
+    "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+    "content_followup_source_title": "Persicaria hydropiper (L.) Delarbre | Plants of the World Online | Kew Science",
+    "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77069479-1/general-information",
+    "content_basic_ecology_verified": true,
+    "content_followup_review_status": "基本情報の出典確認済み",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77069479-1/general-information",
+      "life_form_original": "annual",
+      "native_range_original": "NW. Africa, Temp. Eurasia to W. & Central Malesia, Australia",
+      "biome_original": "temperate"
+    },
+    "content_followup_review_date": "2026-10-12",
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "sansai_use_review": {
+      "date": "2026-10-15",
+      "processed": true,
+      "specific_use_source_confirmed": true,
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003679.php"
+      ],
+      "result": "確認した用途に豆知識を修正",
+      "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+    },
+    "sansai_image_review": {
+      "date": "2026-10-15",
+      "source_replaced": true,
+      "square_crop": true,
+      "blurred_padding": false,
+      "strict_species_identification": false
+    },
+    "sansai_genre_review_20261015": {
+      "date": "2026-10-15",
+      "result": "移動・統合候補",
+      "reason": "主に辛みのある葉の香辛料利用。山野で採る記録もあるため誤分類と断定せず、このアプリで用途を分ける整理案。",
+      "strict_photo_identification": false
+    },
+    "genre_review_note": "主に辛みのある葉の香辛料利用。山野で採る記録もあるため誤分類と断定せず、このアプリで用途を分ける整理案。"
   }
 ]

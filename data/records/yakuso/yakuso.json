@@ -3338,7 +3338,8 @@
     "content_source_urls": [
       "https://mikawanoyasou.org/data/kakidoosi.htm",
       "https://www.inaturalist.org/taxa/1050111",
-      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003476.php"
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003476.php",
+      "https://tbg.kahaku.go.jp/recommend/illustrated/result.php?mode=easy&name=カキドオシ&order=st&p=5"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -3370,15 +3371,112 @@
       "feature_summary",
       "trivia"
     ],
-    "related_record_ids": [
-      "sansai_0009"
-    ],
+    "related_record_ids": [],
     "usage_writing_review": {
       "date": "2026-10-15",
       "decision": "文章修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "今回取得した個別資料",
       "specific_medicinal_use_confirmed": true
+    },
+    "merged_record_ids": [
+      "sansai_0009"
+    ],
+    "merged_record_snapshots": [
+      {
+        "id": "sansai_0009",
+        "previous_category": "山菜",
+        "record": {
+          "id": "sansai_0009",
+          "category": "山菜",
+          "display_name": "カキドオシ",
+          "kana": "カキドオシ",
+          "search_aliases": [
+            "カキドオシ"
+          ],
+          "family": "Lamiaceae科",
+          "genus": "Glechoma属",
+          "scientific_name": "Glechoma grandis",
+          "taxon_id": 1050111,
+          "reference_taxon_id": 1050111,
+          "taxon_rank": "species",
+          "entity_type": "種",
+          "life_form": "多年草",
+          "flowering_season": "4～5月",
+          "distribution": "在来種 北海道、本州、四国、九州、中国、台湾",
+          "habitat": "道端、野原",
+          "common_place": "道端、野原",
+          "feature_summary": "丸みのある対生の葉と、紫色の唇形の花をつける。",
+          "trivia": "葉を乾燥させて、お茶として飲む利用がある。「かきどおし茶」として利用され、葉物野菜とは異なる楽しみ方を持つ。",
+          "classification": {
+            "kingdom": "植物界",
+            "clade": "Tracheophyta",
+            "order": "Lamiales目",
+            "family": "Lamiaceae科",
+            "genus": "Glechoma属",
+            "species": "Glechoma grandis"
+          },
+          "classification_note": "取得したiNaturalist分類を採用。個別資料の異名や分類体系と区別して記録。",
+          "plant_source_url": "https://mikawanoyasou.org/data/kakidoosi.htm",
+          "content_source_urls": [
+            "https://mikawanoyasou.org/data/kakidoosi.htm",
+            "https://www.inaturalist.org/taxa/1050111",
+            "https://tbg.kahaku.go.jp/recommend/illustrated/result.php?mode=easy&name=カキドオシ&order=st&p=5"
+          ],
+          "content_source_scope": "species",
+          "image": {
+            "author": "(c) 大澤風季 ohsawa_Fuki, some rights reserved (CC BY)",
+            "license": "CC-BY",
+            "source_url": "https://www.inaturalist.org/photos/733446173",
+            "image_path": "images/0001_0050/sansai_0009.jpg",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/"
+          },
+          "content_status": "完成",
+          "needs_ai_summary": false,
+          "needs_manual_content_review": false,
+          "needs_manual_taxon_review": false,
+          "needs_manual_image_review": false,
+          "thumbnail_visually_reviewed": true,
+          "thumbnail_review_date": "2026-10-15",
+          "thumbnail_name_review_date": "2026-10-15",
+          "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+          "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+          "thumbnail_genre_review_date": "2026-10-15",
+          "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+          "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+          "verification_notes": "和名・採用学名・分類・サムネイルを照合。未確定の分布・季節・生態は要確認として残す。",
+          "observation_season": "4～5月",
+          "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+          "sansai_use_review": {
+            "date": "2026-10-15",
+            "processed": true,
+            "specific_use_source_confirmed": true,
+            "sources": [
+              "https://tbg.kahaku.go.jp/recommend/illustrated/result.php?mode=easy&name=カキドオシ&order=st&p=5"
+            ],
+            "result": "確認した用途に豆知識を修正",
+            "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+          },
+          "sansai_image_review": {
+            "date": "2026-10-15",
+            "source_replaced": false,
+            "square_crop": true,
+            "blurred_padding": false,
+            "strict_species_identification": false
+          },
+          "sansai_genre_review_20261015": {
+            "date": "2026-10-15",
+            "result": "移動・統合候補",
+            "reason": "確認できた主用途は茶・薬用。薬草の既存項目と照合して統合候補。新たなハーブ項目を作り重複させない。",
+            "strict_photo_identification": false
+          }
+        }
+      }
+    ],
+    "sansai_genre_integration": {
+      "date": "2026-10-15",
+      "from_id": "sansai_0009",
+      "reason": "確認できた主用途は茶・薬用。薬草の既存項目と照合して統合候補。新たなハーブ項目を作り重複させない。"
     }
   },
   {
@@ -7835,7 +7933,7 @@
       "trivia"
     ],
     "related_record_ids": [
-      "sansai_0011"
+      "tree_0116"
     ],
     "usage_writing_review": {
       "date": "2026-10-15",
@@ -9758,7 +9856,8 @@
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%84%E3%83%A1%E3%82%A4",
       "https://www.inaturalist.org/taxa/369319",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A946976-1",
-      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004855.php"
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004855.php",
+      "https://yasouensearch.jp/flower_name/%E3%82%AB%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%84%E3%83%A1%E3%82%A4/"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -9801,6 +9900,121 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "今回取得した個別資料",
       "specific_medicinal_use_confirmed": true
+    },
+    "merged_record_ids": [
+      "sansai_0220"
+    ],
+    "merged_record_snapshots": [
+      {
+        "id": "sansai_0220",
+        "previous_category": "山菜",
+        "record": {
+          "id": "sansai_0220",
+          "category": "山菜",
+          "display_name": "カワラケツメイ",
+          "kana": "カワラケツメイ",
+          "search_aliases": [
+            "カワラケツメイ"
+          ],
+          "family": "マメ科",
+          "genus": "Chamaecrista属",
+          "scientific_name": "Chamaecrista nomame",
+          "taxon_id": 369319,
+          "reference_taxon_id": 369319,
+          "taxon_rank": "species",
+          "entity_type": "種",
+          "life_form": "一年草",
+          "flowering_season": "要確認",
+          "observation_season": "要確認",
+          "distribution": "自然分布（Kew）：EritreaからZimbabwe、マダガスカル、熱帯の・亜熱帯アジアから北部・東部 オーストラリア。",
+          "habitat": "主に季節的に乾燥する熱帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+          "common_place": "生育環境は要確認",
+          "feature_summary": "写真では、小葉が並ぶ複葉。",
+          "trivia": "葉や茎を乾かして、お茶の代わりに飲む植物。「弘法茶」「豆茶」などの呼び名があり、野菜のように葉を食べる用途とは異なる。",
+          "classification": {
+            "kingdom": "植物界",
+            "clade": "Tracheophyta",
+            "order": "マメ目",
+            "family": "マメ科",
+            "genus": "Chamaecrista属",
+            "species": "Chamaecrista nomame"
+          },
+          "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+          "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%84%E3%83%A1%E3%82%A4",
+          "content_source_urls": [
+            "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%84%E3%83%A1%E3%82%A4",
+            "https://www.inaturalist.org/taxa/369319",
+            "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A946976-1",
+            "https://yasouensearch.jp/flower_name/%E3%82%AB%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%84%E3%83%A1%E3%82%A4/",
+            "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004855.php"
+          ],
+          "content_source_scope": "species_primary",
+          "image": {
+            "author": "(c) りなべる, some rights reserved (CC BY)",
+            "license": "CC-BY",
+            "source_url": "https://www.inaturalist.org/photos/734153876",
+            "image_path": "images/0201_0222/sansai_0220.jpg",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/"
+          },
+          "content_status": "完成",
+          "needs_ai_summary": false,
+          "needs_manual_content_review": false,
+          "needs_manual_taxon_review": false,
+          "needs_manual_image_review": false,
+          "thumbnail_visually_reviewed": true,
+          "thumbnail_review_date": "2026-10-15",
+          "thumbnail_name_review_date": "2026-10-15",
+          "thumbnail_name_review_status": "明らかな不一致なし（分類範囲の未確定は維持）",
+          "thumbnail_name_review_note": "現物の200pxサムネイルを再確認。写真だけで種・亜種・変種の厳密な同定や食用判定は行わない。",
+          "thumbnail_genre_review_date": "2026-10-15",
+          "thumbnail_genre_review_status": "用途と写る部位を区別して確認",
+          "thumbnail_genre_review_note": "若芽・葉・果実などの用途と、現写真の見え方を区別。食用部位の全てが写真に写るとは限らない。",
+          "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+          "existing_content_fields_reused": [],
+          "food_use_status": "出典の範囲で用途確認（食用・香味・飲料などを区別）",
+          "content_followup_source_title": "Chamaecrista nomame (Makino) H.Ohashi | Plants of the World Online | Kew Science",
+          "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A946976-1",
+          "content_basic_ecology_verified": true,
+          "content_followup_review_status": "基本情報の出典確認済み",
+          "ecology_source_details": {
+            "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A946976-1",
+            "life_form_original": "annual",
+            "native_range_original": "Eritrea to Zimbabwe, Madagascar, Tropical & Subtropical Asia to N. & E. Australia",
+            "biome_original": "seasonally dry tropical"
+          },
+          "content_followup_review_date": "2026-10-12",
+          "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+          "sansai_use_review": {
+            "date": "2026-10-15",
+            "processed": true,
+            "specific_use_source_confirmed": true,
+            "sources": [
+              "https://yasouensearch.jp/flower_name/%E3%82%AB%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%84%E3%83%A1%E3%82%A4/",
+              "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004855.php"
+            ],
+            "result": "確認した用途に豆知識を修正",
+            "note": "食用の利用記録の確認であり、写真だけで採食可否を判定するものではない。未確認の味・効能は加えない。"
+          },
+          "sansai_image_review": {
+            "date": "2026-10-15",
+            "source_replaced": false,
+            "square_crop": true,
+            "blurred_padding": false,
+            "strict_species_identification": false
+          },
+          "sansai_genre_review_20261015": {
+            "date": "2026-10-15",
+            "result": "移動・統合候補",
+            "reason": "茶・薬用の説明を既存薬草項目へ照合・統合する候補。茶用途だけで薬効を新たに断定しない。",
+            "strict_photo_identification": false
+          }
+        }
+      }
+    ],
+    "sansai_genre_integration": {
+      "date": "2026-10-15",
+      "from_id": "sansai_0220",
+      "reason": "茶・薬用の説明を既存薬草項目へ照合・統合する候補。茶用途だけで薬効を新たに断定しない。"
     }
   },
   {
