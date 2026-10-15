@@ -1,0 +1,1071 @@
+[
+  {
+    "id": "sansai_0010",
+    "name": "ヤマグワ",
+    "scientific_name": "Morus indica",
+    "reason": "登録学名はMorus indica。国内のヤマグワをM. australisとする資料とは範囲が異なり、食用説明を自動で転用しない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/005773.php",
+      "https://yasouensearch.jp/flower_name/%E3%83%A4%E3%83%9E%E3%82%B0%E3%83%AF/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0014",
+    "name": "ハマエンドウ",
+    "scientific_name": "Lathyrus japonicus",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0017",
+    "name": "バライチゴ",
+    "scientific_name": "Rubus illecebrosus",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0021",
+    "name": "オオバショウマ",
+    "scientific_name": "Actaea japonica",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0022",
+    "name": "ノダケ",
+    "scientific_name": "Angelica decursiva",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003411.php"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0023",
+    "name": "ヤブタビラコ",
+    "scientific_name": "Lapsanastrum humile",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0024",
+    "name": "サワハコベ",
+    "scientific_name": "Nubelaria diversiflora",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0045",
+    "name": "ナルコユリ",
+    "scientific_name": "Polygonatum falcatum",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003526.php"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0052",
+    "name": "ツユクサ",
+    "scientific_name": "Commelina communis",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%83%84%E3%83%A6%E3%82%AF%E3%82%B5/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0054",
+    "name": "シャク",
+    "scientific_name": "Anthriscus sylvestris subsp. sylvestris",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004870.php",
+      "https://yasouensearch.jp/flower_name/%E3%82%B7%E3%83%A3%E3%82%AF/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0056",
+    "name": "スイバ",
+    "scientific_name": "Rumex acetosa",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0061",
+    "name": "ノブキ",
+    "scientific_name": "Adenocaulon himalaicum",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0067",
+    "name": "ハシバミ",
+    "scientific_name": "Corylus heterophylla",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0079",
+    "name": "オオバタネツケバナ",
+    "scientific_name": "Cardamine scutata",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0080",
+    "name": "タネツケバナ",
+    "scientific_name": "Cardamine occulta",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0086",
+    "name": "ハマゼリ",
+    "scientific_name": "Cnidium japonicum",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0096",
+    "name": "ホドイモ",
+    "scientific_name": "Apios fortunei",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0101",
+    "name": "クサボケ",
+    "scientific_name": "Chaenomeles japonica",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003486.php"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0109",
+    "name": "クロイチゴ",
+    "scientific_name": "Rubus mesogaeus",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0112",
+    "name": "トリアシショウマ",
+    "scientific_name": "Astilbe rubra",
+    "reason": "登録学名Astilbe rubraと、国内資料のトリアシショウマの分類範囲を今回確定できず、近縁種の食用情報を転用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%83%88%E3%83%AA%E3%82%A2%E3%82%B7%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0113",
+    "name": "アカショウマ",
+    "scientific_name": "Astilbe thunbergii",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0116",
+    "name": "ヒメウワバミソウ",
+    "scientific_name": "Elatostema japonicum",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0117",
+    "name": "オオバセンキュウ",
+    "scientific_name": "Angelica genuflexa",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0118",
+    "name": "ヤマゼリ",
+    "scientific_name": "Ostericum sieboldii",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0120",
+    "name": "ハンゴンソウ",
+    "scientific_name": "Jacobaea cannabifolia",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%83%8F%E3%83%B3%E3%82%B4%E3%83%B3%E3%82%BD%E3%82%A6/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0123",
+    "name": "ゲンノショウコ",
+    "scientific_name": "Geranium thunbergii",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003488.php",
+      "https://yasouensearch.jp/flower_name/%E3%82%B2%E3%83%B3%E3%83%8E%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%B3/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0125",
+    "name": "コオニタビラコ",
+    "scientific_name": "Lapsanastrum apogonoides",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0126",
+    "name": "ヤマドリゼンマイ",
+    "scientific_name": "Osmundastrum cinnamomeum var. fokiense",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0127",
+    "name": "イヌガンソク",
+    "scientific_name": "Pentarhizidium orientale",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0130",
+    "name": "アマナ",
+    "scientific_name": "Amana edulis",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0132",
+    "name": "エゾウコギ",
+    "scientific_name": "Eleutherococcus senticosus",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/005743.php",
+      "https://yasouensearch.jp/flower_name/%E3%82%A8%E3%82%BE%E3%82%A6%E3%82%B3%E3%82%AE/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0133",
+    "name": "ケヤマウコギ",
+    "scientific_name": "Eleutherococcus divaricatus",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0135",
+    "name": "ムカゴイラクサ",
+    "scientific_name": "Laportea bulbifera",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%83%A0%E3%82%AB%E3%82%B4%E3%82%A4%E3%83%A9%E3%82%AF%E3%82%B5/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0136",
+    "name": "オオハナウド",
+    "scientific_name": "Heracleum maximum",
+    "reason": "登録学名Heracleum maximumと、国内のオオハナウドをH. dulceとする資料の範囲が異なるため、国内種の食用情報を転用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%82%AA%E3%82%AA%E3%83%8F%E3%83%8A%E3%82%A6%E3%83%89/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0137",
+    "name": "ミチタネツケバナ",
+    "scientific_name": "Cardamine hirsuta",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0138",
+    "name": "ウシハコベ",
+    "scientific_name": "Stellaria aquatica",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0139",
+    "name": "ミヤマハコベ",
+    "scientific_name": "Stellaria sessiliflora",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0140",
+    "name": "ヤマザクラ",
+    "scientific_name": "Prunus jamasakura",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003439.php",
+      "https://yasouensearch.jp/flower_name/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AF%E3%83%A9/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0141",
+    "name": "オオシマザクラ",
+    "scientific_name": "Prunus speciosa",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006437.php",
+      "https://yasouensearch.jp/flower_name/%E3%82%AA%E3%82%AA%E3%82%B7%E3%83%9E%E3%82%B6%E3%82%AF%E3%83%A9/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0142",
+    "name": "カスミザクラ",
+    "scientific_name": "Prunus leveilleana",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003354.php",
+      "https://yasouensearch.jp/flower_name/%E3%82%AB%E3%82%B9%E3%83%9F%E3%82%B6%E3%82%AF%E3%83%A9/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0143",
+    "name": "ゴヨウアケビ",
+    "scientific_name": "Akebia × pentaphylla",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/007250.php"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0146",
+    "name": "ハマカンゾウ",
+    "scientific_name": "Hemerocallis fulva var. littorea",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0147",
+    "name": "ミクリ",
+    "scientific_name": "Sparganium erectum",
+    "reason": "今回の大学資料は生薬三稜の利用。薬用の記載だけを人の食品としての根拠にしない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003555.php"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0148",
+    "name": "コウヤワラビ",
+    "scientific_name": "Onoclea sensibilis var. interrupta",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0149",
+    "name": "ヤマラッキョウ",
+    "scientific_name": "Allium thunbergii",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0150",
+    "name": "ワニグチソウ",
+    "scientific_name": "Polygonatum involucratum",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%83%AF%E3%83%8B%E3%82%B0%E3%83%81%E3%82%BD%E3%82%A6/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0155",
+    "name": "アキノノゲシ",
+    "scientific_name": "Lactuca indica",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%82%A2%E3%82%AD%E3%83%8E%E3%83%8E%E3%82%B2%E3%82%B7/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0156",
+    "name": "ニガナ",
+    "scientific_name": "Ixeridium dentatum subsp. dentatum",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0157",
+    "name": "オオジシバリ",
+    "scientific_name": "Ixeris japonica",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0159",
+    "name": "ゼンテイカ",
+    "scientific_name": "Hemerocallis middendorffii var. esculenta",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0160",
+    "name": "エゾネギ",
+    "scientific_name": "Allium schoenoprasum var. schoenoprasum",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0161",
+    "name": "コンロンソウ",
+    "scientific_name": "Cardamine leucantha",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%82%B3%E3%83%B3%E3%83%AD%E3%83%B3%E3%82%BD%E3%82%A6/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0162",
+    "name": "ギシギシ",
+    "scientific_name": "Rumex japonicus",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%82%AE%E3%82%B7%E3%82%AE%E3%82%B7/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0165",
+    "name": "イヌブナ",
+    "scientific_name": "Fagus japonica",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0167",
+    "name": "タチツボスミレ",
+    "scientific_name": "Viola grypoceras var. grypoceras",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%82%BF%E3%83%81%E3%83%84%E3%83%9C%E3%82%B9%E3%83%9F%E3%83%AC/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0168",
+    "name": "ヤエムグラ",
+    "scientific_name": "Galium spurium var. echinospermum",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0169",
+    "name": "イヌガラシ",
+    "scientific_name": "Rorippa indica",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%82%A4%E3%83%8C%E3%82%AC%E3%83%A9%E3%82%B7/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0170",
+    "name": "オランダミミナグサ",
+    "scientific_name": "Cerastium glomeratum",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0171",
+    "name": "ツボスミレ",
+    "scientific_name": "Viola arcuata",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0172",
+    "name": "ヒメスミレ",
+    "scientific_name": "Viola inconspicua subsp. nagasakiensis",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0175",
+    "name": "マルバグミ",
+    "scientific_name": "Elaeagnus macrophylla",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0176",
+    "name": "エゾイチゴ",
+    "scientific_name": "Rubus idaeus subsp. strigosus",
+    "reason": "登録学名Rubus idaeus subsp. strigosusと、国内のエゾイチゴの分類範囲を今回確定できず、食用情報を追加しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0177",
+    "name": "キジムシロ",
+    "scientific_name": "Potentilla fragarioides var. major",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%82%AD%E3%82%B8%E3%83%A0%E3%82%B7%E3%83%AD/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0178",
+    "name": "ヤマシロギク",
+    "scientific_name": "Aster semiamplexicaulis",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0180",
+    "name": "コウゾリナ",
+    "scientific_name": "Picris japonica",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%82%B3%E3%82%A6%E3%82%BE%E3%83%AA%E3%83%8A/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0181",
+    "name": "カントウタンポポ",
+    "scientific_name": "Taraxacum platycarpum subsp. platycarpum",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0183",
+    "name": "ノゲシ",
+    "scientific_name": "Sonchus oleraceus",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0184",
+    "name": "オニノゲシ",
+    "scientific_name": "Sonchus asper",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0185",
+    "name": "シシウド",
+    "scientific_name": "Angelica pubescens",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003385.php"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0187",
+    "name": "ヘラオオバコ",
+    "scientific_name": "Plantago lanceolata",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%83%98%E3%83%A9%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B3/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0191",
+    "name": "チチコグサ",
+    "scientific_name": "Euchiton japonicus",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0193",
+    "name": "フジアザミ",
+    "scientific_name": "Cirsium purpuratum",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0194",
+    "name": "ケヤキ",
+    "scientific_name": "Zelkova serrata",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%82%B1%E3%83%A4%E3%82%AD/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0197",
+    "name": "ミズナラ",
+    "scientific_name": "Quercus mongolica var. crispula",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003674.php",
+      "https://yasouensearch.jp/flower_name/%E3%83%9F%E3%82%BA%E3%83%8A%E3%83%A9/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0201",
+    "name": "フトイ",
+    "scientific_name": "Schoenoplectus tabernaemontani",
+    "reason": "今回確認した資料に記載されたのは薬用・観賞・飼料用途で、人の食用部位・食べ方を確認できない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004606.php"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0202",
+    "name": "ウキヤガラ",
+    "scientific_name": "Bolboschoenus fluviatilis",
+    "reason": "大学資料は生薬三稜の利用。登録分類と資料の下位分類の差もあり、食用としては確定しない。",
+    "checked_source_urls": [
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006791.php",
+      "https://yasouensearch.jp/flower_name/%E3%82%A6%E3%82%AD%E3%83%A4%E3%82%AC%E3%83%A9/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0204",
+    "name": "コウボウムギ",
+    "scientific_name": "Carex kobomugi",
+    "reason": "でんぷんを抽出する研究や救荒食の記録はあるが、現代の一般的な食べ方・安全な処理法を今回確定できない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0205",
+    "name": "スカシタゴボウ",
+    "scientific_name": "Rorippa palustris",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0207",
+    "name": "スミレ",
+    "scientific_name": "Viola mandshurica var. mandshurica",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%82%B9%E3%83%9F%E3%83%AC/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0208",
+    "name": "ヤマニガナ",
+    "scientific_name": "Lactuca raddeana var. elata",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%83%A4%E3%83%9E%E3%83%8B%E3%82%AC%E3%83%8A/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0209",
+    "name": "ミミナグサ",
+    "scientific_name": "Cerastium holosteoides",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0210",
+    "name": "オニタビラコ",
+    "scientific_name": "Youngia japonica",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0211",
+    "name": "ノミノフスマ",
+    "scientific_name": "Stellaria undulata",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0212",
+    "name": "ノジスミレ",
+    "scientific_name": "Viola philippica",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0213",
+    "name": "アリアケスミレ",
+    "scientific_name": "Viola betonicifolia var. albescens",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0214",
+    "name": "ヒメコウゾ",
+    "scientific_name": "Broussonetia monoica",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0215",
+    "name": "カジノキ",
+    "scientific_name": "Broussonetia papyrifera",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0217",
+    "name": "サンカクヅル",
+    "scientific_name": "Vitis flexuosa",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "木など生活型での掲載を検討",
+    "trivia_blank": true
+  },
+  {
+    "id": "sansai_0221",
+    "name": "ブタナ",
+    "scientific_name": "Hypochaeris radicata",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [
+      "https://yasouensearch.jp/flower_name/%E3%83%96%E3%82%BF%E3%83%8A/"
+    ],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": false
+  },
+  {
+    "id": "sansai_0222",
+    "name": "トネアザミ",
+    "scientific_name": "Cirsium nipponicum var. incomptum",
+    "reason": "今回確認した大学・植物園などの資料では、この登録植物の食用部位や具体的な食べ方を確定できなかった。近縁種の用途を自動適用しない。",
+    "checked_source_urls": [],
+    "food_use_unconfirmed": true,
+    "genre_changed": false,
+    "suggested_genre": "草など生活型での掲載を検討",
+    "trivia_blank": true
+  }
+]

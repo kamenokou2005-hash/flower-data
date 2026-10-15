@@ -1,0 +1,25 @@
+{
+  "target_records": 221,
+  "use_descriptions_rewritten": 131,
+  "use_unconfirmed": 90,
+  "filler_removed_without_inventing_uses": 60,
+  "trivia_changed": 191,
+  "photographs_replaced": 60,
+  "obvious_photo_mismatch_corrections": [
+    "sansai_0058",
+    "sansai_0188",
+    "sansai_0211"
+  ],
+  "thumbnails_visually_reviewed": 221,
+  "thumbnails_square": 221,
+  "genres_changed": 0,
+  "scientific_names_changed": 0,
+  "active_total": 2666,
+  "strict_photo_identifications_claimed": false,
+  "data_applied": true,
+  "applied_at": "2026-10-15T16:48:08.225650+09:00",
+  "data_processing_complete": true,
+  "apk_version": "0.36",
+  "apk_sha256": "7f36516fbcb1de2af0ce164142a9a28037de3c720ed8f6d00db37917d747647c",
+  "review_basis": "全221件の既存豆知識と現物サムネイルを見直し、根拠のある用途131件を記載。90件の食用用途は未確認のまま。学術的同定や採食可否の判定ではない。"
+}
