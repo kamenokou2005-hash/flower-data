@@ -77,7 +77,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0002",
@@ -193,7 +200,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0003",
@@ -272,7 +286,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0004",
@@ -349,7 +370,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木ですが、若葉・果皮などを香辛料に使うため、ハーブとしても紹介できます。"
+    "genre_review_note": "樹木ですが、若葉・果皮などを香辛料に使うため、ハーブとしても紹介できます。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0005",
@@ -429,7 +457,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0006",
@@ -505,7 +540,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0007",
@@ -585,7 +627,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0008",
@@ -663,7 +712,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0009",
@@ -687,7 +743,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "多年草。心形の葉と、白い花びらのような苞を持つ。葉を揉むと強い独特のにおいがある。",
-    "trivia": "葉や茎には独特の強いにおいがある。乾燥した地上部は「十薬（ジュウヤク）」と呼ばれ、古くから薬草として利用されてきた。ドクダミ茶の原料にも使われる。",
+    "trivia": "葉や茎には独特の強いにおいがある。乾燥した葉や茎はドクダミ茶に使われ、日本では薬草としても親しまれてきた。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -740,7 +796,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての用途が中心。薬草ジャンルとの関係を見直す候補です。"
+    "genre_review_note": "薬草としての用途が中心。薬草ジャンルとの関係を見直す候補です。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0010",
@@ -764,7 +827,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "多年草。細い葉を出し、地中に白く丸い鱗茎ができる。",
-    "trivia": "地中にできる白く丸い鱗茎が食用になる。春の摘み草の一つとして、古くから食べられてきた。",
+    "trivia": "地中の白く丸い鱗茎を食用にする。春の摘み草の一つとして、古くから利用されてきた。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -817,7 +880,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "山菜としての紹介に向くため、山菜ジャンルとの関係を見直す候補です。"
+    "genre_review_note": "山菜としての紹介に向くため、山菜ジャンルとの関係を見直す候補です。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0011",
@@ -894,7 +964,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0012",
@@ -918,7 +995,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "多年草。地面に広がる葉を持ち、細い花茎を立てる。人が通る場所にも多く生える。",
-    "trivia": "古くから薬草として利用されてきた。種子は「車前子（シャゼンシ）」、花期の全草は「車前草（シャゼンソウ）」と呼ばれる。",
+    "trivia": "種子や草全体が薬草として利用されてきた。種子は「車前子（しゃぜんし）」、花が咲く時期の全草は「車前草（しゃぜんそう）」と呼ばれる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -933,7 +1010,8 @@
       "https://www.kobepharma-u.ac.jp/botanical-gardens/gallery/summer/post-57.html",
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B3",
       "https://www.inaturalist.org/taxa/501675",
-      "https://powo.science.kew.org/taxon/684897-1"
+      "https://powo.science.kew.org/taxon/684897-1",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003343.php"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -973,7 +1051,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "料理用の香りづけではなく薬草としての用途が中心。薬草ジャンルを検討する候補です。"
+    "genre_review_note": "料理用の香りづけではなく薬草としての用途が中心。薬草ジャンルを検討する候補です。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0013",
@@ -1088,7 +1173,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0014",
@@ -1167,7 +1259,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0016",
@@ -1246,7 +1345,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0017",
@@ -1322,7 +1428,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "花の香りと果実の色づけを利用する樹木。花の木ジャンルとの関係を見直す候補です。"
+    "genre_review_note": "花の香りと果実の色づけを利用する樹木。花の木ジャンルとの関係を見直す候補です。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0018",
@@ -1440,7 +1553,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "果汁を風味づけに使う果樹。果樹としての分類も検討できます。"
+    "genre_review_note": "果汁を風味づけに使う果樹。果樹としての分類も検討できます。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0019",
@@ -1516,7 +1636,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "香料を採る高木。木ジャンルとの関係を見直す候補です。"
+    "genre_review_note": "香料を採る高木。木ジャンルとの関係を見直す候補です。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0020",
@@ -1596,7 +1723,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "果実をスパイスに使う樹木。ハーブとしての用途があります。"
+    "genre_review_note": "果実をスパイスに使う樹木。ハーブとしての用途があります。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0021",
@@ -1675,7 +1809,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0022",
@@ -1751,7 +1892,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0023",
@@ -1829,7 +1977,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0024",
@@ -1853,7 +2008,7 @@
     "habitat": "庭・ハーブの栽培地",
     "common_place": "庭・ハーブの栽培地",
     "feature_summary": "写真では、青紫色の小花。",
-    "trivia": "香りのある葉を料理の風味づけに使う。地中海地方で古くから利用されてきた。",
+    "trivia": "香りの強い葉を、肉料理や魚介料理の風味づけに使う。地中海地方で古くから利用されてきたハーブである。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -1867,7 +2022,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/salvia-officinalis/",
       "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%82%B8",
-      "https://www.inaturalist.org/taxa/51738"
+      "https://www.inaturalist.org/taxa/51738",
+      "https://www.sbfoods.co.jp/products/detail/02448.html"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -1905,7 +2061,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0025",
@@ -1929,7 +2092,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、対生する鋸歯の葉。",
-    "trivia": "地上部から採れる精油は、ハッカ油として利用される。日本のハッカはジャパニーズミントとも呼ばれる。",
+    "trivia": "葉や茎から採れる精油を、歯みがきや菓子、飲み物の香りづけに使う。すっとする清涼感は、成分のメントールによるものである。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -1944,7 +2107,8 @@
       "https://mpns.science.kew.org/mpns-portal/drugDetail?drugName=mentha+oil&filter=&fuzzy=false&nameType=all&query=Mentha",
       "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%AB",
       "https://www.inaturalist.org/taxa/77991",
-      "https://powo.science.kew.org/taxon/450311-1"
+      "https://powo.science.kew.org/taxon/450311-1",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003415.php"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -1984,7 +2148,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0026",
@@ -2060,7 +2231,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0027",
@@ -2180,7 +2358,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0028",
@@ -2261,7 +2446,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0030",
@@ -2337,7 +2529,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0031",
@@ -2416,7 +2615,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0032",
@@ -2495,7 +2701,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0033",
@@ -2610,7 +2823,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0034",
@@ -2686,7 +2906,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0035",
@@ -2762,7 +2989,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0036",
@@ -2786,7 +3020,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、垂れる筒状の花序。",
-    "trivia": "葉は園芸用の肥料づくりに利用される。料理用の食材としては扱わない。",
+    "trivia": "葉は、園芸用の肥料づくりに利用される。食用にすると健康を損なうおそれがあるため、料理やお茶の材料にはしない。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -2801,7 +3035,8 @@
       "https://www.rhs.org.uk/plants/98268/symphytum-%C3%97-uplandicum/details",
       "https://en.wikipedia.org/wiki/Symphytum",
       "https://www.inaturalist.org/taxa/181924",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A120843-1/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A120843-1/general-information",
+      "https://www.ncbi.nlm.nih.gov/books/n/livertox/Comfrey"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -2880,7 +3115,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0037",
@@ -2995,7 +3237,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0038",
@@ -3019,7 +3268,7 @@
     "habitat": "林縁・やぶ",
     "common_place": "林縁・やぶ",
     "feature_summary": "写真では、つると楕円形の葉。",
-    "trivia": "花には甘い香りがあり、白から黄色へ変わる。その色の変化から金銀花とも呼ばれる。",
+    "trivia": "花には甘い香りがあり、咲き進むと白から黄色へ変わる。花や茎葉には薬草としての利用の歴史もある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -3033,7 +3282,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/lonicera-japonica/",
       "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%AB%E3%82%BA%E3%83%A9",
-      "https://www.inaturalist.org/taxa/77835"
+      "https://www.inaturalist.org/taxa/77835",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003393.php"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -3071,7 +3321,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0039",
@@ -3149,7 +3406,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0040",
@@ -3267,7 +3531,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0041",
@@ -3383,7 +3654,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0042",
@@ -3462,7 +3740,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0044",
@@ -3541,7 +3826,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0045",
@@ -3565,7 +3857,7 @@
     "habitat": "畑・庭・鉢",
     "common_place": "畑・庭・鉢",
     "feature_summary": "写真では、白い小花と紫色の花序。",
-    "trivia": "香りのある葉を、トマト料理や肉料理の風味づけに使う。",
+    "trivia": "葉には甘くさわやかな香りがあり、トマトやチーズとよく合う。サラダやピザ、パスタの香りづけに使われ、イタリア料理ではおなじみのハーブ。葉をオリーブ油やにんにく、松の実などと合わせたジェノベーゼソースにも使う。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -3579,7 +3871,9 @@
     "content_source_urls": [
       "https://www.sbfoods.co.jp/products/detail/09184.html",
       "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B8%E3%83%AB",
-      "https://www.inaturalist.org/taxa/61398"
+      "https://www.inaturalist.org/taxa/61398",
+      "https://www.sbfoods.co.jp/freshherb/list/sweet_basil/",
+      "https://www.sbfoods.co.jp/company/newsrelease/2014/1403_freshherbs.html"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -3617,7 +3911,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0046",
@@ -3696,7 +3997,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0047",
@@ -3782,6 +4090,13 @@
       "basis": "登録学名を維持し、種・品種を断定しない表記へ整理",
       "source_url": "https://www.nparks.gov.sg/florafaunaweb/flora/5/0/5057",
       "photo_reidentified": false
+    },
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
     }
   },
   {
@@ -3806,7 +4121,7 @@
     "habitat": "乾いた斜面・庭・鉢",
     "common_place": "乾いた斜面・庭・鉢",
     "feature_summary": "写真では、細長い葉と小さな淡色の花。",
-    "trivia": "葉に強い香りがあり、料理の風味づけに使われる。乾燥した葉はポプリや香り袋にも利用される。",
+    "trivia": "葉の強い香りを、肉や魚の臭みをやわらげたり、料理に香りをつけたりするために使う。羊肉や豚肉の料理のほか、鶏肉の香草焼きや、じゃがいものローストにもよく合う。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -3820,7 +4135,10 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/salvia-rosmarinus/",
       "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%AA%E3%83%BC",
-      "https://www.inaturalist.org/taxa/636795"
+      "https://www.inaturalist.org/taxa/636795",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003686.php",
+      "https://www.sbfoods.co.jp/freshherb/list/rosemary/",
+      "https://www.sbfoods.co.jp/recipe/detail/03030.html"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -3858,7 +4176,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0049",
@@ -3882,7 +4207,7 @@
     "habitat": "庭・鉢・乾いた場所",
     "common_place": "庭・鉢・乾いた場所",
     "feature_summary": "写真では、小さい葉が密生する低い株。",
-    "trivia": "香りの強い葉を料理の風味づけに使う。開花する直前の葉は、精油を多く含むとされる。",
+    "trivia": "葉にはすっきりした強い香りがあり、肉や魚、トマトなどの料理に使う。煮込みやスープ、香草焼き、ムニエルなどの風味づけに利用される。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -3896,7 +4221,9 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/thymus-vulgaris/",
       "https://en.wikipedia.org/wiki/Thymus_vulgaris",
-      "https://www.inaturalist.org/taxa/85469"
+      "https://www.inaturalist.org/taxa/85469",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006443.php",
+      "https://www.sbfoods.co.jp/products/detail/02449.html"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -3934,7 +4261,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0050",
@@ -4053,7 +4387,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0052",
@@ -4129,7 +4470,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0053",
@@ -4203,7 +4551,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0054",
@@ -4279,7 +4634,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0055",
@@ -4355,7 +4717,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0056",
@@ -4473,7 +4842,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0057",
@@ -4497,7 +4873,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、細長い葉の株。",
-    "trivia": "料理用には、香りのよい系統の葉を使う。同じタラゴンでも、野生のものや系統によって香りや味に差がある。",
+    "trivia": "料理用の香りのよい系統は、卵や鶏肉、魚、酢などとよく合う。オムレツやマリネ、ソースの風味づけに使われ、酢に香りを移したタラゴンビネガーも知られる。系統によって香りや味が異なる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -4511,7 +4887,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/artemisia-dracunculus/",
       "https://www.inaturalist.org/taxa/57912",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A307848-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A307848-2",
+      "https://www.sbfoods.co.jp/products/detail/02461.html"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -4551,7 +4928,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0058",
@@ -4629,7 +5013,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0059",
@@ -4707,7 +5098,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0060",
@@ -4731,7 +5129,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、淡色の花と果実。",
-    "trivia": "葉に辛みがあり、料理用の葉物として利用される。",
+    "trivia": "葉にはゴマに似た風味と、わずかな辛みがある。サラダに使うほか、生ハムやチーズ、トマトなどと組み合わせて食べる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -4746,7 +5144,9 @@
       "https://plants.ces.ncsu.edu/plants/eruca-vesicaria/",
       "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%83%E3%82%B3%E3%83%A9",
       "https://www.inaturalist.org/taxa/77058",
-      "https://powo.science.kew.org/taxon/1137625-2"
+      "https://powo.science.kew.org/taxon/1137625-2",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004889.php",
+      "https://www.sbfoods.co.jp/freshherb/list/rocket/"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -4827,7 +5227,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0061",
@@ -4903,7 +5310,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0062",
@@ -4979,7 +5393,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0063",
@@ -5003,7 +5424,7 @@
     "habitat": "庭・ハーブの栽培地",
     "common_place": "庭・ハーブの栽培地",
     "feature_summary": "写真では、淡紫色の花が輪状に集まる。",
-    "trivia": "香りのある葉を、ハーブティー、アイスクリーム、飴などの風味づけに使う。",
+    "trivia": "葉には、すっとする強い清涼感がある。ハーブティーにしたり、ゼリーやアイスクリームの香りづけに使ったりする。飴やガムでも親しまれている香りで、生の葉はデザートの飾りにも使う。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -5017,7 +5438,10 @@
     "content_source_urls": [
       "https://www.nparks.gov.sg/florafaunaweb/flora/4/8/4858",
       "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%91%E3%83%BC%E3%83%9F%E3%83%B3%E3%83%88",
-      "https://www.inaturalist.org/taxa/181525"
+      "https://www.inaturalist.org/taxa/181525",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/007119.php",
+      "https://www.sbfoods.co.jp/products/detail/60336.html",
+      "https://www.sbfoods.co.jp/products/detail/09187.html"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -5094,7 +5518,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0064",
@@ -5170,7 +5601,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0065",
@@ -5246,7 +5684,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0066",
@@ -5327,7 +5772,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0067",
@@ -5351,7 +5803,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、直立する茎と鋸歯の葉。",
-    "trivia": "葉に香りがあり、水辺や湿った場所に育つミント。",
+    "trivia": "葉に香りがあり、水辺や湿った場所に育つ。水辺の植栽で、葉の香りと花を楽しめるミントである。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -5405,7 +5857,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0068",
@@ -5484,7 +5943,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0070",
@@ -5508,7 +5974,7 @@
     "habitat": "庭・ハーブの栽培地",
     "common_place": "庭・ハーブの栽培地",
     "feature_summary": "写真では、鋸歯のある幅広い葉。",
-    "trivia": "葉を揉むとレモンに似た香りがする。ハーブティーやスープ、サラダの風味づけに使われ、乾燥した葉はポプリにも利用される。",
+    "trivia": "葉には穏やかなレモンのような香りがあり、ハーブティーの香りづけに使う。サラダやデザート、炒め物に加えて、香りのアクセントを楽しむこともできる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -5522,7 +5988,9 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/melissa-officinalis/",
       "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%A2%E3%83%B3%E3%83%90%E3%83%BC%E3%83%A0",
-      "https://www.inaturalist.org/taxa/59901"
+      "https://www.inaturalist.org/taxa/59901",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/007122.php",
+      "https://www.sbfoods.co.jp/freshherb/list/lemon_balm/"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -5560,7 +6028,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0071",
@@ -5636,7 +6111,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0073",
@@ -5712,7 +6194,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0075",
@@ -5791,7 +6280,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0076",
@@ -5815,7 +6311,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、裂けた葉と淡桃色の花。",
-    "trivia": "葉にはバラを思わせる香りがある。葉の香りを楽しむゼラニウムの一つ。",
+    "trivia": "葉にはバラを思わせる香りがある。花だけでなく、葉に触れたときの香りも楽しめるゼラニウムである。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -5869,7 +6365,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0077",
@@ -5945,7 +6448,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0078",
@@ -6063,7 +6573,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0079",
@@ -6145,7 +6662,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0080",
@@ -6227,7 +6751,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0081",
@@ -6308,7 +6839,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0082",
@@ -6332,7 +6870,7 @@
     "habitat": "日なた〜半日陰で栽培。肥沃で湿り気のある土を好み、庭などに植えられる。",
     "common_place": "",
     "feature_summary": "葉と茎が柔らかい毛に覆われ、灰緑色に見える。淡い紫桃色の浅い皿状の花が小さな集まりで咲く。",
-    "trivia": "乾燥した根が、伝統的な薬草の原料として利用されてきた。",
+    "trivia": "乾燥した根を、喉や口内の刺激感、それに伴う乾いた咳などに使ってきた。ヨーロッパの伝統的な薬草の一つで、軽い胃腸の不快感にも利用されてきた。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -6383,7 +6921,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0083",
@@ -6461,7 +7006,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0084",
@@ -6485,7 +7037,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、銀灰色の細かな葉。",
-    "trivia": "香りのある葉と、丸い黄色の花を楽しむ植物。庭や花壇で育てられる。",
+    "trivia": "香りのある葉と、丸い黄色の花を楽しむ。庭や花壇で育てられるハーブである。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -6578,7 +7130,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0085",
@@ -6659,7 +7218,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0086",
@@ -6683,7 +7249,7 @@
     "habitat": "庭・花壇",
     "common_place": "庭・花壇",
     "feature_summary": "写真では、白い毛に覆われる葉。",
-    "trivia": "葉は柔らかい毛に覆われ、羊の耳に見立てた名前がついている。触り心地や銀色の葉を楽しむ植栽に使われる。",
+    "trivia": "銀色の葉は柔らかな毛に覆われ、羊の耳に見立てた名前がついている。葉の色や触り心地を楽しむ植栽に使われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -6735,7 +7301,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0088",
@@ -6823,7 +7396,14 @@
     "needs_manual_fruit_review": false,
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0089",
@@ -6903,7 +7483,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0090",
@@ -6927,7 +7514,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、細かい複葉。",
-    "trivia": "香りのある粒を食品の風味づけに使う。葉にも風味があり、スープや煮込みなどに利用される。",
+    "trivia": "香りのある粒を、パンやクッキー、ケーキ、ザワークラウトなどに使う。葉にも風味があり、スープや煮込みに利用される。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -6941,7 +7528,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/carum-carvi/",
       "https://www.inaturalist.org/taxa/160162",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A839677-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A839677-1",
+      "https://www.sbfoods.co.jp/products/detail/09108.html"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -6981,7 +7569,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0091",
@@ -7060,7 +7655,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0092",
@@ -7140,7 +7742,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0093",
@@ -7216,7 +7825,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0094",
@@ -7240,7 +7856,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、黄色い花と細長い葉。",
-    "trivia": "古くから薬草として利用されてきた。花を黄色い染料の原料に使うこともある。",
+    "trivia": "古くから薬草として利用されてきた。花を黄色い染料の原料に使うこともある。薬の働きを変える成分を含むため、服薬中の利用には注意が必要である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -7254,7 +7870,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/hypericum-perforatum/",
       "https://www.inaturalist.org/taxa/56077",
-      "https://powo.science.kew.org/taxon/433719-1"
+      "https://powo.science.kew.org/taxon/433719-1",
+      "https://www.nccih.nih.gov/health/st-johns-wort"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -7294,7 +7911,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0095",
@@ -7411,7 +8035,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0096",
@@ -7435,7 +8066,7 @@
     "habitat": "涼しく雨の多い環境を好む。日なた〜半日陰の、肥沃で湿り気がある土で栽培。",
     "common_place": "",
     "feature_summary": "地下茎で広がり、羽状に分かれた葉をつける。香りのある白色〜淡い桃色の小花が集まって咲く。",
-    "trivia": "主に根が薬草として利用されてきた。食品や香料にも利用の歴史がある。",
+    "trivia": "根などの地下部を、気持ちが落ち着かないときや寝つきが悪いときに使ってきた。ヨーロッパで長く利用されてきた薬草の一つである。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -7450,7 +8081,8 @@
       "https://plants.ces.ncsu.edu/plants/valeriana-officinalis/",
       "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AC%E3%83%AA%E3%82%A2%E3%83%B3",
       "https://www.inaturalist.org/taxa/1105640",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A860012-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A860012-1",
+      "https://www.ema.europa.eu/en/medicines/herbal/valerianae-radix"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -7525,7 +8157,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0097",
@@ -7607,7 +8246,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0098",
@@ -7685,7 +8331,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0099",
@@ -7764,7 +8417,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0100",
@@ -7845,7 +8505,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0101",
@@ -7926,7 +8593,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0102",
@@ -8002,7 +8676,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0103",
@@ -8078,7 +8759,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0104",
@@ -8196,7 +8884,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0105",
@@ -8276,7 +8971,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0106",
@@ -8354,7 +9056,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0107",
@@ -8378,7 +9087,7 @@
     "habitat": "日なた〜半日陰の、水はけのよい土で栽培。花壇や鉢植えに用いられる。",
     "common_place": "",
     "feature_summary": "香りのある灰緑色の葉と青紫色の花をつける。Nepeta racemosa と N. nepetella に由来する交雑種。",
-    "trivia": "庭や花壇で花を楽しむために育てられる。",
+    "trivia": "庭や花壇で花を楽しむために育てられる。観賞用として利用されるキャットミントの交雑種である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8468,7 +9177,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0108",
@@ -8544,7 +9260,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0109",
@@ -8568,7 +9291,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、細長い葉が密生する株。",
-    "trivia": "香りのある精油は、香水やクリーム、石けんなどに利用される。深く伸びる根を活かし、土壌の保全にも使われる。",
+    "trivia": "香りのある精油を、香水やクリーム、石けんなどに使う。深く伸びる根を活かして、土が流れ出るのを防ぐ植栽にも利用される。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8583,7 +9306,8 @@
       "https://plants.ces.ncsu.edu/plants/chrysopogon-zizanioides/",
       "https://en.wikipedia.org/wiki/Chrysopogon_zizanioides",
       "https://www.inaturalist.org/taxa/142763",
-      "https://powo.science.kew.org/taxon/396213-1"
+      "https://powo.science.kew.org/taxon/396213-1",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003665.php"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -8623,7 +9347,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0111",
@@ -8701,7 +9432,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0112",
@@ -8725,7 +9463,7 @@
     "habitat": "日なた〜半日陰の、肥沃で湿り気があり水はけのよい場所で栽培。",
     "common_place": "",
     "feature_summary": "とげのある枝が弓状に伸び、香りの強い桃色の花を房状につける。花の重なり方は品種によって異なる。",
-    "trivia": "花には強い香りがある。香りのよい花を庭で楽しめるバラ。",
+    "trivia": "花には強い香りがある。香りのよい花を庭で楽しめるバラである。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8814,7 +9552,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0113",
@@ -8838,7 +9583,7 @@
     "habitat": "日なた〜半日陰の、湿り気があり水はけのよい場所で栽培。花壇、生け垣、鉢植えなどに利用される。",
     "common_place": "",
     "feature_summary": "とげの多い枝と、大きく丸みのある香りの強い桃色〜淡紫色の花が特徴。",
-    "trivia": "夏に咲く八重の花には香りがある。花と香りを楽しむために育てられる。",
+    "trivia": "八重の花に香りがあり、花と香りを楽しむために育てられる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8929,7 +9674,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0116",
@@ -8953,7 +9705,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、紫色の小花が密集。",
-    "trivia": "花にはバニラに似た強い香りがある。花と香りを楽しむために育てられる。",
+    "trivia": "花にはバニラに似た強い香りがある。庭や鉢で、花と香りを楽しむために育てられる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -9008,7 +9760,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0117",
@@ -9090,7 +9849,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0118",
@@ -9205,7 +9971,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0119",
@@ -9283,7 +10056,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0121",
@@ -9307,7 +10087,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、細い雄しべが集まる白い花。",
-    "trivia": "ティーツリーオイルを採るために栽培される。精油を利用する樹木として知られる。",
+    "trivia": "葉からティーツリーオイルを採るために栽培される。精油を利用する樹木で、飲み物のお茶の原料とは異なる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -9361,7 +10141,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0122",
@@ -9439,7 +10226,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0123",
@@ -9463,7 +10257,7 @@
     "habitat": "草地、土手、道端",
     "common_place": "草地、土手、道端",
     "feature_summary": "写真では、細長い葉。",
-    "trivia": "葉には酸味があり、食用になる。ソレルの名で知られる香草。",
+    "trivia": "葉には酸味があり、料理用の香草として利用される。ソレルの名で親しまれている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -9515,7 +10309,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0124",
@@ -9539,7 +10340,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、白い小花と細長い果実。",
-    "trivia": "若い芽や葉を食用にする。ガーデンクレスとして育てられる。",
+    "trivia": "若い芽や葉を食用にする。ガーデンクレスとして栽培される葉物である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -9595,7 +10396,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0125",
@@ -9674,7 +10482,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0126",
@@ -9753,7 +10568,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0127",
@@ -9828,7 +10650,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0128",
@@ -9906,7 +10735,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0130",
@@ -9930,7 +10766,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、細長い葉。",
-    "trivia": "香りのある種子を、肉料理、野菜料理、コーヒーや焼き菓子の風味づけに使う。",
+    "trivia": "香りのある種子を、カレーやひき肉料理、焼き菓子などの風味づけに使う。コーヒーの香りづけにも利用される。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -9945,7 +10781,8 @@
       "https://plants.ces.ncsu.edu/plants/elettaria-cardamomum/",
       "https://en.wikipedia.org/wiki/Elettaria",
       "https://www.inaturalist.org/taxa/119387",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A796556-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A796556-1",
+      "https://www.sbfoods.co.jp/products/detail/16942.html"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -9985,7 +10822,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0131",
@@ -10064,7 +10908,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0132",
@@ -10141,7 +10992,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0133",
@@ -10220,7 +11078,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0134",
@@ -10298,7 +11163,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0135",
@@ -10377,7 +11249,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0136",
@@ -10401,7 +11280,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、枝につく赤い果実。",
-    "trivia": "バラの果実はローズヒップと呼ばれ、食品に利用される。",
+    "trivia": "バラの果実はローズヒップと呼ばれる。本種の果実にも、食品としての利用の歴史がある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -10456,7 +11335,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0137",
@@ -10534,7 +11420,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0138",
@@ -10558,7 +11451,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、赤い果実と裂けた葉。",
-    "trivia": "果実は食用になる。花や実を楽しむ樹木としても育てられる。",
+    "trivia": "果実は食用になる。庭では、花と実を楽しむ樹木としても育てられる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -10655,7 +11548,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0139",
@@ -10770,7 +11670,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0140",
@@ -10848,7 +11755,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0141",
@@ -10924,7 +11838,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0143",
@@ -10948,7 +11869,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、枝と薄い袋状の果実。",
-    "trivia": "根が薬草として利用されてきた。アシュワガンダの名で知られる。",
+    "trivia": "根が、伝統的な薬草の原料として利用されてきた。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11002,7 +11923,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0144",
@@ -11026,7 +11954,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、白い小花と厚みのある葉。",
-    "trivia": "葉は野菜として利用されることがあり、薬草としても知られる。水槽や吊り鉢で育てることもある。",
+    "trivia": "葉を野菜に利用する地域があり、伝統的な薬草としても知られる。水槽や吊り鉢で育てることもある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11081,7 +12009,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0145",
@@ -11105,7 +12040,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、つると対生する葉。",
-    "trivia": "乾燥した葉が、薬草の原料として利用されてきた。",
+    "trivia": "乾燥した葉が、伝統的な薬草の原料として利用されてきた。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11160,7 +12095,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0146",
@@ -11184,7 +12126,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、細長い葉をつけた茎。",
-    "trivia": "中国やインドの伝統的な薬草として利用されてきた。",
+    "trivia": "中国やインドで、伝統的な薬草として利用されてきた。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11241,7 +12183,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0147",
@@ -11265,7 +12214,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、白い模様のあるとげの葉。",
-    "trivia": "果実が薬草の原料として利用される。ミルクシスルの名で知られる。",
+    "trivia": "果実が薬草の原料として利用される。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11316,7 +12265,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0148",
@@ -11394,7 +12350,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0149",
@@ -11418,7 +12381,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、鋸歯の強い複葉。",
-    "trivia": "北米の先住民が根や地下部を薬草として利用してきた。現在もハーブ製品の原料として知られる。",
+    "trivia": "北米の先住民が根や地下部を薬草として利用してきた。現在もハーブ製品の原料として使われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11472,7 +12435,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0150",
@@ -11496,7 +12466,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、紫色の糸状の副花冠が広がる花。",
-    "trivia": "北米の先住民が薬草として利用してきた歴史がある。特徴的な花には香りがある。",
+    "trivia": "葉や茎などの地上部を、軽いストレスや寝つきの悪さに使ってきた。ヨーロッパでは、伝統的な利用のある薬草として扱われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11511,7 +12481,8 @@
       "https://plants.ces.ncsu.edu/plants/passiflora-incarnata/",
       "https://en.wikipedia.org/wiki/Passiflora_incarnata",
       "https://www.inaturalist.org/taxa/51453",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A675096-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A675096-1",
+      "https://www.ema.europa.eu/en/medicines/herbal/passiflorae-herba"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -11556,7 +12527,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "今回取得した個別資料",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0151",
@@ -11634,7 +12612,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0152",
@@ -11713,7 +12698,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0154",
@@ -11737,7 +12729,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、切れ込む葉の茂る株。",
-    "trivia": "葉にはレモンに似た香りがある。葉の香りを楽しむゼラニウムの一つ。",
+    "trivia": "葉にはレモンに似た香りがある。葉の香りを楽しむために育てられるゼラニウムである。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11791,7 +12783,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0155",
@@ -11869,7 +12868,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0157",
@@ -11947,7 +12953,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0159",
@@ -12025,7 +13038,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0160",
@@ -12106,7 +13126,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0161",
@@ -12130,7 +13157,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、細長い葉と白い花序。",
-    "trivia": "葉を傷つけると、ミントのような強い香りがする。花には多くの昆虫が集まる。",
+    "trivia": "葉を傷つけると、ミントのような強い香りがする。香りや花を楽しむ植栽に使われ、花には多くの昆虫が集まる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -12185,7 +13212,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0163",
@@ -12263,7 +13297,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0166",
@@ -12287,7 +13328,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、枝を伸ばして茂る株。",
-    "trivia": "香りのある葉を料理に使う。ポットマジョラムとして知られる。",
+    "trivia": "香りのある葉を、料理の風味づけに使う。ポットマジョラムと呼ばれるオレガノの仲間である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -12341,7 +13382,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0167",
@@ -12419,7 +13467,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0169",
@@ -12497,7 +13552,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0170",
@@ -12573,7 +13635,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0171",
@@ -12649,7 +13718,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0172",
@@ -12767,7 +13843,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0173",
@@ -12791,7 +13874,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、青紫色の唇形の花。",
-    "trivia": "花を楽しむために庭や花壇で育てられる。メドウクラリーとも呼ばれる。",
+    "trivia": "庭や花壇で花を楽しむために育てられる。メドウクラリーとも呼ばれるセージの仲間である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -12845,7 +13928,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0176",
@@ -12869,7 +13959,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、細長い灰緑色の葉。",
-    "trivia": "花や葉には香りがある。香りを楽しむラベンダーとして育てられる。",
+    "trivia": "花や葉には香りがあり、香りを楽しむラベンダーとして育てられる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -12923,7 +14013,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0177",
@@ -12947,7 +14044,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、細長い葉が密生した株。",
-    "trivia": "花や葉の香りを楽しむラベンダーの交雑種。花壇や低い生け垣などに利用される。",
+    "trivia": "花や葉の香りを楽しむラベンダーの交雑種。花壇や低い生け垣などの植栽に利用される。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -13040,7 +14137,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0180",
@@ -13064,7 +14168,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、葉が密生する低い株。",
-    "trivia": "葉にはリンゴに似た香りがある。葉の香りを楽しむゼラニウムの一つ。",
+    "trivia": "葉にはリンゴに似た香りがある。葉の香りを楽しむために育てられるゼラニウムである。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -13119,7 +14223,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0181",
@@ -13198,7 +14309,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0182",
@@ -13222,7 +14340,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、細かく裂けた葉。",
-    "trivia": "葉には強い香りがある。細かく分かれた葉と花を、庭や花壇で楽しむために育てられる。",
+    "trivia": "細かく分かれた葉には強い香りがある。葉の香りと花を、庭や花壇で楽しむために育てられる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -13277,7 +14395,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0183",
@@ -13353,7 +14478,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0187",
@@ -13431,7 +14563,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0188",
@@ -13509,7 +14648,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0189",
@@ -13590,7 +14736,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0192",
@@ -13668,7 +14821,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0194",
@@ -13746,7 +14906,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0195",
@@ -13824,7 +14991,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0196",
@@ -13898,7 +15072,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0197",
@@ -13972,7 +15153,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0198",
@@ -14050,7 +15238,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0199",
@@ -14131,7 +15326,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0200",
@@ -14210,7 +15412,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0201",
@@ -14234,7 +15443,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、つると丸みのある葉。",
-    "trivia": "果実は、薬草の原料として利用される。",
+    "trivia": "果実が、薬草の原料として利用される。日本ではチョウセンゴミシとも呼ばれる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -14289,7 +15498,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0202",
@@ -14313,7 +15529,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、紫色の花と灰緑色の葉。",
-    "trivia": "十分に熟した果実が食用になる。ゴジベリーの名で知られる。",
+    "trivia": "熟した果実を食用にする。ゴジベリーと呼ばれる果実の原料の一つである。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -14367,7 +15583,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0203",
@@ -14445,7 +15668,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0204",
@@ -14469,7 +15699,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、掌状の複葉。",
-    "trivia": "根が生薬の原料として使われる。ジンセンや高麗ニンジンの名で知られる。",
+    "trivia": "根を、生薬の原料として使う。高麗ニンジンやオタネニンジンの名でも知られる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -14524,7 +15754,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0205",
@@ -14548,7 +15785,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、大きな掌状の葉。",
-    "trivia": "北米の先住民が薬草として利用してきた。現在もハーブ製品の原料として知られる。",
+    "trivia": "北米の先住民が薬草として利用してきた。現在も、ハーブ製品の原料として使われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -14602,7 +15839,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0206",
@@ -14681,7 +15925,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0207",
@@ -14759,7 +16010,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0208",
@@ -14839,7 +16097,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0209",
@@ -14921,7 +16186,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0210",
@@ -14999,7 +16271,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0211",
@@ -15078,7 +16357,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0213",
@@ -15102,7 +16388,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、赤い根元と細長い葉。",
-    "trivia": "香辛料として使う種子には、煙を思わせる風味がある。料理の風味づけに利用される。",
+    "trivia": "種子を香辛料として料理に使う。煙を思わせる独特の風味がある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -15156,7 +16442,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0215",
@@ -15235,7 +16528,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0216",
@@ -15313,7 +16613,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0217",
@@ -15400,6 +16707,13 @@
       "basis": "登録学名を維持し、種・品種を断定しない表記へ整理",
       "source_url": "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/005748.php",
       "photo_reidentified": false
+    },
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
     }
   },
   {
@@ -15478,7 +16792,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0219",
@@ -15502,7 +16823,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、小葉が並ぶ複葉。",
-    "trivia": "香りのある葉を料理に使う。カレーリーフとして知られる樹木。",
+    "trivia": "香りのある葉を、料理の風味づけに使う。カレーリーフは、この木の葉を指す名前である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -15556,7 +16877,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。"
+    "genre_review_note": "樹木の項目。香りや食品などに使う部位を確認し、木・花の木との関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0220",
@@ -15643,6 +16971,13 @@
       "basis": "登録学名を維持し、種・品種を断定しない表記へ整理",
       "source_url": "https://www.rhs.org.uk/plants/122357/ocimum-kilimandscharicum/details",
       "photo_reidentified": false
+    },
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
     }
   },
   {
@@ -15667,7 +17002,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、褐色の花序。",
-    "trivia": "葉には強い香りがある。クローブバジルの名で知られる。",
+    "trivia": "葉には強い香りがある。クローブバジルと呼ばれるバジルの仲間である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -15721,7 +17056,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0222",
@@ -15803,7 +17145,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0224",
@@ -15881,7 +17230,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0225",
@@ -15957,7 +17313,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0227",
@@ -16035,7 +17398,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0228",
@@ -16114,7 +17484,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0229",
@@ -16193,7 +17570,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0232",
@@ -16217,7 +17601,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、細い枝と小さな葉。",
-    "trivia": "果実をパイやジャムなどに使う。ビルベリーの名で知られる。",
+    "trivia": "果実を、パイやジャムなどに使う。ビルベリーと呼ばれる野生の果実の一つである。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -16271,7 +17655,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0233",
@@ -16295,7 +17686,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、地面に広がる小さな葉。",
-    "trivia": "果実を食用にするため、商業的に栽培される。クランベリーの名で知られる。",
+    "trivia": "果実を食用にするため、商業的に栽培される。クランベリーの原料となる種類である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -16349,7 +17740,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0234",
@@ -16425,7 +17823,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0235",
@@ -16540,7 +17945,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0237",
@@ -16564,7 +17976,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、高く直立する茎。",
-    "trivia": "黄色い花には香りがある。柔らかい毛に覆われた大きな葉と、高く伸びる花茎を持つ。",
+    "trivia": "柔らかい毛に覆われた大きな葉と、高く伸びる花茎を楽しむ。黄色い花には香りがある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -16618,7 +18030,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": ""
+    "genre_review_note": "",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "herb_0238",
@@ -16699,7 +18118,14 @@
     "fruiting_season": "",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。"
+    "genre_review_note": "薬草としての利用を掲載。薬草ジャンルとの関係を検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "既存の用途・香りの文章を維持",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   },
   {
     "id": "rare_fruit_0162",
@@ -16723,7 +18149,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "果実には食用利用があり、植物の各部に香辛料のような風味があると記載されています。熟した果実の色の詳細は未確認です。",
-    "trivia": "果実は食用に利用される。タスマニアなどに分布する、マウンテンペッパーの仲間。",
+    "trivia": "果実を香辛料として食用にする。タスマニアなどに分布する、マウンテンペッパーの仲間である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -16786,6 +18212,13 @@
     "fruit_genre_review_note": "香辛料としての利用を中心にハーブへ整理。",
     "herb_usage_review_date": "2026-10-15",
     "herb_usage_review_status": "用途・香りの説明を見直し済み",
-    "genre_review_note": "果実を食品として利用する樹木。香辛料としての利用も含め、ハーブの扱いを検討する。"
+    "genre_review_note": "果実を食品として利用する樹木。香辛料としての利用も含め、ハーブの扱いを検討する。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "文章修正",
+      "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": null
+    }
   }
 ]

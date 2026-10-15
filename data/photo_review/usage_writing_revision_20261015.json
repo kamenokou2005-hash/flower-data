@@ -1,0 +1,64 @@
+{
+  "reviewed": 429,
+  "herb_reviewed": 201,
+  "medicinal_reviewed": 228,
+  "text_changed": 251,
+  "changes_by_category": {
+    "ハーブ": 59,
+    "薬草": 192
+  },
+  "medicinal_uses_unconfirmed": 100,
+  "genre_candidates": [
+    {
+      "id": "yakuso_0175",
+      "name": "カクレミノ",
+      "current": "薬草",
+      "candidate": "木・花の木",
+      "reason": "参照資料では非薬用。薬用用途の根拠を今回確認できない。"
+    },
+    {
+      "id": "yakuso_0180",
+      "name": "サカキ",
+      "current": "薬草",
+      "candidate": "木・花の木",
+      "reason": "参照資料では非薬用。薬用用途の根拠を今回確認できない。"
+    },
+    {
+      "id": "yakuso_0186",
+      "name": "ヤマグルマ",
+      "current": "薬草",
+      "candidate": "木・花の木",
+      "reason": "参照資料では非薬用。薬用用途の根拠を今回確認できない。"
+    },
+    {
+      "id": "yakuso_0193",
+      "name": "ナツツバキ",
+      "current": "薬草",
+      "candidate": "木・花の木",
+      "reason": "参照資料では非薬用。薬用用途の根拠を今回確認できない。"
+    },
+    {
+      "id": "yakuso_0194",
+      "name": "ヒメシャラ",
+      "current": "薬草",
+      "candidate": "木・花の木",
+      "reason": "参照資料では非薬用。薬用用途の根拠を今回確認できない。"
+    }
+  ],
+  "scope_notes": {
+    "yakuso_0150": "表示名オケラに対して登録学名はAtractylodes lancea。オケラ（A. japonica）の白朮の説明を転記しない。学名・表示名・写真の対応を別途見直す。",
+    "yakuso_0153": "登録学名Rheum rhabarbarumに、薬用大黄の基原となる別種の効能を転記しない。",
+    "yakuso_0213": "資料にAdonis amurensisの記載があり、登録学名Adonis ramosaとの範囲の照合を保留。強心作用の説明を転記しない。"
+  },
+  "main_data_applied": true,
+  "github_updated": false,
+  "apk_updated": false,
+  "errors": [],
+  "backup": "C:\\aasagyou\\FlowerLatest\\90_Backup\\usage_writing_20261015_114952",
+  "total_records": 2689,
+  "genre_moves": 0,
+  "photos_changed": 0,
+  "scientific_names_changed": 0,
+  "other_records_unchanged": true,
+  "completed_at": "2026-10-15T11:49:55.308083+09:00"
+}
