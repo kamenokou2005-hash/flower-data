@@ -1584,7 +1584,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "つる性多年草。つるを伸ばす多年草で、雌株に毬花ができる。",
-    "trivia": "雌株につく毬花を、ビールの苦みや香りづけに使う。香りは品種によって異なり、ビールの風味を左右する。",
+    "trivia": "雌株につく毬花を、ビールの苦みや香りづけに使う。香りは品種によって異なり、ビールの風味を左右する。苦みをつけるほか、保存性を高めたり濁りを抑えたりする役割もある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -1602,7 +1602,8 @@
       "https://www.inaturalist.org/taxa/241080",
       "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006377",
       "https://www.ars.usda.gov/pacific-west-area/corvallis-or/national-clonal-germplasm-repository/docs/ncgr-corvallis-humulus-germplasm/",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A303502-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A303502-2",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003672.php"
     ],
     "content_source_scope": "reviewed_taxon_scope",
     "image": {
@@ -1682,6 +1683,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003672.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -1706,7 +1715,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "多年草。卵形の葉を持ち、茎には毛がある。小さな紫色の花が穂状に咲く。",
-    "trivia": "葉から採れる精油には、ムスクを思わせる甘く重い香りがある。香水や石けんなどの香りづけに使われる。",
+    "trivia": "葉から採れる精油には、甘く重い香りがあり、香水や石けんなどの香りづけに使われる。インドでは、衣服に香りを移したり、入浴に利用したりしてきた。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -1721,7 +1730,8 @@
       "https://www.nparks.gov.sg/florafaunaweb/flora/4/8/4857",
       "https://www.doterra.com/SG/en_SG/p/patchouli-oil",
       "https://www.inaturalist.org/taxa/277910",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A454827-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A454827-1",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003414.php"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -1768,6 +1778,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003414.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -2259,7 +2277,7 @@
     "habitat": "草地・栽培地",
     "common_place": "草地・栽培地",
     "feature_summary": "写真では、淡桃色の小花と小さな葉。",
-    "trivia": "葉には強い香りがあり、トマト料理、肉料理、ソースなどの風味づけに使われる。生の葉だけでなく、乾燥した葉も利用される。",
+    "trivia": "葉にはコショウを思わせる強い香りがあり、イタリアのピザやトマト料理によく使われる。メキシコ料理のチリパウダーにも利用され、生の葉だけでなく乾燥した葉も料理に香りを添える。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -2273,7 +2291,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/origanum-vulgare/",
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AC%E3%82%AC%E3%83%8E",
-      "https://www.inaturalist.org/taxa/61396"
+      "https://www.inaturalist.org/taxa/61396",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004854.php"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -2318,6 +2337,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004854.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -2427,7 +2454,7 @@
     "habitat": "庭・ハーブの栽培地",
     "common_place": "庭・ハーブの栽培地",
     "feature_summary": "写真では、青紫色の小花。",
-    "trivia": "香りの強い葉を、肉料理や魚介料理の風味づけに使う。地中海地方で古くから利用されてきたハーブである。",
+    "trivia": "葉には強い香りとほろ苦さがあり、脂のある肉や魚の料理をすっきり仕上げる。ソーセージやハンバーグの香りづけ、クリームソースやバターソースにも使われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -2442,7 +2469,8 @@
       "https://plants.ces.ncsu.edu/plants/salvia-officinalis/",
       "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%82%B8",
       "https://www.inaturalist.org/taxa/51738",
-      "https://www.sbfoods.co.jp/products/detail/02448.html"
+      "https://www.sbfoods.co.jp/products/detail/02448.html",
+      "https://www.sbfoods.co.jp/freshherb/list/sage/"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -2487,6 +2515,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "今回取得した個別資料",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.sbfoods.co.jp/freshherb/list/sage/"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -2899,7 +2935,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、褐色の細長い花序。",
-    "trivia": "花や葉の香りを楽しむために、庭や鉢で育てられる。花穂の上に、ウサギの耳のような飾りがつく。",
+    "trivia": "花や葉の香りを楽しむために庭や鉢で育てられ、精油の抽出や消臭用にも利用される。花穂の上に、ウサギの耳のような飾りがつくラベンダーである。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -2914,7 +2950,8 @@
       "https://plants.ces.ncsu.edu/plants/lavandula-stoechas/",
       "https://www.inaturalist.org/taxa/61904",
       "https://powo.science.kew.org/taxon/449089-1",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A449089-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A449089-1",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006585.php"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -2963,6 +3000,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006585.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -2987,7 +3032,7 @@
     "habitat": "乾燥した岩地や草地。園芸ではハーブ園、庭、花壇",
     "common_place": "乾燥した岩地や草地。園芸ではハーブ園、庭、花壇",
     "feature_summary": "写真では、青紫色の小花。",
-    "trivia": "葉をスープ、煮込み、ソースなどの風味づけに使う。精油は香水やリキュールの香りづけにも利用される。",
+    "trivia": "葉の香りを、スープや煮込み、ソース、サラダなどに添える。脂の多い肉や魚の料理にも使われ、庭では花と葉の香りを楽しむためにも育てられる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -3001,7 +3046,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/hyssopus-officinalis/",
       "https://ja.wikipedia.org/wiki/%E3%83%92%E3%82%BD%E3%83%83%E3%83%97",
-      "https://www.inaturalist.org/taxa/164026"
+      "https://www.inaturalist.org/taxa/164026",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004883.php"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -3046,6 +3092,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004883.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -3070,7 +3124,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、光沢のある枝葉。",
-    "trivia": "香りのある葉をスープやパスタなどに使う。料理用の葉は、ローレルやベイリーフとも呼ばれる。",
+    "trivia": "香りとほろ苦さのある葉を、肉や魚の煮込み料理に使う。料理用の葉はローレルやベイリーフと呼ばれる。葉で作る月桂冠は、古代ギリシア以来、勝利の象徴として知られる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -3085,7 +3139,8 @@
       "https://plants.ces.ncsu.edu/plants/laurus-nobilis/",
       "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%83%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A5",
       "https://www.inaturalist.org/taxa/54759",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A465049-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A465049-1",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003487.php"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -3132,6 +3187,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003487.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -4079,7 +4142,7 @@
     "habitat": "栽培種",
     "common_place": "栽培種",
     "feature_summary": "写真では、枝につく黄色い果実。",
-    "trivia": "果汁を飲み物やアイスクリーム、デザートなどに使う。料理にも酸味と風味を添える。",
+    "trivia": "果汁を飲み物やデザートに使い、料理にも酸味と柑橘の風味を添える。香料として利用されるほか、かつて長い航海ではビタミンCの補給源としても役立てられた。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -4094,7 +4157,8 @@
       "https://www.nparks.gov.sg/florafaunaweb/flora/3/6/3671",
       "https://www.nparks.gov.sg/publications-resources/articles/simply-the-zest",
       "https://mikawanoyasou.org/data/lemon.htm",
-      "https://www.inaturalist.org/taxa/331124"
+      "https://www.inaturalist.org/taxa/331124",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006590.php"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -4178,6 +4242,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006590.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -4288,7 +4360,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、幹につく黄色い果実。",
-    "trivia": "果実の中の種子は、チョコレートの原料になる。加工してカカオの風味を引き出してから使われる。",
+    "trivia": "果実の中の種子が、チョコレートやココアの原料になる。種子から採るカカオ脂は、食品だけでなく、化粧品や坐薬の基剤にも使われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -4303,7 +4375,8 @@
       "https://www.nas.gov.sg/archivesonline/data/pdfdoc/20160811001/Factsheet%20-%20PPN%20fruit%20trees_updated%2011%20Aug.pdf",
       "https://en.wikipedia.org/wiki/Theobroma",
       "https://www.inaturalist.org/taxa/64340",
-      "https://powo.science.kew.org/taxon/320783-2"
+      "https://powo.science.kew.org/taxon/320783-2",
+      "https://mpgarden.pha.nihon-u.ac.jp/archives/229/"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -4350,6 +4423,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://mpgarden.pha.nihon-u.ac.jp/archives/229/"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -4459,7 +4540,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、鋸歯のある葉。",
-    "trivia": "香りのある葉は、香辛料や伝統的な薬草として利用されてきた。",
+    "trivia": "香りのある葉を、香辛料や伝統的な薬草として利用してきた。トゥルシーとも呼ばれ、インドやネパールなどのヒンドゥー教圏では、神聖な植物として大切に育てられている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -4474,7 +4555,9 @@
       "https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2275",
       "https://en.wikipedia.org/wiki/Ocimum_tenuiflorum",
       "https://www.inaturalist.org/taxa/181060",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A453130-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A453130-1",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003668.php",
+      "https://plants.ces.ncsu.edu/plants/ocimum-tenuiflorum/"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -4521,6 +4604,15 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003668.php",
+        "https://plants.ces.ncsu.edu/plants/ocimum-tenuiflorum/"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -4935,7 +5027,7 @@
     "habitat": "畑・ハーブの栽培地",
     "common_place": "畑・ハーブの栽培地",
     "feature_summary": "写真では、細かく分かれた葉の株。",
-    "trivia": "葉にも粒状の果実にも香りがあり、料理の風味づけに使われる。和名はイノンド。",
+    "trivia": "葉には甘みのあるさわやかな香りがあり、魚介のマリネやスモークサーモンによく合う。サラダやスープのほか、酢と合わせてピクルスやハーブビネガーの香りづけにも使う。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -4949,7 +5041,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/anethum-graveolens/",
       "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%AB",
-      "https://www.inaturalist.org/taxa/75445"
+      "https://www.inaturalist.org/taxa/75445",
+      "https://www.sbfoods.co.jp/freshherb/list/dill/"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -4994,6 +5087,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.sbfoods.co.jp/freshherb/list/dill/"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -5099,7 +5200,7 @@
     "habitat": "畑・家庭菜園・ハーブ園で栽培",
     "common_place": "畑・家庭菜園・ハーブ園で栽培",
     "feature_summary": "写真では、地面近くの切れ込む葉。",
-    "trivia": "葉や茎と、成熟した粒状の果実を香りづけに使う。葉と果実では風味が異なる。",
+    "trivia": "葉はパクチーや香菜とも呼ばれ、料理に独特の香りを添える。葉から根まで利用でき、根はスープやカレーの香りづけに使われる。成熟した粒状の果実も香辛料になり、葉とは風味が異なる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -5113,7 +5214,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/coriandrum-sativum/",
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC",
-      "https://www.inaturalist.org/taxa/67759"
+      "https://www.inaturalist.org/taxa/67759",
+      "https://www.sbfoods.co.jp/freshherb/list/coriander/"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -5158,6 +5260,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.sbfoods.co.jp/freshherb/list/coriander/"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -6149,7 +6259,7 @@
     "habitat": "庭・ハーブの栽培地",
     "common_place": "庭・ハーブの栽培地",
     "feature_summary": "写真では、白い毛を帯びた丸い葉。",
-    "trivia": "香りのある葉を楽しむミント。料理用のハーブとしても育てられる。",
+    "trivia": "葉には果物を思わせるまろやかな香りがある。ハーブティーやフルーツサラダのほか、ソースやハーブビネガーなどの風味づけにも使われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -6163,7 +6273,8 @@
     "content_source_urls": [
       "https://www.rhs.org.uk/plants/98755/mentha-suaveolens/details",
       "https://en.wikipedia.org/wiki/Mentha_suaveolens",
-      "https://www.inaturalist.org/taxa/77993"
+      "https://www.inaturalist.org/taxa/77993",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006412.php"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -6208,6 +6319,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006412.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -7383,7 +7502,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、銀灰色の細長い葉。",
-    "trivia": "葉や花をリースなどに使う。黄色い花は乾燥させても色が残る。",
+    "trivia": "葉からカレーを思わせる香りが立ち、香りを楽しむ庭づくりに使われる。黄色い花は乾燥させても色が残るため、リースなどにも利用される。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -7398,7 +7517,8 @@
       "https://www.nparks.gov.sg/florafaunaweb/flora/8/0/8065",
       "https://en.wikipedia.org/wiki/Helichrysum_italicum",
       "https://www.inaturalist.org/taxa/1504192",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A212898-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A212898-1",
+      "https://www.rhs.org.uk/education-learning/school-gardening/resources/wellbeing/plants-for-a-sensory-garden"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -7447,6 +7567,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.rhs.org.uk/education-learning/school-gardening/resources/wellbeing/plants-for-a-sensory-garden"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -9181,7 +9309,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、細長い葉が密生する株。",
-    "trivia": "香りのある精油を、香水やクリーム、石けんなどに使う。深く伸びる根を活かして、土が流れ出るのを防ぐ植栽にも利用される。",
+    "trivia": "香りのある根や根茎から、ベチバー油を採る。香りが揮発しにくいため、香水などで香りを長持ちさせる原料にもなる。深く伸びる根を活かし、土の流出を抑える植栽にも利用される。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -9244,6 +9372,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "今回取得した個別資料",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003665.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -13505,7 +13641,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、桃色の花序。",
-    "trivia": "葉や花にはレモンに似た香りがある。葉をお茶や料理の風味づけに使う。",
+    "trivia": "葉や花にはレモンに似た香りがある。お茶に混ぜたり、サラダや果汁の飲み物に香りや彩りを添えたりする。北米の先住民が、葉を狩った動物の肉の風味づけに使った記録もある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -13519,7 +13655,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/monarda-citriodora/",
       "https://www.inaturalist.org/taxa/122587",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A452023-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A452023-1",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/007432.php"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -13566,6 +13703,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/007432.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -14522,7 +14667,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、垂れた花序と緑色の果実。",
-    "trivia": "香りのある葉は食品を包むほか、お茶や食品の風味づけにも利用される。",
+    "trivia": "香りのある葉を、沖縄では餅の包みなどに使う。各部位は健康茶にも利用され、葉から採る精油は化粧品や香水、石けんなどの原料になる。葉鞘の繊維を紙や衣類に利用した歴史もある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -14591,6 +14736,14 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/005748.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -15923,6 +16076,103 @@
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": null
+    }
+  },
+  {
+    "id": "yakuso_0153",
+    "category": "ハーブ",
+    "display_name": "ルバーブ",
+    "kana": "ルバーブ",
+    "search_aliases": [
+      "ルバーブ",
+      "ショクヨウダイオウ",
+      "食用大黄",
+      "rhubarb"
+    ],
+    "family": "タデ科",
+    "genus": "Rheum属",
+    "scientific_name": "Rheum rhabarbarum",
+    "taxon_id": 51251,
+    "reference_taxon_id": 51251,
+    "taxon_rank": "species",
+    "entity_type": "種",
+    "life_form": "多年草",
+    "flowering_season": "要確認",
+    "observation_season": "要確認",
+    "distribution": "自然分布（Kew）：南部 Siberiaから北部・中部 中国。",
+    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
+    "common_place": "生育環境は要確認",
+    "feature_summary": "大きな葉と太い葉柄を持つ多年草。食用にするのは葉柄で、葉身は食べない。",
+    "trivia": "葉を支える太い葉柄を食用にし、ジャムや菓子などに利用する。葉身は食用にしない。薬用の大黄に用いる植物とは区別される。",
+    "classification": {
+      "kingdom": "植物界",
+      "clade": "Tracheophyta",
+      "order": "ナデシコ目",
+      "family": "タデ科",
+      "genus": "Rheum属",
+      "species": "Rheum rhabarbarum"
+    },
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / 登録学名Rheum rhabarbarumに合わせ表示名をルバーブへ訂正。葉柄の食用用途を紹介するハーブへ整理。医薬品の大黄の効能は転用しない。",
+    "plant_source_url": "https://www.inaturalist.org/taxa/51251",
+    "content_source_urls": [
+      "https://www.inaturalist.org/taxa/51251",
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A301818-2",
+      "https://fooddb.mext.go.jp/details/details.pl?ITEM_NO=06_06310_6",
+      "https://www.fsc.go.jp/fsciis/foodSafetyMaterial/show/syu01610010344",
+      "https://physics-lab.pha.nihon-u.ac.jp/daio/"
+    ],
+    "content_source_scope": "species_primary",
+    "image": {
+      "author": "(c) Robert Stegmann, some rights reserved (CC BY)",
+      "license": "CC-BY",
+      "source_url": "https://www.inaturalist.org/photos/745127018",
+      "image_path": "images/0151_0200/yakuso_0153.jpg",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "content_status": "完成",
+    "needs_ai_summary": false,
+    "needs_manual_content_review": false,
+    "needs_manual_taxon_review": false,
+    "needs_manual_image_review": false,
+    "thumbnail_visually_reviewed": true,
+    "thumbnail_review_date": "2026-10-11",
+    "thumbnail_name_review_date": "2026-10-11",
+    "thumbnail_name_review_status": "明らかな誤りなし",
+    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。写真と名称に明らかな食い違いは見られない。写真だけによる厳密な種同定ではない。",
+    "thumbnail_genre_review_date": "2026-10-11",
+    "thumbnail_genre_review_status": "適合",
+    "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
+    "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+    "existing_content_fields_reused": [],
+    "content_followup_source_title": "Rheum rhabarbarum L. | Plants of the World Online | Kew Science",
+    "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A301818-2",
+    "content_basic_ecology_verified": true,
+    "content_followup_review_status": "基本情報の出典確認済み",
+    "ecology_source_details": {
+      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A301818-2",
+      "life_form_original": "perennial",
+      "native_range_original": "S. Siberia to N. & Central China",
+      "biome_original": "temperate"
+    },
+    "content_followup_review_date": "2026-10-12",
+    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+    "usage_writing_review": {
+      "date": "2026-10-15",
+      "decision": "登録学名と資料の範囲を保留し、効能を省略",
+      "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
+      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "specific_medicinal_use_confirmed": false
+    },
+    "usage_previous_display_name": "ダイオウ",
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://fooddb.mext.go.jp/details/details.pl?ITEM_NO=06_06310_6",
+        "https://www.fsc.go.jp/fsciis/foodSafetyMaterial/show/syu01610010344",
+        "https://physics-lab.pha.nihon-u.ac.jp/daio/"
+      ],
+      "scope": "Rheum rhabarbarum edible petiole"
     }
   }
 ]

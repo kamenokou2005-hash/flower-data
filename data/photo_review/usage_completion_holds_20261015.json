@@ -1,0 +1,562 @@
+[
+  {
+    "id": "yakuso_0022",
+    "name": "ソバナ",
+    "scientific_name": "Adenophora remotiflora",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0023",
+    "name": "ハマゼリ",
+    "scientific_name": "Cnidium japonicum",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0205",
+    "name": "アカショウマ",
+    "scientific_name": "Astilbe thunbergii",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "herb_0208",
+    "name": "アストラガルス",
+    "scientific_name": "Astragalus mongholicus",
+    "reason": "登録種と資料のキバナオウギの分類範囲を確認できず、効能を追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0145",
+    "name": "ネジキ",
+    "scientific_name": "Lyonia ovalifolia var. elliptica",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0185",
+    "name": "ヒメユズリハ",
+    "scientific_name": "Daphniphyllum teijsmannii",
+    "reason": "参照先自身が近縁のユズリハと同様の利用を推測しており、本種の薬効としては追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0099",
+    "name": "オニグルミ",
+    "scientific_name": "Juglans ailantifolia",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0204",
+    "name": "トリアシショウマ",
+    "scientific_name": "Astilbe rubra",
+    "reason": "和名資料のAstilbe thunbergii var. congestaと登録A. rubraの範囲を確定できず薬効を転用しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0209",
+    "name": "ヤマゼリ",
+    "scientific_name": "Ostericum sieboldii",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0174",
+    "name": "シラキ",
+    "scientific_name": "Neoshirakia japonica",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0195",
+    "name": "シナノキ",
+    "scientific_name": "Tilia japonica",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0136",
+    "name": "ヤマハッカ",
+    "scientific_name": "Isodon inflexus",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0221",
+    "name": "ガンコウラン",
+    "scientific_name": "Empetrum nigrum subsp. asiaticum",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0179",
+    "name": "イヌガシ",
+    "scientific_name": "Neolitsea aciculata",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0103",
+    "name": "ヤマブドウ",
+    "scientific_name": "Vitis coignetiae",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "herb_0192",
+    "name": "セルフヒール",
+    "scientific_name": "Prunella vulgaris",
+    "reason": "親種全体の項目。ウツボグサ亜種の効能を種全体へ自動適用しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0198",
+    "name": "キケマン",
+    "scientific_name": "Corydalis heterocarpa var. japonica",
+    "reason": "参照先のキケマンはCorydalis platycarpa。登録変種との範囲を確定できず薬効を転用しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0027",
+    "name": "ミヤマセンキュウ",
+    "scientific_name": "Conioselinum chinense",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0016",
+    "name": "ヤマボウシ",
+    "scientific_name": "Cornus kousa",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0026",
+    "name": "オオバボダイジュ",
+    "scientific_name": "Tilia maximowicziana",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0164",
+    "name": "ホタルブクロ",
+    "scientific_name": "Campanula punctata var. punctata",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0015",
+    "name": "ナツハゼ",
+    "scientific_name": "Vaccinium oldhamii",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0202",
+    "name": "オオバショウマ",
+    "scientific_name": "Actaea japonica",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0166",
+    "name": "シオデ",
+    "scientific_name": "Smilax riparia",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0100",
+    "name": "ハシバミ",
+    "scientific_name": "Corylus heterophylla",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0188",
+    "name": "ウメモドキ",
+    "scientific_name": "Ilex serrata",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "herb_0145",
+    "name": "ギムネマ",
+    "scientific_name": "Gymnema sylvestre",
+    "reason": "甘味抑制の性質を確認。個々の疾病に対する治療効果は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0070",
+    "name": "ノコンギク",
+    "scientific_name": "Aster microcephalus var. ovatus",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "herb_0140",
+    "name": "メドウスイート",
+    "scientific_name": "Filipendula ulmaria",
+    "reason": "今回確認した資料範囲では具体的用途の記載を採用できず、既存の説明を維持。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0225",
+    "name": "ナワシロイチゴ",
+    "scientific_name": "Rubus parvifolius",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0211",
+    "name": "ハマカンゾウ",
+    "scientific_name": "Hemerocallis fulva var. littorea",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0218",
+    "name": "ミヤママタタビ",
+    "scientific_name": "Actinidia kolomikta",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0196",
+    "name": "ムラサキケマン",
+    "scientific_name": "Corydalis incisa",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "herb_0160",
+    "name": "ブラックホアハウンド",
+    "scientific_name": "Ballota nigra",
+    "reason": "登録種に対応する具体的な薬用用途の一次資料を今回確認できず、既存の説明を維持。",
+    "trivia_blank": false
+  },
+  {
+    "id": "herb_0205",
+    "name": "アメリカニンジン",
+    "scientific_name": "Panax quinquefolius",
+    "reason": "研究対象と安全性を確認。かぜ予防の有効性は未確立。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0208",
+    "name": "オオハナウド",
+    "scientific_name": "Heracleum maximum",
+    "reason": "国内のオオハナウド資料と登録Heracleum maximumの範囲を確定できず薬効を転用しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0178",
+    "name": "カゴノキ",
+    "scientific_name": "Litsea coreana",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0223",
+    "name": "クマイチゴ",
+    "scientific_name": "Rubus crataegifolius",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0143",
+    "name": "ミツバツチグリ",
+    "scientific_name": "Potentilla freyniana",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0220",
+    "name": "ツルコケモモ",
+    "scientific_name": "Vaccinium oxycoccos",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0210",
+    "name": "オオバセンキュウ",
+    "scientific_name": "Angelica genuflexa",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0173",
+    "name": "ヤマハゼ",
+    "scientific_name": "Toxicodendron sylvestre",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0229",
+    "name": "エゾイチゴ",
+    "scientific_name": "Rubus idaeus subsp. strigosus",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0159",
+    "name": "ヨシ",
+    "scientific_name": "Phragmites australis",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0176",
+    "name": "シロダモ",
+    "scientific_name": "Neolitsea sericea",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0132",
+    "name": "ヒメジソ",
+    "scientific_name": "Mosla dianthera",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "herb_0209",
+    "name": "ダミアナ",
+    "scientific_name": "Turnera diffusa",
+    "reason": "獣医用ホメオパシーの残留基準資料は、人への有効性の根拠に使わない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0200",
+    "name": "イヌショウマ",
+    "scientific_name": "Actaea biternata",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0094",
+    "name": "アブラチャン",
+    "scientific_name": "Lindera praecox",
+    "reason": "熊本大学では非薬用植物。確認できるのは灯油・整髪用油などの利用。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0192",
+    "name": "ハクウンボク",
+    "scientific_name": "Styrax obassia",
+    "reason": "東邦大学で確認できるのは種子油・材・観賞の利用。具体的な薬用用途は未確認。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0197",
+    "name": "ヤマエンゴサク",
+    "scientific_name": "Corydalis lineariloba",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0108",
+    "name": "ナツグミ",
+    "scientific_name": "Elaeagnus multiflora",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0105",
+    "name": "コケモモ",
+    "scientific_name": "Vaccinium vitis-idaea",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0168",
+    "name": "ツリガネニンジン",
+    "scientific_name": "Adenophora triphylla var. japonica",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0014",
+    "name": "ツノハシバミ",
+    "scientific_name": "Corylus sieboldiana",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0227",
+    "name": "ニガイチゴ",
+    "scientific_name": "Rubus microphyllus",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0169",
+    "name": "キバナアキギリ",
+    "scientific_name": "Salvia nipponica",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0189",
+    "name": "イヌツゲ",
+    "scientific_name": "Ilex crenata var. crenata",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0226",
+    "name": "フユイチゴ",
+    "scientific_name": "Rubus buergeri",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0010",
+    "name": "ツユクサ",
+    "scientific_name": "Commelina communis",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0067",
+    "name": "ノゲシ",
+    "scientific_name": "Sonchus oleraceus",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0190",
+    "name": "タマミズキ",
+    "scientific_name": "Ilex micrococca",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0214",
+    "name": "エゾニュウ",
+    "scientific_name": "Angelica ursina",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0201",
+    "name": "ミヤマキケマン",
+    "scientific_name": "Corydalis pallida var. tenuis",
+    "reason": "参照先はCorydalis japonica。登録名C. pallida var. tenuisとの範囲を確定できず薬効を転用しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0228",
+    "name": "クロイチゴ",
+    "scientific_name": "Rubus mesogaeus",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0187",
+    "name": "アオハダ",
+    "scientific_name": "Ilex macropoda",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0024",
+    "name": "ヤマウルシ",
+    "scientific_name": "Toxicodendron trichocarpum",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0212",
+    "name": "ゼンテイカ",
+    "scientific_name": "Hemerocallis middendorffii var. esculenta",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0117",
+    "name": "イヌザクラ",
+    "scientific_name": "Prunus buergeriana",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0126",
+    "name": "ビッグセージブラッシュ",
+    "scientific_name": "Artemisia tridentata",
+    "reason": "登録種の生態・緑化用途は確認。具体的な薬用用途は確認できず、効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0106",
+    "name": "クロマメノキ",
+    "scientific_name": "Vaccinium uliginosum var. japonicum",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0021",
+    "name": "ヤマゴボウ",
+    "scientific_name": "Phytolacca acinosa",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0224",
+    "name": "モミジイチゴ",
+    "scientific_name": "Rubus palmatus var. coptophyllus",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0222",
+    "name": "マルバグミ",
+    "scientific_name": "Elaeagnus macrophylla",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0068",
+    "name": "オニノゲシ",
+    "scientific_name": "Sonchus asper",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0141",
+    "name": "キジムシロ",
+    "scientific_name": "Potentilla fragarioides var. major",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": false
+  },
+  {
+    "id": "yakuso_0144",
+    "name": "ベニバナイチヤクソウ",
+    "scientific_name": "Pyrola asarifolia subsp. incarnata",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0167",
+    "name": "タチシオデ",
+    "scientific_name": "Smilax nipponica",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0018",
+    "name": "クロバナヒキオコシ",
+    "scientific_name": "Isodon trichocarpus",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  },
+  {
+    "id": "yakuso_0133",
+    "name": "イヌコウジュ",
+    "scientific_name": "Mosla scabra",
+    "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+    "trivia_blank": true
+  }
+]

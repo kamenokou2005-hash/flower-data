@@ -46,14 +46,14 @@
     },
     "yakuso": {
       "category": "薬草",
-      "count": 242,
+      "count": 241,
       "last_published_id": "yakuso_0229",
       "image_dir": "images/yakuso",
       "data_file": "data/records/yakuso/yakuso.json"
     },
     "herb": {
       "category": "ハーブ",
-      "count": 162,
+      "count": 163,
       "last_published_id": "rare_fruit_0162",
       "image_dir": "images/herb",
       "data_file": "data/records/herb/herb.json"
@@ -66,7 +66,7 @@
       "data_file": "data/records/rare_fruit/rare_fruit.json"
     }
   },
-  "generated_at": "2026-10-15T12:47:30.645944+09:00",
+  "generated_at": "2026-10-15T15:22:35.226661+09:00",
   "remaining_resolution_summary": {
     "photo_replacements": 37,
     "genre_candidates_resolved": 142,
@@ -334,5 +334,52 @@
       "珍しい果樹": 134
     },
     "same_scientific_cross_herb_yakuso": 0
+  },
+  "usage_completion_20261015": {
+    "target_records": 404,
+    "previous_unconfirmed_reviewed": 91,
+    "draft_edits": 59,
+    "records_changed": 136,
+    "trivia_changed": 65,
+    "removed_scientific_name_filler": [
+      "yakuso_0205",
+      "yakuso_0168",
+      "yakuso_0201",
+      "yakuso_0224",
+      "yakuso_0144",
+      "yakuso_0133"
+    ],
+    "previous_unconfirmed_resolved": 18,
+    "medicinal_use_holds": 80,
+    "blank_medicinal_trivia": 40,
+    "counts": {
+      "花": 489,
+      "草": 426,
+      "木": 302,
+      "花の木": 207,
+      "きのこ": 483,
+      "山菜": 221,
+      "薬草": 241,
+      "ハーブ": 163,
+      "珍しい果樹": 134
+    },
+    "total": 2666,
+    "name_scope_cases_resolved": [
+      "yakuso_0150",
+      "yakuso_0153",
+      "yakuso_0213"
+    ],
+    "scientific_names_changed": 0,
+    "photographs_changed": 0,
+    "excluded_source": "信州大学の林床資源植物表は草本部分の和名・学名の対応がずれているため、今回の薬用説明の根拠には採用しない。",
+    "strict_photo_identifications_verified": 0,
+    "data_applied": true,
+    "detail_image_urls_corrected": 431,
+    "applied_at": "2026-10-15T15:22:35.226661+09:00",
+    "data_processing_complete": true,
+    "apk_version": "0.35",
+    "apk_sha256": "f56d169f6ce49cb030d5cbf3fd5ce876ed6eb29049974498516dc3b6e3614398",
+    "review_basis": "既存の確認結果を引き継ぎ、未確認91件・移動した薬草・説明の薄いハーブを追加調査。404件の全事実を新規に独立検証したという意味ではない。",
+    "pharmacological_efficacy_not_guaranteed": true
   }
 }

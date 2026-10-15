@@ -634,7 +634,7 @@
     "habitat": "日当たりのよい畑、道端、荒れ地",
     "common_place": "日当たりのよい畑、道端、荒れ地",
     "feature_summary": "白い小花と、三角形の平たい果実が特徴。",
-    "trivia": "",
+    "trivia": "草全体を、尿の出を促す目的や出血に関わる症状などに使ってきた民間の記録がある。春の七草の一つで、若葉は七草がゆにも使われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -647,7 +647,8 @@
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%BA%E3%83%8A",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%BA%E3%83%8A",
-      "https://www.inaturalist.org/taxa/56121"
+      "https://www.inaturalist.org/taxa/56121",
+      "https://www.pharm.kumamoto-u.ac.jp/flower/H1901.html"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -684,10 +685,18 @@
     ],
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用未確認のため効果を追加せず、分類の定型文を削除",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/flower/H1901.html"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -721,7 +730,7 @@
       "genus": "Commelina属",
       "species": "Commelina communis"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0230の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0230の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%A6%E3%82%AF%E3%82%B5",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%A6%E3%82%AF%E3%82%B5",
@@ -737,7 +746,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -766,6 +775,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -1036,7 +1051,7 @@
       "genus": "ハシバミ属",
       "species": "Corylus sieboldiana"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0266の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0266の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/tunohasibami.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/tunohasibami.htm",
@@ -1052,7 +1067,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -1081,6 +1096,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -1114,7 +1135,7 @@
       "genus": "スノキ属",
       "species": "Vaccinium oldhamii"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0276の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0276の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/natuhaze.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/natuhaze.htm",
@@ -1130,7 +1151,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -1159,6 +1180,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -1192,7 +1219,7 @@
       "genus": "ミズキ属",
       "species": "Cornus kousa"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_tree_0017の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_tree_0017の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/yamabousi.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/yamabousi.htm",
@@ -1208,7 +1235,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -1237,6 +1264,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -1349,7 +1382,7 @@
       "genus": "Isodon属",
       "species": "Isodon trichocarpus"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://www.inaturalist.org/taxa/910400",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/910400",
@@ -1365,7 +1398,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -1396,6 +1429,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -1420,7 +1459,7 @@
     "habitat": "林の床に生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "ツツジ科のPyrola属に分類される植物。形態の詳しい説明は要確認。",
-    "trivia": "学名はPyrola japonica。",
+    "trivia": "尿の出を促す目的で使われてきた薬草。イチヤクソウという名前も、薬用にされたことに由来するといわれる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -1434,7 +1473,8 @@
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/701722",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60463201-2",
-      "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/wintergreen/pyrola/jap.html"
+      "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/wintergreen/pyrola/jap.html",
+      "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/pyrolaceae/ichiyakusou/ichiyakusou.htm"
     ],
     "content_source_scope": "reviewed_taxon_scope",
     "image": {
@@ -1469,10 +1509,18 @@
     "remaining105_review_note": "北海道大学の同学名の基本情報を確認。近縁種の説明は転用していない。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用未確認のため効果を追加せず、分類の定型文を削除",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/pyrolaceae/ichiyakusou/ichiyakusou.htm"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -1585,7 +1633,7 @@
       "genus": "Phytolacca属",
       "species": "Phytolacca acinosa"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Phytolacca_acinosa",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Phytolacca_acinosa",
@@ -1602,7 +1650,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -1633,6 +1681,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -1666,7 +1720,7 @@
       "genus": "Adenophora属",
       "species": "Adenophora remotiflora"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%90%E3%83%8A",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%90%E3%83%8A",
@@ -1683,7 +1737,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -1714,6 +1768,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -1747,7 +1807,7 @@
       "genus": "Cnidium属",
       "species": "Cnidium japonicum"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%82%BC%E3%83%AA",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%82%BC%E3%83%AA",
@@ -1764,7 +1824,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -1795,6 +1855,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -1828,7 +1894,7 @@
       "genus": "ウルシ属",
       "species": "Toxicodendron trichocarpum"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0198の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0198の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/yamaurusi.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/yamaurusi.htm",
@@ -1844,7 +1910,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -1873,6 +1939,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -1985,7 +2057,7 @@
       "genus": "シナノキ属",
       "species": "Tilia maximowicziana"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0177の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0177の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%83%9C%E3%83%80%E3%82%A4%E3%82%B8%E3%83%A5",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%83%9C%E3%83%80%E3%82%A4%E3%82%B8%E3%83%A5",
@@ -2001,7 +2073,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -2030,6 +2102,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -2063,7 +2141,7 @@
       "genus": "Conioselinum属",
       "species": "Conioselinum chinense"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://www.inaturalist.org/taxa/160829",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/160829",
@@ -2079,7 +2157,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -2110,6 +2188,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -4950,7 +5034,7 @@
     "habitat": "道端・畑・空き地",
     "common_place": "道端・畑・空き地",
     "feature_summary": "写真では、白い毛を帯びた茎と小さな頭花。",
-    "trivia": "春の七草の御形として知られ、旧学名はGnaphalium affine。",
+    "trivia": "草全体を、咳や痰のために使ってきた歴史がある。春の七草では「ごぎょう」と呼ばれ、かつては草餅の材料にも利用された。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -4963,7 +5047,9 @@
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8F%E3%82%B3%E3%82%B0%E3%82%B5",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8F%E3%82%B3%E3%82%B0%E3%82%B5",
-      "https://www.inaturalist.org/taxa/357436"
+      "https://www.inaturalist.org/taxa/357436",
+      "https://www.pharm.kumamoto-u.ac.jp/flower/H1901.html",
+      "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/compositae/hahakogusa/hahakogusa2.htm"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -5000,10 +5086,19 @@
     ],
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用の説明を追加せず既知の植物情報を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/flower/H1901.html",
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/dicotyledoneae/sympetalae/compositae/hahakogusa/hahakogusa2.htm"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -5028,7 +5123,7 @@
     "habitat": "畑、あぜ、道端、空き地",
     "common_place": "畑、あぜ、道端、空き地",
     "feature_summary": "上部の丸い葉が茎を抱き、その上に紅紫色の細長い唇形花をつけます。葉が段状に並ぶ姿が特徴です。",
-    "trivia": "春の七草の「ほとけのざ」は、本種ではなくキク科のコオニタビラコを指します。",
+    "trivia": "草全体を、中国で打ち身や筋肉・関節の痛みなどに使ってきた記録がある。七草がゆに入れる「ほとけのざ」は別の植物である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -5041,7 +5136,8 @@
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%88%E3%82%B1%E3%83%8E%E3%82%B6",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%88%E3%82%B1%E3%83%8E%E3%82%B6",
-      "https://www.inaturalist.org/taxa/55459"
+      "https://www.inaturalist.org/taxa/55459",
+      "https://www.pharm.kumamoto-u.ac.jp/flower/H1902.html"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -5078,10 +5174,18 @@
     ],
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用の説明を追加せず既知の植物情報を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/flower/H1902.html"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -5273,7 +5377,7 @@
       "genus": "Sonchus属",
       "species": "Sonchus oleraceus"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0221の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0221の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B2%E3%82%B7",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B2%E3%82%B7",
@@ -5289,7 +5393,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -5318,6 +5422,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -5351,7 +5461,7 @@
       "genus": "Sonchus属",
       "species": "Sonchus asper"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0222の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0222の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%83%8E%E3%82%B2%E3%82%B7",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%83%8E%E3%82%B2%E3%82%B7",
@@ -5367,7 +5477,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -5396,6 +5506,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -5508,7 +5624,7 @@
       "genus": "Aster属",
       "species": "Aster microcephalus var. ovatus"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0157の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0157の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B3%E3%83%B3%E3%82%AE%E3%82%AF",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%B3%E3%83%B3%E3%82%AE%E3%82%AF",
@@ -5524,7 +5640,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -5592,6 +5708,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -6250,7 +6372,7 @@
     "habitat": "本項の生育環境は要確認",
     "common_place": "本項の生育環境は要確認",
     "feature_summary": "ササに似た葉をもつ多年草。白い小さな花を集める。",
-    "trivia": "",
+    "trivia": "根や根茎は「鹿薬（ろくやく）」と呼ばれ、頭痛や関節の痛み、打ち身などに使われてきた。若芽は「アズキナ」の名でも親しまれる山菜である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -6263,7 +6385,9 @@
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%82%AD%E3%82%B6%E3%82%B5",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%82%AD%E3%82%B6%E3%82%B5",
-      "https://www.inaturalist.org/taxa/565359"
+      "https://www.inaturalist.org/taxa/565359",
+      "https://www.lab.toho-u.ac.jp/phar/yakusou/yukizasa.html",
+      "https://www.hoku-iryo-u.ac.jp/~yakusou/doyakushiVol32No7.pdf"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -6300,10 +6424,19 @@
     ],
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用未確認のため効果を追加せず、分類の定型文を削除",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.lab.toho-u.ac.jp/phar/yakusou/yukizasa.html",
+        "https://www.hoku-iryo-u.ac.jp/~yakusou/doyakushiVol32No7.pdf"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -6486,7 +6619,7 @@
     "habitat": "山地の林内",
     "common_place": "山地の林内",
     "feature_summary": "掌状の複葉をつける落葉樹。",
-    "trivia": "",
+    "trivia": "若葉を、高血圧に対する民間薬として使ってきた記録がある。香りの強い新芽は、天ぷらや和え物などに使う山菜としても親しまれている。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -6500,7 +6633,8 @@
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B7%E3%82%A2%E3%83%96%E3%83%A9",
       "https://www.inaturalist.org/taxa/428956",
-      "https://mikawanoyasou.org/data/kosiabura.htm"
+      "https://mikawanoyasou.org/data/kosiabura.htm",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006575.php"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -6537,10 +6671,18 @@
     ],
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用未確認のため効果を追加せず、分類の定型文を削除",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006575.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -7247,7 +7389,7 @@
       "genus": "クロモジ属",
       "species": "Lindera praecox"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_tree_0179の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_tree_0179の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/aburatyan.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/aburatyan.htm",
@@ -7263,7 +7405,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -7292,6 +7434,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "熊本大学では非薬用植物。確認できるのは灯油・整髪用油などの利用。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -7474,7 +7622,7 @@
     "habitat": "果樹園、庭、里山",
     "common_place": "果樹園、庭、里山",
     "feature_summary": "広い葉を互生させ、果実の付け根には大きな萼が残る。熟すと果実は橙色になる。",
-    "trivia": "甘柿と渋柿など多くの栽培品種がある。",
+    "trivia": "果実のへたは「柿蔕（してい）」という生薬になり、しゃっくり止めとして使われてきた。葉は柿の葉茶に、柿渋は和紙や傘の防水・防腐にも利用された。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -7487,7 +7635,8 @@
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%AD%E3%83%8E%E3%82%AD",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%AD%E3%83%8E%E3%82%AD",
-      "https://www.inaturalist.org/taxa/83468"
+      "https://www.inaturalist.org/taxa/83468",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003353.php"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -7524,10 +7673,18 @@
     ],
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用の説明を追加せず既知の植物情報を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003353.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -7640,7 +7797,7 @@
       "genus": "クルミ属",
       "species": "Juglans ailantifolia"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0011の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0011の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%82%B0%E3%83%AB%E3%83%9F",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%82%B0%E3%83%AB%E3%83%9F",
@@ -7657,7 +7814,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -7686,6 +7843,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -7719,7 +7882,7 @@
       "genus": "ハシバミ属",
       "species": "Corylus heterophylla"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0264の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0264の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%B7%E3%83%90%E3%83%9F",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%B7%E3%83%90%E3%83%9F",
@@ -7735,7 +7898,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -7764,6 +7927,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -7867,7 +8036,7 @@
     "habitat": "本項の生育環境は要確認",
     "common_place": "本項の生育環境は要確認",
     "feature_summary": "写真では、枝を伸ばすつる。",
-    "trivia": "",
+    "trivia": "果実に昆虫がつくってできた虫こぶは「木天蓼（もくてんりょう）」と呼ばれ、滋養強壮などを目的に使われてきた。通常の果実とは、利用する部分を区別する。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -7880,7 +8049,9 @@
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%BF%E3%82%BF%E3%83%93",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%BF%E3%82%BF%E3%83%93",
-      "https://www.inaturalist.org/taxa/447065"
+      "https://www.inaturalist.org/taxa/447065",
+      "https://www.phar.nagoya-cu.ac.jp/hp/yse/Lpage/matatabi.html",
+      "https://www.mnc.toho-u.ac.jp/v-lab/creaturesImet/category/plant/matatabi.html"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -7917,10 +8088,19 @@
     ],
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用未確認のため効果を追加せず、分類の定型文を削除",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.phar.nagoya-cu.ac.jp/hp/yse/Lpage/matatabi.html",
+        "https://www.mnc.toho-u.ac.jp/v-lab/creaturesImet/category/plant/matatabi.html"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -7954,7 +8134,7 @@
       "genus": "Vitis属",
       "species": "Vitis coignetiae"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Vitis",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Vitis",
@@ -7971,7 +8151,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -8002,6 +8182,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -8114,7 +8300,7 @@
       "genus": "スノキ属",
       "species": "Vaccinium vitis-idaea"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2",
@@ -8131,7 +8317,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -8162,6 +8348,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -8195,7 +8387,7 @@
       "genus": "スノキ属",
       "species": "Vaccinium uliginosum var. japonicum"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0016の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0016の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%A1%E3%83%8E%E3%82%AD",
@@ -8211,7 +8403,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -8279,6 +8471,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -8430,7 +8628,7 @@
       "genus": "グミ属",
       "species": "Elaeagnus multiflora"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0129の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0129の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/natugumi.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/natugumi.htm",
@@ -8446,7 +8644,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -8475,6 +8673,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -8736,7 +8940,7 @@
     "habitat": "林縁、河原、崩壊地、伐採跡",
     "common_place": "林縁、河原、崩壊地、伐採跡",
     "feature_summary": "大きな羽状複葉をもち、若い幹に太いとげがある。",
-    "trivia": "成長した幹では、とげのあとがいぼ状に見える。",
+    "trivia": "果実や葉、樹皮、根に薬用の記録がある。果実は「食茱萸（しょくしゅゆ）」と呼ばれ、胃の働きを助ける目的などで民間薬に使われてきた。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -8749,7 +8953,8 @@
     "plant_source_url": "https://mikawanoyasou.org/data/karasuzanshou.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/karasuzanshou.htm",
-      "https://www.inaturalist.org/taxa/357425"
+      "https://www.inaturalist.org/taxa/357425",
+      "https://www.lab.toho-u.ac.jp/phar/yakusou/karasuzannsyou.html"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -8786,10 +8991,18 @@
     ],
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用の説明を追加せず既知の植物情報を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.lab.toho-u.ac.jp/phar/yakusou/karasuzannsyou.html"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -9139,7 +9352,7 @@
       "genus": "サクラ属",
       "species": "Prunus buergeriana"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0201の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0201の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8C%E3%82%B6%E3%82%AF%E3%83%A9",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8C%E3%82%B6%E3%82%AF%E3%83%A9",
@@ -9155,7 +9368,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -9184,6 +9397,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -9833,10 +10052,12 @@
   {
     "id": "yakuso_0126",
     "category": "薬草",
-    "display_name": "ヤマヨモギ（セージブラッシュ）",
-    "kana": "ヤマヨモギ",
+    "display_name": "ビッグセージブラッシュ",
+    "kana": "ビッグセージブラッシュ",
     "search_aliases": [
-      "ヤマヨモギ"
+      "ビッグセージブラッシュ",
+      "セージブラッシュ",
+      "big sagebrush"
     ],
     "family": "キク科",
     "genus": "Artemisia属",
@@ -9852,7 +10073,7 @@
     "habitat": "乾燥した平原や山地の斜面に生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "ここではセージブラッシュ（Artemisia tridentata）を扱う。銀灰色の葉には先端に3つの歯があり、丈夫な木質の茎をもつ。日本のオオヨモギ（別名ヤマヨモギ、A. montana）とは別の植物。",
-    "trivia": "",
+    "trivia": "北米西部では、野生動物の食べ物や隠れ場所をつくる低木として重要である。葉には強い香りがあり、荒れた土地の植生を回復させる植栽にも利用される。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -9861,13 +10082,14 @@
       "genus": "Artemisia属",
       "species": "Artemisia tridentata"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / 登録学名Artemisia tridentataに合わせ、ビッグセージブラッシュへ表示名を訂正。日本のヤマヨモギ類の用途は転用しない。具体的な薬用用途と薬草ジャンルへの適合は未確認。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://www.inaturalist.org/taxa/75598",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/75598",
       "https://powo.science.kew.org/taxon/20780-2",
       "https://www.botanic.jp/plants-ya/yayomo.htm",
-      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004558.php"
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004558.php",
+      "https://www.nrcs.usda.gov/plantmaterials/idpmcpg6294.pdf"
     ],
     "content_source_scope": "reviewed_taxon_scope",
     "image": {
@@ -9879,7 +10101,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -9908,10 +10130,17 @@
     "remaining105_review_note": "登録学名の植物と国内の同名別種を区別し、表示名にセージブラッシュを付記。後者の分布・生活型・薬用の説明を前者へ転用しない。写真の再同定を実施したという意味ではない。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用未確認のため効果を追加せず、分類の定型文を削除",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_previous_display_name": "ヤマヨモギ（セージブラッシュ）",
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "登録種の生態・緑化用途は確認。具体的な薬用用途は確認できず、効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -10095,7 +10324,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "Lamiaceae科のAjuga属に分類される植物。形態の詳しい説明は要確認。",
-    "trivia": "",
+    "trivia": "草全体を、胃の働きを助ける目的で使ってきた薬草。淡い色の花が幾重にも重なって咲く様子を、十二単に見立てた名前である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -10109,7 +10338,9 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Ajuga",
       "https://www.inaturalist.org/taxa/447644",
-      "https://powo.science.kew.org/taxon/444633-1"
+      "https://powo.science.kew.org/taxon/444633-1",
+      "https://www.lab.toho-u.ac.jp/phar/yakusou/juunihitoe.html",
+      "https://mpgarden.pha.nihon-u.ac.jp/archives/blog/%E3%82%B8%E3%83%A5%E3%82%A6%E3%83%8B%E3%83%92%E3%83%88%E3%82%A8/"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -10148,10 +10379,19 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用未確認のため効果を追加せず、分類の定型文を削除",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.lab.toho-u.ac.jp/phar/yakusou/juunihitoe.html",
+        "https://mpgarden.pha.nihon-u.ac.jp/archives/blog/%E3%82%B8%E3%83%A5%E3%82%A6%E3%83%8B%E3%83%92%E3%83%88%E3%82%A8/"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -10345,7 +10585,7 @@
       "genus": "Mosla属",
       "species": "Mosla dianthera"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Mosla",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Mosla",
@@ -10362,7 +10602,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -10393,6 +10633,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -10417,7 +10663,7 @@
     "habitat": "山野の道端などに生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "葉は対生し、浅い鋸歯がある。茎には毛が多く、小さな淡紅色の花を多数つける。",
-    "trivia": "学名はMosla scabra。",
+    "trivia": "",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -10426,7 +10672,7 @@
       "genus": "Mosla属",
       "species": "Mosla scabra"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Mosla",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Mosla",
@@ -10444,7 +10690,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -10471,6 +10717,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -10504,7 +10756,7 @@
       "genus": "Isodon属",
       "species": "Isodon inflexus"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0184の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0184の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%8F%E3%83%83%E3%82%AB",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%8F%E3%83%83%E3%82%AB",
@@ -10520,7 +10772,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -10549,6 +10801,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -10902,7 +11160,7 @@
       "genus": "Potentilla属",
       "species": "Potentilla fragarioides var. major"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0228の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0228の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B8%E3%83%A0%E3%82%B7%E3%83%AD",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B8%E3%83%A0%E3%82%B7%E3%83%AD",
@@ -10918,7 +11176,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -10986,6 +11244,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -11010,7 +11274,7 @@
     "habitat": "湿った草地、田のあぜ、道端",
     "common_place": "湿った草地、田のあぜ、道端",
     "feature_summary": "3枚の小葉と黄色い5弁花をつけ、匍匐茎で広がります。花後に赤いイチゴ状の実ができます。",
-    "trivia": "赤く膨らむ部分は花托で、その表面に多数の小さな果実が並びます。",
+    "trivia": "中国では草全体を、咳や喉の痛み、下痢などに使ってきた。日本の民間では、果実をかゆみ止めに利用した記録もある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11023,7 +11287,8 @@
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%93%E3%82%A4%E3%83%81%E3%82%B4",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%93%E3%82%A4%E3%83%81%E3%82%B4",
-      "https://www.inaturalist.org/taxa/460193"
+      "https://www.inaturalist.org/taxa/460193",
+      "https://www.u-shizuoka-ken.ac.jp/guide/outline/oike02/may-2022/"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -11060,10 +11325,18 @@
     ],
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用の説明を追加せず既知の植物情報を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.u-shizuoka-ken.ac.jp/guide/outline/oike02/may-2022/"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -11097,7 +11370,7 @@
       "genus": "Potentilla属",
       "species": "Potentilla freyniana"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0229の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0229の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%84%E3%83%90%E3%83%84%E3%83%81%E3%82%B0%E3%83%AA",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%84%E3%83%90%E3%83%84%E3%83%81%E3%82%B0%E3%83%AA",
@@ -11113,7 +11386,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -11142,6 +11415,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -11166,7 +11445,7 @@
     "habitat": "林床に生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "根元から長い柄のある円形〜楕円形の葉を出し、桃色の花を下向きにつける。",
-    "trivia": "学名はPyrola asarifolia subsp. incarnata。",
+    "trivia": "",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11175,7 +11454,7 @@
       "genus": "Pyrola属",
       "species": "Pyrola asarifolia subsp. incarnata"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://www.inaturalist.org/taxa/900719",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/900719",
@@ -11193,7 +11472,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": true,
     "thumbnail_visually_reviewed": true,
@@ -11259,6 +11538,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -11292,7 +11577,7 @@
       "genus": "ネジキ属",
       "species": "Lyonia ovalifolia var. elliptica"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_tree_0157の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_tree_0157の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B8%E3%82%AD",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B8%E3%82%AD",
@@ -11308,7 +11593,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -11376,6 +11661,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -11824,7 +12115,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "キク科のAtractylodes属に分類される植物。形態の詳しい説明は要確認。",
-    "trivia": "",
+    "trivia": "日本でオケラと呼ばれる植物の根茎は「白朮（びゃくじゅつ）」の原料になり、食欲不振や下痢などに使われてきた。お屠蘇の材料にもなる。ホソバオケラから採る「蒼朮（そうじゅつ）」とは、生薬として区別される。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -11833,11 +12124,13 @@
       "genus": "Atractylodes属",
       "species": "Atractylodes lancea"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / 表示名のオケラは、日本の薬用資料ではAtractylodes japonicaとして扱う。Kewはこれを広義のA. lanceaの異名とするため登録学名を維持。豆知識の白朮の説明は日本のオケラに限り、広義の種全体や蒼朮へ一般化しない。",
     "plant_source_url": "https://www.inaturalist.org/taxa/786048",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/786048",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A182976-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A182976-1",
+      "https://www.pharm.or.jp/herb/lfx-index-YM-200310.htm",
+      "https://powo.science.kew.org/taxon/182974-1"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -11876,10 +12169,19 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "登録学名と資料の範囲を保留し、効能を省略",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.or.jp/herb/lfx-index-YM-200310.htm",
+        "https://powo.science.kew.org/taxon/182974-1"
+      ],
+      "scope": "Japanese Atractylodes japonica; synonym within POWO A. lancea"
     }
   },
   {
@@ -12080,86 +12382,6 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "今回取得した個別資料",
       "specific_medicinal_use_confirmed": true
-    }
-  },
-  {
-    "id": "yakuso_0153",
-    "category": "薬草",
-    "display_name": "ダイオウ",
-    "kana": "ダイオウ",
-    "search_aliases": [
-      "ダイオウ"
-    ],
-    "family": "タデ科",
-    "genus": "Rheum属",
-    "scientific_name": "Rheum rhabarbarum",
-    "taxon_id": 51251,
-    "reference_taxon_id": 51251,
-    "taxon_rank": "species",
-    "entity_type": "種",
-    "life_form": "多年草",
-    "flowering_season": "要確認",
-    "observation_season": "要確認",
-    "distribution": "自然分布（Kew）：南部 Siberiaから北部・中部 中国。",
-    "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
-    "common_place": "生育環境は要確認",
-    "feature_summary": "タデ科のRheum属に分類される植物。形態の詳しい説明は要確認。",
-    "trivia": "",
-    "classification": {
-      "kingdom": "植物界",
-      "clade": "Tracheophyta",
-      "order": "ナデシコ目",
-      "family": "タデ科",
-      "genus": "Rheum属",
-      "species": "Rheum rhabarbarum"
-    },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
-    "plant_source_url": "https://www.inaturalist.org/taxa/51251",
-    "content_source_urls": [
-      "https://www.inaturalist.org/taxa/51251",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A301818-2"
-    ],
-    "content_source_scope": "species_primary",
-    "image": {
-      "author": "(c) Robert Stegmann, some rights reserved (CC BY)",
-      "license": "CC-BY",
-      "source_url": "https://www.inaturalist.org/photos/745127018",
-      "image_path": "images/0151_0200/yakuso_0153.jpg",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/"
-    },
-    "content_status": "完成",
-    "needs_ai_summary": false,
-    "needs_manual_content_review": false,
-    "needs_manual_taxon_review": false,
-    "needs_manual_image_review": false,
-    "thumbnail_visually_reviewed": true,
-    "thumbnail_review_date": "2026-10-11",
-    "thumbnail_name_review_date": "2026-10-11",
-    "thumbnail_name_review_status": "明らかな誤りなし",
-    "thumbnail_name_review_note": "実際の200pxサムネイルを目視。写真と名称に明らかな食い違いは見られない。写真だけによる厳密な種同定ではない。",
-    "thumbnail_genre_review_date": "2026-10-11",
-    "thumbnail_genre_review_status": "適合",
-    "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
-    "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
-    "existing_content_fields_reused": [],
-    "content_followup_source_title": "Rheum rhabarbarum L. | Plants of the World Online | Kew Science",
-    "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A301818-2",
-    "content_basic_ecology_verified": true,
-    "content_followup_review_status": "基本情報の出典確認済み",
-    "ecology_source_details": {
-      "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A301818-2",
-      "life_form_original": "perennial",
-      "native_range_original": "S. Siberia to N. & Central China",
-      "biome_original": "temperate"
-    },
-    "content_followup_review_date": "2026-10-12",
-    "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
-    "usage_writing_review": {
-      "date": "2026-10-15",
-      "decision": "登録学名と資料の範囲を保留し、効能を省略",
-      "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
     }
   },
   {
@@ -12588,7 +12810,7 @@
       "genus": "ヨシ属",
       "species": "Phragmites australis"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目grass_0021の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目grass_0021の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7",
@@ -12604,7 +12826,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -12633,6 +12855,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -12657,7 +12885,7 @@
     "habitat": "池、沼、河川、水田周辺",
     "common_place": "池、沼、河川、水田周辺",
     "feature_summary": "写真では、水辺の細長い葉の群落。",
-    "trivia": "マコモタケは菌の作用で肥大した茎の部分で、通常の若い茎とは区別する。",
+    "trivia": "根や根茎、葉を、尿の出を促す目的で民間薬に使ってきた記録がある。葉はむしろや蓑などの材料にもなり、菌の作用で肥大した茎はマコモタケとして食用にする。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -12670,7 +12898,8 @@
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B3%E3%83%A2",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B3%E3%83%A2",
-      "https://www.inaturalist.org/taxa/407086"
+      "https://www.inaturalist.org/taxa/407086",
+      "https://www.lab.toho-u.ac.jp/phar/yakusou/makomo.html"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -12707,10 +12936,18 @@
     ],
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用の説明を追加せず既知の植物情報を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.lab.toho-u.ac.jp/phar/yakusou/makomo.html"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -12896,7 +13133,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "Campanulaceae科のCodonopsis属に分類される植物。形態の詳しい説明は要確認。",
-    "trivia": "",
+    "trivia": "根は「羊乳（ようにゅう）」と呼ばれ、痰を出しやすくする目的で使われてきた。韓国では根を食用にも利用する。薬用のオタネニンジンとは別の植物である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -12910,7 +13147,9 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Codonopsis_lanceolata",
       "https://www.inaturalist.org/taxa/366814",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A141808-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A141808-1",
+      "https://www.pharm.kumamoto-u.ac.jp/flower/H1611.html",
+      "https://www.gifu-pu.ac.jp/lab/lab_hg/plant_ibuki_21.html"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -12949,10 +13188,19 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用未確認のため効果を追加せず、分類の定型文を削除",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/flower/H1611.html",
+        "https://www.gifu-pu.ac.jp/lab/lab_hg/plant_ibuki_21.html"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -12986,7 +13234,7 @@
       "genus": "Campanula属",
       "species": "Campanula punctata var. punctata"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BF%E3%83%AB%E3%83%96%E3%82%AF%E3%83%AD",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BF%E3%83%AB%E3%83%96%E3%82%AF%E3%83%AD",
@@ -13003,7 +13251,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -13073,6 +13321,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -13097,7 +13351,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、大きな葉を交互につけた茎。",
-    "trivia": "",
+    "trivia": "根茎を「黄精（おうせい）」の原料として使ってきた。民間では滋養強壮を目的に利用され、ナルコユリとともに日本で使われる黄精の植物の一つである。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -13111,7 +13365,9 @@
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Polygonatum",
       "https://www.inaturalist.org/taxa/764707",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A540172-1/general-information"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A540172-1/general-information",
+      "https://www.lab.toho-u.ac.jp/phar/yakusou/oonarukoyuri.html",
+      "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/monocotyledoneae/asparagaceae/oonarukoyuri/oonarukoyuri.htm"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -13150,10 +13406,19 @@
     "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "薬用未確認のため効果を追加せず、分類の定型文を削除",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.lab.toho-u.ac.jp/phar/yakusou/oonarukoyuri.html",
+        "https://www1.ous.ac.jp/garden/hada/plantsdic/angiospermae/monocotyledoneae/asparagaceae/oonarukoyuri/oonarukoyuri.htm"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -13187,7 +13452,7 @@
       "genus": "シオデ属",
       "species": "Smilax riparia"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0047の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0047の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/siode.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/siode.htm",
@@ -13203,7 +13468,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -13232,6 +13497,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -13265,7 +13536,7 @@
       "genus": "シオデ属",
       "species": "Smilax nipponica"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0048の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0048の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/tatisiode.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/tatisiode.htm",
@@ -13281,7 +13552,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -13310,6 +13581,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -13334,7 +13611,7 @@
     "habitat": "山野や山地の草原など、日当たりのよい場所に生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "淡い紫色の釣鐘形の花を、茎の上部につける。",
-    "trivia": "学名はAdenophora triphylla var. japonica。",
+    "trivia": "",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -13343,7 +13620,7 @@
       "genus": "Adenophora属",
       "species": "Adenophora triphylla var. japonica"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AA%E3%82%AC%E3%83%8D%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%B3",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AA%E3%82%AC%E3%83%8D%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%B3",
@@ -13361,7 +13638,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -13427,6 +13704,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -13460,7 +13743,7 @@
       "genus": "Salvia属",
       "species": "Salvia nipponica"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%90%E3%83%8A%E3%82%A2%E3%82%AD%E3%82%AE%E3%83%AA",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%90%E3%83%8A%E3%82%A2%E3%82%AD%E3%82%AE%E3%83%AA",
@@ -13477,7 +13760,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -13508,6 +13791,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -13781,7 +14070,7 @@
       "genus": "ウルシ属",
       "species": "Toxicodendron sylvestre"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0196の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0196の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%8F%E3%82%BC",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%8F%E3%82%BC",
@@ -13797,7 +14086,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -13826,6 +14115,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -13859,7 +14154,7 @@
       "genus": "シラキ属",
       "species": "Neoshirakia japonica"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0235の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0235の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/siraki.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/siraki.htm",
@@ -13875,7 +14170,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -13904,6 +14199,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -13937,7 +14238,7 @@
       "genus": "シロダモ属",
       "species": "Neolitsea sericea"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0156の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0156の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/sirodamo.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/sirodamo.htm",
@@ -13954,7 +14255,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -13983,6 +14284,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "今回取得した個別資料",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -14095,7 +14402,7 @@
       "genus": "Litsea属",
       "species": "Litsea coreana"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0157の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0157の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/kagonoki.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/kagonoki.htm",
@@ -14111,7 +14418,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -14140,6 +14447,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -14173,7 +14486,7 @@
       "genus": "シロダモ属",
       "species": "Neolitsea aciculata"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0239の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0239の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/inugasi.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/inugasi.htm",
@@ -14189,7 +14502,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -14218,6 +14531,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -14479,7 +14798,7 @@
     "habitat": "要確認",
     "common_place": "要確認",
     "feature_summary": "厚い葉が垂れ、葉柄に赤みが見られる。",
-    "trivia": "葉や樹皮を薬用にした歴史がある。新しい葉に代を譲るように古い葉が落ちる姿から名づけられ、正月飾りにも利用される。",
+    "trivia": "葉や樹皮を、痰や寄生虫に関わる症状などに使ってきた歴史がある。古い葉から新しい葉へ代を譲る姿にちなむ名前で、家の繁栄を願う正月飾りにも使われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -14530,10 +14849,18 @@
     ],
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "文章修正",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "今回取得した個別資料",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006464.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -14567,7 +14894,7 @@
       "genus": "ユズリハ属",
       "species": "Daphniphyllum teijsmannii"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0185の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0185の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/himeyuzuriha.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/himeyuzuriha.htm",
@@ -14584,7 +14911,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -14613,6 +14940,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "今回取得した個別資料",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "参照先自身が近縁のユズリハと同様の利用を推測しており、本種の薬効としては追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -14646,7 +14979,7 @@
       "genus": "モチノキ属",
       "species": "Ilex macropoda"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0179の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0179の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/aohada.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/aohada.htm",
@@ -14662,7 +14995,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -14691,6 +15024,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -14724,7 +15063,7 @@
       "genus": "モチノキ属",
       "species": "Ilex serrata"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0292の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0292の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A1%E3%83%A2%E3%83%89%E3%82%AD",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A1%E3%83%A2%E3%83%89%E3%82%AD",
@@ -14740,7 +15079,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -14769,6 +15108,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -14802,7 +15147,7 @@
       "genus": "モチノキ属",
       "species": "Ilex crenata var. crenata"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同名の既存項目とは採用学名の範囲が異なるため、種固有の説明を転載していない。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/inutuge.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/inutuge.htm",
@@ -14819,7 +15164,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -14889,6 +15234,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -14922,7 +15273,7 @@
       "genus": "モチノキ属",
       "species": "Ilex micrococca"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0133の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0133の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%9F%E3%82%BA%E3%82%AD",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%9F%E3%82%BA%E3%82%AD",
@@ -14938,7 +15289,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -14967,6 +15318,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -15079,7 +15436,7 @@
       "genus": "エゴノキ属",
       "species": "Styrax obassia"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_tree_0076の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_tree_0076の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://mikawanoyasou.org/data/hakuunboku.htm",
     "content_source_urls": [
       "https://mikawanoyasou.org/data/hakuunboku.htm",
@@ -15095,7 +15452,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -15124,6 +15481,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "東邦大学で確認できるのは種子油・材・観賞の利用。具体的な薬用用途は未確認。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -15157,7 +15520,7 @@
       "genus": "シナノキ属",
       "species": "Tilia japonica"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0023の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目tree_0023の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8A%E3%83%8E%E3%82%AD",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8A%E3%83%8E%E3%82%AD",
@@ -15173,7 +15536,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -15202,6 +15565,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -15235,7 +15604,7 @@
       "genus": "Corydalis属",
       "species": "Corydalis incisa"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0273の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0273の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD%E3%82%B1%E3%83%9E%E3%83%B3",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD%E3%82%B1%E3%83%9E%E3%83%B3",
@@ -15251,7 +15620,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -15280,6 +15649,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -15313,7 +15688,7 @@
       "genus": "Corydalis属",
       "species": "Corydalis lineariloba"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0272の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0272の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%A8%E3%83%B3%E3%82%B4%E3%82%B5%E3%82%AF",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%A8%E3%83%B3%E3%82%B4%E3%82%B5%E3%82%AF",
@@ -15329,7 +15704,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -15358,6 +15733,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -15391,7 +15772,7 @@
       "genus": "Corydalis属",
       "species": "Corydalis heterocarpa var. japonica"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0275の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_0275の説明も照合。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B1%E3%83%9E%E3%83%B3",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B1%E3%83%9E%E3%83%B3",
@@ -15407,7 +15788,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -15475,6 +15856,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "参照先のキケマンはCorydalis platycarpa。登録変種との範囲を確定できず薬効を転用しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -15587,7 +15974,7 @@
       "genus": "Actaea属",
       "species": "Actaea biternata"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://www.inaturalist.org/taxa/742163",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/742163",
@@ -15603,7 +15990,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -15634,6 +16021,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -15658,7 +16051,7 @@
     "habitat": "温帯〜暖帯の林内や林縁に生育。",
     "common_place": "生育環境は要確認",
     "feature_summary": "柔らかく毛のない草で、細かく分かれた葉と黄色い花をつける。果実には数珠状の深いくびれがある。",
-    "trivia": "学名はCorydalis pallida var. tenuis。",
+    "trivia": "",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -15667,7 +16060,7 @@
       "genus": "Corydalis属",
       "species": "Corydalis pallida var. tenuis"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://www.inaturalist.org/taxa/461683",
     "content_source_urls": [
       "https://www.inaturalist.org/taxa/461683",
@@ -15684,7 +16077,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -15750,6 +16143,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "参照先はCorydalis japonica。登録名C. pallida var. tenuisとの範囲を確定できず薬効を転用しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -15783,7 +16182,7 @@
       "genus": "Actaea属",
       "species": "Actaea japonica"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0021の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0021の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E",
@@ -15799,7 +16198,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -15828,6 +16227,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -15940,7 +16345,7 @@
       "genus": "Astilbe属",
       "species": "Astilbe rubra"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%82%A2%E3%82%B7%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%82%A2%E3%82%B7%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%9E",
@@ -15957,7 +16362,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -15988,6 +16393,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "和名資料のAstilbe thunbergii var. congestaと登録A. rubraの範囲を確定できず薬効を転用しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -16012,7 +16423,7 @@
     "habitat": "主に温帯に生育（世界全体の生育帯）。日本の具体的な生育場所は要確認。",
     "common_place": "生育環境は要確認",
     "feature_summary": "写真では、細長い淡色の花序。",
-    "trivia": "学名はAstilbe thunbergii。",
+    "trivia": "",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -16021,7 +16432,7 @@
       "genus": "Astilbe属",
       "species": "Astilbe thunbergii"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Astilbe_thunbergii",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Astilbe_thunbergii",
@@ -16038,7 +16449,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -16071,6 +16482,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -16265,7 +16682,7 @@
       "genus": "Heracleum属",
       "species": "Heracleum maximum"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%8F%E3%83%8A%E3%82%A6%E3%83%89",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%8F%E3%83%8A%E3%82%A6%E3%83%89",
@@ -16282,7 +16699,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -16313,6 +16730,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "国内のオオハナウド資料と登録Heracleum maximumの範囲を確定できず薬効を転用しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -16346,7 +16769,7 @@
       "genus": "Ostericum属",
       "species": "Ostericum sieboldii"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Ostericum",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Ostericum",
@@ -16363,7 +16786,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -16394,6 +16817,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -16427,7 +16856,7 @@
       "genus": "Angelica属",
       "species": "Angelica genuflexa"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%BB%E3%83%B3%E3%82%AD%E3%83%A5%E3%82%A6",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%82%BB%E3%83%B3%E3%82%AD%E3%83%A5%E3%82%A6",
@@ -16444,7 +16873,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -16475,6 +16904,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -16508,7 +16943,7 @@
       "genus": "Hemerocallis属",
       "species": "Hemerocallis fulva var. littorea"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%82%AB%E3%83%B3%E3%82%BE%E3%82%A6",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%82%AB%E3%83%B3%E3%82%BE%E3%82%A6",
@@ -16525,7 +16960,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -16595,6 +17030,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -16628,7 +17069,7 @@
       "genus": "Hemerocallis属",
       "species": "Hemerocallis middendorffii var. esculenta"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%B3%E3%83%86%E3%82%A4%E3%82%AB",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%B3%E3%83%86%E3%82%A4%E3%82%AB",
@@ -16645,7 +17086,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -16715,6 +17156,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -16725,7 +17172,7 @@
     "search_aliases": [
       "フクジュソウ"
     ],
-    "family": "Ranunculaceae科",
+    "family": "キンポウゲ科",
     "genus": "Adonis属",
     "scientific_name": "Adonis ramosa",
     "taxon_id": 452322,
@@ -16739,12 +17186,12 @@
     "habitat": "山地の林床・草地",
     "common_place": "山地の林床・草地",
     "feature_summary": "早春に光沢のある黄色い花を咲かせる。葉は細かく裂ける。",
-    "trivia": "",
+    "trivia": "乾燥した根茎は「福寿草根（ふくじゅそうこん）」と呼ばれ、心臓の働きや尿の出に関わる薬用の歴史がある。毒性が強く、家庭で薬として利用する植物ではない。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
       "order": "キンポウゲ目",
-      "family": "Ranunculaceae科",
+      "family": "キンポウゲ科",
       "genus": "Adonis属",
       "species": "Adonis ramosa"
     },
@@ -16752,7 +17199,8 @@
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%AF%E3%82%B8%E3%83%A5%E3%82%BD%E3%82%A6",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%AF%E3%82%B8%E3%83%A5%E3%82%BD%E3%82%A6",
-      "https://www.inaturalist.org/taxa/452322"
+      "https://www.inaturalist.org/taxa/452322",
+      "https://www.pharm.or.jp/flowers/post_12.html"
     ],
     "content_source_scope": "existing_curated_record",
     "image": {
@@ -16789,10 +17237,18 @@
     ],
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "登録学名と資料の範囲を保留し、効能を省略",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": false
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.or.jp/flowers/post_12.html"
+      ],
+      "scope": "Adonis ramosa explicitly named by Pharmaceutical Society of Japan"
     }
   },
   {
@@ -16826,7 +17282,7 @@
       "genus": "Angelica属",
       "species": "Angelica ursina"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%BE%E3%83%8B%E3%83%A5%E3%82%A6",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%BE%E3%83%8B%E3%83%A5%E3%82%A6",
@@ -16843,7 +17299,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -16874,6 +17330,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -17068,7 +17530,7 @@
       "genus": "Actinidia属",
       "species": "Actinidia kolomikta"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0026の説明も照合。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目sansai_0026の説明も照合。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Actinidia_kolomikta",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Actinidia_kolomikta",
@@ -17084,7 +17546,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -17113,6 +17575,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -17225,7 +17693,7 @@
       "genus": "スノキ属",
       "species": "Vaccinium oxycoccos"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AB%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AB%E3%82%B3%E3%82%B1%E3%83%A2%E3%83%A2",
@@ -17242,7 +17710,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -17273,6 +17741,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -17306,7 +17780,7 @@
       "genus": "Empetrum属",
       "species": "Empetrum nigrum subsp. asiaticum"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%82%B3%E3%82%A6%E3%83%A9%E3%83%B3",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%82%B3%E3%82%A6%E3%83%A9%E3%83%B3",
@@ -17323,7 +17797,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -17393,6 +17867,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -17426,7 +17906,7 @@
       "genus": "グミ属",
       "species": "Elaeagnus macrophylla"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Elaeagnus_macrophylla",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Elaeagnus_macrophylla",
@@ -17443,7 +17923,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -17474,6 +17954,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -17507,7 +17993,7 @@
       "genus": "Rubus属",
       "species": "Rubus crataegifolius"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Rubus",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Rubus",
@@ -17524,7 +18010,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -17555,6 +18041,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -17579,7 +18071,7 @@
     "habitat": "山野や林縁に生育。日光植物園周辺でも野生株が記録されている。",
     "common_place": "生育環境は要確認",
     "feature_summary": "葉は3〜5つに裂け、枝には鉤状のとげがある。白い5弁の花が下向きに咲き、果実は橙黄色になる。",
-    "trivia": "学名はRubus palmatus var. coptophyllus。",
+    "trivia": "",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -17588,7 +18080,7 @@
       "genus": "Rubus属",
       "species": "Rubus palmatus var. coptophyllus"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Rubus",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Rubus",
@@ -17607,7 +18099,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -17673,6 +18165,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -17706,7 +18204,7 @@
       "genus": "Rubus属",
       "species": "Rubus parvifolius"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Rubus",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Rubus",
@@ -17723,7 +18221,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -17754,6 +18252,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -17787,7 +18291,7 @@
       "genus": "Rubus属",
       "species": "Rubus buergeri"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Rubus",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Rubus",
@@ -17804,7 +18308,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -17835,6 +18339,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -17868,7 +18378,7 @@
       "genus": "Rubus属",
       "species": "Rubus microphyllus"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AC%E3%82%A4%E3%83%81%E3%82%B4",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AC%E3%82%A4%E3%83%81%E3%82%B4",
@@ -17885,7 +18395,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -17916,6 +18426,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -17949,7 +18465,7 @@
       "genus": "Rubus属",
       "species": "Rubus mesogaeus"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%81%E3%82%B4",
     "content_source_urls": [
       "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%81%E3%82%B4",
@@ -17966,7 +18482,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -17997,6 +18513,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -18030,7 +18552,7 @@
       "genus": "Rubus属",
       "species": "Rubus idaeus subsp. strigosus"
     },
-    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。",
+    "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。参照資料は属の解説または分類情報に限られる。\n2026-10-13 分類参照確認：採用した分類参照の対応を確認済み。未確認の季節・分布等は要確認を維持。写真の厳密な種・変種同定を完了したという意味ではない。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Rubus",
     "content_source_urls": [
       "https://en.wikipedia.org/wiki/Rubus",
@@ -18047,7 +18569,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -18117,6 +18639,12 @@
       "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
       "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
       "specific_medicinal_use_confirmed": false
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "調査した大学・公的資料では、登録種の具体的な薬用用途を確定できず。別種の効能は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -18141,7 +18669,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、褐色の頭花。",
-    "trivia": "北米で古くから薬草として利用されてきた。根を使った利用の歴史がある。",
+    "trivia": "北米の先住民が、呼吸器の不調などに使ってきた薬草。現在もかぜに関するハーブ製品に利用されるが、かぜの期間を短くするかどうかは、まだはっきりしていない。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -18156,7 +18684,8 @@
       "https://plants.ces.ncsu.edu/plants/echinacea-purpurea/",
       "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD%E3%83%90%E3%83%AC%E3%83%B3%E3%82%AE%E3%82%AF",
       "https://www.inaturalist.org/taxa/48627",
-      "https://powo.science.kew.org/taxon/1174497-2"
+      "https://powo.science.kew.org/taxon/1174497-2",
+      "https://www.nccih.nih.gov/health/echinacea"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -18238,16 +18767,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "既存の用途・香りの文章を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.nccih.nih.gov/health/echinacea"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -18272,7 +18809,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、紫色の花と丸い葉。",
-    "trivia": "花は、伝統的な薬草の原料として利用されてきた。",
+    "trivia": "花を、口や喉の刺激感、それに伴う乾いた咳などに使ってきた。ヨーロッパでは伝統的な薬草製品の原料になり、軽い胃腸の不快感にも利用されてきた。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -18332,16 +18869,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "既存の用途・香りの文章を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.ema.europa.eu/en/medicines/herbal/malvae-sylvestris-flos"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -18454,7 +18999,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、黄色い花と細長い葉。",
-    "trivia": "古くから薬草として利用されてきた。花を黄色い染料の原料に使うこともある。薬の働きを変える成分を含むため、服薬中の利用には注意が必要である。",
+    "trivia": "気分の落ち込みや傷などに使ってきた歴史があり、現在も抑うつ症状に関する製品に利用される。多くの薬の働きを弱めたり、副作用を強めたりするため、服薬中の利用は医療者への確認が必要である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -18512,16 +19057,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "文章修正",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "今回取得した個別資料",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.nccih.nih.gov/health/st-johns-wort"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -18546,7 +19099,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、白い小花が平たく集まる。",
-    "trivia": "葉には強い香りがある。北米の先住民が薬草として利用してきた歴史がある。",
+    "trivia": "花が咲く時期の地上部を、食欲の低下や腹部の張り、軽い月経痛などに使ってきた。ヨーロッパでは、伝統的な薬草として扱われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -18560,7 +19113,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/achillea-millefolium/",
       "https://www.inaturalist.org/taxa/1105043",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A2294-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A2294-2",
+      "https://www.ema.europa.eu/en/documents/herbal-opinion/final-european-union-herbal-monograph-achillea-millefolium-l-herba-revision-1_en.pdf"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -18642,16 +19196,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "既存の用途・香りの文章を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.ema.europa.eu/en/documents/herbal-opinion/final-european-union-herbal-monograph-achillea-millefolium-l-herba-revision-1_en.pdf"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -18804,7 +19366,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、白い舌状花と黄色い中心。",
-    "trivia": "葉には刺激のある香りがある。古くから薬草として利用され、花は切り花やドライフラワーにも使われる。",
+    "trivia": "地上部を、片頭痛の予防を目的に使ってきた薬草。ヨーロッパでは、医師が重大な病気を除外したうえで使う伝統的な薬草製品の原料として扱われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -18820,7 +19382,8 @@
       "https://en.wikipedia.org/wiki/Tanacetum_parthenium",
       "https://www.inaturalist.org/taxa/54520",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A252460-1",
-      "https://powo.science.kew.org/taxon/252460-1"
+      "https://powo.science.kew.org/taxon/252460-1",
+      "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -18865,16 +19428,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "既存の用途・香りの文章を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -18899,7 +19470,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、赤い果実と裂けた葉。",
-    "trivia": "葉と花が、ヨーロッパで伝統的な薬草製品の原料に使われてきた。果実は食用にもなる。",
+    "trivia": "葉と花を、軽いストレスや寝つきの悪さなどに使ってきた。ヨーロッパでは、神経の緊張に伴う一時的な動悸に使う伝統的な薬草製品の原料でもあるが、心臓の病気の確認を要する。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -19000,16 +19571,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "文章修正",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.ema.europa.eu/en/medicines/herbal/crataegi-folium-cum-flore"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -19043,7 +19622,7 @@
       "genus": "Filipendula属",
       "species": "Filipendula ulmaria"
     },
-    "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。",
+    "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://www.inaturalist.org/taxa/63134",
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/filipendula-ulmaria/",
@@ -19060,7 +19639,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -19101,6 +19680,12 @@
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "今回確認した資料範囲では具体的用途の記載を採用できず、既存の説明を維持。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -19125,7 +19710,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、枝と薄い袋状の果実。",
-    "trivia": "根が、伝統的な薬草の原料として利用されてきた。",
+    "trivia": "インドの伝統医学で長く利用されてきた薬草。根や葉の抽出物は、現在もストレスや睡眠に関する製品に使われる。薬との飲み合わせや肝障害の報告があり、妊娠中の利用は避けるとされる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -19139,7 +19724,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/withania-somnifera/",
       "https://www.inaturalist.org/taxa/182191",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A821709-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A821709-1",
+      "https://www.nccih.nih.gov/health/ashwagandha"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -19182,16 +19768,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "文章修正",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.nccih.nih.gov/health/ashwagandha"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -19216,7 +19810,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、白い小花と厚みのある葉。",
-    "trivia": "葉を野菜に利用する地域があり、伝統的な薬草としても知られる。水槽や吊り鉢で育てることもある。",
+    "trivia": "インドの伝統医学アーユルヴェーダで、精神・神経に関わる不調などに使ってきた。水辺に育つ植物で、水槽や吊り鉢での栽培にも利用される。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -19231,7 +19825,8 @@
       "https://plants.ces.ncsu.edu/plants/bacopa-monnieri/",
       "https://en.wikipedia.org/wiki/Bacopa_monnieri",
       "https://www.inaturalist.org/taxa/75732",
-      "https://powo.science.kew.org/taxon/1072674-2"
+      "https://powo.science.kew.org/taxon/1072674-2",
+      "https://www.nparks.gov.sg/florafaunaweb/flora/6/8/6847"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -19274,16 +19869,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "文章修正",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.nparks.gov.sg/florafaunaweb/flora/6/8/6847"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -19308,7 +19911,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、つると対生する葉。",
-    "trivia": "乾燥した葉が、伝統的な薬草の原料として利用されてきた。",
+    "trivia": "葉にはギムネマ酸が含まれ、口の中で甘みを感じにくくする性質がある。この作用は甘味受容体との関係が研究されており、糖尿病の治療効果とは分けて考える必要がある。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -19317,13 +19920,15 @@
       "genus": "Gymnema属",
       "species": "Gymnema sylvestre"
     },
-    "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。",
+    "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。 / 記載した性質・研究対象と、治療効果の確立は区別する。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Gymnema_sylvestre",
     "content_source_urls": [
       "https://mpns.science.kew.org/mpns-portal/plantDetail?dbs=wcs&plantId=506350",
       "https://en.wikipedia.org/wiki/Gymnema_sylvestre",
       "https://www.inaturalist.org/taxa/466595",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60454719-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60454719-2",
+      "https://dep.sit.ac.jp/lsgc/column05/",
+      "https://www.kyushu-u.ac.jp/f/1080/2014_09_12_2.pdf"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -19335,7 +19940,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -19366,16 +19971,22 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "文章修正",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": false
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "甘味抑制の性質を確認。個々の疾病に対する治療効果は追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -19400,7 +20011,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、細長い葉をつけた茎。",
-    "trivia": "中国やインドで、伝統的な薬草として利用されてきた。",
+    "trivia": "葉には非常に強い苦みがあり、中国やインドの伝統医学では、発熱や炎症などに使ってきた。中国名は「穿心蓮（せんしんれん）」という。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -19460,16 +20071,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "文章修正",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.nparks.gov.sg/florafaunaweb/flora/1/6/1665"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -19494,7 +20113,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、白い模様のあるとげの葉。",
-    "trivia": "果実が薬草の原料として利用される。",
+    "trivia": "果実を薬草製品の原料に使い、古くから肝臓の不調などに利用されてきた。ただし、人での治療効果については、明確な結論を出すための質の高い証拠が十分ではない。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -19509,7 +20128,8 @@
       "https://www.ema.europa.eu/en/medicines/herbal/silybi-mariani-fructus",
       "https://en.wikipedia.org/wiki/Silybum",
       "https://www.inaturalist.org/taxa/52586",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A249211-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A249211-1",
+      "https://www.nccih.nih.gov/health/milk-thistle"
     ],
     "content_source_scope": "reviewed_taxon_scope",
     "image": {
@@ -19548,16 +20168,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "文章修正",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.nccih.nih.gov/health/milk-thistle"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -19582,7 +20210,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、掌状に切れ込む葉。",
-    "trivia": "地下茎が薬草の原料として利用されてきた。黄色い染料としての利用もある。",
+    "trivia": "北米の先住民が、消化器の不調や傷、皮膚の不調などに使ってきた薬草。現在もサプリメントに利用されるが、人での有効性を判断できる証拠は十分ではない。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -19596,7 +20224,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/hydrastis-canadensis/",
       "https://www.inaturalist.org/taxa/118768",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A305699-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A305699-2",
+      "https://www.nccih.nih.gov/health/goldenseal"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -19639,16 +20268,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "既存の用途・香りの文章を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.nccih.nih.gov/health/goldenseal"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -19673,7 +20310,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、鋸歯の強い複葉。",
-    "trivia": "北米の先住民が根や地下部を薬草として利用してきた。現在もハーブ製品の原料として使われる。",
+    "trivia": "根や根茎を薬草製品の原料にし、現在は更年期のほてりなどに関する製品に使われる。肝障害の報告もあり、日本のサラシナショウマとは区別して扱う。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -19687,7 +20324,8 @@
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/actaea-racemosa/",
       "https://www.inaturalist.org/taxa/119813",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A316204-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A316204-2",
+      "https://www.nccih.nih.gov/health/black-cohosh"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -19730,16 +20368,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "文章修正",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.nccih.nih.gov/health/black-cohosh"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -19862,7 +20508,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、小さな鋸歯の葉と細い茎。",
-    "trivia": "伝統的な薬草として利用されてきた。スカルキャップの名で知られる。",
+    "trivia": "気持ちを落ち着かせる目的で利用されてきた薬草。バージニアスカルキャップとも呼ばれ、生薬の黄芩に使うコガネバナとは別の種類である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -19876,7 +20522,8 @@
     "content_source_urls": [
       "https://mpns.science.kew.org/mpns-portal/drugDetail?drugName=virginian+skullcap&filter=&fuzzy=true&nameType=all&query=greenae",
       "https://www.inaturalist.org/taxa/79017",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A458402-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A458402-1",
+      "https://www.lab.toho-u.ac.jp/phar/yakusou/koganebana.html"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -19919,16 +20566,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "既存の用途・香りの文章を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.lab.toho-u.ac.jp/phar/yakusou/koganebana.html"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -19953,7 +20608,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、立ち上がる細い茎。",
-    "trivia": "地上部が、伝統的な薬草の原料として利用されてきた。",
+    "trivia": "花が咲く時期の地上部を、神経の緊張に伴う不調などに使ってきた。ヨーロッパでは動悸に用いる伝統的な薬草製品の原料でもあるが、医師が重大な病気を除外したうえで扱う。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -20011,16 +20666,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "既存の用途・香りの文章を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.ema.europa.eu/en/medicines/herbal/leonuri-cardiacae-herba"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -20054,7 +20717,7 @@
       "genus": "Ballota属",
       "species": "Ballota nigra"
     },
-    "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。",
+    "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://www.inaturalist.org/taxa/56158",
     "content_source_urls": [
       "https://mpns.science.kew.org/mpns-portal/drugDetail?drugName=Black+horehound&filter=latinKewPrefName%3A%22Ballota+nigra+L.%22&fuzzy=false&nameType=all&query=Cynoglossum%C2%A0officinale%C2%A0L.",
@@ -20072,7 +20735,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -20115,6 +20778,12 @@
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "登録種に対応する具体的な薬用用途の一次資料を今回確認できず、既存の説明を維持。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -20148,7 +20817,7 @@
       "genus": "Prunella属",
       "species": "Prunella vulgaris"
     },
-    "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。 本項はPrunella vulgarisの種全体を扱う。ウツボグサ（P. vulgaris subsp. asiatica）の亜種項目とは資料範囲を区別する。",
+    "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。 本項はPrunella vulgarisの種全体を扱う。ウツボグサ（P. vulgaris subsp. asiatica）の亜種項目とは資料範囲を区別する。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://www.inaturalist.org/taxa/52764",
     "content_source_urls": [
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A455176-1/general-information",
@@ -20165,7 +20834,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -20209,7 +20878,13 @@
     },
     "related_record_ids": [
       "yakuso_0038"
-    ]
+    ],
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "親種全体の項目。ウツボグサ亜種の効能を種全体へ自動適用しない。",
+      "new_efficacy_claim_added": false
+    }
   },
   {
     "id": "herb_0195",
@@ -20233,7 +20908,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、黄色い小さな頭花。",
-    "trivia": "薬草として利用されてきた。和名はクソニンジン。",
+    "trivia": "和名はクソニンジン。抗マラリア薬の成分アルテミシニンを得る植物として知られる。植物をそのままお茶などにしたものは、マラリア治療薬の代わりにはならない。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -20247,7 +20922,8 @@
     "content_source_urls": [
       "https://mpns.science.kew.org/mpns-portal/facetFilter?filter=nameSearch%3A%22artemisia+annua+linn.%22&fuzzy=false&nameType=all&query=Artemisia+annua",
       "https://www.inaturalist.org/taxa/75584",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A304416-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A304416-2",
+      "https://www.who.int/publications/i/item/WHO-CDS-GMP-2019.14"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -20290,16 +20966,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "既存の用途・香りの文章を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.who.int/publications/i/item/WHO-CDS-GMP-2019.14"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -20324,7 +21008,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、黄色い花序。",
-    "trivia": "地上部が、伝統的な薬草の原料として利用されてきた。",
+    "trivia": "花が咲く時期の地上部を薬用にする。ヨーロッパでは、軽い尿路の不調に対し、尿量を増やして尿路を洗い流すことを目的とする伝統的な薬草として扱われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -20339,7 +21023,8 @@
       "https://www.ema.europa.eu/en/medicines/herbal/solidaginis-virgaureae-herba",
       "https://en.wikipedia.org/wiki/Solidago_virgaurea",
       "https://www.inaturalist.org/taxa/118850",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A249947-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A249947-1",
+      "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -20384,16 +21069,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "既存の用途・香りの文章を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -20418,7 +21111,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、大きな地面近くの葉。",
-    "trivia": "根は、酒のアブサンの風味づけに利用されてきた。古くから薬草としても知られる。",
+    "trivia": "根は「土木香（どもっこう）」と呼ばれ、ヨーロッパで咳や消化不良などに使われてきた。かつては、キャンディーやリキュールの風味づけにも利用された。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -20433,7 +21126,8 @@
       "https://plants.ces.ncsu.edu/plants/inula-helenium/",
       "https://en.wikipedia.org/wiki/Inula",
       "https://www.inaturalist.org/taxa/133951",
-      "https://powo.science.kew.org/taxon/225914-1"
+      "https://powo.science.kew.org/taxon/225914-1",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004850.php"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -20476,16 +21170,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "既存の用途・香りの文章を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/004850.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -20510,7 +21212,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、大きな掌状の葉。",
-    "trivia": "北米の先住民が薬草として利用してきた。現在も、ハーブ製品の原料として使われる。",
+    "trivia": "北米原産で、ハーブ製品の原料に使われるニンジンの仲間。かぜの予防などについても研究されているが、有効性を裏づける証拠は十分ではなく、抗凝固薬ワルファリンとの相互作用にも注意が必要である。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -20519,12 +21221,13 @@
       "genus": "Panax属",
       "species": "Panax quinquefolius"
     },
-    "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。",
+    "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。 / 記載した性質・研究対象と、治療効果の確立は区別する。",
     "plant_source_url": "https://www.inaturalist.org/taxa/116333",
     "content_source_urls": [
       "https://plants.ces.ncsu.edu/plants/panax-quinquefolius/",
       "https://www.inaturalist.org/taxa/116333",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A300467-2"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A300467-2",
+      "https://www.nccih.nih.gov/health/colds-flu-and-complementary-health-approaches"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -20536,7 +21239,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -20567,16 +21270,22 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "文章修正",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": false
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "研究対象と安全性を確認。かぜ予防の有効性は未確立。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -20601,7 +21310,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、掌状の複葉。",
-    "trivia": "根が薬草の原料として使われる。シベリアニンジンの名で知られる。",
+    "trivia": "根などの地下部を、疲れや体力の衰えに使ってきた。ヨーロッパでは伝統的な薬草製品の原料として扱われる。シベリアニンジンと呼ばれるが、オタネニンジンとは属が異なる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -20616,7 +21325,8 @@
       "https://www.ema.europa.eu/nl/medicines/herbal/eleutherococci-radix",
       "https://en.wikipedia.org/wiki/Eleutherococcus_senticosus",
       "https://www.inaturalist.org/taxa/510045",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A90431-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A90431-1",
+      "https://www.ema.europa.eu/en/medicines/herbal/eleutherococci-radix"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -20659,16 +21369,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "既存の用途・香りの文章を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.ema.europa.eu/en/medicines/herbal/eleutherococci-radix"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -20693,7 +21411,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、岩上の肉質の葉。",
-    "trivia": "根や地下茎が薬草の原料として使われる。",
+    "trivia": "根や根茎を、ストレスに伴う疲れや脱力感を一時的にやわらげる目的で使ってきた。ヨーロッパでは、伝統的な利用に基づく薬草製品の原料として扱われる。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -20750,16 +21468,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "既存の用途・香りの文章を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.ema.europa.eu/en/medicines/herbal/rhodiolae-roseae-rhizoma-et-radix"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -20793,7 +21519,7 @@
       "genus": "Astragalus属",
       "species": "Astragalus mongholicus"
     },
-    "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。",
+    "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://www.inaturalist.org/taxa/138362",
     "content_source_urls": [
       "https://mpns.science.kew.org/mpns-portal/drugDetail?drugName=astragalus+root&filter=&fuzzy=false&nameType=all&query=Astragali+Radix",
@@ -20810,7 +21536,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -20853,6 +21579,12 @@
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "登録種と資料のキバナオウギの分類範囲を確認できず、効能を追加しない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -20886,7 +21618,7 @@
       "genus": "Turnera属",
       "species": "Turnera diffusa"
     },
-    "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。",
+    "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。 / 薬用の具体的な用途は未確認。薬草ジャンルへの適合は要確認。",
     "plant_source_url": "https://en.wikipedia.org/wiki/Turnera",
     "content_source_urls": [
       "https://mpns.science.kew.org/mpns-portal/drugDetail?drugName=turnera+diffusa+leaf",
@@ -20905,7 +21637,7 @@
     },
     "content_status": "完成",
     "needs_ai_summary": false,
-    "needs_manual_content_review": false,
+    "needs_manual_content_review": true,
     "needs_manual_taxon_review": false,
     "needs_manual_image_review": false,
     "thumbnail_visually_reviewed": true,
@@ -20948,6 +21680,12 @@
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "調査済み・未確認事項を保留",
+      "reason": "獣医用ホメオパシーの残留基準資料は、人への有効性の根拠に使わない。",
+      "new_efficacy_claim_added": false
     }
   },
   {
@@ -20972,7 +21710,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、幅広い葉の株。",
-    "trivia": "地下茎が、伝統的な薬草の原料として利用されてきた。",
+    "trivia": "根茎は「莪朮（がじゅつ）」という生薬になり、消化不良や腹部の張りなどに使われてきた。ムラサキウコンとも呼ばれ、家庭用の胃腸薬にも配合される。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -20987,7 +21725,8 @@
       "https://mpns.science.kew.org/mpns-portal/plantDetail?dbs=wcs&plantId=235312",
       "https://en.wikipedia.org/wiki/Curcuma",
       "https://www.inaturalist.org/taxa/347671",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A872393-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A872393-1",
+      "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003477.php"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -21030,16 +21769,24 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "既存の用途・香りの文章を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003477.php"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   },
   {
@@ -21156,7 +21903,7 @@
     "habitat": "",
     "common_place": "",
     "feature_summary": "写真では、白紫色の小花。",
-    "trivia": "地上部が、伝統的な薬草として利用されてきた。",
+    "trivia": "地上部を、目の不調などに使ってきたヨーロッパの薬草。歴史的な利用はあるが、有効性や安全性の資料は十分ではなく、自家製の液を目に入れる用途には向かない。",
     "classification": {
       "kingdom": "植物界",
       "clade": "Tracheophyta",
@@ -21171,7 +21918,9 @@
       "https://www.ema.europa.eu/en/medicines/herbal/euphrasiae-herba",
       "https://www.inaturalist.org/taxa/866675",
       "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A802732-1/general-information",
-      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A802732-1"
+      "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A802732-1",
+      "https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-euphrasia-officinalis-l-and-euphrasia-rostkoviana-hayne-herba_en.pdf",
+      "https://www.ema.europa.eu/en/documents/public-statement/final-public-statement-euphrasia-officinalis-l-and-euphrasia-rostkoviana-hayne-herba_en.pdf"
     ],
     "content_source_scope": "species_primary",
     "image": {
@@ -21216,16 +21965,25 @@
     "genre_review_note": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。",
     "usage_writing_review": {
       "date": "2026-10-15",
-      "decision": "既存の用途・香りの文章を維持",
+      "decision": "追加調査の出典で説明を修正",
       "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
-      "source_check": "既存の記述・資料を再編集。新しい薬用効果の追加なし。",
-      "specific_medicinal_use_confirmed": null
+      "source_check": "追加調査の一次資料を照合。確認した利用の歴史・性質のみ記載。",
+      "specific_medicinal_use_confirmed": true
     },
     "genre_separation_review": {
       "date": "2026-10-15",
       "from": "ハーブ",
       "to": "薬草",
       "reason": "既存資料にある薬草としての利用を主に紹介。料理・香料を主目的とするハーブから薬草へ整理。"
+    },
+    "usage_completion_review": {
+      "date": "2026-10-15",
+      "action": "出典を照合して用途・説明を補足",
+      "sources": [
+        "https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-euphrasia-officinalis-l-and-euphrasia-rostkoviana-hayne-herba_en.pdf",
+        "https://www.ema.europa.eu/en/documents/public-statement/final-public-statement-euphrasia-officinalis-l-and-euphrasia-rostkoviana-hayne-herba_en.pdf"
+      ],
+      "scope": "登録分類の範囲に限る。伝統的な利用と治療効果の証明は区別する。"
     }
   }
 ]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at_utc": "2026-10-15T03:47:29.794271+00:00",
+  "generated_at_utc": "2026-10-15T06:21:24.759290+00:00",
   "completed_count": 2666,
   "items": [
     {
@@ -69337,27 +69337,37 @@
     {
       "id": "yakuso_0126",
       "category": "薬草",
-      "name": "ヤマヨモギ（セージブラッシュ）",
-      "kana": "ヤマヨモギ",
+      "name": "ビッグセージブラッシュ",
+      "kana": "ビッグセージブラッシュ",
       "aliases": [
-        "ヤマヨモギ"
+        "ビッグセージブラッシュ",
+        "セージブラッシュ",
+        "big sagebrush"
       ],
       "romaji": [
-        "yamayomogi"
+        "bigguseejiburasshu",
+        "seejiburasshu",
+        "big sagebrush"
       ],
       "scientific": "Artemisia tridentata",
       "search_terms": [
-        "ヤマヨモギ（セージブラッシュ）",
-        "ヤマヨモギ",
-        "やまよもぎ",
-        "yamayomogi",
+        "ビッグセージブラッシュ",
+        "びっぐせーじぶらっしゅ",
+        "セージブラッシュ",
+        "big sagebrush",
+        "せーじぶらっしゅ",
+        "bigguseejiburasshu",
+        "seejiburasshu",
         "Artemisia tridentata"
       ],
       "normalized_terms": [
-        "ヤマヨモギ(セージブラッシュ)",
-        "ヤマヨモギ",
-        "やまよもぎ",
-        "yamayomogi",
+        "ビッグセージブラッシュ",
+        "びっぐせーじぶらっしゅ",
+        "セージブラッシュ",
+        "bigsagebrush",
+        "せーじぶらっしゅ",
+        "bigguseejiburasshu",
+        "seejiburasshu",
         "artemisiatridentata"
       ]
     },
@@ -69971,26 +69981,41 @@
     },
     {
       "id": "yakuso_0153",
-      "category": "薬草",
-      "name": "ダイオウ",
-      "kana": "ダイオウ",
+      "category": "ハーブ",
+      "name": "ルバーブ",
+      "kana": "ルバーブ",
       "aliases": [
-        "ダイオウ"
+        "ルバーブ",
+        "ショクヨウダイオウ",
+        "食用大黄",
+        "rhubarb"
       ],
       "romaji": [
-        "daiou"
+        "rubaabu",
+        "shokuyoudaiou",
+        "rhubarb"
       ],
       "scientific": "Rheum rhabarbarum",
       "search_terms": [
-        "ダイオウ",
-        "だいおう",
-        "daiou",
+        "ルバーブ",
+        "るばーぶ",
+        "ショクヨウダイオウ",
+        "食用大黄",
+        "rhubarb",
+        "しょくようだいおう",
+        "rubaabu",
+        "shokuyoudaiou",
         "Rheum rhabarbarum"
       ],
       "normalized_terms": [
-        "ダイオウ",
-        "だいおう",
-        "daiou",
+        "ルバーブ",
+        "るばーぶ",
+        "ショクヨウダイオウ",
+        "食用大黄",
+        "rhubarb",
+        "しょくようだいおう",
+        "rubaabu",
+        "shokuyoudaiou",
         "rheumrhabarbarum"
       ]
     },
