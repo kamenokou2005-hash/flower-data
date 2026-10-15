@@ -4,6 +4,31 @@
     "rare_fruit_0081": "herb_0088",
     "rare_fruit_0030": "flower_tree_0192",
     "rare_fruit_0031": "flower_tree_0191",
-    "rare_fruit_0032": "tree_0203"
-  }
+    "rare_fruit_0032": "tree_0203",
+    "yakuso_0043": "herb_0002",
+    "yakuso_0072": "herb_0003",
+    "yakuso_0036": "herb_0004",
+    "yakuso_0076": "herb_0005",
+    "yakuso_0035": "herb_0006",
+    "yakuso_0003": "herb_0007",
+    "herb_0009": "yakuso_0028",
+    "yakuso_0074": "herb_0010",
+    "herb_0012": "yakuso_0040",
+    "herb_0017": "yakuso_0007",
+    "yakuso_0005": "herb_0025",
+    "yakuso_0042": "herb_0033",
+    "yakuso_0073": "herb_0034",
+    "herb_0038": "yakuso_0060",
+    "yakuso_0062": "herb_0103",
+    "yakuso_0216": "herb_0123",
+    "yakuso_0134": "herb_0163",
+    "herb_0201": "yakuso_0044",
+    "herb_0204": "yakuso_0146",
+    "yakuso_0175": "tree_0278",
+    "yakuso_0180": "tree_0125",
+    "yakuso_0193": "flower_tree_0047",
+    "yakuso_0194": "flower_tree_0068"
+  },
+  "date": "2026-10-15",
+  "note": "統合前のIDから現在のIDへの対応。元写真は旧URLでも保持。"
 }

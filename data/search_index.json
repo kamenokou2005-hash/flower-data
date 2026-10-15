@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at_utc": "2026-10-15T01:00:49.101637+00:00",
-  "completed_count": 2689,
+  "generated_at_utc": "2026-10-15T03:47:29.794271+00:00",
+  "completed_count": 2666,
   "items": [
     {
       "id": "flower_0001",
@@ -31924,7 +31924,8 @@
       "name": "ショウガ",
       "kana": "しょうが",
       "aliases": [
-        "ショウガ"
+        "ショウガ",
+        "しょうが"
       ],
       "romaji": [
         "shouga"
@@ -31994,31 +31995,6 @@
       ]
     },
     {
-      "id": "herb_0009",
-      "category": "ハーブ",
-      "name": "ドクダミ",
-      "kana": "ドクダミ",
-      "aliases": [
-        "ドクダミ"
-      ],
-      "romaji": [
-        "dokudami"
-      ],
-      "scientific": "Houttuynia cordata",
-      "search_terms": [
-        "ドクダミ",
-        "どくだみ",
-        "dokudami",
-        "Houttuynia cordata"
-      ],
-      "normalized_terms": [
-        "ドクダミ",
-        "どくだみ",
-        "dokudami",
-        "houttuyniacordata"
-      ]
-    },
-    {
       "id": "herb_0010",
       "category": "ハーブ",
       "name": "ノビル",
@@ -32066,31 +32042,6 @@
         "にら",
         "nira",
         "alliumtuberosum"
-      ]
-    },
-    {
-      "id": "herb_0012",
-      "category": "ハーブ",
-      "name": "オオバコ",
-      "kana": "オオバコ",
-      "aliases": [
-        "オオバコ"
-      ],
-      "romaji": [
-        "oobako"
-      ],
-      "scientific": "Plantago asiatica",
-      "search_terms": [
-        "オオバコ",
-        "おおばこ",
-        "oobako",
-        "Plantago asiatica"
-      ],
-      "normalized_terms": [
-        "オオバコ",
-        "おおばこ",
-        "oobako",
-        "plantagoasiatica"
       ]
     },
     {
@@ -32193,31 +32144,6 @@
         "においすみれ",
         "nioisumire",
         "violaodorata"
-      ]
-    },
-    {
-      "id": "herb_0017",
-      "category": "ハーブ",
-      "name": "クチナシ",
-      "kana": "クチナシ",
-      "aliases": [
-        "クチナシ"
-      ],
-      "romaji": [
-        "kuchinashi"
-      ],
-      "scientific": "Gardenia jasminoides",
-      "search_terms": [
-        "クチナシ",
-        "くちなし",
-        "kuchinashi",
-        "Gardenia jasminoides"
-      ],
-      "normalized_terms": [
-        "クチナシ",
-        "くちなし",
-        "kuchinashi",
-        "gardeniajasminoides"
       ]
     },
     {
@@ -32674,7 +32600,7 @@
     },
     {
       "id": "herb_0036",
-      "category": "ハーブ",
+      "category": "草",
       "name": "コンフリー",
       "kana": "コンフリー",
       "aliases": [
@@ -32720,31 +32646,6 @@
         "あーてぃちょーく",
         "aatichooku",
         "cynaracardunculussubspscolymus"
-      ]
-    },
-    {
-      "id": "herb_0038",
-      "category": "ハーブ",
-      "name": "スイカズラ",
-      "kana": "スイカズラ",
-      "aliases": [
-        "スイカズラ"
-      ],
-      "romaji": [
-        "suikazura"
-      ],
-      "scientific": "Lonicera japonica",
-      "search_terms": [
-        "スイカズラ",
-        "すいかずら",
-        "suikazura",
-        "Lonicera japonica"
-      ],
-      "normalized_terms": [
-        "スイカズラ",
-        "すいかずら",
-        "suikazura",
-        "lonicerajaponica"
       ]
     },
     {
@@ -33609,7 +33510,7 @@
     },
     {
       "id": "herb_0078",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "エキナセア",
       "kana": "エキナセア",
       "aliases": [
@@ -33684,7 +33585,7 @@
     },
     {
       "id": "herb_0081",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "コモンマロウ",
       "kana": "コモンマロウ",
       "aliases": [
@@ -33709,7 +33610,7 @@
     },
     {
       "id": "herb_0082",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "マシュマロウ",
       "kana": "マシュマロウ",
       "aliases": [
@@ -33988,7 +33889,7 @@
     },
     {
       "id": "herb_0094",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "セントジョーンズワート",
       "kana": "セントジョーンズワート",
       "aliases": [
@@ -34013,7 +33914,7 @@
     },
     {
       "id": "herb_0095",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "ヤロウ",
       "kana": "ヤロウ",
       "aliases": [
@@ -34038,7 +33939,7 @@
     },
     {
       "id": "herb_0096",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "バレリアン",
       "kana": "バレリアン",
       "aliases": [
@@ -34063,7 +33964,7 @@
     },
     {
       "id": "herb_0097",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "フィーバーフュー",
       "kana": "フィーバーフュー",
       "aliases": [
@@ -34214,24 +34115,32 @@
     {
       "id": "herb_0103",
       "category": "ハーブ",
-      "name": "ダンデライオン",
-      "kana": "ダンデライオン",
+      "name": "セイヨウタンポポ",
+      "kana": "セイヨウタンポポ",
       "aliases": [
-        "ダンデライオン"
+        "ダンデライオン",
+        "セイヨウタンポポ"
       ],
       "romaji": [
+        "seiyoutanpopo",
         "danderaion"
       ],
       "scientific": "Taraxacum officinale",
       "search_terms": [
+        "セイヨウタンポポ",
+        "せいようたんぽぽ",
         "ダンデライオン",
         "だんでらいおん",
+        "seiyoutanpopo",
         "danderaion",
         "Taraxacum officinale"
       ],
       "normalized_terms": [
+        "セイヨウタンポポ",
+        "せいようたんぽぽ",
         "ダンデライオン",
         "だんでらいおん",
+        "seiyoutanpopo",
         "danderaion",
         "taraxacumofficinale"
       ]
@@ -34614,24 +34523,33 @@
     {
       "id": "herb_0123",
       "category": "ハーブ",
-      "name": "ソレル",
-      "kana": "ソレル",
+      "name": "スイバ",
+      "kana": "スイバ",
       "aliases": [
-        "ソレル"
+        "ソレル",
+        "スイバ",
+        "すいば"
       ],
       "romaji": [
+        "suiba",
         "soreru"
       ],
       "scientific": "Rumex acetosa",
       "search_terms": [
+        "スイバ",
+        "すいば",
         "ソレル",
         "それる",
+        "suiba",
         "soreru",
         "Rumex acetosa"
       ],
       "normalized_terms": [
+        "スイバ",
+        "すいば",
         "ソレル",
         "それる",
+        "suiba",
         "soreru",
         "rumexacetosa"
       ]
@@ -34963,7 +34881,7 @@
     },
     {
       "id": "herb_0138",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "ホーソン",
       "kana": "ホーソン",
       "aliases": [
@@ -35013,7 +34931,7 @@
     },
     {
       "id": "herb_0140",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "メドウスイート",
       "kana": "メドウスイート",
       "aliases": [
@@ -35063,7 +34981,7 @@
     },
     {
       "id": "herb_0143",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "アシュワガンダ",
       "kana": "アシュワガンダ",
       "aliases": [
@@ -35088,7 +35006,7 @@
     },
     {
       "id": "herb_0144",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "ブラフミー",
       "kana": "ブラフミー",
       "aliases": [
@@ -35113,7 +35031,7 @@
     },
     {
       "id": "herb_0145",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "ギムネマ",
       "kana": "ギムネマ",
       "aliases": [
@@ -35138,7 +35056,7 @@
     },
     {
       "id": "herb_0146",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "アンドログラフィス",
       "kana": "アンドログラフィス",
       "aliases": [
@@ -35163,7 +35081,7 @@
     },
     {
       "id": "herb_0147",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "ミルクシスル",
       "kana": "ミルクシスル",
       "aliases": [
@@ -35188,7 +35106,7 @@
     },
     {
       "id": "herb_0148",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "ゴールデンシール",
       "kana": "ゴールデンシール",
       "aliases": [
@@ -35213,7 +35131,7 @@
     },
     {
       "id": "herb_0149",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "ブラックコホシュ",
       "kana": "ブラックコホシュ",
       "aliases": [
@@ -35238,7 +35156,7 @@
     },
     {
       "id": "herb_0150",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "パッションフラワー",
       "kana": "パッションフラワー",
       "aliases": [
@@ -35263,7 +35181,7 @@
     },
     {
       "id": "herb_0151",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "スカルキャップ",
       "kana": "スカルキャップ",
       "aliases": [
@@ -35288,7 +35206,7 @@
     },
     {
       "id": "herb_0152",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "マザーワート",
       "kana": "マザーワート",
       "aliases": [
@@ -35413,7 +35331,7 @@
     },
     {
       "id": "herb_0160",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "ブラックホアハウンド",
       "kana": "ブラックホアハウンド",
       "aliases": [
@@ -35464,24 +35382,32 @@
     {
       "id": "herb_0163",
       "category": "ハーブ",
-      "name": "コリアンダーミント",
-      "kana": "コリアンダーミント",
+      "name": "ナギナタコウジュ",
+      "kana": "ナギナタコウジュ",
       "aliases": [
-        "コリアンダーミント"
+        "コリアンダーミント",
+        "ナギナタコウジュ"
       ],
       "romaji": [
+        "naginatakouju",
         "koriandaaminto"
       ],
       "scientific": "Elsholtzia ciliata",
       "search_terms": [
+        "ナギナタコウジュ",
+        "なぎなたこうじゅ",
         "コリアンダーミント",
         "こりあんだーみんと",
+        "naginatakouju",
         "koriandaaminto",
         "Elsholtzia ciliata"
       ],
       "normalized_terms": [
+        "ナギナタコウジュ",
+        "なぎなたこうじゅ",
         "コリアンダーミント",
         "こりあんだーみんと",
+        "naginatakouju",
         "koriandaaminto",
         "elsholtziaciliata"
       ]
@@ -35888,7 +35814,7 @@
     },
     {
       "id": "herb_0192",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "セルフヒール",
       "kana": "セルフヒール",
       "aliases": [
@@ -35938,7 +35864,7 @@
     },
     {
       "id": "herb_0195",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "スイートアニー",
       "kana": "スイートアニー",
       "aliases": [
@@ -36038,7 +35964,7 @@
     },
     {
       "id": "herb_0199",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "ゴールデンロッド",
       "kana": "ゴールデンロッド",
       "aliases": [
@@ -36063,7 +35989,7 @@
     },
     {
       "id": "herb_0200",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "エレキャンペーン",
       "kana": "エレキャンペーン",
       "aliases": [
@@ -36084,31 +36010,6 @@
         "えれきゃんぺーん",
         "erekyanpeen",
         "inulahelenium"
-      ]
-    },
-    {
-      "id": "herb_0201",
-      "category": "ハーブ",
-      "name": "マグノリアバイン",
-      "kana": "マグノリアバイン",
-      "aliases": [
-        "マグノリアバイン"
-      ],
-      "romaji": [
-        "magunoriabain"
-      ],
-      "scientific": "Schisandra chinensis",
-      "search_terms": [
-        "マグノリアバイン",
-        "まぐのりあばいん",
-        "magunoriabain",
-        "Schisandra chinensis"
-      ],
-      "normalized_terms": [
-        "マグノリアバイン",
-        "まぐのりあばいん",
-        "magunoriabain",
-        "schisandrachinensis"
       ]
     },
     {
@@ -36162,33 +36063,8 @@
       ]
     },
     {
-      "id": "herb_0204",
-      "category": "ハーブ",
-      "name": "ジンセン",
-      "kana": "ジンセン",
-      "aliases": [
-        "ジンセン"
-      ],
-      "romaji": [
-        "jinsen"
-      ],
-      "scientific": "Panax ginseng",
-      "search_terms": [
-        "ジンセン",
-        "じんせん",
-        "jinsen",
-        "Panax ginseng"
-      ],
-      "normalized_terms": [
-        "ジンセン",
-        "じんせん",
-        "jinsen",
-        "panaxginseng"
-      ]
-    },
-    {
       "id": "herb_0205",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "アメリカニンジン",
       "kana": "アメリカニンジン",
       "aliases": [
@@ -36213,7 +36089,7 @@
     },
     {
       "id": "herb_0206",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "シベリアニンジン",
       "kana": "シベリアニンジン",
       "aliases": [
@@ -36238,7 +36114,7 @@
     },
     {
       "id": "herb_0207",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "ロディオラ",
       "kana": "ロディオラ",
       "aliases": [
@@ -36263,7 +36139,7 @@
     },
     {
       "id": "herb_0208",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "アストラガルス",
       "kana": "アストラガルス",
       "aliases": [
@@ -36288,7 +36164,7 @@
     },
     {
       "id": "herb_0209",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "ダミアナ",
       "kana": "ダミアナ",
       "aliases": [
@@ -36388,7 +36264,7 @@
     },
     {
       "id": "herb_0215",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "ゼドアリー",
       "kana": "ゼドアリー",
       "aliases": [
@@ -36819,7 +36695,7 @@
     },
     {
       "id": "herb_0237",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "マレイン",
       "kana": "マレイン",
       "aliases": [
@@ -36844,7 +36720,7 @@
     },
     {
       "id": "herb_0238",
-      "category": "ハーブ",
+      "category": "薬草",
       "name": "アイブライト",
       "kana": "アイブライト",
       "aliases": [
@@ -66651,31 +66527,6 @@
       ]
     },
     {
-      "id": "yakuso_0003",
-      "category": "薬草",
-      "name": "ウコン",
-      "kana": "ウコン",
-      "aliases": [
-        "ウコン"
-      ],
-      "romaji": [
-        "ukon"
-      ],
-      "scientific": "Curcuma longa",
-      "search_terms": [
-        "ウコン",
-        "うこん",
-        "ukon",
-        "Curcuma longa"
-      ],
-      "normalized_terms": [
-        "ウコン",
-        "うこん",
-        "ukon",
-        "curcumalonga"
-      ]
-    },
-    {
       "id": "yakuso_0004",
       "category": "薬草",
       "name": "サネブトナツメ",
@@ -66698,31 +66549,6 @@
         "さねぶとなつめ",
         "sanebutonatsume",
         "ziziphusjujubasubspspinosa"
-      ]
-    },
-    {
-      "id": "yakuso_0005",
-      "category": "薬草",
-      "name": "ハッカ",
-      "kana": "ハッカ",
-      "aliases": [
-        "ハッカ"
-      ],
-      "romaji": [
-        "hakka"
-      ],
-      "scientific": "Mentha canadensis",
-      "search_terms": [
-        "ハッカ",
-        "はっか",
-        "hakka",
-        "Mentha canadensis"
-      ],
-      "normalized_terms": [
-        "ハッカ",
-        "はっか",
-        "hakka",
-        "menthacanadensis"
       ]
     },
     {
@@ -67451,56 +67277,6 @@
       ]
     },
     {
-      "id": "yakuso_0035",
-      "category": "薬草",
-      "name": "ショウガ",
-      "kana": "しょうが",
-      "aliases": [
-        "ショウガ"
-      ],
-      "romaji": [
-        "shouga"
-      ],
-      "scientific": "Zingiber officinale",
-      "search_terms": [
-        "ショウガ",
-        "しょうが",
-        "shouga",
-        "Zingiber officinale"
-      ],
-      "normalized_terms": [
-        "ショウガ",
-        "しょうが",
-        "shouga",
-        "zingiberofficinale"
-      ]
-    },
-    {
-      "id": "yakuso_0036",
-      "category": "薬草",
-      "name": "サンショウ",
-      "kana": "サンショウ",
-      "aliases": [
-        "サンショウ"
-      ],
-      "romaji": [
-        "sanshou"
-      ],
-      "scientific": "Zanthoxylum piperitum",
-      "search_terms": [
-        "サンショウ",
-        "さんしょう",
-        "sanshou",
-        "Zanthoxylum piperitum"
-      ],
-      "normalized_terms": [
-        "サンショウ",
-        "さんしょう",
-        "sanshou",
-        "zanthoxylumpiperitum"
-      ]
-    },
-    {
       "id": "yakuso_0037",
       "category": "薬草",
       "name": "ナツメ",
@@ -67626,77 +67402,35 @@
       ]
     },
     {
-      "id": "yakuso_0042",
-      "category": "薬草",
-      "name": "シソ",
-      "kana": "シソ",
-      "aliases": [
-        "シソ"
-      ],
-      "romaji": [
-        "shiso"
-      ],
-      "scientific": "Perilla frutescens var. crispa",
-      "search_terms": [
-        "シソ",
-        "しそ",
-        "shiso",
-        "Perilla frutescens var. crispa"
-      ],
-      "normalized_terms": [
-        "シソ",
-        "しそ",
-        "shiso",
-        "perillafrutescensvarcrispa"
-      ]
-    },
-    {
-      "id": "yakuso_0043",
-      "category": "薬草",
-      "name": "エゴマ",
-      "kana": "エゴマ",
-      "aliases": [
-        "エゴマ"
-      ],
-      "romaji": [
-        "egoma"
-      ],
-      "scientific": "Perilla frutescens var. frutescens",
-      "search_terms": [
-        "エゴマ",
-        "えごま",
-        "egoma",
-        "Perilla frutescens var. frutescens"
-      ],
-      "normalized_terms": [
-        "エゴマ",
-        "えごま",
-        "egoma",
-        "perillafrutescensvarfrutescens"
-      ]
-    },
-    {
       "id": "yakuso_0044",
       "category": "薬草",
       "name": "チョウセンゴミシ",
       "kana": "チョウセンゴミシ",
       "aliases": [
-        "チョウセンゴミシ"
+        "チョウセンゴミシ",
+        "マグノリアバイン"
       ],
       "romaji": [
-        "chousengomishi"
+        "chousengomishi",
+        "magunoriabain"
       ],
       "scientific": "Schisandra chinensis",
       "search_terms": [
         "チョウセンゴミシ",
         "ちょうせんごみし",
+        "マグノリアバイン",
+        "まぐのりあばいん",
         "chousengomishi",
+        "magunoriabain",
         "Schisandra chinensis"
       ],
       "normalized_terms": [
         "チョウセンゴミシ",
         "ちょうせんごみし",
+        "マグノリアバイン",
+        "まぐのりあばいん",
         "chousengomishi",
+        "magunoriabain",
         "schisandrachinensis"
       ]
     },
@@ -68126,31 +67860,6 @@
       ]
     },
     {
-      "id": "yakuso_0062",
-      "category": "薬草",
-      "name": "セイヨウタンポポ",
-      "kana": "セイヨウタンポポ",
-      "aliases": [
-        "セイヨウタンポポ"
-      ],
-      "romaji": [
-        "seiyoutanpopo"
-      ],
-      "scientific": "Taraxacum officinale",
-      "search_terms": [
-        "セイヨウタンポポ",
-        "せいようたんぽぽ",
-        "seiyoutanpopo",
-        "Taraxacum officinale"
-      ],
-      "normalized_terms": [
-        "セイヨウタンポポ",
-        "せいようたんぽぽ",
-        "seiyoutanpopo",
-        "taraxacumofficinale"
-      ]
-    },
-    {
       "id": "yakuso_0063",
       "category": "薬草",
       "name": "ハハコグサ",
@@ -68376,81 +68085,6 @@
       ]
     },
     {
-      "id": "yakuso_0072",
-      "category": "薬草",
-      "name": "セリ",
-      "kana": "セリ",
-      "aliases": [
-        "セリ"
-      ],
-      "romaji": [
-        "seri"
-      ],
-      "scientific": "Oenanthe javanica",
-      "search_terms": [
-        "セリ",
-        "せり",
-        "seri",
-        "Oenanthe javanica"
-      ],
-      "normalized_terms": [
-        "セリ",
-        "せり",
-        "seri",
-        "oenanthejavanica"
-      ]
-    },
-    {
-      "id": "yakuso_0073",
-      "category": "薬草",
-      "name": "ミツバ",
-      "kana": "ミツバ",
-      "aliases": [
-        "ミツバ"
-      ],
-      "romaji": [
-        "mitsuba"
-      ],
-      "scientific": "Cryptotaenia japonica",
-      "search_terms": [
-        "ミツバ",
-        "みつば",
-        "mitsuba",
-        "Cryptotaenia japonica"
-      ],
-      "normalized_terms": [
-        "ミツバ",
-        "みつば",
-        "mitsuba",
-        "cryptotaeniajaponica"
-      ]
-    },
-    {
-      "id": "yakuso_0074",
-      "category": "薬草",
-      "name": "ノビル",
-      "kana": "ノビル",
-      "aliases": [
-        "ノビル"
-      ],
-      "romaji": [
-        "nobiru"
-      ],
-      "scientific": "Allium macrostemon",
-      "search_terms": [
-        "ノビル",
-        "のびる",
-        "nobiru",
-        "Allium macrostemon"
-      ],
-      "normalized_terms": [
-        "ノビル",
-        "のびる",
-        "nobiru",
-        "alliummacrostemon"
-      ]
-    },
-    {
       "id": "yakuso_0075",
       "category": "薬草",
       "name": "ギョウジャニンニク",
@@ -68473,31 +68107,6 @@
         "ぎょうじゃにんにく",
         "gyoujaninniku",
         "alliumochotense"
-      ]
-    },
-    {
-      "id": "yakuso_0076",
-      "category": "薬草",
-      "name": "ワサビ",
-      "kana": "ワサビ",
-      "aliases": [
-        "ワサビ"
-      ],
-      "romaji": [
-        "wasabi"
-      ],
-      "scientific": "Eutrema japonicum",
-      "search_terms": [
-        "ワサビ",
-        "わさび",
-        "wasabi",
-        "Eutrema japonicum"
-      ],
-      "normalized_terms": [
-        "ワサビ",
-        "わさび",
-        "wasabi",
-        "eutremajaponicum"
       ]
     },
     {
@@ -69928,31 +69537,6 @@
       ]
     },
     {
-      "id": "yakuso_0134",
-      "category": "薬草",
-      "name": "ナギナタコウジュ",
-      "kana": "ナギナタコウジュ",
-      "aliases": [
-        "ナギナタコウジュ"
-      ],
-      "romaji": [
-        "naginatakouju"
-      ],
-      "scientific": "Elsholtzia ciliata",
-      "search_terms": [
-        "ナギナタコウジュ",
-        "なぎなたこうじゅ",
-        "naginatakouju",
-        "Elsholtzia ciliata"
-      ],
-      "normalized_terms": [
-        "ナギナタコウジュ",
-        "なぎなたこうじゅ",
-        "naginatakouju",
-        "elsholtziaciliata"
-      ]
-    },
-    {
       "id": "yakuso_0136",
       "category": "薬草",
       "name": "ヤマハッカ",
@@ -70208,22 +69792,30 @@
       "name": "オタネニンジン",
       "kana": "オタネニンジン",
       "aliases": [
-        "オタネニンジン"
+        "オタネニンジン",
+        "ジンセン"
       ],
       "romaji": [
-        "otaneninjin"
+        "otaneninjin",
+        "jinsen"
       ],
       "scientific": "Panax ginseng",
       "search_terms": [
         "オタネニンジン",
         "おたねにんじん",
+        "ジンセン",
+        "じんせん",
         "otaneninjin",
+        "jinsen",
         "Panax ginseng"
       ],
       "normalized_terms": [
         "オタネニンジン",
         "おたねにんじん",
+        "ジンセン",
+        "じんせん",
         "otaneninjin",
+        "jinsen",
         "panaxginseng"
       ]
     },
@@ -70928,31 +70520,6 @@
       ]
     },
     {
-      "id": "yakuso_0175",
-      "category": "薬草",
-      "name": "カクレミノ",
-      "kana": "カクレミノ",
-      "aliases": [
-        "カクレミノ"
-      ],
-      "romaji": [
-        "kakuremino"
-      ],
-      "scientific": "Dendropanax trifidus",
-      "search_terms": [
-        "カクレミノ",
-        "かくれみの",
-        "kakuremino",
-        "Dendropanax trifidus"
-      ],
-      "normalized_terms": [
-        "カクレミノ",
-        "かくれみの",
-        "kakuremino",
-        "dendropanaxtrifidus"
-      ]
-    },
-    {
       "id": "yakuso_0176",
       "category": "薬草",
       "name": "シロダモ",
@@ -71050,31 +70617,6 @@
         "いぬがし",
         "inugashi",
         "neolitseaaciculata"
-      ]
-    },
-    {
-      "id": "yakuso_0180",
-      "category": "薬草",
-      "name": "サカキ",
-      "kana": "サカキ",
-      "aliases": [
-        "サカキ"
-      ],
-      "romaji": [
-        "sakaki"
-      ],
-      "scientific": "Cleyera japonica",
-      "search_terms": [
-        "サカキ",
-        "さかき",
-        "sakaki",
-        "Cleyera japonica"
-      ],
-      "normalized_terms": [
-        "サカキ",
-        "さかき",
-        "sakaki",
-        "cleyerajaponica"
       ]
     },
     {
@@ -71204,7 +70746,7 @@
     },
     {
       "id": "yakuso_0186",
-      "category": "薬草",
+      "category": "木",
       "name": "ヤマグルマ",
       "kana": "ヤマグルマ",
       "aliases": [
@@ -71375,56 +70917,6 @@
         "はくうんぼく",
         "hakuunboku",
         "styraxobassia"
-      ]
-    },
-    {
-      "id": "yakuso_0193",
-      "category": "薬草",
-      "name": "ナツツバキ",
-      "kana": "ナツツバキ",
-      "aliases": [
-        "ナツツバキ"
-      ],
-      "romaji": [
-        "natsutsubaki"
-      ],
-      "scientific": "Stewartia pseudocamellia",
-      "search_terms": [
-        "ナツツバキ",
-        "なつつばき",
-        "natsutsubaki",
-        "Stewartia pseudocamellia"
-      ],
-      "normalized_terms": [
-        "ナツツバキ",
-        "なつつばき",
-        "natsutsubaki",
-        "stewartiapseudocamellia"
-      ]
-    },
-    {
-      "id": "yakuso_0194",
-      "category": "薬草",
-      "name": "ヒメシャラ",
-      "kana": "ヒメシャラ",
-      "aliases": [
-        "ヒメシャラ"
-      ],
-      "romaji": [
-        "himeshara"
-      ],
-      "scientific": "Stewartia monadelpha",
-      "search_terms": [
-        "ヒメシャラ",
-        "ひめしゃら",
-        "himeshara",
-        "Stewartia monadelpha"
-      ],
-      "normalized_terms": [
-        "ヒメシャラ",
-        "ひめしゃら",
-        "himeshara",
-        "stewartiamonadelpha"
       ]
     },
     {
@@ -71950,31 +71442,6 @@
         "へらおおばこ",
         "heraoobako",
         "plantagolanceolata"
-      ]
-    },
-    {
-      "id": "yakuso_0216",
-      "category": "薬草",
-      "name": "スイバ",
-      "kana": "すいば",
-      "aliases": [
-        "スイバ"
-      ],
-      "romaji": [
-        "suiba"
-      ],
-      "scientific": "Rumex acetosa",
-      "search_terms": [
-        "スイバ",
-        "すいば",
-        "suiba",
-        "Rumex acetosa"
-      ],
-      "normalized_terms": [
-        "スイバ",
-        "すいば",
-        "suiba",
-        "rumexacetosa"
       ]
     },
     {

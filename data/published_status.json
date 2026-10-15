@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "published_count": 2689,
+  "published_count": 2666,
   "categories": {
     "flower": {
       "category": "花",
@@ -11,15 +11,15 @@
     },
     "grass": {
       "category": "草",
-      "count": 425,
+      "count": 426,
       "last_published_id": "rare_fruit_0079",
       "image_dir": "images/grass",
       "data_file": "data/records/grass/grass.json"
     },
     "tree": {
       "category": "木",
-      "count": 301,
-      "last_published_id": "tree_0300",
+      "count": 302,
+      "last_published_id": "yakuso_0186",
       "image_dir": "images/tree",
       "data_file": "data/records/tree/tree.json"
     },
@@ -46,14 +46,14 @@
     },
     "yakuso": {
       "category": "薬草",
-      "count": 228,
+      "count": 242,
       "last_published_id": "yakuso_0229",
       "image_dir": "images/yakuso",
       "data_file": "data/records/yakuso/yakuso.json"
     },
     "herb": {
       "category": "ハーブ",
-      "count": 201,
+      "count": 162,
       "last_published_id": "rare_fruit_0162",
       "image_dir": "images/herb",
       "data_file": "data/records/herb/herb.json"
@@ -66,7 +66,7 @@
       "data_file": "data/records/rare_fruit/rare_fruit.json"
     }
   },
-  "generated_at": "2026-10-14T19:52:34.719931+09:00",
+  "generated_at": "2026-10-15T12:47:30.645944+09:00",
   "remaining_resolution_summary": {
     "photo_replacements": 37,
     "genre_candidates_resolved": 142,
@@ -317,5 +317,22 @@
       "herb_0220": "カンファーバジル"
     },
     "genre_moves": 0
+  },
+  "herb_yakuso_separation": {
+    "date": "2026-10-15",
+    "merged_duplicate_pairs": 23,
+    "moved": 34,
+    "counts": {
+      "花": 489,
+      "草": 426,
+      "木": 302,
+      "花の木": 207,
+      "きのこ": 483,
+      "山菜": 221,
+      "薬草": 242,
+      "ハーブ": 162,
+      "珍しい果樹": 134
+    },
+    "same_scientific_cross_herb_yakuso": 0
   }
 }

@@ -2854,66 +2854,155 @@
       "thumbnail_genre_review_note": "白い四弁花と鋸歯葉。花または花として目立つ苞・総苞が見える。"
     },
     {
-        "id":  "flower_tree_0047",
-        "category":  "花の木",
-        "display_name":  "ナツツバキ",
-        "kana":  "ナツツバキ",
-        "search_aliases":  [
-                               "ナツツバキ"
-                           ],
-        "family":  "ツバキ科",
-        "genus":  "ナツツバキ属",
-        "scientific_name":  "Stewartia pseudocamellia",
-        "taxon_id":  133373,
-        "reference_taxon_id":  133373,
-        "taxon_rank":  "species",
-        "matched_common_name":  "ナツツバキ",
-        "entity_type":  "種",
-        "life_form":  "落葉高木",
-        "flowering_season":  "6～7月",
-        "observation_season":  "葉は展葉から落葉まで。冬は枝・芽・樹形を観察。花・果実は記載の季節を参照",
-        "fruiting_season":  "要確認",
-        "distribution":  "在来種本州（福島、新潟県以西）、四国、九州、朝鮮",
-        "habitat":  "林内",
-        "common_place":  "林内",
-        "feature_summary":  "初夏に白い花を咲かせ、中央の黄色い雄しべが目立つ。樹皮が斑状に剥がれる。",
-        "trivia":  "別名シャラノキとして知られるが、熱帯のサラソウジュとは別の植物。",
-        "classification":  {
-                               "kingdom":  "植物界",
-                               "clade":  "被子植物（真正双子葉類）",
-                               "order":  "ツツジ目",
-                               "family":  "ツバキ科",
-                               "genus":  "ナツツバキ属",
-                               "species":  "Stewartia pseudocamellia"
-                           },
-        "classification_note":  "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。",
-        "plant_source_url":  "https://mikawanoyasou.org/data/natutubaki.htm",
-        "content_source_urls":  [
-                                    "https://mikawanoyasou.org/data/natutubaki.htm",
-                                    "https://www.inaturalist.org/taxa/133373"
-                                ],
-        "image":  {
-                      "author":  "by Reggaeman",
-                      "license":  "CC BY-SA 3.0",
-                      "source_url":  "https://commons.wikimedia.org/wiki/File:Stewartia_pseudocamellia_02.JPG",
-                      "image_path":  "images/0001_0050/flower_tree_0047.jpg"
-                  },
-        "needs_ai_summary":  false,
-        "needs_manual_taxon_review":  false,
-        "taxon_lookup_error":  "",
-        "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
-        "needs_manual_image_review": false,
-        "image_review_status": "明らかな不一致なし",
-        "image_review_note": "2026-10-10 目視確認。白い杯形の花と黄色い雄しべ。植物名と写真に明らかな不一致なし。",
-        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
-        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
+      "id": "flower_tree_0047",
+      "category": "花の木",
+      "display_name": "ナツツバキ",
+      "kana": "ナツツバキ",
+      "search_aliases": [
+        "ナツツバキ"
+      ],
+      "family": "ツバキ科",
+      "genus": "ナツツバキ属",
+      "scientific_name": "Stewartia pseudocamellia",
+      "taxon_id": 133373,
+      "reference_taxon_id": 133373,
+      "taxon_rank": "species",
+      "matched_common_name": "ナツツバキ",
+      "entity_type": "種",
+      "life_form": "落葉高木",
+      "flowering_season": "6～7月",
+      "observation_season": "葉は展葉から落葉まで。冬は枝・芽・樹形を観察。花・果実は記載の季節を参照",
+      "fruiting_season": "要確認",
+      "distribution": "在来種本州（福島、新潟県以西）、四国、九州、朝鮮",
+      "habitat": "林内",
+      "common_place": "林内",
+      "feature_summary": "初夏に白い花を咲かせ、中央の黄色い雄しべが目立つ。樹皮が斑状に剥がれる。",
+      "trivia": "別名シャラノキとして知られるが、熱帯のサラソウジュとは別の植物。\n\n白い花や紅葉、樹皮の美しさを楽しむ庭木として植えられる。花は一日ほどで落ちる。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "被子植物（真正双子葉類）",
+        "order": "ツツジ目",
+        "family": "ツバキ科",
+        "genus": "ナツツバキ属",
+        "species": "Stewartia pseudocamellia"
+      },
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。",
+      "plant_source_url": "https://mikawanoyasou.org/data/natutubaki.htm",
+      "content_source_urls": [
+        "https://mikawanoyasou.org/data/natutubaki.htm",
+        "https://www.inaturalist.org/taxa/133373",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006605.php"
+      ],
+      "image": {
+        "author": "by Reggaeman",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Stewartia_pseudocamellia_02.JPG",
+        "image_path": "images/0001_0050/flower_tree_0047.jpg"
+      },
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "taxon_lookup_error": "",
+      "content_status": "完成",
+      "verification_notes": "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "needs_manual_image_review": false,
+      "image_review_status": "明らかな不一致なし",
+      "image_review_note": "2026-10-10 目視確認。白い杯形の花と黄色い雄しべ。植物名と写真に明らかな不一致なし。",
+      "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+      "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
       "thumbnail_name_review_date": "2026-10-11",
       "thumbnail_name_review_status": "明らかな不一致なし",
       "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い花と黄色い雄しべ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
       "thumbnail_genre_review_date": "2026-10-11",
       "thumbnail_genre_review_status": "適合",
-      "thumbnail_genre_review_note": "白い花と黄色い雄しべ。花または花として目立つ苞・総苞が見える。"
+      "thumbnail_genre_review_note": "白い花と黄色い雄しべ。花または花として目立つ苞・総苞が見える。",
+      "merged_record_ids": [
+        "yakuso_0193"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "yakuso_0193",
+          "previous_category": "薬草",
+          "record": {
+            "id": "yakuso_0193",
+            "category": "薬草",
+            "display_name": "ナツツバキ",
+            "kana": "ナツツバキ",
+            "search_aliases": [
+              "ナツツバキ"
+            ],
+            "family": "ツバキ科",
+            "genus": "ナツツバキ属",
+            "scientific_name": "Stewartia pseudocamellia",
+            "taxon_id": 133373,
+            "reference_taxon_id": 133373,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "落葉高木",
+            "flowering_season": "6～7月",
+            "observation_season": "6～7月",
+            "distribution": "在来種本州（福島、新潟県以西）、四国、九州、朝鮮",
+            "habitat": "林内",
+            "common_place": "林内",
+            "feature_summary": "初夏に白い花を咲かせ、中央の黄色い雄しべが目立つ。樹皮が斑状に剥がれる。",
+            "trivia": "白い花や紅葉、樹皮の美しさを楽しむ庭木として植えられる。花は一日ほどで落ちる。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "ツツジ目",
+              "family": "ツバキ科",
+              "genus": "ナツツバキ属",
+              "species": "Stewartia pseudocamellia"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_tree_0047の説明も照合。",
+            "plant_source_url": "https://mikawanoyasou.org/data/natutubaki.htm",
+            "content_source_urls": [
+              "https://mikawanoyasou.org/data/natutubaki.htm",
+              "https://www.inaturalist.org/taxa/133373",
+              "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/006605.php"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "(c) りなべる, some rights reserved (CC BY)",
+              "license": "CC-BY",
+              "source_url": "https://www.inaturalist.org/photos/740235763",
+              "image_path": "images/0151_0200/yakuso_0193.jpg",
+              "license_url": "https://creativecommons.org/licenses/by/4.0/"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-11",
+            "thumbnail_name_review_date": "2026-10-11",
+            "thumbnail_name_review_status": "明らかな誤りなし",
+            "thumbnail_name_review_note": "実際の200pxサムネイルを目視。写真と名称に明らかな食い違いは見られない。写真だけによる厳密な種同定ではない。",
+            "thumbnail_genre_review_date": "2026-10-11",
+            "thumbnail_genre_review_status": "適合",
+            "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "related_record_ids": [
+              "flower_tree_0047"
+            ],
+            "usage_writing_review": {
+              "date": "2026-10-15",
+              "decision": "文章修正",
+              "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
+              "source_check": "今回取得した個別資料",
+              "specific_medicinal_use_confirmed": false
+            }
+          }
+        }
+      ]
     },
     {
         "id":  "flower_tree_0048",
@@ -4196,66 +4285,155 @@
       "thumbnail_genre_review_note": "大きな葉と淡色の花。花または花として目立つ苞・総苞が見える。"
     },
     {
-        "id":  "flower_tree_0068",
-        "category":  "花の木",
-        "display_name":  "ヒメシャラ",
-        "kana":  "ヒメシャラ",
-        "search_aliases":  [
-                               "ヒメシャラ"
-                           ],
-        "family":  "ツバキ科",
-        "genus":  "ナツツバキ属",
-        "scientific_name":  "Stewartia monadelpha",
-        "taxon_id":  452251,
-        "reference_taxon_id":  452251,
-        "taxon_rank":  "species",
-        "matched_common_name":  "ヒメシャラ",
-        "entity_type":  "種",
-        "life_form":  "落葉高木",
-        "flowering_season":  "5～6月",
-        "observation_season":  "葉は展葉から落葉まで。冬は枝・芽・樹形を観察。花・果実は記載の季節を参照",
-        "fruiting_season":  "9～10月[",
-        "distribution":  "在来種（日本固有種）本州（神奈川県～近畿地方）、四国、九州",
-        "habitat":  "山地",
-        "common_place":  "山地",
-        "feature_summary":  "夏に小さな白い花を咲かせ、幹の樹皮が剥がれて赤褐色の滑らかな部分が現れる。",
-        "trivia":  "ナツツバキより小さい花や、剥がれる樹皮を合わせて比較する。",
-        "classification":  {
-                               "kingdom":  "植物界",
-                               "clade":  "被子植物（真正双子葉類）",
-                               "order":  "ツツジ目",
-                               "family":  "ツバキ科",
-                               "genus":  "ナツツバキ属",
-                               "species":  "Stewartia monadelpha"
-                           },
-        "classification_note":  "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。",
-        "plant_source_url":  "https://mikawanoyasou.org/data/himesyara.htm",
-        "content_source_urls":  [
-                                    "https://mikawanoyasou.org/data/himesyara.htm",
-                                    "https://www.inaturalist.org/taxa/452251"
-                                ],
-        "image":  {
-                      "author":  "Alpsdake",
-                      "license":  "CC BY-SA 4.0",
-                      "source_url":  "https://commons.wikimedia.org/wiki/File:Stewartia_monadelpha_(flower_s2).jpg",
-                      "image_path":  "images/0051_0100/flower_tree_0068.jpg"
-                  },
-        "needs_ai_summary":  false,
-        "needs_manual_taxon_review":  false,
-        "taxon_lookup_error":  "",
-        "content_status":  "完成",
-        "verification_notes":  "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
-        "needs_manual_image_review": false,
-        "image_review_status": "明らかな不一致なし",
-        "image_review_note": "2026-10-10 目視確認。白い花と細かい鋸歯葉。植物名と写真に明らかな不一致なし。",
-        "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
-        "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
+      "id": "flower_tree_0068",
+      "category": "花の木",
+      "display_name": "ヒメシャラ",
+      "kana": "ヒメシャラ",
+      "search_aliases": [
+        "ヒメシャラ"
+      ],
+      "family": "ツバキ科",
+      "genus": "ナツツバキ属",
+      "scientific_name": "Stewartia monadelpha",
+      "taxon_id": 452251,
+      "reference_taxon_id": 452251,
+      "taxon_rank": "species",
+      "matched_common_name": "ヒメシャラ",
+      "entity_type": "種",
+      "life_form": "落葉高木",
+      "flowering_season": "5～6月",
+      "observation_season": "葉は展葉から落葉まで。冬は枝・芽・樹形を観察。花・果実は記載の季節を参照",
+      "fruiting_season": "9～10月[",
+      "distribution": "在来種（日本固有種）本州（神奈川県～近畿地方）、四国、九州",
+      "habitat": "山地",
+      "common_place": "山地",
+      "feature_summary": "夏に小さな白い花を咲かせ、幹の樹皮が剥がれて赤褐色の滑らかな部分が現れる。",
+      "trivia": "ナツツバキより小さい花や、剥がれる樹皮を合わせて比較する。\n\n花や紅葉を楽しむ庭木として育てられる。美しい樹皮を活かした床柱や、農具の柄、細工物などに材が利用されてきた。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "被子植物（真正双子葉類）",
+        "order": "ツツジ目",
+        "family": "ツバキ科",
+        "genus": "ナツツバキ属",
+        "species": "Stewartia monadelpha"
+      },
+      "classification_note": "科・属・参照分類はiNaturalistの2026-10-08取得データと解説資料を照合。",
+      "plant_source_url": "https://mikawanoyasou.org/data/himesyara.htm",
+      "content_source_urls": [
+        "https://mikawanoyasou.org/data/himesyara.htm",
+        "https://www.inaturalist.org/taxa/452251",
+        "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/007428.php"
+      ],
+      "image": {
+        "author": "Alpsdake",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Stewartia_monadelpha_(flower_s2).jpg",
+        "image_path": "images/0051_0100/flower_tree_0068.jpg"
+      },
+      "needs_ai_summary": false,
+      "needs_manual_taxon_review": false,
+      "taxon_lookup_error": "",
+      "content_status": "完成",
+      "verification_notes": "採用済みの元画像と権利情報を保持。資料の識別記述を整理し、園芸名・異名・分類の範囲を注記。確定できない時期・分布は要確認として記載。",
+      "needs_manual_image_review": false,
+      "image_review_status": "明らかな不一致なし",
+      "image_review_note": "2026-10-10 目視確認。白い花と細かい鋸歯葉。植物名と写真に明らかな不一致なし。",
+      "image_review_criterion": "植物名と写真に明らかな食い違いがなければ採用する。出典未照合、品種・亜種・変種の未特定だけでは画像を保留にしない。",
+      "image_review_limitations": "植物名と写真に明らかな食い違いがないという目視判定。種・亜種・変種・品種の厳密な同定や出典の同定確定を意味しない。200件の元画像を縮小配置した確認シート17枚をすべて目視した。",
       "thumbnail_name_review_date": "2026-10-11",
       "thumbnail_name_review_status": "明らかな不一致なし",
       "thumbnail_name_review_note": "2026-10-11 サムネイルを目視。白い小さな花と黄色い雄しべ。植物名と写真に明らかな不一致なし。種・変種・品種の厳密な同定の確定ではない。",
       "thumbnail_genre_review_date": "2026-10-11",
       "thumbnail_genre_review_status": "適合",
-      "thumbnail_genre_review_note": "白い小さな花と黄色い雄しべ。花または花として目立つ苞・総苞が見える。"
+      "thumbnail_genre_review_note": "白い小さな花と黄色い雄しべ。花または花として目立つ苞・総苞が見える。",
+      "merged_record_ids": [
+        "yakuso_0194"
+      ],
+      "merged_record_snapshots": [
+        {
+          "id": "yakuso_0194",
+          "previous_category": "薬草",
+          "record": {
+            "id": "yakuso_0194",
+            "category": "薬草",
+            "display_name": "ヒメシャラ",
+            "kana": "ヒメシャラ",
+            "search_aliases": [
+              "ヒメシャラ"
+            ],
+            "family": "ツバキ科",
+            "genus": "ナツツバキ属",
+            "scientific_name": "Stewartia monadelpha",
+            "taxon_id": 452251,
+            "reference_taxon_id": 452251,
+            "taxon_rank": "species",
+            "entity_type": "種",
+            "life_form": "落葉高木",
+            "flowering_season": "5～6月",
+            "observation_season": "5～6月",
+            "distribution": "在来種（日本固有種）本州（神奈川県～近畿地方）、四国、九州",
+            "habitat": "山地",
+            "common_place": "山地",
+            "feature_summary": "夏に小さな白い花を咲かせ、幹の樹皮が剥がれて赤褐色の滑らかな部分が現れる。",
+            "trivia": "花や紅葉を楽しむ庭木として育てられる。美しい樹皮を活かした床柱や、農具の柄、細工物などに材が利用されてきた。",
+            "classification": {
+              "kingdom": "植物界",
+              "clade": "Tracheophyta",
+              "order": "ツツジ目",
+              "family": "ツバキ科",
+              "genus": "ナツツバキ属",
+              "species": "Stewartia monadelpha"
+            },
+            "classification_note": "取得したiNaturalistの分類を採用。種固有の季節・分布・生活型で確認できなかった項目は要確認として残す。同じ採用学名の既存項目flower_tree_0068の説明も照合。",
+            "plant_source_url": "https://mikawanoyasou.org/data/himesyara.htm",
+            "content_source_urls": [
+              "https://mikawanoyasou.org/data/himesyara.htm",
+              "https://www.inaturalist.org/taxa/452251",
+              "https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/007428.php"
+            ],
+            "content_source_scope": "existing_curated_record",
+            "image": {
+              "author": "(c) Genevieve Early, some rights reserved (CC BY)",
+              "license": "CC-BY",
+              "source_url": "https://www.inaturalist.org/photos/671539136",
+              "image_path": "images/0151_0200/yakuso_0194.jpg",
+              "license_url": "https://creativecommons.org/licenses/by/4.0/"
+            },
+            "content_status": "完成",
+            "needs_ai_summary": false,
+            "needs_manual_content_review": false,
+            "needs_manual_taxon_review": false,
+            "needs_manual_image_review": false,
+            "thumbnail_visually_reviewed": true,
+            "thumbnail_review_date": "2026-10-11",
+            "thumbnail_name_review_date": "2026-10-11",
+            "thumbnail_name_review_status": "明らかな誤りなし",
+            "thumbnail_name_review_note": "実際の200pxサムネイルを目視。写真と名称に明らかな食い違いは見られない。写真だけによる厳密な種同定ではない。",
+            "thumbnail_genre_review_date": "2026-10-11",
+            "thumbnail_genre_review_status": "適合",
+            "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
+            "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+            "existing_content_fields_reused": [
+              "flowering_season",
+              "habitat",
+              "distribution",
+              "life_form",
+              "feature_summary",
+              "trivia"
+            ],
+            "related_record_ids": [
+              "flower_tree_0068"
+            ],
+            "usage_writing_review": {
+              "date": "2026-10-15",
+              "decision": "文章修正",
+              "medical_claim_scope": "伝統的な用途の説明。個々の製品や自己採取品の治療効果を保証するものではない。",
+              "source_check": "今回取得した個別資料",
+              "specific_medicinal_use_confirmed": false
+            }
+          }
+        }
+      ]
     },
     {
         "id":  "flower_tree_0069",

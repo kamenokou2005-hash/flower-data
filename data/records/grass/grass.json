@@ -27113,5 +27113,137 @@
       "needs_manual_fruit_review": false,
       "fruit_information_review_scope": "資料からの果実情報確認。写真の種同定を新たに確定したものではない。",
       "fruit_genre_review_note": "草本の多年生植物として草へ整理。"
+    },
+    {
+      "id": "herb_0036",
+      "category": "草",
+      "display_name": "コンフリー",
+      "kana": "コンフリー",
+      "search_aliases": [
+        "コンフリー"
+      ],
+      "family": "ムラサキ科",
+      "genus": "Symphytum属",
+      "scientific_name": "Symphytum × uplandicum",
+      "taxon_id": 181924,
+      "reference_taxon_id": 181924,
+      "taxon_rank": "hybrid",
+      "entity_type": "交雑種",
+      "life_form": "多年草",
+      "flowering_season": "",
+      "observation_season": "",
+      "distribution": "",
+      "habitat": "",
+      "common_place": "",
+      "feature_summary": "写真では、垂れる筒状の花序。",
+      "trivia": "葉は、園芸用の肥料づくりに利用される。食用にすると健康を損なうおそれがあるため、料理やお茶の材料にはしない。",
+      "classification": {
+        "kingdom": "植物界",
+        "clade": "Tracheophyta",
+        "order": "Boraginales目",
+        "family": "ムラサキ科",
+        "genus": "Symphytum属",
+        "species": "Symphytum × uplandicum"
+      },
+      "classification_note": "採用学名に基づく分類。写真の厳密な種・品種同定は未実施。",
+      "plant_source_url": "https://en.wikipedia.org/wiki/Symphytum",
+      "content_source_urls": [
+        "https://www.rhs.org.uk/plants/98268/symphytum-%C3%97-uplandicum/details",
+        "https://en.wikipedia.org/wiki/Symphytum",
+        "https://www.inaturalist.org/taxa/181924",
+        "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A120843-1/general-information",
+        "https://www.ncbi.nlm.nih.gov/books/n/livertox/Comfrey"
+      ],
+      "content_source_scope": "species_primary",
+      "image": {
+        "author": "(c) guywallbanks, some rights reserved (CC BY)",
+        "license": "CC-BY",
+        "source_url": "https://www.inaturalist.org/photos/744658028",
+        "image_path": "images/0001_0050/herb_0036.jpg",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "content_status": "完成",
+      "needs_ai_summary": false,
+      "needs_manual_content_review": false,
+      "needs_manual_taxon_review": false,
+      "needs_manual_image_review": false,
+      "thumbnail_visually_reviewed": true,
+      "thumbnail_review_date": "2026-10-11",
+      "thumbnail_name_review_date": "2026-10-11",
+      "thumbnail_name_review_status": "明らかな誤りなし",
+      "thumbnail_name_review_note": "実際の200pxサムネイルを目視。垂れる筒状の花序。写真だけによる厳密な種同定ではない。",
+      "thumbnail_genre_review_date": "2026-10-11",
+      "thumbnail_genre_review_status": "適合",
+      "thumbnail_genre_review_note": "利用目的によるジャンルとして確認。木本・草本の生活型とは別に扱う。用途の個別情報は要確認。",
+      "verification_notes": "名称・採用学名・分類・サムネイルを照合。未確認事項は要確認として記録。",
+      "existing_content_fields_reused": [],
+      "content_followup_source_title": "Symphytum × uplandicum Nyman | Plants of the World Online | Kew Science",
+      "content_followup_source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A120843-1/general-information",
+      "content_basic_ecology_verified": true,
+      "content_followup_review_status": "基本情報の出典確認済み",
+      "ecology_source_details": {
+        "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A120843-1/general-information",
+        "life_form_original": "perennial",
+        "native_range_original": "Caucasus",
+        "biome_original": "temperate"
+      },
+      "content_followup_review_date": "2026-10-12",
+      "content_followup_review_note": "採用学名と種・変種などの資料範囲を照合。確認できた生活型・自然分布・生育帯を補完。未確認の国内開花時期、詳しい生育場所、用途は要確認として残す。属の説明を種の確定情報へ転用しない。",
+      "classification_listing_review_date": "2026-10-13",
+      "classification_listing_review_status": "要確認の注記を残して掲載",
+      "classification_listing_review_note": "既存の分類注記と調査記録を再検討。未確認の種・変種の範囲は要確認を残し、資料の適用範囲を広げない。今回の厳密な種同定ではない。",
+      "taxonomy_reference_check": {
+        "date": "2026-10-13",
+        "source_url": "https://api.inaturalist.org/v1/taxa/181924?locale=ja",
+        "registered_scientific_name": "Symphytum × uplandicum",
+        "source_scientific_name": "Symphytum × uplandicum",
+        "source_rank": "hybrid",
+        "source_japanese_name": "コンフリー",
+        "relation": "same_scientific_name",
+        "registration_reference_reviewed": true,
+        "strict_photo_identification_verified": false,
+        "scope_note": "採用した分類参照の学名・階級・上位分類と登録内容の対応を確認する。写真の厳密な同定、国内の種・変種の範囲、未確認の生態まで確定したという意味ではない。"
+      },
+      "classification_reference_check_complete": true,
+      "classification_reference_review_status": "採用分類の参照対応確認済み",
+      "taxonomy_reference_lineage": [
+        {
+          "name": "Plantae",
+          "rank": "kingdom",
+          "preferred_common_name": "植物界"
+        },
+        {
+          "name": "Boraginales",
+          "rank": "order",
+          "preferred_common_name": "ムラサキ目"
+        },
+        {
+          "name": "Boraginaceae",
+          "rank": "family",
+          "preferred_common_name": "ムラサキ科"
+        },
+        {
+          "name": "Symphytum",
+          "rank": "genus",
+          "preferred_common_name": "ヒレハリソウ属"
+        }
+      ],
+      "fruiting_season": "",
+      "herb_usage_review_date": "2026-10-15",
+      "herb_usage_review_status": "用途・香りの説明を見直し済み",
+      "genre_review_note": "登録はSymphytum × uplandicum。確認済みの園芸用肥料としての利用を主に紹介し、別種の薬用部位の効能を流用しない。",
+      "usage_writing_review": {
+        "date": "2026-10-15",
+        "decision": "文章修正",
+        "medical_claim_scope": "確認できる利用部位・香り・用途を記載。",
+        "source_check": "今回取得した個別資料",
+        "specific_medicinal_use_confirmed": null
+      },
+      "genre_separation_review": {
+        "date": "2026-10-15",
+        "from": "ハーブ",
+        "to": "草",
+        "reason": "登録はSymphytum × uplandicum。確認済みの園芸用肥料としての利用を主に紹介し、別種の薬用部位の効能を流用しない。"
+      }
     }
 ]
