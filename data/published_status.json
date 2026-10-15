@@ -66,7 +66,7 @@
       "data_file": "data/records/rare_fruit/rare_fruit.json"
     }
   },
-  "generated_at": "2026-10-15T20:54:27.493686+09:00",
+  "generated_at": "2026-10-15T23:09:32.097030+09:00",
   "remaining_resolution_summary": {
     "photo_replacements": 37,
     "genre_candidates_resolved": 142,
@@ -483,6 +483,24 @@
     "genres_changed": 0,
     "scientific_names_changed": 0,
     "photographs_changed": 0,
+    "github_verified": false,
+    "apk_built": false
+  },
+  "mushroom_review_20261015": {
+    "date": "2026-10-15T23:09:32.081034+09:00",
+    "data_applied": true,
+    "active_records": 2639,
+    "mushroom_records": 483,
+    "trivia_rewritten": 218,
+    "trivia_retained": 265,
+    "trivia_supplement_holds": 4,
+    "photos_replaced": 34,
+    "thumbnail_visual_reviewed": 483,
+    "existing_taxon_flags_retained": 30,
+    "genres_changed": 0,
+    "scientific_names_changed": 0,
+    "food_use_flags_cleared": 0,
+    "strict_photo_identification_claimed": false,
     "github_verified": false,
     "apk_built": false
   }
